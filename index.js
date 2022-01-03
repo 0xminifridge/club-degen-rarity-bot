@@ -99,7 +99,7 @@ function getImagePath(collectionName, tokenId){
     let imageUrl = parsedData[tokenId]["image"].replace(/ /g, "%20");
     if(imageUrl.includes("ipfs")){
       let imageList = imageUrl.split("/");
-      return "https://gateway.pinata.cloud/ipfs/" + imageList.at(-2) + "/" + imageList.at(-1);
+      return "https://gateway.pinata.cloud/ipfs/" + imageList[imageList.length - 2] + "/" + imageList[imageList.length - 1];
     } else {
       return imageUrl;
     }
