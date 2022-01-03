@@ -4,7 +4,7 @@ const querystring = require('querystring');
 
 const keepAlive = require('./keep_alive.js')
 
-keepAlive();
+keepAlive.keepAlive();
 
 var port = keepAlive.getPort()
 
