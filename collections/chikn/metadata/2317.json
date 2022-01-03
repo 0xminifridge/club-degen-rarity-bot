@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2317",
+    "description": "chikn #2317",
+    "image": "https://cdn1.chikn.farm/images/62dc2be543083fff225990e8cc0d4bc1d8a238b8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6055",
+    "description": "chikn #6055",
+    "image": "https://cdn1.chikn.farm/images/260bcc0d3a080b0a37174d8122ae3d648e41ee3b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

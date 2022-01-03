@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8604",
+    "description": "chikn #8604",
+    "image": "https://cdn1.chikn.farm/images/b95dbd69977e9580a7dbcabfbd0c22fc9d699f13.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "icey stare"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

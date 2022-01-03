@@ -1,0 +1,31 @@
+{
+    "name": "chikn #723",
+    "description": "chikn #723",
+    "image": "https://cdn1.chikn.farm/images/941557cd8c55f1b1c25f8ffc62bb7322d6480afe.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

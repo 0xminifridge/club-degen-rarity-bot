@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5620",
+    "description": "chikn #5620",
+    "image": "https://cdn1.chikn.farm/images/aa8b92d37f56758cfa16f48307ca37fcbd7542d1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

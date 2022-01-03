@@ -1,0 +1,27 @@
+{
+    "name": "chikn #110",
+    "description": "chikn #110",
+    "image": "https://cdn1.chikn.farm/images/af169d6aa4129496f127ce1306ede57be797b593.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

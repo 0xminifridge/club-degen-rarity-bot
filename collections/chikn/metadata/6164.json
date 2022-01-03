@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6164",
+    "description": "chikn #6164",
+    "image": "https://cdn1.chikn.farm/images/d0f5637b7ed0ed5983bc7f4943af4d63262e531d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

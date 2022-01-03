@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8180",
+    "description": "chikn #8180",
+    "image": "https://cdn1.chikn.farm/images/b2f5993a639dd50aab4bcc12a9b774ac49415b14.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

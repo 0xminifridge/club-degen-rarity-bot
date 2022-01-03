@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9067",
+    "description": "chikn #9067",
+    "image": "https://cdn1.chikn.farm/images/168a367868f2ecd076e076cdbebf1356e827f605.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

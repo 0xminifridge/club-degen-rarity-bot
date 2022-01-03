@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3197",
+    "description": "chikn #3197",
+    "image": "https://cdn1.chikn.farm/images/242fd1795dc06bff4eee509690e7e600aa2a8b1e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

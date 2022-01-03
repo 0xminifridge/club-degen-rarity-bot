@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2278",
+    "description": "chikn #2278",
+    "image": "https://cdn1.chikn.farm/images/69f229e541f4711020b3a0bf70202ab96673fb41.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7755",
+    "description": "chikn #7755",
+    "image": "https://cdn1.chikn.farm/images/9e4c2a65930513ccf503b695380522c398f622c9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

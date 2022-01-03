@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3272",
+    "description": "chikn #3272",
+    "image": "https://cdn1.chikn.farm/images/5dc69fef20505c7cb2aaf62f09abc7ab4dfb7454.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

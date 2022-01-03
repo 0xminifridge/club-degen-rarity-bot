@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6341",
+    "description": "chikn #6341",
+    "image": "https://cdn1.chikn.farm/images/f3e7d6b6f43145615803beb97ba8577add2cb970.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

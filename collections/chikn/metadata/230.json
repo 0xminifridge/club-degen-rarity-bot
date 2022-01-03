@@ -1,0 +1,31 @@
+{
+    "name": "chikn #230",
+    "description": "chikn #230",
+    "image": "https://cdn1.chikn.farm/images/3a38a1db09f2c57cd3512716a3951969116a0962.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

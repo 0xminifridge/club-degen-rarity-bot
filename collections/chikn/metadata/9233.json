@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9233",
+    "description": "chikn #9233",
+    "image": "https://cdn1.chikn.farm/images/ad75eb041ad265d74984123d0aa6a99bb5451670.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

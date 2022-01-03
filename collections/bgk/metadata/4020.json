@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #4020",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/4020.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gradient Green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Squint"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Man Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Pink Polo"
+        }
+    ]
+}

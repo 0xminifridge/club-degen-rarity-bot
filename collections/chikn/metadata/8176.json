@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8176",
+    "description": "chikn #8176",
+    "image": "https://cdn1.chikn.farm/images/c9c84a213dfddad11dea4b94292c39e67636beb9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pineapple"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

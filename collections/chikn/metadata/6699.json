@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6699",
+    "description": "chikn #6699",
+    "image": "https://cdn1.chikn.farm/images/d6b3fbbf18ea5e3373273e14aa01a44ec08cea15.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6643",
+    "description": "chikn #6643",
+    "image": "https://cdn1.chikn.farm/images/e02f40d14a8debf6b77a5fc880f52b239a295844.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

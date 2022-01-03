@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7018",
+    "description": "chikn #7018",
+    "image": "https://cdn1.chikn.farm/images/3ce6553d92ee43754bb41221450db95adf5ed155.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

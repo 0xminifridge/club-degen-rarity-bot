@@ -1,0 +1,27 @@
+{
+    "name": "chikn #153",
+    "description": "chikn #153",
+    "image": "https://cdn1.chikn.farm/images/abe9095d1eb5ac645ccff559021c7219c67d1112.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

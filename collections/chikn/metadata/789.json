@@ -1,0 +1,31 @@
+{
+    "name": "chikn #789",
+    "description": "chikn #789",
+    "image": "https://cdn1.chikn.farm/images/c306cb0834773b1b5e197b5a9078bdeac8fbc868.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

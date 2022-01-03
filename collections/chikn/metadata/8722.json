@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8722",
+    "description": "chikn #8722",
+    "image": "https://cdn1.chikn.farm/images/6029e11b8bebd5ba52e3b5f48b9979cf8720b5ac.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

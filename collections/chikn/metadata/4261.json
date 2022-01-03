@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4261",
+    "description": "chikn #4261",
+    "image": "https://cdn1.chikn.farm/images/b07b39819d408d234a72ef8dd26f1c809434f93c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #4000",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/4000.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd Glasses"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dino"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        }
+    ]
+}

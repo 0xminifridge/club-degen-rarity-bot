@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8314",
+    "description": "chikn #8314",
+    "image": "https://cdn1.chikn.farm/images/b1d3a7864f11f807785d28ff507329c9c732861d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #26",
+    "description": "chikn #26",
+    "image": "https://cdn1.chikn.farm/images/c20a98d250236e0b556f585a452ab5bafdeefeac.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

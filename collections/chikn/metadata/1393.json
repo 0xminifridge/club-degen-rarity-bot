@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1393",
+    "description": "chikn #1393",
+    "image": "https://cdn1.chikn.farm/images/c302381c905557f9cf89de605e63c9a95030b8e9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

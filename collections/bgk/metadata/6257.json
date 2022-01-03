@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #6257",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/6257.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Laser"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Spikey"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Sailor"
+        }
+    ]
+}

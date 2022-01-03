@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3539",
+    "description": "chikn #3539",
+    "image": "https://cdn1.chikn.farm/images/fe5f3f5298cf4a2d0d038a3ad81a1106e99d9e0b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

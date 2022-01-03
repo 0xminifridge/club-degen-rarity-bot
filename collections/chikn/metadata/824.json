@@ -1,0 +1,27 @@
+{
+    "name": "chikn #824",
+    "description": "chikn #824",
+    "image": "https://cdn1.chikn.farm/images/376896c8d118da38e5ceb92eeebeaa196c04f3bc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

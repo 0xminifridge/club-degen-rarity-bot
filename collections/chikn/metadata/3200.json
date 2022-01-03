@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3200",
+    "description": "chikn #3200",
+    "image": "https://cdn1.chikn.farm/images/1f04a50ccd3e60ee5cd5f66d6ea8905b344ac086.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "murica"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

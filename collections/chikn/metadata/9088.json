@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9088",
+    "description": "chikn #9088",
+    "image": "https://cdn1.chikn.farm/images/66380c9633519f874fd18e2111f58028d5a8bba4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

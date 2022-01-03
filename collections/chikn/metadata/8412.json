@@ -1,0 +1,35 @@
+{
+    "name": "chikn #8412",
+    "description": "chikn #8412",
+    "image": "https://cdn1.chikn.farm/images/729f0dab0f4938b03c499116d84f4fba079e5c54.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

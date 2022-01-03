@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1944",
+    "description": "chikn #1944",
+    "image": "https://cdn1.chikn.farm/images/acad81ec495f69aac167f560f4a747faa4b0afdc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

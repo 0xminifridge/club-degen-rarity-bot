@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9989",
+    "description": "chikn #9989",
+    "image": "https://cdn1.chikn.farm/images/45ec1ee5f2b68dfcb761a2dde0a646d73c2b774e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

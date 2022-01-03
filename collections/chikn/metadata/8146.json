@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8146",
+    "description": "chikn #8146",
+    "image": "https://cdn1.chikn.farm/images/5d8905c93cc80dbca0097075bcd958e21b0f521c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

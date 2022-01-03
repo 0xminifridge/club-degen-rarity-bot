@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1161",
+    "description": "chikn #1161",
+    "image": "https://cdn1.chikn.farm/images/ad7a1b9905c0493fba4f1a3c8ffbe5a07bfca8be.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

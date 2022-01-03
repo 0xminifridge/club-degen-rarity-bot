@@ -1,0 +1,23 @@
+{
+    "name": "chikn #293",
+    "description": "chikn #293",
+    "image": "https://cdn1.chikn.farm/images/83b3a0a121c1824e02d12460163fadf5681ce39f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

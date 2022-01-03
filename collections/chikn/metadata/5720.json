@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5720",
+    "description": "chikn #5720",
+    "image": "https://cdn1.chikn.farm/images/77af9dedf4757334ef8ac2614ad46d2eb0c5ff91.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

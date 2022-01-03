@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4048",
+    "description": "chikn #4048",
+    "image": "https://cdn1.chikn.farm/images/71e666f52198dbeaf670d59eb3d76ae8aa96a13c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

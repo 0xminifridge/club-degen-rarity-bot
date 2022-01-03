@@ -1,0 +1,31 @@
+{
+    "name": "chikn #734",
+    "description": "chikn #734",
+    "image": "https://cdn1.chikn.farm/images/5481f7d1fe8081a76228e96397886cb8ce4c6c54.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

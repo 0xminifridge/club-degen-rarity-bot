@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7229",
+    "description": "chikn #7229",
+    "image": "https://cdn1.chikn.farm/images/c4b0bd1c15ea1b38d972dd4bcf71ec1807884ce8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

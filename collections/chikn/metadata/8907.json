@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8907",
+    "description": "chikn #8907",
+    "image": "https://cdn1.chikn.farm/images/304733af5745b1f687e833a7f553a413305628ff.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

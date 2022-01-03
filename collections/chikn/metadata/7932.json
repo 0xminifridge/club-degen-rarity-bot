@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7932",
+    "description": "chikn #7932",
+    "image": "https://cdn1.chikn.farm/images/8697d848ed83cc9a67764f00b8fbc6e7ce10f8ef.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

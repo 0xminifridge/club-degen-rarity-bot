@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4581",
+    "description": "chikn #4581",
+    "image": "https://cdn1.chikn.farm/images/afe62dbd8a082ffaa086a468c2445b0ef5e177c3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

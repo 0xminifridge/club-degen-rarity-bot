@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2459",
+    "description": "chikn #2459",
+    "image": "https://cdn1.chikn.farm/images/d68026c515a3253ff31eed5671d556e5a2468d1f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

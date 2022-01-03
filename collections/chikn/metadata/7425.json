@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7425",
+    "description": "chikn #7425",
+    "image": "https://cdn1.chikn.farm/images/72229e43ee17641670cfa7c65246ec5864a8e1bc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

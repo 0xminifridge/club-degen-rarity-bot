@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1268",
+    "description": "chikn #1268",
+    "image": "https://cdn1.chikn.farm/images/b0b73033eb9774aab68fae46733966cdd7a67395.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

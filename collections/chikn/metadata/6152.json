@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6152",
+    "description": "chikn #6152",
+    "image": "https://cdn1.chikn.farm/images/32f1554f90cdd64082628f4ae321cb53b7092170.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

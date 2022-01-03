@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9907",
+    "description": "chikn #9907",
+    "image": "https://cdn1.chikn.farm/images/29445ce1e32ea0fba628bfbe3f48407b3ce6f873.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

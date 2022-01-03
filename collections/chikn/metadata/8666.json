@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8666",
+    "description": "chikn #8666",
+    "image": "https://cdn1.chikn.farm/images/8bcd3f9a07613302716b48b0e8a58fc092e42d0e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

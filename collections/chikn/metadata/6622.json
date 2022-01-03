@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6622",
+    "description": "chikn #6622",
+    "image": "https://cdn1.chikn.farm/images/567162efe03db3a535f3e4219b4ed6a521be042d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

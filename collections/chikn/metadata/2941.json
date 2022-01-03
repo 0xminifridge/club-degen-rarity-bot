@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2941",
+    "description": "chikn #2941",
+    "image": "https://cdn1.chikn.farm/images/b5ea6510f2b3298d3e0488603aad1cccd54650bc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5021",
+    "description": "chikn #5021",
+    "image": "https://cdn1.chikn.farm/images/9cdf20aff60544e27217259f2f4b06463b6fb631.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #733",
+    "description": "chikn #733",
+    "image": "https://cdn1.chikn.farm/images/797c7b7f9176eec3e20e77b26e67b0f4552c345a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

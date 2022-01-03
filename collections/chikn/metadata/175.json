@@ -1,0 +1,31 @@
+{
+    "name": "chikn #175",
+    "description": "chikn #175",
+    "image": "https://cdn1.chikn.farm/images/32efcce992a4e7fadef005cc9cc43ea4cd217a77.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

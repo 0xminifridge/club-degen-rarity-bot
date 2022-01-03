@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2694",
+    "description": "chikn #2694",
+    "image": "https://cdn1.chikn.farm/images/dcaf47628bb65dfe232b92e9f944b63d33071dea.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

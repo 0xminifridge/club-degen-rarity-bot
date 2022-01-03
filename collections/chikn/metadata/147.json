@@ -1,0 +1,23 @@
+{
+    "name": "chikn #147",
+    "description": "chikn #147",
+    "image": "https://cdn1.chikn.farm/images/b57426790f59114bcf046c3a106b16707916f653.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "murica"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

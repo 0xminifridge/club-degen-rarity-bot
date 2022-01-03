@@ -1,0 +1,27 @@
+{
+    "name": "chikn #373",
+    "description": "chikn #373",
+    "image": "https://cdn1.chikn.farm/images/6cad834d19ff502feb122e42e4dd0fd661d96632.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

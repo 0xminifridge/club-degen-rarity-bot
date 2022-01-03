@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2782",
+    "description": "chikn #2782",
+    "image": "https://cdn1.chikn.farm/images/157f7cea4e633a83bb84be393d0395d1b5f8f8b2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

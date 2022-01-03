@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #3049",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/3049.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Man Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Cowboy"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2926",
+    "description": "chikn #2926",
+    "image": "https://cdn1.chikn.farm/images/447feebf8e82872fff788ce48d25b7efde1bf5d7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

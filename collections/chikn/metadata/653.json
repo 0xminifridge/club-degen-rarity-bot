@@ -1,0 +1,31 @@
+{
+    "name": "chikn #653",
+    "description": "chikn #653",
+    "image": "https://cdn1.chikn.farm/images/6e7e586b262a228a2bde3a583cd070fa448b457b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

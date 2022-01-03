@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5641",
+    "description": "chikn #5641",
+    "image": "https://cdn1.chikn.farm/images/08e829b3a3def8352d12cc7225b4b3d19de9f03c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

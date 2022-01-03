@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4816",
+    "description": "chikn #4816",
+    "image": "https://cdn1.chikn.farm/images/e45a4e16b090e639414cca7a21eb8a0ff05392f3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

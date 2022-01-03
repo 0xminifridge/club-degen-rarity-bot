@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9436",
+    "description": "chikn #9436",
+    "image": "https://cdn1.chikn.farm/images/33572b3d8b165a37f2468d2420123110d89e743e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

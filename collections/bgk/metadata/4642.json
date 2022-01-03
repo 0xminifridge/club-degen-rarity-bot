@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #4642",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/4642.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BGK Black"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Life Jacket"
+        }
+    ]
+}

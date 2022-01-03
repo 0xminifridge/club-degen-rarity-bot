@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4590",
+    "description": "chikn #4590",
+    "image": "https://cdn1.chikn.farm/images/d1e38b29fb522c87396ebf74a837705504cd6943.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

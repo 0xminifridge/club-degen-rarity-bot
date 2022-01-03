@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1616",
+    "description": "chikn #1616",
+    "image": "https://cdn1.chikn.farm/images/ed048e229486e7cf2c6ae6641d4fcd74f82022f8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

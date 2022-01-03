@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4033",
+    "description": "chikn #4033",
+    "image": "https://cdn1.chikn.farm/images/237a876ddf4b94426300b880035ec24905b5abc4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

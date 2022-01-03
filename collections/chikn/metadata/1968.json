@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1968",
+    "description": "chikn #1968",
+    "image": "https://cdn1.chikn.farm/images/f3e34ed56e6ec7a600652c7b529ea8fc1a2eb716.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax degen"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

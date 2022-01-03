@@ -1,0 +1,19 @@
+{
+    "name": "chikn #6805",
+    "description": "chikn #6805",
+    "image": "https://cdn1.chikn.farm/images/350ef931ce7c3ba6e1b40e85e9c97abde3d44345.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "luckiest red cap"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

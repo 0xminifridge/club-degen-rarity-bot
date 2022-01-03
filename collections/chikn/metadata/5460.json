@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5460",
+    "description": "chikn #5460",
+    "image": "https://cdn1.chikn.farm/images/c03660760d9114691b1b39052f18bd5e6849507d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

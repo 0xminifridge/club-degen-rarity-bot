@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3465",
+    "description": "chikn #3465",
+    "image": "https://cdn1.chikn.farm/images/7658ae224f2b66519c3c1f9613a7e7dda455f054.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

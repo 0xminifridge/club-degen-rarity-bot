@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9558",
+    "description": "chikn #9558",
+    "image": "https://cdn1.chikn.farm/images/a5fb7edec89633c87e146a34f9d0ba0634c8a754.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

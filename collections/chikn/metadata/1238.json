@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1238",
+    "description": "chikn #1238",
+    "image": "https://cdn1.chikn.farm/images/65e4a4e7b817a175b86294ee3d805993c6a40cb7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

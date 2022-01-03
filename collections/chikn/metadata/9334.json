@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9334",
+    "description": "chikn #9334",
+    "image": "https://cdn1.chikn.farm/images/69d03214a0f25a595ba505240bfef0c5451e8b67.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

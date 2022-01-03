@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8431",
+    "description": "chikn #8431",
+    "image": "https://cdn1.chikn.farm/images/dedf11d2e3fc2eefe86b4e69a5ff349f6a901114.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

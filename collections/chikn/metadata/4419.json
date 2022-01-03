@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4419",
+    "description": "chikn #4419",
+    "image": "https://cdn1.chikn.farm/images/93612d210996a1dccb50a7f524a6ceababfb0d72.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3920",
+    "description": "chikn #3920",
+    "image": "https://cdn1.chikn.farm/images/5327d68e1478e55fb2cb74a2a8d8c32f76cdc47b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

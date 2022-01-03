@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5607",
+    "description": "chikn #5607",
+    "image": "https://cdn1.chikn.farm/images/c10ae7daee7c73927bf7b0a04dc0a5ca8b325b71.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

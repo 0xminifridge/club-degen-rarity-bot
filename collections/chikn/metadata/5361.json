@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5361",
+    "description": "chikn #5361",
+    "image": "https://cdn1.chikn.farm/images/e6456d046ab18d7ee00049db11a9465f21702de8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

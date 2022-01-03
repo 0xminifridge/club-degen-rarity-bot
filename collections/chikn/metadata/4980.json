@@ -1,0 +1,35 @@
+{
+    "name": "chikn #4980",
+    "description": "chikn #4980",
+    "image": "https://cdn1.chikn.farm/images/857576f467743653c7783244b4356ed8c96159e9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

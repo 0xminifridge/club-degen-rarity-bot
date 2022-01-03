@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4333",
+    "description": "chikn #4333",
+    "image": "https://cdn1.chikn.farm/images/3bce142fda5a259ec903a515f7fe0d3c354a9ad5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7189",
+    "description": "chikn #7189",
+    "image": "https://cdn1.chikn.farm/images/19ece27f73d0efcafe501cdd9b8f79cb03788197.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

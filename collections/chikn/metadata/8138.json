@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8138",
+    "description": "chikn #8138",
+    "image": "https://cdn1.chikn.farm/images/df928a239544b1589e69151d8c3473a38beb71ee.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

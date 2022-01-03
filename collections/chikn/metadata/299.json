@@ -1,0 +1,27 @@
+{
+    "name": "chikn #299",
+    "description": "chikn #299",
+    "image": "https://cdn1.chikn.farm/images/fa0e35b00ad4397baf0ec7c0d52de5d72bd561c0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

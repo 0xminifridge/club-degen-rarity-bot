@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8548",
+    "description": "chikn #8548",
+    "image": "https://cdn1.chikn.farm/images/9911610dfcf0c9e1b5db50ca34d0fdaae43358c2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

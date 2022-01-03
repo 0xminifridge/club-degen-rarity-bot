@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9915",
+    "description": "chikn #9915",
+    "image": "https://cdn1.chikn.farm/images/465a87168e0317b88e0a72f8abbe9aaff15842cb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

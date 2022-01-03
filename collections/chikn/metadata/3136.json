@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3136",
+    "description": "chikn #3136",
+    "image": "https://cdn1.chikn.farm/images/55fa0f8eda5f3635e66d0fca548d666c7a60cf76.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

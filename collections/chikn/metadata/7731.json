@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7731",
+    "description": "chikn #7731",
+    "image": "https://cdn1.chikn.farm/images/8f77671d0f5c759ff7a052f5e142a9c72ea37db8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

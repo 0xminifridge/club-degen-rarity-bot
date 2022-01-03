@@ -1,0 +1,27 @@
+{
+    "name": "chikn #657",
+    "description": "chikn #657",
+    "image": "https://cdn1.chikn.farm/images/9e8363d0172297c26ac8d56157706570fa40a24b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

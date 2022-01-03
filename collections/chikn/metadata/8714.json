@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8714",
+    "description": "chikn #8714",
+    "image": "https://cdn1.chikn.farm/images/7cece6e1054eea63c34093e4b32fce5d69896f10.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

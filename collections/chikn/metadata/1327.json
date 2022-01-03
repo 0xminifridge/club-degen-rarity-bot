@@ -1,0 +1,19 @@
+{
+    "name": "chikn #1327",
+    "description": "chikn #1327",
+    "image": "https://cdn1.chikn.farm/images/d921f71d5fa34db7d6f0aef2117af37d13fe22af.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

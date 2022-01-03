@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9667",
+    "description": "chikn #9667",
+    "image": "https://cdn1.chikn.farm/images/64bc17f144014d663b2458f0718156a382790863.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

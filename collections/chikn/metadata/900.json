@@ -1,0 +1,27 @@
+{
+    "name": "chikn #900",
+    "description": "chikn #900",
+    "image": "https://cdn1.chikn.farm/images/2e71cbd3677727a538ebc99bdf8bb38e3b874dc6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

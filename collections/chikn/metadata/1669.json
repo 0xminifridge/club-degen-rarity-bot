@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1669",
+    "description": "chikn #1669",
+    "image": "https://cdn1.chikn.farm/images/c8e1eed205c109d3726a71e7e9abdb525d74ec96.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

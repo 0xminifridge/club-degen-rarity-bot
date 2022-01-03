@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2468",
+    "description": "chikn #2468",
+    "image": "https://cdn1.chikn.farm/images/142f90cb245d73f2ce50fbd21c1b255f0ad7de37.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

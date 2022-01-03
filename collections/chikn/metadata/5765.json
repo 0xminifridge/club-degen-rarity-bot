@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5765",
+    "description": "chikn #5765",
+    "image": "https://cdn1.chikn.farm/images/bf2c74e5e4ab4bcb58b75bd0e0d7d3d8179c3cca.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7261",
+    "description": "chikn #7261",
+    "image": "https://cdn1.chikn.farm/images/b3149d9e2dc22c9890da8a16b8920ff8d50006ea.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

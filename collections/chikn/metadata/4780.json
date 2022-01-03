@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4780",
+    "description": "chikn #4780",
+    "image": "https://cdn1.chikn.farm/images/5bcdd0d46a1b5e0e0589ea86c00eb1da6d301d7b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "galactic"
+        }
+    ]
+}

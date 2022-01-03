@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4774",
+    "description": "chikn #4774",
+    "image": "https://cdn1.chikn.farm/images/8b94e368f92f0c20253a7f28548531eb22a8e5d1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

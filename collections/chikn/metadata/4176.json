@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4176",
+    "description": "chikn #4176",
+    "image": "https://cdn1.chikn.farm/images/93a916963753a078270be50b64ba7a526d55f972.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2010",
+    "description": "chikn #2010",
+    "image": "https://cdn1.chikn.farm/images/60bcce695089666d2600dbd626024b27e1484244.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

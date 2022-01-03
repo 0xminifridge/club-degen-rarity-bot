@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4379",
+    "description": "chikn #4379",
+    "image": "https://cdn1.chikn.farm/images/e43332aa4e95a2badc297ff3206f718ec051b7ba.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

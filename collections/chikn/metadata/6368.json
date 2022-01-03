@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6368",
+    "description": "chikn #6368",
+    "image": "https://cdn1.chikn.farm/images/eabbd5c8a3c8fed45c127ba28a740cbe3dc8b4cb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

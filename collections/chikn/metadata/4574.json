@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4574",
+    "description": "chikn #4574",
+    "image": "https://cdn1.chikn.farm/images/b57d3f29b55484d827ed2222754770981b73f609.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

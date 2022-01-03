@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3620",
+    "description": "chikn #3620",
+    "image": "https://cdn1.chikn.farm/images/5f1c3bb54c4495fc17d6488bd70b2a542f956eec.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

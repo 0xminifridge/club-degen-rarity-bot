@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9878",
+    "description": "chikn #9878",
+    "image": "https://cdn1.chikn.farm/images/b23ee1840fbdaa045a0365543523454d56a5eec3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

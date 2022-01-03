@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9869",
+    "description": "chikn #9869",
+    "image": "https://cdn1.chikn.farm/images/836e43123b811e1f282f5ccacffb75d23a67a688.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

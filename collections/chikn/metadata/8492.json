@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8492",
+    "description": "chikn #8492",
+    "image": "https://cdn1.chikn.farm/images/8d621815256a9be33323c5d0598af4b78d7e8137.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "luckiest red cap"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

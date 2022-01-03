@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2574",
+    "description": "chikn #2574",
+    "image": "https://cdn1.chikn.farm/images/1447281a6f5b2683d23d7a51b8a18c26d60a9f64.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

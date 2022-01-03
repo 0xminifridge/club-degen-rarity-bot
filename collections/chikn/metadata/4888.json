@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4888",
+    "description": "chikn #4888",
+    "image": "https://cdn1.chikn.farm/images/cb53294a598a6530f833853af177a135c1c0048d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1446",
+    "description": "chikn #1446",
+    "image": "https://cdn1.chikn.farm/images/6c99e94681fe6b51c0e8b99c7fce0cf7d01df17a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

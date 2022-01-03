@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1377",
+    "description": "chikn #1377",
+    "image": "https://cdn1.chikn.farm/images/a37c9077fa04d910392bb3a9cb63f435f5caab8d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

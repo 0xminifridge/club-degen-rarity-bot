@@ -1,0 +1,19 @@
+{
+    "name": "chikn #6548",
+    "description": "chikn #6548",
+    "image": "https://cdn1.chikn.farm/images/5e71266c92534705572fc7c598d217b3b16c3bca.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "daft punk"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

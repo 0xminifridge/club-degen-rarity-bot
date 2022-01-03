@@ -1,0 +1,23 @@
+{
+    "name": "chikn #541",
+    "description": "chikn #541",
+    "image": "https://cdn1.chikn.farm/images/58c372d6a9a8d1bb80f0b4b7164241a3de9a4abf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4636",
+    "description": "chikn #4636",
+    "image": "https://cdn1.chikn.farm/images/df0e84ace6ab5d70ecc0564a009b693d45d75c30.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8235",
+    "description": "chikn #8235",
+    "image": "https://cdn1.chikn.farm/images/e4ff2a5a9402ff952f646f0f348a3d40c026bbc7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9788",
+    "description": "chikn #9788",
+    "image": "https://cdn1.chikn.farm/images/1bef4d0e000d17ee7cb7243a3fe4e5b7f2ae0f91.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

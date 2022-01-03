@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1076",
+    "description": "chikn #1076",
+    "image": "https://cdn1.chikn.farm/images/9636955b02860c11797378f62536805fee79f005.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

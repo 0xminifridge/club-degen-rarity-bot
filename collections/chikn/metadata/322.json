@@ -1,0 +1,31 @@
+{
+    "name": "chikn #322",
+    "description": "chikn #322",
+    "image": "https://cdn1.chikn.farm/images/ddc33d4bde95e1516779d459ad6fa4388c8db4ff.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

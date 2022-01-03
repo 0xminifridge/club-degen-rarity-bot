@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3765",
+    "description": "chikn #3765",
+    "image": "https://cdn1.chikn.farm/images/61e259541eb2e14c4d93c56b9f3aed7bcf5eceef.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

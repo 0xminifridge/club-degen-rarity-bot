@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2277",
+    "description": "chikn #2277",
+    "image": "https://cdn1.chikn.farm/images/e16dd1cc63df534c65b49381ee12aeab95b93e5f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

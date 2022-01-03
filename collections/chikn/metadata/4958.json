@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4958",
+    "description": "chikn #4958",
+    "image": "https://cdn1.chikn.farm/images/bf8e3527966e5f5f30b0515a2d686c1a5da4f85a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

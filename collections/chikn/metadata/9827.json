@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9827",
+    "description": "chikn #9827",
+    "image": "https://cdn1.chikn.farm/images/0ca072dec62e7614519893b2d0fb1ec1616c3d65.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax degen"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

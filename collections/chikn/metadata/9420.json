@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9420",
+    "description": "chikn #9420",
+    "image": "https://cdn1.chikn.farm/images/4db4b606a4e48530336a626ea751011a10b7a4c1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

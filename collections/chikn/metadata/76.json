@@ -1,0 +1,27 @@
+{
+    "name": "chikn #76",
+    "description": "chikn #76",
+    "image": "https://cdn1.chikn.farm/images/34a6c8dddc91ffb431f59a5499d02f59611e2cd3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2161",
+    "description": "chikn #2161",
+    "image": "https://cdn1.chikn.farm/images/ee6ea8bd6205c29f9ecaa16510c18003a5c58538.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "business boy"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

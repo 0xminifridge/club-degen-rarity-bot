@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6257",
+    "description": "chikn #6257",
+    "image": "https://cdn1.chikn.farm/images/247c1affe7d3802c40f5534dca49cfd731b53d79.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

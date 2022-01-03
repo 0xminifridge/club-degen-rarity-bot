@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5706",
+    "description": "chikn #5706",
+    "image": "https://cdn1.chikn.farm/images/4938f325143570ca0f2ca29e6ac3c7d918505cee.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

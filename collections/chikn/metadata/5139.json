@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5139",
+    "description": "chikn #5139",
+    "image": "https://cdn1.chikn.farm/images/63afa9f3bcb1c3d71f245ebaf5c78ab43d4b111e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

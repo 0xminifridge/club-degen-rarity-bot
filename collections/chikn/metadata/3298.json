@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3298",
+    "description": "chikn #3298",
+    "image": "https://cdn1.chikn.farm/images/46e49e8198baeb4be06ecbfbed95bb156d4d8603.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

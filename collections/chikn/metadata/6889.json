@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6889",
+    "description": "chikn #6889",
+    "image": "https://cdn1.chikn.farm/images/8cd9056ef2bfe83aba94b3095ffea76a0b632cde.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

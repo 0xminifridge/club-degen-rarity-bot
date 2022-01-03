@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8510",
+    "description": "chikn #8510",
+    "image": "https://cdn1.chikn.farm/images/2c744f96657102d28f43e6352a2a8581665376ac.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

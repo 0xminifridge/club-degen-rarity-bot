@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4027",
+    "description": "chikn #4027",
+    "image": "https://cdn1.chikn.farm/images/f6895970b43f9eb99a1907d6ac31b0317852c66a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

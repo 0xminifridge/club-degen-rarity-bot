@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9843",
+    "description": "chikn #9843",
+    "image": "https://cdn1.chikn.farm/images/e925825888c55b91298a0fd8b887bd4766b17d30.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

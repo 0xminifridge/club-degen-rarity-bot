@@ -1,0 +1,19 @@
+{
+    "name": "chikn #1885",
+    "description": "chikn #1885",
+    "image": "https://cdn1.chikn.farm/images/cab6fa4a398a57e4d8d0fc10af89e30a1af7f1c2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pineapple"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7374",
+    "description": "chikn #7374",
+    "image": "https://cdn1.chikn.farm/images/34f43195d2c056eb6ab1c0742230eb6dee41160f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

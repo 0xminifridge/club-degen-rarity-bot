@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4651",
+    "description": "chikn #4651",
+    "image": "https://cdn1.chikn.farm/images/691270e37ed0a62b676ec37cb87c218027f3bec9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "real feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

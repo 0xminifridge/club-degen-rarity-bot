@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2188",
+    "description": "chikn #2188",
+    "image": "https://cdn1.chikn.farm/images/fd1f1eef5046f4f0a9a11a65f7630f66d4ac954e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "business boy"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

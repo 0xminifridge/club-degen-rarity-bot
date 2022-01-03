@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1811",
+    "description": "chikn #1811",
+    "image": "https://cdn1.chikn.farm/images/1f77febad9e2f728362ea2bf0f9e3e215bbd70ce.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

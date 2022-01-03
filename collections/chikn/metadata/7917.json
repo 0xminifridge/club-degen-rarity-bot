@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7917",
+    "description": "chikn #7917",
+    "image": "https://cdn1.chikn.farm/images/ed8d21e0abb7cb733ebd54a9d6bb08a180549a6e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

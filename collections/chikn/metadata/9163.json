@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9163",
+    "description": "chikn #9163",
+    "image": "https://cdn1.chikn.farm/images/2dd574087086d29ab7c3412ff01ef0873af94a97.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

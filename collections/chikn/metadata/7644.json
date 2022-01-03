@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7644",
+    "description": "chikn #7644",
+    "image": "https://cdn1.chikn.farm/images/baaf836d75e462a27ab2754a1d627812d804f0a3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

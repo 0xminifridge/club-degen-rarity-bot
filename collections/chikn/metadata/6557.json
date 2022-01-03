@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6557",
+    "description": "chikn #6557",
+    "image": "https://cdn1.chikn.farm/images/cdd6a804d5a448fa0fd4e1b86928cdc4bb21aebf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

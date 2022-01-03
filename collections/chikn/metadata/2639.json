@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2639",
+    "description": "chikn #2639",
+    "image": "https://cdn1.chikn.farm/images/6712327be5b954834adcadff674fb81c9441ae81.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

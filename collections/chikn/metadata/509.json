@@ -1,0 +1,27 @@
+{
+    "name": "chikn #509",
+    "description": "chikn #509",
+    "image": "https://cdn1.chikn.farm/images/6e5ec38fa520cfddf360dde6e1c7d572d660f87b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

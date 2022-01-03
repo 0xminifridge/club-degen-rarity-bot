@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8859",
+    "description": "chikn #8859",
+    "image": "https://cdn1.chikn.farm/images/0eb7aa62dff98d62a2142e93d9bf0df3b2680c6a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

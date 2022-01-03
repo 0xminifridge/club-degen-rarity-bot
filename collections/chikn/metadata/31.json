@@ -1,0 +1,23 @@
+{
+    "name": "chikn #31",
+    "description": "chikn #31",
+    "image": "https://cdn1.chikn.farm/images/d249222e783214772316542fcb8faf5acc0e9631.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

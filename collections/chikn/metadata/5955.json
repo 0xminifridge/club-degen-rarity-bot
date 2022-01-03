@@ -1,0 +1,35 @@
+{
+    "name": "chikn #5955",
+    "description": "chikn #5955",
+    "image": "https://cdn1.chikn.farm/images/322062a9a139e067817bb2b57abd925c4e3eabac.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

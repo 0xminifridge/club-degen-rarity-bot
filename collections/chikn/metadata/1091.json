@@ -1,0 +1,35 @@
+{
+    "name": "chikn #1091",
+    "description": "chikn #1091",
+    "image": "https://cdn1.chikn.farm/images/20a46bf140c5b3438f51cf032aa170dbb2f09389.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "business boy"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

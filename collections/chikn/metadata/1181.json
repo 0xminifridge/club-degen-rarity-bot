@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1181",
+    "description": "chikn #1181",
+    "image": "https://cdn1.chikn.farm/images/e0c29a7f5e7efde1e0be94b3572c277db7dfb4ec.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

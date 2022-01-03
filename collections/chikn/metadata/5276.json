@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5276",
+    "description": "chikn #5276",
+    "image": "https://cdn1.chikn.farm/images/6b50a19b5ad170bb8a63b912deb0419a70c491ed.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

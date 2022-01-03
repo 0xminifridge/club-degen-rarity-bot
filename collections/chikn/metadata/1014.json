@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1014",
+    "description": "chikn #1014",
+    "image": "https://cdn1.chikn.farm/images/50a7e66fe0de04685fb6bd1d9c940057f47ab3df.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

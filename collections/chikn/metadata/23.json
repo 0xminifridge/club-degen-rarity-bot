@@ -1,0 +1,27 @@
+{
+    "name": "chikn #23",
+    "description": "chikn #23",
+    "image": "https://cdn1.chikn.farm/images/2d1a310c33bc1c3756c8042fa0128a5fb8a6d461.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

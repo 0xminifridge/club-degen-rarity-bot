@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8085",
+    "description": "chikn #8085",
+    "image": "https://cdn1.chikn.farm/images/dec2c605dc688804606641fc4df201927b16d001.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

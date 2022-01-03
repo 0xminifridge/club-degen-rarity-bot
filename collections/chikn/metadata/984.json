@@ -1,0 +1,27 @@
+{
+    "name": "chikn #984",
+    "description": "chikn #984",
+    "image": "https://cdn1.chikn.farm/images/0a58f4e499851e9de0b360e343cceb28267e8830.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

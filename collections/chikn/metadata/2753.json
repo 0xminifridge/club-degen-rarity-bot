@@ -1,0 +1,39 @@
+{
+    "name": "chikn #2753",
+    "description": "chikn #2753",
+    "image": "https://cdn1.chikn.farm/images/68a1bf0f52b8d354665d796597f17b1e51b73d1e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin maxi"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

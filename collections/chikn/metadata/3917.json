@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3917",
+    "description": "chikn #3917",
+    "image": "https://cdn1.chikn.farm/images/30258ffb1a3c52e1af16dd79e370930075dfe8ae.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim og"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

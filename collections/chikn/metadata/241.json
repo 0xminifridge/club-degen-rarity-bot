@@ -1,0 +1,23 @@
+{
+    "name": "chikn #241",
+    "description": "chikn #241",
+    "image": "https://cdn1.chikn.farm/images/c9a75bb706c5ab7ce7223bcb63c5edbb13757930.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

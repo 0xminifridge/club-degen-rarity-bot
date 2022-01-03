@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8010",
+    "description": "chikn #8010",
+    "image": "https://cdn1.chikn.farm/images/bfd946c38c7a31c7913dee97cf838651b603d0b4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6084",
+    "description": "chikn #6084",
+    "image": "https://cdn1.chikn.farm/images/1fadef9ffdd7d91e72f9c5bfdeda119bf9345fc5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

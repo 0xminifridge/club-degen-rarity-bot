@@ -1,0 +1,27 @@
+{
+    "name": "chikn #34",
+    "description": "chikn #34",
+    "image": "https://cdn1.chikn.farm/images/3b4e376b39a336e5df2b10daa457529f754975fb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

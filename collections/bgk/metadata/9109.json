@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #9109",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/9109.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clown"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Long Blonde"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Sailor"
+        }
+    ]
+}

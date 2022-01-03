@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9353",
+    "description": "chikn #9353",
+    "image": "https://cdn1.chikn.farm/images/bc6b91ae1c619333713d0b653ab02acc819f3c00.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "galactic"
+        }
+    ]
+}

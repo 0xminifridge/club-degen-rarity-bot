@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4118",
+    "description": "chikn #4118",
+    "image": "https://cdn1.chikn.farm/images/b464e445fcb4b7cbcd1e008e9cfff29d04193e74.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

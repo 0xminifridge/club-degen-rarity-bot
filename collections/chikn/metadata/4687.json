@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4687",
+    "description": "chikn #4687",
+    "image": "https://cdn1.chikn.farm/images/89e66a77ec49cb1b260f8a2ce57b64750ca4b84d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

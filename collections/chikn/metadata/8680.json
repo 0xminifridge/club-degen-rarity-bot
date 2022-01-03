@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8680",
+    "description": "chikn #8680",
+    "image": "https://cdn1.chikn.farm/images/015e836f9e66fb56adfae204f3cf3231fcc08319.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

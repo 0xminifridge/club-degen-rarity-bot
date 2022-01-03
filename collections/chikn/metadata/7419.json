@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7419",
+    "description": "chikn #7419",
+    "image": "https://cdn1.chikn.farm/images/92eea8596f888eff7cbdb8cd7e891fe788cf0435.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

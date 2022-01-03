@@ -1,0 +1,27 @@
+{
+    "name": "chikn #296",
+    "description": "chikn #296",
+    "image": "https://cdn1.chikn.farm/images/11b6f6ba3d4de4d3bfe15e5804bd45d2de9bf204.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

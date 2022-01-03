@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8040",
+    "description": "chikn #8040",
+    "image": "https://cdn1.chikn.farm/images/8c98f02e71a3e11b57f51d30c13e4d1dc7537e09.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

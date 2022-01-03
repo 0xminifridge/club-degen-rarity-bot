@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7047",
+    "description": "chikn #7047",
+    "image": "https://cdn1.chikn.farm/images/52596cc6bb2b5a7feef64f8513ae9d1a5f1ce93d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

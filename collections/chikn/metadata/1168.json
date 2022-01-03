@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1168",
+    "description": "chikn #1168",
+    "image": "https://cdn1.chikn.farm/images/5fa269557dcedc87008931cbd52ca5555b30a87c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

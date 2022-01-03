@@ -1,0 +1,27 @@
+{
+    "name": "chikn #40",
+    "description": "chikn #40",
+    "image": "https://cdn1.chikn.farm/images/4970e1675f71e222781405621b5499200de8619a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4769",
+    "description": "chikn #4769",
+    "image": "https://cdn1.chikn.farm/images/3f6482617cc3d5b6da6883775c3e4246307b48a9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

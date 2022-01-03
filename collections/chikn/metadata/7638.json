@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7638",
+    "description": "chikn #7638",
+    "image": "https://cdn1.chikn.farm/images/a5b57a41a6040942119f5d57acc80a3bbc1cb427.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

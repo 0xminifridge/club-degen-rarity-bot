@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8652",
+    "description": "chikn #8652",
+    "image": "https://cdn1.chikn.farm/images/a96ca7fe326e3f3061452d52ecadda22aa662667.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6732",
+    "description": "chikn #6732",
+    "image": "https://cdn1.chikn.farm/images/734fc464e02e5e8a3e0c9ff0b63d814f4c293aee.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9992",
+    "description": "chikn #9992",
+    "image": "https://cdn1.chikn.farm/images/e2e522cb76b9e5517d026d0d5f953fa000264865.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3712",
+    "description": "chikn #3712",
+    "image": "https://cdn1.chikn.farm/images/cc7523c3da76bb6569f8d178c1ced07b5b98b095.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6987",
+    "description": "chikn #6987",
+    "image": "https://cdn1.chikn.farm/images/2141d18471394ce14860cc5f4e912168032fbe46.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

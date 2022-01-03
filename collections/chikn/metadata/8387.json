@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8387",
+    "description": "chikn #8387",
+    "image": "https://cdn1.chikn.farm/images/97c4db7213c795aeef2cfb05ac55a6b977fe781c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

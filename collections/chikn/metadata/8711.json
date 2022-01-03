@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8711",
+    "description": "chikn #8711",
+    "image": "https://cdn1.chikn.farm/images/a52df56a8ddd2defd2c27e371aac452b6e0cf8ab.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

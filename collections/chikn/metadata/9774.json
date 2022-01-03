@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9774",
+    "description": "chikn #9774",
+    "image": "https://cdn1.chikn.farm/images/d19ced798be35664d56a5a478a1570df0c2ff265.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

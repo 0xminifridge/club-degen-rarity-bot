@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4322",
+    "description": "chikn #4322",
+    "image": "https://cdn1.chikn.farm/images/f0a4db1cd01e22b259aa8343005a0974cce3362b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

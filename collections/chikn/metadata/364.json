@@ -1,0 +1,27 @@
+{
+    "name": "chikn #364",
+    "description": "chikn #364",
+    "image": "https://cdn1.chikn.farm/images/cc43d78f08b54646ec3b82d9bd3213dd36a772ea.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

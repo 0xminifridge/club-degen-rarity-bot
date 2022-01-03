@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6450",
+    "description": "chikn #6450",
+    "image": "https://cdn1.chikn.farm/images/f6a5a9ab8445210ffb0c9c7556fee0b117686c40.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

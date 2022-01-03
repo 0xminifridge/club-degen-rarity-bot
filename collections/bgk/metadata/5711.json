@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #5711",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/5711.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Happy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Tiedye Braids"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Polka Dots"
+        }
+    ]
+}

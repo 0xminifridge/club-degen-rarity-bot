@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8438",
+    "description": "chikn #8438",
+    "image": "https://cdn1.chikn.farm/images/650fb5b526aedf49cfd1e1e59e03f3c522cd3bbc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

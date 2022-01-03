@@ -1,0 +1,35 @@
+{
+    "name": "chikn #6731",
+    "description": "chikn #6731",
+    "image": "https://cdn1.chikn.farm/images/c08d267ec06920ded18f0d512de08ac11091e68c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3464",
+    "description": "chikn #3464",
+    "image": "https://cdn1.chikn.farm/images/cc969c4b72deb0d3324481c6d9c3d11a3fc5a173.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7208",
+    "description": "chikn #7208",
+    "image": "https://cdn1.chikn.farm/images/b14815265351be4062585037ce507caac26276fd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7054",
+    "description": "chikn #7054",
+    "image": "https://cdn1.chikn.farm/images/30ddadab38cd6a7fccbe543e357e2802ef3f8105.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

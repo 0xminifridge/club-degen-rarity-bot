@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8009",
+    "description": "chikn #8009",
+    "image": "https://cdn1.chikn.farm/images/d728cf6166ab978aef6ddc8523db95931e5de5fe.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

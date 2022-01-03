@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5433",
+    "description": "chikn #5433",
+    "image": "https://cdn1.chikn.farm/images/215bdf7fd683b6861d8d5b13e0ef3c5680846cf6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "super saiyan"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

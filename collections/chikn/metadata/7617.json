@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7617",
+    "description": "chikn #7617",
+    "image": "https://cdn1.chikn.farm/images/74dc8b5e75708b5994e276864d1bee0f46b73a86.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

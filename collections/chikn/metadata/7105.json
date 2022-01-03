@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7105",
+    "description": "chikn #7105",
+    "image": "https://cdn1.chikn.farm/images/836778603b46267c1b7c56a9ec942058409534a4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "inherited royalty"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

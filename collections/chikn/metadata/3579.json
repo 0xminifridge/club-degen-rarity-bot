@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3579",
+    "description": "chikn #3579",
+    "image": "https://cdn1.chikn.farm/images/bccc1eaa57fd94ba478293655b3f1b4f26f29ff0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

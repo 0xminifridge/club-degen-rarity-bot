@@ -1,0 +1,23 @@
+{
+    "name": "chikn #592",
+    "description": "chikn #592",
+    "image": "https://cdn1.chikn.farm/images/b6505c1cb0ee5e05b1bdadd3339376609fa47626.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "super saiyan"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

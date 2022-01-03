@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3348",
+    "description": "chikn #3348",
+    "image": "https://cdn1.chikn.farm/images/8db1d09154dea79496f0f22842371cbfc719c9a3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

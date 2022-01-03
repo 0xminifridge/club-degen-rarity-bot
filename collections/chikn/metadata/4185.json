@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4185",
+    "description": "chikn #4185",
+    "image": "https://cdn1.chikn.farm/images/754a3774585b82464a991bcf7af598e171e7c7a9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "inherited royalty"
+        },
+        {
+            "trait_type": "torso",
+            "value": "karate kid"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9218",
+    "description": "chikn #9218",
+    "image": "https://cdn1.chikn.farm/images/338445a489bfc8559c4456e5e26ae6453521766d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

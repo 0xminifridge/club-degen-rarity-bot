@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8696",
+    "description": "chikn #8696",
+    "image": "https://cdn1.chikn.farm/images/571effd3299560bf363cf9dfdef169acf59749c3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

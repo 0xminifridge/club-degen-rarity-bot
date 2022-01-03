@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3999",
+    "description": "chikn #3999",
+    "image": "https://cdn1.chikn.farm/images/ece03a00c3d86d26144620ec9d54eb75ba45540e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax degen"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

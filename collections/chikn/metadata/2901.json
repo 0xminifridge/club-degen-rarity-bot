@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2901",
+    "description": "chikn #2901",
+    "image": "https://cdn1.chikn.farm/images/9fb42290d6273da1efd56038d63bec3bc47b1d29.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8236",
+    "description": "chikn #8236",
+    "image": "https://cdn1.chikn.farm/images/3211b28614b0b0b8f558bb83ad5e5eb770454c63.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

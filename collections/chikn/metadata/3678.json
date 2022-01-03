@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3678",
+    "description": "chikn #3678",
+    "image": "https://cdn1.chikn.farm/images/22327f5ce132da75803fad5b361918beefdd3de2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

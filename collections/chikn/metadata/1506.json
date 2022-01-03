@@ -1,0 +1,35 @@
+{
+    "name": "chikn #1506",
+    "description": "chikn #1506",
+    "image": "https://cdn1.chikn.farm/images/0ce7ed458abbcfee747844a89b408fc1dcd844bf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

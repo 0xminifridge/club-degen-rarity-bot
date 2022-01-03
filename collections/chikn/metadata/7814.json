@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7814",
+    "description": "chikn #7814",
+    "image": "https://cdn1.chikn.farm/images/15e6b76ac04c1e28ec19544e7a03d97b1997156f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

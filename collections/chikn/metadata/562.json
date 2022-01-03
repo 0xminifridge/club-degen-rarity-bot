@@ -1,0 +1,23 @@
+{
+    "name": "chikn #562",
+    "description": "chikn #562",
+    "image": "https://cdn1.chikn.farm/images/3d0d541726284d834ad84cff7465fa6a8dac4ce6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

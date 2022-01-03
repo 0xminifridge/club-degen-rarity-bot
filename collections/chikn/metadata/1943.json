@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1943",
+    "description": "chikn #1943",
+    "image": "https://cdn1.chikn.farm/images/a7d250ee0ead908f717049202283270b883df80f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3810",
+    "description": "chikn #3810",
+    "image": "https://cdn1.chikn.farm/images/aa65899e1cad4584eeb27c3d78613828befa6e52.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

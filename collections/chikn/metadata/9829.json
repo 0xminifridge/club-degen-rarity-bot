@@ -1,0 +1,19 @@
+{
+    "name": "chikn #9829",
+    "description": "chikn #9829",
+    "image": "https://cdn1.chikn.farm/images/4f05d917c159d6bc5c461176c76dd75784f87d73.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

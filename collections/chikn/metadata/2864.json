@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2864",
+    "description": "chikn #2864",
+    "image": "https://cdn1.chikn.farm/images/9fe1070be78cdb07456e47c18e3b8c3148d307f3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden crusader"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

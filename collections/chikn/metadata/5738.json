@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5738",
+    "description": "chikn #5738",
+    "image": "https://cdn1.chikn.farm/images/b969269baa60b29dfd60a1accb0957ec39e54204.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4387",
+    "description": "chikn #4387",
+    "image": "https://cdn1.chikn.farm/images/c40b29c78ade99a707f0a7101b4c4f8ee62906ca.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

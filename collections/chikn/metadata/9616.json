@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9616",
+    "description": "chikn #9616",
+    "image": "https://cdn1.chikn.farm/images/a477f4c6b99605216a6d6f5084b55bf3131414a4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

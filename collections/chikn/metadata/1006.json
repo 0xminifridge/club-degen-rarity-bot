@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1006",
+    "description": "chikn #1006",
+    "image": "https://cdn1.chikn.farm/images/92469e0dfd67e4bd2f177a424ea274489ff5693e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

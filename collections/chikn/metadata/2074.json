@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2074",
+    "description": "chikn #2074",
+    "image": "https://cdn1.chikn.farm/images/1157700c4721b89786bccdfb751d2c29a4c50b0c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

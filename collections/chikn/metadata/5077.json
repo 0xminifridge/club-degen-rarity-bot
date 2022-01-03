@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5077",
+    "description": "chikn #5077",
+    "image": "https://cdn1.chikn.farm/images/c4b69a1f0b313376dd635e4cc134e67fb04c2a4b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

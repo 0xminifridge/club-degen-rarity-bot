@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4993",
+    "description": "chikn #4993",
+    "image": "https://cdn1.chikn.farm/images/38b84626b1a5bfbc2ac600a9565fa8a51af58be3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

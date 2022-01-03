@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3669",
+    "description": "chikn #3669",
+    "image": "https://cdn1.chikn.farm/images/971f5477370d49d8e8e51019ea1260e5a6889b7d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

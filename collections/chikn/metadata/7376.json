@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7376",
+    "description": "chikn #7376",
+    "image": "https://cdn1.chikn.farm/images/3480e2e5c7c2ef19cb37d6f3deb2be1292ee66e3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

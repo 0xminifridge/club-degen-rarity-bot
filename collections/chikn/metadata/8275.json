@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8275",
+    "description": "chikn #8275",
+    "image": "https://cdn1.chikn.farm/images/8f9570e13b8fe0ade074242c96c93667ffb96a0c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

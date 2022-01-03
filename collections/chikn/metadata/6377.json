@@ -1,0 +1,19 @@
+{
+    "name": "chikn #6377",
+    "description": "chikn #6377",
+    "image": "https://cdn1.chikn.farm/images/1ac684a81f2da85534e8520b37ad5707188d8c2a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

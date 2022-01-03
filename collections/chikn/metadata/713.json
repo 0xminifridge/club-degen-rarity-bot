@@ -1,0 +1,23 @@
+{
+    "name": "chikn #713",
+    "description": "chikn #713",
+    "image": "https://cdn1.chikn.farm/images/9bf8baa383c275ee894c1da854f0a7d5d06c17b5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

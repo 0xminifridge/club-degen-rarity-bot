@@ -1,0 +1,19 @@
+{
+    "name": "chikn #9438",
+    "description": "chikn #9438",
+    "image": "https://cdn1.chikn.farm/images/3a1f9f09facfb6dadb7cefd43370f581c29149a7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

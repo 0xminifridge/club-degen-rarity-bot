@@ -1,0 +1,23 @@
+{
+    "name": "chikn #453",
+    "description": "chikn #453",
+    "image": "https://cdn1.chikn.farm/images/43a01215e73859459541ad10ca0df8dd095ee3b1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

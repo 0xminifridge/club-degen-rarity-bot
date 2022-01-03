@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9798",
+    "description": "chikn #9798",
+    "image": "https://cdn1.chikn.farm/images/269e3fb364c3f6222531e26c7c12bd337a12d552.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

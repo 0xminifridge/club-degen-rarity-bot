@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3500",
+    "description": "chikn #3500",
+    "image": "https://cdn1.chikn.farm/images/01577fc5d6b938a261761ee5940ccfc5eef3ae5e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

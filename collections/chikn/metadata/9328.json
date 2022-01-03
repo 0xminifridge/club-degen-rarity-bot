@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9328",
+    "description": "chikn #9328",
+    "image": "https://cdn1.chikn.farm/images/ed1455948a56d5c3d8e6ba349a3bcb233e3a497d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

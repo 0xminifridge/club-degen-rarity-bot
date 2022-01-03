@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8088",
+    "description": "chikn #8088",
+    "image": "https://cdn1.chikn.farm/images/788b09428662fa694b5e894dfe10c8b55fcf081d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

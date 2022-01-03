@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6315",
+    "description": "chikn #6315",
+    "image": "https://cdn1.chikn.farm/images/7d77843c315ce972a5d75de546da6b6a1f874612.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

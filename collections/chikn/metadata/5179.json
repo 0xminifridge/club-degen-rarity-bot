@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5179",
+    "description": "chikn #5179",
+    "image": "https://cdn1.chikn.farm/images/4e12db35249db96645076b19e399dd64d685fefd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5493",
+    "description": "chikn #5493",
+    "image": "https://cdn1.chikn.farm/images/cbeedaec0c5bc059ae3cb035b3992a605242bab4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

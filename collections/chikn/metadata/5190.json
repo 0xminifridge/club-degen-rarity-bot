@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5190",
+    "description": "chikn #5190",
+    "image": "https://cdn1.chikn.farm/images/aa66cd5a8a6cd1fa34791e4d90b84f5ed204e0e8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

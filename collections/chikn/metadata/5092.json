@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5092",
+    "description": "chikn #5092",
+    "image": "https://cdn1.chikn.farm/images/de5cf1405f3a8c35ceb5cf0f56c20f6634ee78b8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin maxi"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

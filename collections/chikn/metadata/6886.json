@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6886",
+    "description": "chikn #6886",
+    "image": "https://cdn1.chikn.farm/images/50ab02596dc05e3f5fe62f9e298832fe4fc85989.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "luckiest red cap"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

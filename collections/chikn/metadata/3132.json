@@ -1,0 +1,19 @@
+{
+    "name": "chikn #3132",
+    "description": "chikn #3132",
+    "image": "https://cdn1.chikn.farm/images/fb3e45dd42c21eec898cefe57ddcf4e437d26690.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "super saiyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

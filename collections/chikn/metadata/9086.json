@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9086",
+    "description": "chikn #9086",
+    "image": "https://cdn1.chikn.farm/images/fb303cd428a4ff8de9b63f2141173d0255ed0980.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

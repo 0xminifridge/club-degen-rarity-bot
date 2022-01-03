@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8799",
+    "description": "chikn #8799",
+    "image": "https://cdn1.chikn.farm/images/ca8677b494c9400b0cbc09fbb3d750d99b419558.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax degen"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

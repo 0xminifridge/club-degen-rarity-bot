@@ -1,0 +1,35 @@
+{
+    "name": "chikn #1660",
+    "description": "chikn #1660",
+    "image": "https://cdn1.chikn.farm/images/f64953bd8eae67c49a2c72568b4380839b4a0258.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

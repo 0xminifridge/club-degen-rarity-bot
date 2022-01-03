@@ -1,0 +1,35 @@
+{
+    "name": "chikn #3252",
+    "description": "chikn #3252",
+    "image": "https://cdn1.chikn.farm/images/9e66521d7a78aed61c6c9b136f42ea26188b6cbc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

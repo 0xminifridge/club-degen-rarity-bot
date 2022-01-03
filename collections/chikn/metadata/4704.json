@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4704",
+    "description": "chikn #4704",
+    "image": "https://cdn1.chikn.farm/images/5672f094d5e0b7870648af1ffa10e99553aa3a47.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

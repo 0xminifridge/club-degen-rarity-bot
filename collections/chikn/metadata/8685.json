@@ -1,0 +1,35 @@
+{
+    "name": "chikn #8685",
+    "description": "chikn #8685",
+    "image": "https://cdn1.chikn.farm/images/c2ec8c29052d7893fe6d4d5769e5f774e317a2e4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

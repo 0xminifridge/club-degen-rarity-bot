@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6015",
+    "description": "chikn #6015",
+    "image": "https://cdn1.chikn.farm/images/7a6dc52dd0ffdd0fe8988f9f1d9292854688911f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3535",
+    "description": "chikn #3535",
+    "image": "https://cdn1.chikn.farm/images/6727303fc0dcf58ecc75f477e6f05fde771e7d5c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

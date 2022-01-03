@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6798",
+    "description": "chikn #6798",
+    "image": "https://cdn1.chikn.farm/images/d385eb4c3296d96d829c9e7635c4e997b44833e5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

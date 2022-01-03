@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1704",
+    "description": "chikn #1704",
+    "image": "https://cdn1.chikn.farm/images/d4eb55def61c24cdcceef46b9714a4db9901a458.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

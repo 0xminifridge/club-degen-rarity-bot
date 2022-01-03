@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5830",
+    "description": "chikn #5830",
+    "image": "https://cdn1.chikn.farm/images/4d51fed857ab61e505fde5f5b9fb6c812958edfd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

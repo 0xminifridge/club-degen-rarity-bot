@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5456",
+    "description": "chikn #5456",
+    "image": "https://cdn1.chikn.farm/images/5960b3e60c47ad9185fb0cde6c70a39c6c33400a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

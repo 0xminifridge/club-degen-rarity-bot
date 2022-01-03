@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4073",
+    "description": "chikn #4073",
+    "image": "https://cdn1.chikn.farm/images/4052ea108a761940416ccf7f8f36b7f5a6486f80.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

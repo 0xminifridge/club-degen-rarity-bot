@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7470",
+    "description": "chikn #7470",
+    "image": "https://cdn1.chikn.farm/images/7c654ce3866b6ff5370684dd6d1820ab5bbea366.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

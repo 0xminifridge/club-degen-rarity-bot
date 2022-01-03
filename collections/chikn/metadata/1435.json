@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1435",
+    "description": "chikn #1435",
+    "image": "https://cdn1.chikn.farm/images/96c441ff7919e9395e755d60ff025da5a0844e44.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

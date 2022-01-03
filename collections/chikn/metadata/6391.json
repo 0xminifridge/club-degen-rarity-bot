@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6391",
+    "description": "chikn #6391",
+    "image": "https://cdn1.chikn.farm/images/3106379f94c5d809ad7cecd3e60926a185df37dd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

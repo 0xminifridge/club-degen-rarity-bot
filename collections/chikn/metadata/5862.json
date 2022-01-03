@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5862",
+    "description": "chikn #5862",
+    "image": "https://cdn1.chikn.farm/images/e8ce74b6d3b635f1b09d5c7207b471384ac13386.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

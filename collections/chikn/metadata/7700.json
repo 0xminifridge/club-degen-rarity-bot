@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7700",
+    "description": "chikn #7700",
+    "image": "https://cdn1.chikn.farm/images/a6ae965e11ab55d96fd8109cbab2a54a79b217e1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4781",
+    "description": "chikn #4781",
+    "image": "https://cdn1.chikn.farm/images/9ec90d2a7f98aab0ef57a5668cb57441f751ffc2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

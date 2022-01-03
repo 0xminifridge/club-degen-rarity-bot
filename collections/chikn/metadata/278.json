@@ -1,0 +1,27 @@
+{
+    "name": "chikn #278",
+    "description": "chikn #278",
+    "image": "https://cdn1.chikn.farm/images/2d3b4d0d7e128f758abd5de1c3bcfe005f955ae5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

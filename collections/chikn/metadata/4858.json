@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4858",
+    "description": "chikn #4858",
+    "image": "https://cdn1.chikn.farm/images/61bb894297ecad39f3fae466d627cf61189775e0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

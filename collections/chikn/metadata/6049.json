@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6049",
+    "description": "chikn #6049",
+    "image": "https://cdn1.chikn.farm/images/83ab7237e3b007f7ee635bda81642ecfbe3784cf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

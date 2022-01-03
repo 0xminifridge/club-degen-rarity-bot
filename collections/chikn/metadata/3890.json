@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3890",
+    "description": "chikn #3890",
+    "image": "https://cdn1.chikn.farm/images/b292be8793e807f567142c75cd5db0bf952a70b8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

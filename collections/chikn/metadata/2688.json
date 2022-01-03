@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2688",
+    "description": "chikn #2688",
+    "image": "https://cdn1.chikn.farm/images/7e473a75829c9a6b9f365f177e16dcc805481082.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

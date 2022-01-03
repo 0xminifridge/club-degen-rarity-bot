@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4565",
+    "description": "chikn #4565",
+    "image": "https://cdn1.chikn.farm/images/bc313fadf34a445ddd31861b8af9ffe744e4beaf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "murica"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

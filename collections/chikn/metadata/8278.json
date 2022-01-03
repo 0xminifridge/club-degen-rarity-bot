@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8278",
+    "description": "chikn #8278",
+    "image": "https://cdn1.chikn.farm/images/2d12e4b57d56c9ca5655f5059e07700b49f012c6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

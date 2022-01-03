@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4488",
+    "description": "chikn #4488",
+    "image": "https://cdn1.chikn.farm/images/2bcbfd427a0a0d31e4c3d781a329dc1b9b603852.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

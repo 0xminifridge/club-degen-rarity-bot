@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5884",
+    "description": "chikn #5884",
+    "image": "https://cdn1.chikn.farm/images/1b4de6549d76a7b9ba59b75ce483b82f86c33859.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

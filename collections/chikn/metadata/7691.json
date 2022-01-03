@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7691",
+    "description": "chikn #7691",
+    "image": "https://cdn1.chikn.farm/images/628342773988f416265553032e6d4a5344a038f4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

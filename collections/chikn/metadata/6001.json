@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6001",
+    "description": "chikn #6001",
+    "image": "https://cdn1.chikn.farm/images/7ef7d57725f39155f33b105338b19207861799a8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

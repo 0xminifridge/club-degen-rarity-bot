@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7050",
+    "description": "chikn #7050",
+    "image": "https://cdn1.chikn.farm/images/20c587606898143626bf69337477ac2ac8fe2468.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

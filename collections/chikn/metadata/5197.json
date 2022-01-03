@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5197",
+    "description": "chikn #5197",
+    "image": "https://cdn1.chikn.farm/images/dfe2526739a3c30b3c2bc5624ea1c8d0d71f24ca.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3843",
+    "description": "chikn #3843",
+    "image": "https://cdn1.chikn.farm/images/76450532759c0809f2f4440968862f4f527b831e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

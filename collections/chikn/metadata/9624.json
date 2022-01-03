@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9624",
+    "description": "chikn #9624",
+    "image": "https://cdn1.chikn.farm/images/4f9b8910ef0cfa419dd78eb1fc3a9b1952c2564e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1404",
+    "description": "chikn #1404",
+    "image": "https://cdn1.chikn.farm/images/954249aa66a37444d0a310f5d75533f3cc9b73fb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

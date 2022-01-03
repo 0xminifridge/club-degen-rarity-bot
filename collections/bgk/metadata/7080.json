@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #7080",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/7080.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Crazy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Slick"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Jean Jacket"
+        }
+    ]
+}

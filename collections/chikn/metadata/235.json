@@ -1,0 +1,27 @@
+{
+    "name": "chikn #235",
+    "description": "chikn #235",
+    "image": "https://cdn1.chikn.farm/images/4e0c9ded422567cbc96dda240bee52d83b2bbe11.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5707",
+    "description": "chikn #5707",
+    "image": "https://cdn1.chikn.farm/images/1176adc8e99b3c412c3c9ad071366079b9319dcd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

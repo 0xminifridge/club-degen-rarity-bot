@@ -1,0 +1,19 @@
+{
+    "name": "chikn #1778",
+    "description": "chikn #1778",
+    "image": "https://cdn1.chikn.farm/images/36b362db12f3e729337a49f15ae0567fab7b9b03.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

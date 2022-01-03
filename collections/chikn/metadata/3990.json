@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3990",
+    "description": "chikn #3990",
+    "image": "https://cdn1.chikn.farm/images/f491bb659ad8653eba9e1e20c7f885580c638af6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7534",
+    "description": "chikn #7534",
+    "image": "https://cdn1.chikn.farm/images/6c69908ef886dfe0d56b435a67a45fe6c2fea6fe.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

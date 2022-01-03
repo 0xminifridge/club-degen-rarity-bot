@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1927",
+    "description": "chikn #1927",
+    "image": "https://cdn1.chikn.farm/images/b25617e6fcd56cedda6efdcce37a0abf7171550d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

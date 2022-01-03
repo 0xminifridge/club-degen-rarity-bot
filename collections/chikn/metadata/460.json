@@ -1,0 +1,27 @@
+{
+    "name": "chikn #460",
+    "description": "chikn #460",
+    "image": "https://cdn1.chikn.farm/images/d8a19453859884078cd4e78f1d6b55207310f3f1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

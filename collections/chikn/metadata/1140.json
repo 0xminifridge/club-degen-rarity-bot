@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1140",
+    "description": "chikn #1140",
+    "image": "https://cdn1.chikn.farm/images/8b7f691040f97c51b121ecdf06e271f49ea5f716.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

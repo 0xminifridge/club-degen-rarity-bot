@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4733",
+    "description": "chikn #4733",
+    "image": "https://cdn1.chikn.farm/images/3140c48f1a906a03a1eff6a8ed6a9f98ebe7caf4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

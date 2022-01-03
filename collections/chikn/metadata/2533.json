@@ -1,0 +1,35 @@
+{
+    "name": "chikn #2533",
+    "description": "chikn #2533",
+    "image": "https://cdn1.chikn.farm/images/beb7508e18c07d0c820da3033889bf04a59dd143.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

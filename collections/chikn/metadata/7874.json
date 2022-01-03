@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7874",
+    "description": "chikn #7874",
+    "image": "https://cdn1.chikn.farm/images/0f024afedce9396ec9c9dc1b4e9c2af24b5f76b2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "karate kid"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "chikn #470",
+    "description": "chikn #470",
+    "image": "https://cdn1.chikn.farm/images/e2120c1e35d00e43a6f39aa159c825929b9211a6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

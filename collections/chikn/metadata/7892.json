@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7892",
+    "description": "chikn #7892",
+    "image": "https://cdn1.chikn.farm/images/07c1bc589a5e65bbb1571a570d7e790fde364493.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

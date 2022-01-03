@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7737",
+    "description": "chikn #7737",
+    "image": "https://cdn1.chikn.farm/images/ef63b212de96b7a39d5e3ef7206abbd1f03880b1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

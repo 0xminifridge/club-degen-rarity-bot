@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7433",
+    "description": "chikn #7433",
+    "image": "https://cdn1.chikn.farm/images/e3386dff6f6df6805122e21ba5c094590b0ad5ff.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #150",
+    "description": "chikn #150",
+    "image": "https://cdn1.chikn.farm/images/70ce71d4c46b4d41af553bc6061c60dc607314cc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

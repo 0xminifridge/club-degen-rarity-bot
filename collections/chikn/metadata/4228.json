@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4228",
+    "description": "chikn #4228",
+    "image": "https://cdn1.chikn.farm/images/00e834e8779300baef21efbff3d499321e10c807.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

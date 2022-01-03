@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4194",
+    "description": "chikn #4194",
+    "image": "https://cdn1.chikn.farm/images/63461d14e29dc4da505590c7813d3d09453fee3d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

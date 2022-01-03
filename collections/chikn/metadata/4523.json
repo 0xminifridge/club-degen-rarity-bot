@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4523",
+    "description": "chikn #4523",
+    "image": "https://cdn1.chikn.farm/images/4204f6ac89eb6d646a5b36ccec1621cdc1dbefdf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pineapple"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

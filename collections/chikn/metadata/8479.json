@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8479",
+    "description": "chikn #8479",
+    "image": "https://cdn1.chikn.farm/images/ac42cda122da3f1c15f7c76ec5f9b6364a55e210.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

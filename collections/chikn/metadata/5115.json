@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5115",
+    "description": "chikn #5115",
+    "image": "https://cdn1.chikn.farm/images/2a68db5e90c0f18c5ccb828a4fb5ae5210e0b21b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

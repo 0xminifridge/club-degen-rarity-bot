@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3049",
+    "description": "chikn #3049",
+    "image": "https://cdn1.chikn.farm/images/5368612088f152b848d78643e2d612dfd65b8be3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8032",
+    "description": "chikn #8032",
+    "image": "https://cdn1.chikn.farm/images/85f5db2340cdd74a56773d77d687278a78865c70.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

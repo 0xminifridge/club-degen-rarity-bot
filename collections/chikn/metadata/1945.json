@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1945",
+    "description": "chikn #1945",
+    "image": "https://cdn1.chikn.farm/images/06f6319afa85c0ee7cee686942e30a553c156c46.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

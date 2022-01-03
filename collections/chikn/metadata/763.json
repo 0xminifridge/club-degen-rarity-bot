@@ -1,0 +1,27 @@
+{
+    "name": "chikn #763",
+    "description": "chikn #763",
+    "image": "https://cdn1.chikn.farm/images/ad59644c3bffc31a4a99985e016ca3e997168171.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

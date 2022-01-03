@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9991",
+    "description": "chikn #9991",
+    "image": "https://cdn1.chikn.farm/images/67b68da51548851bb21d091a3e5bcb2adefb3e3a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

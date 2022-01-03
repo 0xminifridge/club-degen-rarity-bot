@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8938",
+    "description": "chikn #8938",
+    "image": "https://cdn1.chikn.farm/images/1c8730fbbb9e4dd3b564f52c39e0e264cb1a7871.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

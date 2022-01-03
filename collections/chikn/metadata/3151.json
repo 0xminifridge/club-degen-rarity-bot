@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3151",
+    "description": "chikn #3151",
+    "image": "https://cdn1.chikn.farm/images/f306c130c7a952005039445c30894627238d662c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9586",
+    "description": "chikn #9586",
+    "image": "https://cdn1.chikn.farm/images/928f464b825e25dbbe519ec05e895b82839c8063.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

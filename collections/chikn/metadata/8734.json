@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8734",
+    "description": "chikn #8734",
+    "image": "https://cdn1.chikn.farm/images/fa28fef30b9fe974a4c9fb404e89cd41c1e042be.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

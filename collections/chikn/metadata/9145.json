@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9145",
+    "description": "chikn #9145",
+    "image": "https://cdn1.chikn.farm/images/3db489b0b0efdacff54435fd3d895e0a8c7353b7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2418",
+    "description": "chikn #2418",
+    "image": "https://cdn1.chikn.farm/images/72de1e228de02d593985d4082c8636269db0a7e0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

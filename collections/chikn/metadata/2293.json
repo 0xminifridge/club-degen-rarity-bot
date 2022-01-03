@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2293",
+    "description": "chikn #2293",
+    "image": "https://cdn1.chikn.farm/images/5a2908daeac45600c57505a1efcd8c821314b57e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

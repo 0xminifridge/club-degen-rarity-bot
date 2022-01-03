@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2653",
+    "description": "chikn #2653",
+    "image": "https://cdn1.chikn.farm/images/a310f5e8afe484a967fdc6f609b44dbd551ecc63.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

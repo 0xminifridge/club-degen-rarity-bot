@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7227",
+    "description": "chikn #7227",
+    "image": "https://cdn1.chikn.farm/images/928f06eab0ced011c7c9fc63e09f191972edd23c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

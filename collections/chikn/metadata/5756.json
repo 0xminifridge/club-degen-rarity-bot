@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5756",
+    "description": "chikn #5756",
+    "image": "https://cdn1.chikn.farm/images/dd3d86fd7c609e5a06304d9e8b7f3f292aced4ca.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

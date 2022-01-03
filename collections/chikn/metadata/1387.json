@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1387",
+    "description": "chikn #1387",
+    "image": "https://cdn1.chikn.farm/images/ed5dd13c6c851f7bf3774312089143e4c78718ac.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

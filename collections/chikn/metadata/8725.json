@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8725",
+    "description": "chikn #8725",
+    "image": "https://cdn1.chikn.farm/images/a4c3353cd9e66b2c78f852e5f3ca8704009a999b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

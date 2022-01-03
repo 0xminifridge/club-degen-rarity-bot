@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5763",
+    "description": "chikn #5763",
+    "image": "https://cdn1.chikn.farm/images/3e847c0e31ace20d09011475d4c79b767a12a454.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

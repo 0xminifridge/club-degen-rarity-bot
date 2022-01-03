@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9781",
+    "description": "chikn #9781",
+    "image": "https://cdn1.chikn.farm/images/e09efe9644736e6bed299779f622d6ab67af574e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

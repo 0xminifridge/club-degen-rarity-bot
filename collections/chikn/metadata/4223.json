@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4223",
+    "description": "chikn #4223",
+    "image": "https://cdn1.chikn.farm/images/a31ef765baf99c84287203f411412f2244e0be74.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

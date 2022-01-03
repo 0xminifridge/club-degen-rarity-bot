@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8221",
+    "description": "chikn #8221",
+    "image": "https://cdn1.chikn.farm/images/02e33baa750cf35e5f1ed38204af0519f656e933.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

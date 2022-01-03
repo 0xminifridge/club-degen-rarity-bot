@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6363",
+    "description": "chikn #6363",
+    "image": "https://cdn1.chikn.farm/images/6a0e5d84f5d3eb2fe1e7dcc164f083545ffcc51f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "inherited royalty"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

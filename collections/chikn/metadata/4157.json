@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4157",
+    "description": "chikn #4157",
+    "image": "https://cdn1.chikn.farm/images/78408e4158299d0cf485c84ebbf3bdf96b557700.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "real feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

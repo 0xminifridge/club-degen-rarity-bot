@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8344",
+    "description": "chikn #8344",
+    "image": "https://cdn1.chikn.farm/images/9ff16acefaa8abbb1b9e94e85ab36a949f475e09.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "laser eye"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

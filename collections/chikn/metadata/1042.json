@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1042",
+    "description": "chikn #1042",
+    "image": "https://cdn1.chikn.farm/images/69a55457f64990ef131766e4f858139e3955dc8c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

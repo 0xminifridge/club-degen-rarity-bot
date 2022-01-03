@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2677",
+    "description": "chikn #2677",
+    "image": "https://cdn1.chikn.farm/images/1883f96281f2b283b83b05226c4ee0861cf1575e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

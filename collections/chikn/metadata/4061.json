@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4061",
+    "description": "chikn #4061",
+    "image": "https://cdn1.chikn.farm/images/1c8364fef99784a5aaa10bca456828e070b2b196.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

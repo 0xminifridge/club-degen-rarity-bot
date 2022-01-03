@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #2667",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/2667.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Galaxy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Confused"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Army Helmet"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "PJs"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #3752",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/3752.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Confused"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Backwards Hat"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Clown"
+        }
+    ]
+}

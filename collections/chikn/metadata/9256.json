@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9256",
+    "description": "chikn #9256",
+    "image": "https://cdn1.chikn.farm/images/1cf400e5a6092710d4a11f42ad2e0a5e178a2791.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

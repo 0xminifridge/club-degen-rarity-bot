@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7232",
+    "description": "chikn #7232",
+    "image": "https://cdn1.chikn.farm/images/2b2c8cd1afb8f27f33208b477e1cf6cf0f83ad28.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

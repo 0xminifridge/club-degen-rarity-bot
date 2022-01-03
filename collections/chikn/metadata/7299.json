@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7299",
+    "description": "chikn #7299",
+    "image": "https://cdn1.chikn.farm/images/480aa04c4535c383192a6f470deadc60dbb18d23.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

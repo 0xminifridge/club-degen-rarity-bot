@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2903",
+    "description": "chikn #2903",
+    "image": "https://cdn1.chikn.farm/images/3274eebe8304496ef4d8f9069836ea651fcb6077.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

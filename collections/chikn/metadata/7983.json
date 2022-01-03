@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7983",
+    "description": "chikn #7983",
+    "image": "https://cdn1.chikn.farm/images/bce91ee93b3628c6c87182d4767b2306eceff6f9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9742",
+    "description": "chikn #9742",
+    "image": "https://cdn1.chikn.farm/images/c4e6d0989c5a0ceecda505ed5eba961e16f930eb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

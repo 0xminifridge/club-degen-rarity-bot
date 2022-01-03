@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1359",
+    "description": "chikn #1359",
+    "image": "https://cdn1.chikn.farm/images/cf216bed04cdfcf117acf5da8966d26286a0b6b6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

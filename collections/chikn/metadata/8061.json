@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8061",
+    "description": "chikn #8061",
+    "image": "https://cdn1.chikn.farm/images/b694bf21df3f6168bbbed781a4002a573f31f710.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

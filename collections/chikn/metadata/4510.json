@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4510",
+    "description": "chikn #4510",
+    "image": "https://cdn1.chikn.farm/images/d7ab0194d059dc097de995f9d64df5c8266ed71d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8995",
+    "description": "chikn #8995",
+    "image": "https://cdn1.chikn.farm/images/9f02e654c0006a93ce61ccff88395b7a0d90654f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

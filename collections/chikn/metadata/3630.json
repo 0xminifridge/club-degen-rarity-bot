@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3630",
+    "description": "chikn #3630",
+    "image": "https://cdn1.chikn.farm/images/eefff14ec0e02288e0ae114d18f06bab69b108d0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #165",
+    "description": "chikn #165",
+    "image": "https://cdn1.chikn.farm/images/696de47a2451d0b3ebf3422e2d46fd2b3aef627a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

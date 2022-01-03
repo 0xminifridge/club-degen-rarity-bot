@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9856",
+    "description": "chikn #9856",
+    "image": "https://cdn1.chikn.farm/images/6566b1810e5a45219fa9544031bc310febb2d771.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden crusader"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

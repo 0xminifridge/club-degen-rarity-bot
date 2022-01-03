@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8912",
+    "description": "chikn #8912",
+    "image": "https://cdn1.chikn.farm/images/4233ea5d5439f3846b1e24e41b9462c9ec155e61.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

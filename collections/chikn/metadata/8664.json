@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8664",
+    "description": "chikn #8664",
+    "image": "https://cdn1.chikn.farm/images/b966f52f2dafee609c548440d3cdf1913c8505bf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "business boy"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

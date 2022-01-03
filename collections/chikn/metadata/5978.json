@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5978",
+    "description": "chikn #5978",
+    "image": "https://cdn1.chikn.farm/images/34dbbf52444ceb5a9f1423b1c0babe5fe3c89c20.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

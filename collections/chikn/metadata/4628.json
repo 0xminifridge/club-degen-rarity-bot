@@ -1,0 +1,35 @@
+{
+    "name": "chikn #4628",
+    "description": "chikn #4628",
+    "image": "https://cdn1.chikn.farm/images/5e6b9e068775aeb3bdec9ff861ab5151d2931641.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden crusader"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

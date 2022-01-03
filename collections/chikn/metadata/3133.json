@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3133",
+    "description": "chikn #3133",
+    "image": "https://cdn1.chikn.farm/images/00c6c539ec99221a7588398513ff7fe0b82b7125.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

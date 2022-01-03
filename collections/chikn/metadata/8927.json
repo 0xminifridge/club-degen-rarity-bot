@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8927",
+    "description": "chikn #8927",
+    "image": "https://cdn1.chikn.farm/images/13d9c143e6b928517297455d133e901cc2155a20.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

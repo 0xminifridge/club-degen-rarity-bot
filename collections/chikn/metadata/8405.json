@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8405",
+    "description": "chikn #8405",
+    "image": "https://cdn1.chikn.farm/images/5a062c58cbeff07596f4471216c073fbdc50767c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

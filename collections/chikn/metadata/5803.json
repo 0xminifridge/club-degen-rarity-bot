@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5803",
+    "description": "chikn #5803",
+    "image": "https://cdn1.chikn.farm/images/a7a638a71281d099845a067d2e252f03fedd01ea.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9955",
+    "description": "chikn #9955",
+    "image": "https://cdn1.chikn.farm/images/e98697a08133a3e3b86e98eac844541dca9e704b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

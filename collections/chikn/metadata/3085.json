@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3085",
+    "description": "chikn #3085",
+    "image": "https://cdn1.chikn.farm/images/6172a4f30029062d99d457ba5891b72f15d3ca30.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

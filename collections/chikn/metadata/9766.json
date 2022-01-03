@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9766",
+    "description": "chikn #9766",
+    "image": "https://cdn1.chikn.farm/images/1e04ab2ca151d596abf8e116faf5528d7c38413d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

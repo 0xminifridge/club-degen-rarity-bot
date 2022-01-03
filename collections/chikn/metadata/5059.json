@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5059",
+    "description": "chikn #5059",
+    "image": "https://cdn1.chikn.farm/images/08e930f4784732838ae2a1b46e1eb08e5ce6c939.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

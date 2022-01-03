@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8105",
+    "description": "chikn #8105",
+    "image": "https://cdn1.chikn.farm/images/e597605eef891e051bdb6f0aab2448f1745ce093.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

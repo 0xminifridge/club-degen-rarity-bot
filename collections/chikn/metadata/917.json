@@ -1,0 +1,23 @@
+{
+    "name": "chikn #917",
+    "description": "chikn #917",
+    "image": "https://cdn1.chikn.farm/images/fed33af5cbdde9716d5a1d112e7c7d560f3e31e5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5078",
+    "description": "chikn #5078",
+    "image": "https://cdn1.chikn.farm/images/41a702b17bd472a5cb469b1067124f0807962399.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "real feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

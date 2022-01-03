@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7437",
+    "description": "chikn #7437",
+    "image": "https://cdn1.chikn.farm/images/3ffd29279fff2ca129e733cfbd00b27c16a77cb3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

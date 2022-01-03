@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1853",
+    "description": "chikn #1853",
+    "image": "https://cdn1.chikn.farm/images/83bc47826f812b43d33f1796904a944e524e2e8c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

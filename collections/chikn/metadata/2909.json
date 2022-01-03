@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2909",
+    "description": "chikn #2909",
+    "image": "https://cdn1.chikn.farm/images/c016418380b1597319a18e2ceaa4e37dd05afd88.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

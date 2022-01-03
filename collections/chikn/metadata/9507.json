@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9507",
+    "description": "chikn #9507",
+    "image": "https://cdn1.chikn.farm/images/6b28a1ba394494be54337b7c1511f57ebf0e1773.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

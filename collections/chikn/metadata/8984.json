@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8984",
+    "description": "chikn #8984",
+    "image": "https://cdn1.chikn.farm/images/0a46fb627e2249070d3282cbab8f3e2240c3223e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1913",
+    "description": "chikn #1913",
+    "image": "https://cdn1.chikn.farm/images/ccb6e70a04466ae2f2b9318f9767f932ce29c0c3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

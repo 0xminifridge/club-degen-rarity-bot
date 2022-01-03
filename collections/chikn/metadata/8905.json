@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8905",
+    "description": "chikn #8905",
+    "image": "https://cdn1.chikn.farm/images/2b93ebb91dc9f7b985b3063bff0892b5dcec65db.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "chikn #2932",
+    "description": "chikn #2932",
+    "image": "https://cdn1.chikn.farm/images/f3fab0b80ffb28a36a68732687271976fc15d670.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

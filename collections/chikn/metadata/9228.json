@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9228",
+    "description": "chikn #9228",
+    "image": "https://cdn1.chikn.farm/images/fa895e7c70ed6f238bf062d3b3e1a1936a48b3b4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

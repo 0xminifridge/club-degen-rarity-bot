@@ -1,0 +1,19 @@
+{
+    "name": "chikn #207",
+    "description": "chikn #207",
+    "image": "https://cdn1.chikn.farm/images/2661229b40a8dc6b8d4774e8c7edc019b4504959.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

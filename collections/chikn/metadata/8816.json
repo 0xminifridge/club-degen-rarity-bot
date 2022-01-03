@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8816",
+    "description": "chikn #8816",
+    "image": "https://cdn1.chikn.farm/images/9bfd83f56e9ad36aec325295325e6153b1879b77.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

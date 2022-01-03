@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8496",
+    "description": "chikn #8496",
+    "image": "https://cdn1.chikn.farm/images/ce3712dba356e3d73de88b59fa22413d1bd26641.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8610",
+    "description": "chikn #8610",
+    "image": "https://cdn1.chikn.farm/images/da0e411042af68db65387f7cb74617d975be8962.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

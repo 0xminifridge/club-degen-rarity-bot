@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9160",
+    "description": "chikn #9160",
+    "image": "https://cdn1.chikn.farm/images/a85c24b68d23da822832024b376bece5972d62a9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9789",
+    "description": "chikn #9789",
+    "image": "https://cdn1.chikn.farm/images/769fd4c50ae3009a6564b2dac54eb17e213045c8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

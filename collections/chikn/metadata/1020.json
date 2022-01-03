@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1020",
+    "description": "chikn #1020",
+    "image": "https://cdn1.chikn.farm/images/769673da80ecad5962f24a8b545be5fa56e3b431.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

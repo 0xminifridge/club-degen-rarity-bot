@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8077",
+    "description": "chikn #8077",
+    "image": "https://cdn1.chikn.farm/images/b43947a6b6b99bf01cd4eb5dd3ffe4fdd9975f9a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

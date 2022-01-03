@@ -1,0 +1,35 @@
+{
+    "name": "chikn #9497",
+    "description": "chikn #9497",
+    "image": "https://cdn1.chikn.farm/images/3db23a01f81396ca7d9a57db3b9eee90633f7764.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "karate kid"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

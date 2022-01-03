@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7553",
+    "description": "chikn #7553",
+    "image": "https://cdn1.chikn.farm/images/ab6efb6711eb444f8ba00d285aff29b1fe97db18.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

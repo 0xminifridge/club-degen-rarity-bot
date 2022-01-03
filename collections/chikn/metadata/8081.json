@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8081",
+    "description": "chikn #8081",
+    "image": "https://cdn1.chikn.farm/images/73657485c616bc93c1c40db76b436dd49e56ae5d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

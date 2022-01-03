@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6848",
+    "description": "chikn #6848",
+    "image": "https://cdn1.chikn.farm/images/bb3f22fc1905877066d70e3f0b47636b7e3b0a00.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

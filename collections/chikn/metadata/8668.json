@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8668",
+    "description": "chikn #8668",
+    "image": "https://cdn1.chikn.farm/images/b0d9ee2e5809cb3d8eaff27c79605900dab44dc0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

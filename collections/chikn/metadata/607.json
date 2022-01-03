@@ -1,0 +1,31 @@
+{
+    "name": "chikn #607",
+    "description": "chikn #607",
+    "image": "https://cdn1.chikn.farm/images/d1fbb72c7b48d3c76bfc331d666e754713c0955f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

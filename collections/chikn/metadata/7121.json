@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7121",
+    "description": "chikn #7121",
+    "image": "https://cdn1.chikn.farm/images/e0e68beddffefe619169fb25b84192d2b7c9d18b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

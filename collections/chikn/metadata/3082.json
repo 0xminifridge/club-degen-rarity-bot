@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3082",
+    "description": "chikn #3082",
+    "image": "https://cdn1.chikn.farm/images/0da6e46b8209b01ac969d94b7342f39e680ed79e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "karate kid"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

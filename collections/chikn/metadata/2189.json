@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2189",
+    "description": "chikn #2189",
+    "image": "https://cdn1.chikn.farm/images/700181bbc8565e4fd6ef1026ccad89272012d12e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

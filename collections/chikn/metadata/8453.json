@@ -1,0 +1,19 @@
+{
+    "name": "chikn #8453",
+    "description": "chikn #8453",
+    "image": "https://cdn1.chikn.farm/images/6ae158da4087ee83e0818b90488765ff8a76ae4a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

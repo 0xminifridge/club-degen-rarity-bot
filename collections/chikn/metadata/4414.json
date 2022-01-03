@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4414",
+    "description": "chikn #4414",
+    "image": "https://cdn1.chikn.farm/images/6208bf3259ee2cbf83d7f41ec3911f19d8750a49.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

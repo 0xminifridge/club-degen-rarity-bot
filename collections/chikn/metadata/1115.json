@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1115",
+    "description": "chikn #1115",
+    "image": "https://cdn1.chikn.farm/images/272fe75f13706431f563492cd202a823d50a1ea1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

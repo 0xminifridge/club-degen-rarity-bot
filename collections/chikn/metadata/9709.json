@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9709",
+    "description": "chikn #9709",
+    "image": "https://cdn1.chikn.farm/images/33c36dcb0a237f2829185e8e8bf9eed1150b3231.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

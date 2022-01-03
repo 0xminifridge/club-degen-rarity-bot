@@ -1,0 +1,27 @@
+{
+    "name": "chikn #503",
+    "description": "chikn #503",
+    "image": "https://cdn1.chikn.farm/images/4a35e581d154e41ddf02087e0357e81c7aa50c5d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

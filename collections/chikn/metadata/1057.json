@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1057",
+    "description": "chikn #1057",
+    "image": "https://cdn1.chikn.farm/images/e1082348d054b01d1d776bcfea88cda3990dcd15.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

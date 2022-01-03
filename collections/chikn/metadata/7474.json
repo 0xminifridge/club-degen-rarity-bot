@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7474",
+    "description": "chikn #7474",
+    "image": "https://cdn1.chikn.farm/images/a4de58a2f0b8fa5437ae998d3aff904f61e2eed3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

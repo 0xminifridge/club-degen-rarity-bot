@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2584",
+    "description": "chikn #2584",
+    "image": "https://cdn1.chikn.farm/images/18d50fced627e48fed8b729ff5315d2c6ec8b4ee.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

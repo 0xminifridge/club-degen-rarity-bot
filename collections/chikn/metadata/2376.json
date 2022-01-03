@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2376",
+    "description": "chikn #2376",
+    "image": "https://cdn1.chikn.farm/images/d36f21bf5fc10747bafb41ef91e1275c674dcee7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3710",
+    "description": "chikn #3710",
+    "image": "https://cdn1.chikn.farm/images/e6c9d6853d165de6d6f1242bbceef21bee7aaf88.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

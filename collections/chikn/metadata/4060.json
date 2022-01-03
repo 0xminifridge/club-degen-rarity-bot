@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4060",
+    "description": "chikn #4060",
+    "image": "https://cdn1.chikn.farm/images/c7faf35f188a60a6587536f0455c4af09d8d8538.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

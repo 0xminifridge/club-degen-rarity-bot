@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2373",
+    "description": "chikn #2373",
+    "image": "https://cdn1.chikn.farm/images/256043b73911fe5b49c59f654beabc952e9562b7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

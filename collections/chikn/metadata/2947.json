@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2947",
+    "description": "chikn #2947",
+    "image": "https://cdn1.chikn.farm/images/b3fa21319e52a17cf5a4524380fe3d224857f240.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax degen"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

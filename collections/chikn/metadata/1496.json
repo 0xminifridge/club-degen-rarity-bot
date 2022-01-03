@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1496",
+    "description": "chikn #1496",
+    "image": "https://cdn1.chikn.farm/images/97faac94ea9ba6bcfcad7b41e97010278686371e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

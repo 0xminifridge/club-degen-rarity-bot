@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4174",
+    "description": "chikn #4174",
+    "image": "https://cdn1.chikn.farm/images/767064978bc5fb070bfcd84776efb737629084eb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

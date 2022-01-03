@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3553",
+    "description": "chikn #3553",
+    "image": "https://cdn1.chikn.farm/images/5207fa27e1226dd62ddef792098e17e4c4399ec4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

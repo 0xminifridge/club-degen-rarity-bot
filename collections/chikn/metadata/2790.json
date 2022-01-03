@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2790",
+    "description": "chikn #2790",
+    "image": "https://cdn1.chikn.farm/images/73a15157ad67906b81be1d6a3e1deb312b20a248.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pineapple"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

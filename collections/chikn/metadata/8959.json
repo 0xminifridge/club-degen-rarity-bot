@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8959",
+    "description": "chikn #8959",
+    "image": "https://cdn1.chikn.farm/images/65b7021d173ee3f35285af80dce3ee984961f523.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

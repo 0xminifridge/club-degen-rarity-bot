@@ -1,0 +1,35 @@
+{
+    "name": "chikn #86",
+    "description": "chikn #86",
+    "image": "https://cdn1.chikn.farm/images/1afa3431f3ba81939ed494655d5e8f784bdfd1c3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "tungsten cube"
+        },
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

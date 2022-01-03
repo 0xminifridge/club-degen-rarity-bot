@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9193",
+    "description": "chikn #9193",
+    "image": "https://cdn1.chikn.farm/images/ce155f84ffa7d1e827ff805b74d7436604b6baa3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

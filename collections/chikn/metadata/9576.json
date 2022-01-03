@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9576",
+    "description": "chikn #9576",
+    "image": "https://cdn1.chikn.farm/images/33c6fa05ed5ff058c0c83cfeb88c534ba7653139.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

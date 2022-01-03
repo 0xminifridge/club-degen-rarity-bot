@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4842",
+    "description": "chikn #4842",
+    "image": "https://cdn1.chikn.farm/images/822f02dab0c6e0a48eefd7e8ed6414ccd28f631d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #6250",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/6250.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wink"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BGK Crown"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Jean Jacket"
+        }
+    ]
+}

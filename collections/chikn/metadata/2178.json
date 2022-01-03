@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2178",
+    "description": "chikn #2178",
+    "image": "https://cdn1.chikn.farm/images/39058960e60ee5be4c27d7f7e71291bfc3da80a8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

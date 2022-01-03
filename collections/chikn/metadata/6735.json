@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6735",
+    "description": "chikn #6735",
+    "image": "https://cdn1.chikn.farm/images/887af3ab73fe82126148bd520426faca83002779.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "icey stare"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

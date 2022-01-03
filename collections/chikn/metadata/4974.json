@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4974",
+    "description": "chikn #4974",
+    "image": "https://cdn1.chikn.farm/images/6af6a5eb1cd8afa33d79a2904f84a11484fb66aa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "chikn #2628",
+    "description": "chikn #2628",
+    "image": "https://cdn1.chikn.farm/images/17b4a7c48cc9698c4f663552c73c14e1b1f29afb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

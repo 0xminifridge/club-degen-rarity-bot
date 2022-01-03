@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8059",
+    "description": "chikn #8059",
+    "image": "https://cdn1.chikn.farm/images/a04dbb79f2142facae803f7e21c83bf621bc6c1c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

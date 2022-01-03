@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5526",
+    "description": "chikn #5526",
+    "image": "https://cdn1.chikn.farm/images/84d4f6211751e0a1620c0efce54fa2f608f96600.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

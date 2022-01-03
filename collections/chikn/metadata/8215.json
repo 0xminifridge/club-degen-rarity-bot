@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8215",
+    "description": "chikn #8215",
+    "image": "https://cdn1.chikn.farm/images/691d578ca7358e18fbf2b94575252cdf893613e7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

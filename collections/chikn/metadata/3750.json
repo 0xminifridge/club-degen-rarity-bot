@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3750",
+    "description": "chikn #3750",
+    "image": "https://cdn1.chikn.farm/images/63322400bc1c145e9b8f9fa721f8cfb08e63d8e4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

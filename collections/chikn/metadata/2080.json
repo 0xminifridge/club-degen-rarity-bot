@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2080",
+    "description": "chikn #2080",
+    "image": "https://cdn1.chikn.farm/images/b04d661f4406ce2a5b866f689a58ae681f3f4656.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

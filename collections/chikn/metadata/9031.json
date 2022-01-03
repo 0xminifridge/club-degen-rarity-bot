@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9031",
+    "description": "chikn #9031",
+    "image": "https://cdn1.chikn.farm/images/9870a957e34f3cc33efd738abcdb54437175a007.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

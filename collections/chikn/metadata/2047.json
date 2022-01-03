@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2047",
+    "description": "chikn #2047",
+    "image": "https://cdn1.chikn.farm/images/390c1aabde0a3b80f04ab851e6c90f33464aad64.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

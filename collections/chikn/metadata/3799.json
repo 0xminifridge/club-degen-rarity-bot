@@ -1,0 +1,35 @@
+{
+    "name": "chikn #3799",
+    "description": "chikn #3799",
+    "image": "https://cdn1.chikn.farm/images/e85cf64fc7ce5c0e26d92dc7450d58efbcde53b7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #240",
+    "description": "chikn #240",
+    "image": "https://cdn1.chikn.farm/images/586f2be3501345b10aeb82c55d59098caec9d7f2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "karate kid"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

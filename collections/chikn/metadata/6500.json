@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6500",
+    "description": "chikn #6500",
+    "image": "https://cdn1.chikn.farm/images/0ce2b38b1ec89b8a79a5909384a3b8d0cbd8fe5b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

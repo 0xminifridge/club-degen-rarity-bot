@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7270",
+    "description": "chikn #7270",
+    "image": "https://cdn1.chikn.farm/images/8374f4e4d273c3748e2b26041460af44336e1a53.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

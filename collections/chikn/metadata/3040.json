@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3040",
+    "description": "chikn #3040",
+    "image": "https://cdn1.chikn.farm/images/0d2d363c19d4de742539073ef4d80a8ab7287b49.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #88",
+    "description": "chikn #88",
+    "image": "https://cdn1.chikn.farm/images/a1490017051ff00cf19ed764ecb511698faa4c47.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

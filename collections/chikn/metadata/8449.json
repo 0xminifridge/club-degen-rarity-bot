@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8449",
+    "description": "chikn #8449",
+    "image": "https://cdn1.chikn.farm/images/e47e6aa618d3faafe10ce9cf6f0634ba9208086d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

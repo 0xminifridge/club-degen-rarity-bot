@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7689",
+    "description": "chikn #7689",
+    "image": "https://cdn1.chikn.farm/images/216e0819ecb2628c7fb68225d8355e5876c92abe.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

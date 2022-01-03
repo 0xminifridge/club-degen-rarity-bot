@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5090",
+    "description": "chikn #5090",
+    "image": "https://cdn1.chikn.farm/images/8067d037213130e601aee7d870ccbd9727eeb6d1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

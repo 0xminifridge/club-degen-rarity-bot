@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3965",
+    "description": "chikn #3965",
+    "image": "https://cdn1.chikn.farm/images/004cf1597b3ad2c359689dee1d2243a7f8dd0c65.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

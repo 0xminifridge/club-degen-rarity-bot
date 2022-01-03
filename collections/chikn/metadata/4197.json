@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4197",
+    "description": "chikn #4197",
+    "image": "https://cdn1.chikn.farm/images/27404312dd3777e51ca9c33eec3be000bafa83f7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

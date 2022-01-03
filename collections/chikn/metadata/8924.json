@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8924",
+    "description": "chikn #8924",
+    "image": "https://cdn1.chikn.farm/images/5ce5da5373468e230eb13af865eb6b86fb7488a3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

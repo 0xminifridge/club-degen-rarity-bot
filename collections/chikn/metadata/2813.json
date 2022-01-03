@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2813",
+    "description": "chikn #2813",
+    "image": "https://cdn1.chikn.farm/images/19573fb3f7017b56b6574d20ff8cf0f198aab00c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

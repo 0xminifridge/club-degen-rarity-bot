@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3614",
+    "description": "chikn #3614",
+    "image": "https://cdn1.chikn.farm/images/9f0b259fdc80681ea65b5e7f4dfb799e438f42f0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

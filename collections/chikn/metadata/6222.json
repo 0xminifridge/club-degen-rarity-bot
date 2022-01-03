@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6222",
+    "description": "chikn #6222",
+    "image": "https://cdn1.chikn.farm/images/70ec2c65dbd0ac66a1f220c92bc3c3503db7782a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

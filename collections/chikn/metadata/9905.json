@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9905",
+    "description": "chikn #9905",
+    "image": "https://cdn1.chikn.farm/images/6478c7d06a9465b0a78894b3ea60ea98a2bec1de.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

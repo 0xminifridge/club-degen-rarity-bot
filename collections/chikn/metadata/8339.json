@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8339",
+    "description": "chikn #8339",
+    "image": "https://cdn1.chikn.farm/images/17ff75d17b7ea7582496a789f3ff0a1bf0f5471d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

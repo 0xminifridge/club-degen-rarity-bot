@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9053",
+    "description": "chikn #9053",
+    "image": "https://cdn1.chikn.farm/images/48e3446d55848c4e537ac40a29580114c7658d19.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7825",
+    "description": "chikn #7825",
+    "image": "https://cdn1.chikn.farm/images/0959fab8f7dd3741a62eabde76d4aa5df9272379.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

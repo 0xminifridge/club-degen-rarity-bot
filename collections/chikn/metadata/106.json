@@ -1,0 +1,27 @@
+{
+    "name": "chikn #106",
+    "description": "chikn #106",
+    "image": "https://cdn1.chikn.farm/images/ab422ee5de256d6a1bd2847a731e1111b2fc28db.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

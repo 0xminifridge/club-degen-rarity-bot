@@ -1,0 +1,27 @@
+{
+    "name": "chikn #938",
+    "description": "chikn #938",
+    "image": "https://cdn1.chikn.farm/images/688652ce2a2de73ece35aaedeee99000104d267f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

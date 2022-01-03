@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6400",
+    "description": "chikn #6400",
+    "image": "https://cdn1.chikn.farm/images/3b7bc451d4ec4dd58fe6bc822b275a3fc4aefd0b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

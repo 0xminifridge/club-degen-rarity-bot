@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4953",
+    "description": "chikn #4953",
+    "image": "https://cdn1.chikn.farm/images/50733b1c57acd261432ce213bdc95b54b3b242e6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "daft punk"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

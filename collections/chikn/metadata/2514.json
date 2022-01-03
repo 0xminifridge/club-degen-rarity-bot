@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2514",
+    "description": "chikn #2514",
+    "image": "https://cdn1.chikn.farm/images/0263d403bed716c698facf85bf32adbd05e0b97b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

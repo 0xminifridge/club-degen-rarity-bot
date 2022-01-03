@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1863",
+    "description": "chikn #1863",
+    "image": "https://cdn1.chikn.farm/images/ba7629199f74490818175070529b4261b2f8bec6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

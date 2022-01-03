@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7392",
+    "description": "chikn #7392",
+    "image": "https://cdn1.chikn.farm/images/fd3ac331e4a772d724862f66f82d9e1945aae06f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

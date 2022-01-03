@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9929",
+    "description": "chikn #9929",
+    "image": "https://cdn1.chikn.farm/images/cfa697c64b0d4129cf3fe79534f50bd96cb32760.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "luckiest red cap"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

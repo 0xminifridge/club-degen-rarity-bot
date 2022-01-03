@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9124",
+    "description": "chikn #9124",
+    "image": "https://cdn1.chikn.farm/images/84e5e380829b6af4a33600eb21849cba0b1c8651.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

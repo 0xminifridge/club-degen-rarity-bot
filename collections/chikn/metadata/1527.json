@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1527",
+    "description": "chikn #1527",
+    "image": "https://cdn1.chikn.farm/images/f65ee7f012b575b281e6f82636518647ac6b8594.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

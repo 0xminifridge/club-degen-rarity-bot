@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6747",
+    "description": "chikn #6747",
+    "image": "https://cdn1.chikn.farm/images/c8b7065ef05e1f6b5683b0b317fd058ee83e5f1a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

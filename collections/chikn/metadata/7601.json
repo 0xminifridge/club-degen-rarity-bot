@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7601",
+    "description": "chikn #7601",
+    "image": "https://cdn1.chikn.farm/images/2de99d71e0a0100f739fb6715dce30de1ac7b17a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5008",
+    "description": "chikn #5008",
+    "image": "https://cdn1.chikn.farm/images/e79304e789a9c6959a17b0fbc1749151e34ed1d5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

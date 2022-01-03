@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3232",
+    "description": "chikn #3232",
+    "image": "https://cdn1.chikn.farm/images/525382e887d03c3f7c30e9dbe92490c1ade5bf54.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

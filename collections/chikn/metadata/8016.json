@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8016",
+    "description": "chikn #8016",
+    "image": "https://cdn1.chikn.farm/images/6bc4fc624a5cc0061d8b139a0ec5c56123c5f1b8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

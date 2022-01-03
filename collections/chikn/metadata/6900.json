@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6900",
+    "description": "chikn #6900",
+    "image": "https://cdn1.chikn.farm/images/459fd292172dc35c6d1e60ebcf3aa69245e44fc2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

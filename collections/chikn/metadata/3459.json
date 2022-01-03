@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3459",
+    "description": "chikn #3459",
+    "image": "https://cdn1.chikn.farm/images/66cae04f3d712503fdf68c62769d78cea6eb647c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

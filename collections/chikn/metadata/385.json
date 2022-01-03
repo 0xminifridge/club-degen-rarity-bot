@@ -1,0 +1,23 @@
+{
+    "name": "chikn #385",
+    "description": "chikn #385",
+    "image": "https://cdn1.chikn.farm/images/a9b65d9d0c9f4c9bca24f1db7ea3bb64d52ab015.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "chikn #7702",
+    "description": "chikn #7702",
+    "image": "https://cdn1.chikn.farm/images/0436677c5b3197585e3547e2c0eef31a5d5cac85.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

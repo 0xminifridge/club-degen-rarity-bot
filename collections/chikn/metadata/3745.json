@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3745",
+    "description": "chikn #3745",
+    "image": "https://cdn1.chikn.farm/images/b4a43eef3566e91a23ab0af46c242e47eaec48d3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

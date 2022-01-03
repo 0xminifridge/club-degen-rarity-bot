@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9594",
+    "description": "chikn #9594",
+    "image": "https://cdn1.chikn.farm/images/a0006bc04954edb5069c20f421ccb47241687e20.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1224",
+    "description": "chikn #1224",
+    "image": "https://cdn1.chikn.farm/images/c9861420638a82f0c6ffda4ec1560bd76bb5c8dd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

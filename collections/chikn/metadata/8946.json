@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8946",
+    "description": "chikn #8946",
+    "image": "https://cdn1.chikn.farm/images/de11e9eb6a216c4d9d82c0dc315c3c6b50b01a1c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

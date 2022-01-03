@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9131",
+    "description": "chikn #9131",
+    "image": "https://cdn1.chikn.farm/images/8a4f51e325e4e13d5fafa6d8009f23937c72985e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

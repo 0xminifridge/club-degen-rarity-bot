@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6206",
+    "description": "chikn #6206",
+    "image": "https://cdn1.chikn.farm/images/45ed51913dc4d1bd2610ce09659df3cb11a32ef5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

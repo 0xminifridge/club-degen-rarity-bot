@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3334",
+    "description": "chikn #3334",
+    "image": "https://cdn1.chikn.farm/images/e05a5950436577339d08767987d18265f4bad260.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

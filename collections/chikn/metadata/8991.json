@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8991",
+    "description": "chikn #8991",
+    "image": "https://cdn1.chikn.farm/images/ef8bf1ec43a0776a51aa087675b60f4e6b9c6430.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "luckiest red cap"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

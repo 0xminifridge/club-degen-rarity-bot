@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5865",
+    "description": "chikn #5865",
+    "image": "https://cdn1.chikn.farm/images/2a1e0361279680978abe7c940518502cdada1e27.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4452",
+    "description": "chikn #4452",
+    "image": "https://cdn1.chikn.farm/images/9a7799c1af6a178f0407147a072ba26893156849.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

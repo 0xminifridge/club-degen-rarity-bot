@@ -1,0 +1,31 @@
+{
+    "name": "chikn #814",
+    "description": "chikn #814",
+    "image": "https://cdn1.chikn.farm/images/4507dc69280914c9f4c39fb9913cd585f00e84fb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "icey stare"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

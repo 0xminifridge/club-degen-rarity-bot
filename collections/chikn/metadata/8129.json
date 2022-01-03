@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8129",
+    "description": "chikn #8129",
+    "image": "https://cdn1.chikn.farm/images/7ea6b980b98adb0d57255ab79e53750ccd3b9b97.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

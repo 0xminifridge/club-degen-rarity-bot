@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1001",
+    "description": "chikn #1001",
+    "image": "https://cdn1.chikn.farm/images/77df424bb102e961ea196b8e5b4e3c8141a738ca.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

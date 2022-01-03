@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6707",
+    "description": "chikn #6707",
+    "image": "https://cdn1.chikn.farm/images/dadf9bb13fcd4bd7a8e8413dcb3a92ab3065f6b5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

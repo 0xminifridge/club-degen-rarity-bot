@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2929",
+    "description": "chikn #2929",
+    "image": "https://cdn1.chikn.farm/images/bd16031414c8c5fbcaa88d081a0b0a6cc76e053b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

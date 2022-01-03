@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2415",
+    "description": "chikn #2415",
+    "image": "https://cdn1.chikn.farm/images/745fc7101addebd8537674c11f79859cf49dd7f7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

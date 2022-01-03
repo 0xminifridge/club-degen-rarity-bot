@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9087",
+    "description": "chikn #9087",
+    "image": "https://cdn1.chikn.farm/images/ac384e36026b01a117d5b9b14d8f2961077ecc37.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

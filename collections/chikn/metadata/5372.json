@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5372",
+    "description": "chikn #5372",
+    "image": "https://cdn1.chikn.farm/images/67dfb17af8ce8e195b3ff38cd184a8dab038165d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

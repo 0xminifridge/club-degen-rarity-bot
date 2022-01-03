@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3962",
+    "description": "chikn #3962",
+    "image": "https://cdn1.chikn.farm/images/3e340d829751778e32ceb55c3cabb25e1160d5ae.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

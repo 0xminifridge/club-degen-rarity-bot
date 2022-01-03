@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5883",
+    "description": "chikn #5883",
+    "image": "https://cdn1.chikn.farm/images/bb689cf2566dec77fadea89e3227886dd1226e2c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

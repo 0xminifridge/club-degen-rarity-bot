@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5764",
+    "description": "chikn #5764",
+    "image": "https://cdn1.chikn.farm/images/2265936ad9735eda90dca15c6fcfaceced3c296e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

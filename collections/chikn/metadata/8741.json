@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8741",
+    "description": "chikn #8741",
+    "image": "https://cdn1.chikn.farm/images/1d7635d4e47327451509380c2ea41e84319306a7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

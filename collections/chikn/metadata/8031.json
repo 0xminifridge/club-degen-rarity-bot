@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8031",
+    "description": "chikn #8031",
+    "image": "https://cdn1.chikn.farm/images/22aa7ce273397097d6d036996bc412f04855fb88.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

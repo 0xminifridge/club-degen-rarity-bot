@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6526",
+    "description": "chikn #6526",
+    "image": "https://cdn1.chikn.farm/images/89f8f19ece9c294f46efe939335f549c690c5c1c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

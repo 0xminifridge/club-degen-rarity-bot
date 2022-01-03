@@ -1,0 +1,27 @@
+{
+    "name": "chikn #464",
+    "description": "chikn #464",
+    "image": "https://cdn1.chikn.farm/images/a4f66cbd80344a82b2ec9fb12e034849cda95960.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

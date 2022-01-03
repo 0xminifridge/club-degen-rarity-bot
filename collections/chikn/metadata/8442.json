@@ -1,0 +1,19 @@
+{
+    "name": "chikn #8442",
+    "description": "chikn #8442",
+    "image": "https://cdn1.chikn.farm/images/3f1879ce87b8b710abd976fdfa7eeea17dbc2941.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

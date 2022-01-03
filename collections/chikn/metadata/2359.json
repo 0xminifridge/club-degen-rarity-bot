@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2359",
+    "description": "chikn #2359",
+    "image": "https://cdn1.chikn.farm/images/973d78ca1834c59fc8d65ca225b322d6b5a6b611.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

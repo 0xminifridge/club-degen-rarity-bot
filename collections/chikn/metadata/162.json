@@ -1,0 +1,27 @@
+{
+    "name": "chikn #162",
+    "description": "chikn #162",
+    "image": "https://cdn1.chikn.farm/images/98bd33450896d23b72e91740ecb2db452716988b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

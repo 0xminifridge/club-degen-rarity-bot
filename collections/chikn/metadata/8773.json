@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8773",
+    "description": "chikn #8773",
+    "image": "https://cdn1.chikn.farm/images/5060f81c001ae19a68383dd7af8eb509e18bd04b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

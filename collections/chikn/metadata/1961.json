@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1961",
+    "description": "chikn #1961",
+    "image": "https://cdn1.chikn.farm/images/788c37710e08a26fcf7e36df92f369947ae4ea33.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "inherited royalty"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

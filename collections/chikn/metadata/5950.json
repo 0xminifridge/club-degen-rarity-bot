@@ -1,0 +1,39 @@
+{
+    "name": "chikn #5950",
+    "description": "chikn #5950",
+    "image": "https://cdn1.chikn.farm/images/f8f8ce66c389d858d5659b00af98250edf9daea6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "tungsten cube"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8390",
+    "description": "chikn #8390",
+    "image": "https://cdn1.chikn.farm/images/d89d1acd42a84a7e5572e1d9f7b93de8cddbcb02.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9663",
+    "description": "chikn #9663",
+    "image": "https://cdn1.chikn.farm/images/93c3746aef8bf0ad1caae71484c180e78598b3b7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

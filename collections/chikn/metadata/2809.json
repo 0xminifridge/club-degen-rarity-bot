@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2809",
+    "description": "chikn #2809",
+    "image": "https://cdn1.chikn.farm/images/803d53d0037934250ac47e92904d755c17648802.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

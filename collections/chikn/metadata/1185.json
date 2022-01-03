@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1185",
+    "description": "chikn #1185",
+    "image": "https://cdn1.chikn.farm/images/1ffa6ed4976f69abd44f23aaea45f65da0a1f2a7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

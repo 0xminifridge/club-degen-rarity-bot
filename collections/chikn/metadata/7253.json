@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7253",
+    "description": "chikn #7253",
+    "image": "https://cdn1.chikn.farm/images/64fdc4a6a88e8019d31c192bbdba4f15f9d96f98.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

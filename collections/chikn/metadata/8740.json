@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8740",
+    "description": "chikn #8740",
+    "image": "https://cdn1.chikn.farm/images/dd003f9301b496206b4c2730e26c64cdd4b1cb5a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

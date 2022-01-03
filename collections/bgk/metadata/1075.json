@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #1075",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/1075.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Squint"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Surfer"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Life Jacket"
+        }
+    ]
+}

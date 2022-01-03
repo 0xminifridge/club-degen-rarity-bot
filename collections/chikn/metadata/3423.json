@@ -1,0 +1,19 @@
+{
+    "name": "chikn #3423",
+    "description": "chikn #3423",
+    "image": "https://cdn1.chikn.farm/images/d88701a664fcb7e61995579885200df064226f95.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

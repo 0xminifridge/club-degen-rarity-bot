@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1859",
+    "description": "chikn #1859",
+    "image": "https://cdn1.chikn.farm/images/bb31a3544746c175247ba877abd181c9ffcdbc1e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

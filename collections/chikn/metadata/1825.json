@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1825",
+    "description": "chikn #1825",
+    "image": "https://cdn1.chikn.farm/images/e7c9f4959fb2de0e8c307e14ce2faa152deca329.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

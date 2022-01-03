@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7331",
+    "description": "chikn #7331",
+    "image": "https://cdn1.chikn.farm/images/6f7c956cafb3f9a67b3db906a8cca029032a8a97.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

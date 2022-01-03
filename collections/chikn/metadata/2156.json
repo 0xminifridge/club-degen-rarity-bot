@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2156",
+    "description": "chikn #2156",
+    "image": "https://cdn1.chikn.farm/images/b334cc18fca13d0fcd0052444e8be34f4415dd7a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3552",
+    "description": "chikn #3552",
+    "image": "https://cdn1.chikn.farm/images/c7d5592a481a1a8d96f6327b1094ec79b23de1d4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6758",
+    "description": "chikn #6758",
+    "image": "https://cdn1.chikn.farm/images/1b263221fdc632ea54c8c782e5494a1cba0a22e4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

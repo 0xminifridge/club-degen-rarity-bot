@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8071",
+    "description": "chikn #8071",
+    "image": "https://cdn1.chikn.farm/images/104c329393a88530e144fd26d5763d44f302b05a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "boxhead"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

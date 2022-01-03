@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1615",
+    "description": "chikn #1615",
+    "image": "https://cdn1.chikn.farm/images/127eead66a3b3468b2618cd4eb761662abad80ad.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

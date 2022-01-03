@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8136",
+    "description": "chikn #8136",
+    "image": "https://cdn1.chikn.farm/images/bc3d883c4ad5df1c1f280faae4fdada037b7f5f5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

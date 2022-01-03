@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8791",
+    "description": "chikn #8791",
+    "image": "https://cdn1.chikn.farm/images/8a97091b9872f82547ef2ecd07d2cfb629ff7c13.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

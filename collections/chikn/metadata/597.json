@@ -1,0 +1,23 @@
+{
+    "name": "chikn #597",
+    "description": "chikn #597",
+    "image": "https://cdn1.chikn.farm/images/fd8d31344b78d8e0d2eab76f8fb88da3d31530bd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

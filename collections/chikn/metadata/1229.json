@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1229",
+    "description": "chikn #1229",
+    "image": "https://cdn1.chikn.farm/images/be12a3b7da4a89d2e2a9ce95bc7c0a9a13af03b5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

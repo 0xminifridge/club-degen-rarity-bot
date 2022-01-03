@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1343",
+    "description": "chikn #1343",
+    "image": "https://cdn1.chikn.farm/images/e75fdc5bdac89c3634e62dc2348c05adc9390b0d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

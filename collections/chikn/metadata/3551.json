@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3551",
+    "description": "chikn #3551",
+    "image": "https://cdn1.chikn.farm/images/f3ebe5cfb1df50a4e0430029518ec80b83a9ca86.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

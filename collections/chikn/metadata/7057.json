@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7057",
+    "description": "chikn #7057",
+    "image": "https://cdn1.chikn.farm/images/6f0278f3a16797393f602520a8acd3fcdcb86d45.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

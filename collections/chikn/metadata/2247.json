@@ -1,0 +1,19 @@
+{
+    "name": "chikn #2247",
+    "description": "chikn #2247",
+    "image": "https://cdn1.chikn.farm/images/9324b5408a74723c3811330b3bb1a1a929582e11.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "tungsten cube"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

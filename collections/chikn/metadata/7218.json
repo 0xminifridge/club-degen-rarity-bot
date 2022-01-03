@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7218",
+    "description": "chikn #7218",
+    "image": "https://cdn1.chikn.farm/images/f8b26eb62f99e5e62874cbe663b0816da9099c59.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

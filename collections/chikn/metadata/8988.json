@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8988",
+    "description": "chikn #8988",
+    "image": "https://cdn1.chikn.farm/images/5374b37d3edca5a70ebde7dce63f9834ddc9449b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2812",
+    "description": "chikn #2812",
+    "image": "https://cdn1.chikn.farm/images/5c8419def0f4fecbdd0c220b936c182fc3458d31.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

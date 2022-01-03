@@ -1,0 +1,35 @@
+{
+    "name": "chikn #479",
+    "description": "chikn #479",
+    "image": "https://cdn1.chikn.farm/images/5e993e1cd8f2b9d93165081523241046e9508c23.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

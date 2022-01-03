@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8748",
+    "description": "chikn #8748",
+    "image": "https://cdn1.chikn.farm/images/6e6d37fe1a295d17adace67cb5caf5193a6911d8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

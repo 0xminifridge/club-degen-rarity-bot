@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6837",
+    "description": "chikn #6837",
+    "image": "https://cdn1.chikn.farm/images/c2d5ae99219ed640ea0e7dbfbde68ae2ac66599a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

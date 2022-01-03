@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1543",
+    "description": "chikn #1543",
+    "image": "https://cdn1.chikn.farm/images/99b2addca2c757b672e060547a38435b518804fe.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

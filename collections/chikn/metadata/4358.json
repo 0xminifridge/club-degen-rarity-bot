@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4358",
+    "description": "chikn #4358",
+    "image": "https://cdn1.chikn.farm/images/bc0d704ea9ccc499357c4249e2f3220c0dff90d3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

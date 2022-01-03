@@ -1,0 +1,31 @@
+{
+    "name": "chikn #211",
+    "description": "chikn #211",
+    "image": "https://cdn1.chikn.farm/images/1d8bfc88803c6e94119e46508e739565bee06912.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "boxhead"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

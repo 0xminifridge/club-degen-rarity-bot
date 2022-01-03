@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2657",
+    "description": "chikn #2657",
+    "image": "https://cdn1.chikn.farm/images/38aad44bbcaa6467d9002d747789d2b96048c986.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "real feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #39",
+    "description": "chikn #39",
+    "image": "https://cdn1.chikn.farm/images/d7d4affb55d69175c1d9b03dd725012f34f6d617.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

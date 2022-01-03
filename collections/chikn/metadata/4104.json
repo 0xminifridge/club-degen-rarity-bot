@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4104",
+    "description": "chikn #4104",
+    "image": "https://cdn1.chikn.farm/images/145cf7ea06d07bd2c5a11c5efc11cb2fda43946e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

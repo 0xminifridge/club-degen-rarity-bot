@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2141",
+    "description": "chikn #2141",
+    "image": "https://cdn1.chikn.farm/images/18a96cc941cb241fdf98ce3c75beca9b9213b690.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

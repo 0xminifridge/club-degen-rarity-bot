@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3062",
+    "description": "chikn #3062",
+    "image": "https://cdn1.chikn.farm/images/aee9fd3b33dc95e5b2cfebdcbe114d1ab821245c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

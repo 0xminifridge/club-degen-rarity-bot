@@ -1,0 +1,27 @@
+{
+    "name": "chikn #800",
+    "description": "chikn #800",
+    "image": "https://cdn1.chikn.farm/images/0b4fa7cc22806265c2764eae82219136d72c784f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

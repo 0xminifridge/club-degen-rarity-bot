@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7481",
+    "description": "chikn #7481",
+    "image": "https://cdn1.chikn.farm/images/478d0b06c3912198da78dd51fc76eea56335e0f6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

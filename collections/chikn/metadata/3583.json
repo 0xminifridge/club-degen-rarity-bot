@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3583",
+    "description": "chikn #3583",
+    "image": "https://cdn1.chikn.farm/images/6983b22a5674e614a6d985f76ac0afc0d75225f3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

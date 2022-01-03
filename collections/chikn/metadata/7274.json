@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7274",
+    "description": "chikn #7274",
+    "image": "https://cdn1.chikn.farm/images/d2687525d89322a856fdbc341375580d69694eb0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

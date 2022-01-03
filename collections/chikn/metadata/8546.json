@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8546",
+    "description": "chikn #8546",
+    "image": "https://cdn1.chikn.farm/images/69304ea4c61af78b3b07684fd0caa271e7bd7163.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

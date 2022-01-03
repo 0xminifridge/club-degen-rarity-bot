@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6431",
+    "description": "chikn #6431",
+    "image": "https://cdn1.chikn.farm/images/35cf2353a8aed05bd445ee910a5a7e18613245a9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

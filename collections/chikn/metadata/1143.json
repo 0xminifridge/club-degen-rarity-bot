@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1143",
+    "description": "chikn #1143",
+    "image": "https://cdn1.chikn.farm/images/71c0dea7b6b8ebdd109ad979911e25cc8b39b9f2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "karate kid"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

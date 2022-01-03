@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9629",
+    "description": "chikn #9629",
+    "image": "https://cdn1.chikn.farm/images/cca7152d7f2f3bc9e69dd3de651df329d348b765.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

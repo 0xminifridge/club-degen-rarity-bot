@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3845",
+    "description": "chikn #3845",
+    "image": "https://cdn1.chikn.farm/images/6ff56b1e2ff7dbbb1f83a0752f379758da3630c1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim og"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

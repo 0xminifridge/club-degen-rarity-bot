@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3390",
+    "description": "chikn #3390",
+    "image": "https://cdn1.chikn.farm/images/92b0b7ccccdbde9939f7058130c8bf92884132d0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

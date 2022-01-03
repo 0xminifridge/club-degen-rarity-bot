@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3086",
+    "description": "chikn #3086",
+    "image": "https://cdn1.chikn.farm/images/1db51c81a92405ffe4b53c06a6f1590a8f8a3b3b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

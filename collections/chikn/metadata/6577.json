@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6577",
+    "description": "chikn #6577",
+    "image": "https://cdn1.chikn.farm/images/cdee34dd460e87d9bc72cc3568867ddf326b5680.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

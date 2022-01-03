@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1614",
+    "description": "chikn #1614",
+    "image": "https://cdn1.chikn.farm/images/b05090d71cc0085ed014aad1c91b4c131826ceee.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

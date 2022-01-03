@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2419",
+    "description": "chikn #2419",
+    "image": "https://cdn1.chikn.farm/images/caa6e619241a93930c754a063a38127ac56a0cf6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

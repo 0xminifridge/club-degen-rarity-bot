@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5452",
+    "description": "chikn #5452",
+    "image": "https://cdn1.chikn.farm/images/e750731a9604608056cb23e876eae5213102e159.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

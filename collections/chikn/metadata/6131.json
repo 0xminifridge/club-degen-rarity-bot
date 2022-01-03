@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6131",
+    "description": "chikn #6131",
+    "image": "https://cdn1.chikn.farm/images/99e088da9dbbfdd2abc98045e61be5769e89b147.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

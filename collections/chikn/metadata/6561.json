@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6561",
+    "description": "chikn #6561",
+    "image": "https://cdn1.chikn.farm/images/0cecb0540cae008cbac580f7c9541bb19f1fac28.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

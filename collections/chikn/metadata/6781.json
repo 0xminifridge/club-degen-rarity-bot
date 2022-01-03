@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6781",
+    "description": "chikn #6781",
+    "image": "https://cdn1.chikn.farm/images/7ee7d0a1dc2dfd3f40619f2a84b2cd1c1b600708.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

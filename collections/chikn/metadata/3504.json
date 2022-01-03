@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3504",
+    "description": "chikn #3504",
+    "image": "https://cdn1.chikn.farm/images/6a49b47a348baedd9d5bf02d87a60c01e9286e09.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

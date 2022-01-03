@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2737",
+    "description": "chikn #2737",
+    "image": "https://cdn1.chikn.farm/images/78ab10e91aceb26e5551fc3cfd220fc146825cd6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9639",
+    "description": "chikn #9639",
+    "image": "https://cdn1.chikn.farm/images/78b554b8301ffd184238cff065839391b7dc26e8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

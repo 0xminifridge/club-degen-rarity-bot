@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5249",
+    "description": "chikn #5249",
+    "image": "https://cdn1.chikn.farm/images/1b30168c917a65be01c522538a161f8d43439b56.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

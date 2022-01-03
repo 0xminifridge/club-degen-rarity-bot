@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1689",
+    "description": "chikn #1689",
+    "image": "https://cdn1.chikn.farm/images/95fb4aaf2aacd700065bfeb585b9abad0b08fcd6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

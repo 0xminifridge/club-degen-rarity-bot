@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8361",
+    "description": "chikn #8361",
+    "image": "https://cdn1.chikn.farm/images/4b5998c9bd64fcb8265a30b990c7223f32fa179e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

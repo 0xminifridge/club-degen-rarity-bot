@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4659",
+    "description": "chikn #4659",
+    "image": "https://cdn1.chikn.farm/images/cca63c52e52e9b1cdae56943e02d1376dddde0be.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

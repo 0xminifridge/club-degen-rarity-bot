@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8029",
+    "description": "chikn #8029",
+    "image": "https://cdn1.chikn.farm/images/a79da55cef23d9542deb639ba8c193005e1ea038.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "galactic"
+        }
+    ]
+}

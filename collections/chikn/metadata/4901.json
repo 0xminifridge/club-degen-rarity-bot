@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4901",
+    "description": "chikn #4901",
+    "image": "https://cdn1.chikn.farm/images/9b9797815cb4d5ae03612d1d2c2b2555c55275ac.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

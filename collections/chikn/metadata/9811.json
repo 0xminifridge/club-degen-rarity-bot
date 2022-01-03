@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9811",
+    "description": "chikn #9811",
+    "image": "https://cdn1.chikn.farm/images/44326521118a174b83465b070ccc03d86c34be04.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

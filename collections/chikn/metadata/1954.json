@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1954",
+    "description": "chikn #1954",
+    "image": "https://cdn1.chikn.farm/images/e2216e6ca86484a03c013a23bf2cb42c38726148.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5101",
+    "description": "chikn #5101",
+    "image": "https://cdn1.chikn.farm/images/897544aec435cd4c811b1ecbc1fe16ed080f16f2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

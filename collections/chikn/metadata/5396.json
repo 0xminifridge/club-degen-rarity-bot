@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5396",
+    "description": "chikn #5396",
+    "image": "https://cdn1.chikn.farm/images/6daaf454e444484622d8ca04f0a4b37817a0c571.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

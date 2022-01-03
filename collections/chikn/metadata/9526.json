@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9526",
+    "description": "chikn #9526",
+    "image": "https://cdn1.chikn.farm/images/0a85ec5b43ad80eb3f5df025828b586c27b350fe.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

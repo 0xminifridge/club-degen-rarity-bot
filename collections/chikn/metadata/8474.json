@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8474",
+    "description": "chikn #8474",
+    "image": "https://cdn1.chikn.farm/images/92267570a4712319dbe7976c162822bbcc26ac3d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

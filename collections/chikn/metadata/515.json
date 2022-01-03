@@ -1,0 +1,27 @@
+{
+    "name": "chikn #515",
+    "description": "chikn #515",
+    "image": "https://cdn1.chikn.farm/images/afb62e01b6d561722fa6a53aaf8b5d1c13e1d0c1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

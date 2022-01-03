@@ -1,0 +1,23 @@
+{
+    "name": "chikn #990",
+    "description": "chikn #990",
+    "image": "https://cdn1.chikn.farm/images/3690c408d5295259928966e46a6772b4059d93ea.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

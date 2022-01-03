@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1450",
+    "description": "chikn #1450",
+    "image": "https://cdn1.chikn.farm/images/3969462d0dc53eaf8f6eaf44917b4b81c7cceba2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "luckiest red cap"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

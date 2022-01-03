@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6244",
+    "description": "chikn #6244",
+    "image": "https://cdn1.chikn.farm/images/4c3fa2296bb29e246e75e109fc54f98e461c3377.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

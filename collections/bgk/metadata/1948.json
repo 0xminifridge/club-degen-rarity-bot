@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #1948",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/1948.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Alien"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Army Helmet"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Clown"
+        }
+    ]
+}

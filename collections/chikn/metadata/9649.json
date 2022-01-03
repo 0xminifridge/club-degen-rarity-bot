@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9649",
+    "description": "chikn #9649",
+    "image": "https://cdn1.chikn.farm/images/9cc3a36178e42bc89ca8855f14482c16f484d5fb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2399",
+    "description": "chikn #2399",
+    "image": "https://cdn1.chikn.farm/images/3c4075275e3d9321232a56daf012e7f03e65a9b0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "inherited royalty"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

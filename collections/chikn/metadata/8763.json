@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8763",
+    "description": "chikn #8763",
+    "image": "https://cdn1.chikn.farm/images/d9690d6dc8c35899f0e28f61b1daa1debc2a0fea.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

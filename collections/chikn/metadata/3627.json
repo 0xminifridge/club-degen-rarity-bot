@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3627",
+    "description": "chikn #3627",
+    "image": "https://cdn1.chikn.farm/images/df180e1f031d771027e31362d8c816f1dfc2347c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4562",
+    "description": "chikn #4562",
+    "image": "https://cdn1.chikn.farm/images/020a826c09ad24b89d3884817e42646ef0aa6e7b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

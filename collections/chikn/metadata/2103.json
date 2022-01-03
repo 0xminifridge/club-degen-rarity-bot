@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2103",
+    "description": "chikn #2103",
+    "image": "https://cdn1.chikn.farm/images/058ad4c3f1b6aa843a79285f8deeda5926ab4157.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

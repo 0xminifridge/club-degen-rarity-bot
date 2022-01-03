@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3811",
+    "description": "chikn #3811",
+    "image": "https://cdn1.chikn.farm/images/50ced385c1830efc3c2933fa579c439f7fbf3ccd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

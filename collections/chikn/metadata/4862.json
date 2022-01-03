@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4862",
+    "description": "chikn #4862",
+    "image": "https://cdn1.chikn.farm/images/016c2b688d2e1f22a4d9aa5ac07e647cad563d69.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

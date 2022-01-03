@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7448",
+    "description": "chikn #7448",
+    "image": "https://cdn1.chikn.farm/images/6ab9307dff00a006a0dd85c61706e5f1620cb39e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

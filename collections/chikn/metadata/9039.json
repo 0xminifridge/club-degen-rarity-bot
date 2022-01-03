@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9039",
+    "description": "chikn #9039",
+    "image": "https://cdn1.chikn.farm/images/12994b7bc7d0cdf4394cb7cb9656676d073654ac.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

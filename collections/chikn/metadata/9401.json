@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9401",
+    "description": "chikn #9401",
+    "image": "https://cdn1.chikn.farm/images/e0d2a4341be3347f243ba83c53d6f9692d03e54c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

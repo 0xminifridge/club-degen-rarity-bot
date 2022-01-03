@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7847",
+    "description": "chikn #7847",
+    "image": "https://cdn1.chikn.farm/images/f5a3f926a8aee750db2161b38c8e38e349d6ab49.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

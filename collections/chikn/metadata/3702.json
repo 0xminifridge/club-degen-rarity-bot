@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3702",
+    "description": "chikn #3702",
+    "image": "https://cdn1.chikn.farm/images/bf7644413c4be999ed308c66a37adca8677391f8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

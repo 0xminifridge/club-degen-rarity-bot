@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6367",
+    "description": "chikn #6367",
+    "image": "https://cdn1.chikn.farm/images/c03d5d0255ae57b1690613a280d765b587a947a4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

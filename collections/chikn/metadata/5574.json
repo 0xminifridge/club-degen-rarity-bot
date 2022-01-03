@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5574",
+    "description": "chikn #5574",
+    "image": "https://cdn1.chikn.farm/images/c3701dcf29531e96d504e5c5b89a33ee08d7e568.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

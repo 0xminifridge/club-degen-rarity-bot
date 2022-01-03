@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1338",
+    "description": "chikn #1338",
+    "image": "https://cdn1.chikn.farm/images/b3deaa768b5febf27cf9f4cf89f80c59f100bd7e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

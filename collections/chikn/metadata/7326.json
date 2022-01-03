@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7326",
+    "description": "chikn #7326",
+    "image": "https://cdn1.chikn.farm/images/fbfa67903e7de82b62ebb65306ac330f9c524302.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

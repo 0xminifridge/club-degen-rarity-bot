@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6292",
+    "description": "chikn #6292",
+    "image": "https://cdn1.chikn.farm/images/02a6e6a7c9326b1f634c65c085ffc0f54a194dcc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

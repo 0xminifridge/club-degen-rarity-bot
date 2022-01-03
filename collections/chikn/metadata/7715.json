@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7715",
+    "description": "chikn #7715",
+    "image": "https://cdn1.chikn.farm/images/a47f4537328be8c4b9c8cb994cdc0f537c1c2261.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

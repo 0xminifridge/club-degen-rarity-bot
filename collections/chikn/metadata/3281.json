@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3281",
+    "description": "chikn #3281",
+    "image": "https://cdn1.chikn.farm/images/c011573319fcbd39199c9c1233735fa00a249078.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

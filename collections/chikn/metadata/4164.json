@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4164",
+    "description": "chikn #4164",
+    "image": "https://cdn1.chikn.farm/images/6476623d218e2b6e61071df9fdd46d9a89536441.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

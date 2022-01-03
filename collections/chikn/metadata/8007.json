@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8007",
+    "description": "chikn #8007",
+    "image": "https://cdn1.chikn.farm/images/265fb892bd64877026a13f8cac317890c97437d5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

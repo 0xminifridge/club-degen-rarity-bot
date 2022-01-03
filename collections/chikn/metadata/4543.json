@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4543",
+    "description": "chikn #4543",
+    "image": "https://cdn1.chikn.farm/images/adfd3aba20c07d829500dc6da7b531c2eb46201b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "real feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

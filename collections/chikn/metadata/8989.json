@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8989",
+    "description": "chikn #8989",
+    "image": "https://cdn1.chikn.farm/images/ea4066ec31eea4a767a1f27d371aca0e7362594f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

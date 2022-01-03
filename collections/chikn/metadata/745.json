@@ -1,0 +1,31 @@
+{
+    "name": "chikn #745",
+    "description": "chikn #745",
+    "image": "https://cdn1.chikn.farm/images/d85e2da8f12e8eff48c1cd9d0c2c57c31bc259c1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

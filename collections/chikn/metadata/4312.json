@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4312",
+    "description": "chikn #4312",
+    "image": "https://cdn1.chikn.farm/images/6346c9737f65242a45db94ab5f1bee4b6c4e3e40.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

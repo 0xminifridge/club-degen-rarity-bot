@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6331",
+    "description": "chikn #6331",
+    "image": "https://cdn1.chikn.farm/images/30693ae6ca80322bac883e6ad88ce9d64801e627.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

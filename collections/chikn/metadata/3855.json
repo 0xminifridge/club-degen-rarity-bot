@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3855",
+    "description": "chikn #3855",
+    "image": "https://cdn1.chikn.farm/images/00eaa095336505505c12ce26a6e66a43d82d45d3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

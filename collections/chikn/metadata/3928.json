@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3928",
+    "description": "chikn #3928",
+    "image": "https://cdn1.chikn.farm/images/ea8f8aaad7d94e552657b48c07b0882bd51bd2c9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

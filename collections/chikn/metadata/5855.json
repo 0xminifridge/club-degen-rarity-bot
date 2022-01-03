@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5855",
+    "description": "chikn #5855",
+    "image": "https://cdn1.chikn.farm/images/23167d2c0eb0064ca91a85bfa5c88ead928c931f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

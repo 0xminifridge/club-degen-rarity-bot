@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3449",
+    "description": "chikn #3449",
+    "image": "https://cdn1.chikn.farm/images/086d9025da22d53c0924841ab9714afbba14877f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

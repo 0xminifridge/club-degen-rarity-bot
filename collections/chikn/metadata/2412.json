@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2412",
+    "description": "chikn #2412",
+    "image": "https://cdn1.chikn.farm/images/f52e7ac73dc3ed656108ecfc8a8def0d3ff0d9d8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

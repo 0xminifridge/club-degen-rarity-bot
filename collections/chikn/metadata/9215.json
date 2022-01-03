@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9215",
+    "description": "chikn #9215",
+    "image": "https://cdn1.chikn.farm/images/85bf7aa848c3a2c58ea8d919f330b2c81c5286e6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

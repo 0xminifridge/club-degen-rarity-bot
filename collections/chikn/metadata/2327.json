@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2327",
+    "description": "chikn #2327",
+    "image": "https://cdn1.chikn.farm/images/90991c0e8c93f1865b41070ecbb0acab2b828fb5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

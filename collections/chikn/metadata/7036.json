@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7036",
+    "description": "chikn #7036",
+    "image": "https://cdn1.chikn.farm/images/3e50accd2ee31b12fad29582d823dccf14baa8d8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

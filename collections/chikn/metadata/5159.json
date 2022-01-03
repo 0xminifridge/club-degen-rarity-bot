@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5159",
+    "description": "chikn #5159",
+    "image": "https://cdn1.chikn.farm/images/25ca1279bb002d1b99a2835bd3f868664bf5d8f2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

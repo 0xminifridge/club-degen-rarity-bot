@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2249",
+    "description": "chikn #2249",
+    "image": "https://cdn1.chikn.farm/images/a4784e6103c690e272ad6ffe99f952314a33c1c9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

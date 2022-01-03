@@ -1,0 +1,19 @@
+{
+    "name": "chikn #7458",
+    "description": "chikn #7458",
+    "image": "https://cdn1.chikn.farm/images/c2cf652f738780a658cad4ca477a7ab155a591df.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

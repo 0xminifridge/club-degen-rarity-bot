@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6432",
+    "description": "chikn #6432",
+    "image": "https://cdn1.chikn.farm/images/b7e3c1d133814483064041e9147c3aeea8ade9de.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

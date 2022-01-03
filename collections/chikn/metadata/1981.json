@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1981",
+    "description": "chikn #1981",
+    "image": "https://cdn1.chikn.farm/images/d3b21ccf7705d846a19bdf64b47bbec5323b6641.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9341",
+    "description": "chikn #9341",
+    "image": "https://cdn1.chikn.farm/images/f90de80a244c9a57bdbc041c1c9e5e32d02f17d9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "galactic"
+        }
+    ]
+}

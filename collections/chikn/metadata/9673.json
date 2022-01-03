@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9673",
+    "description": "chikn #9673",
+    "image": "https://cdn1.chikn.farm/images/c82290833b5e14108620f89458ed4939d012be4b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

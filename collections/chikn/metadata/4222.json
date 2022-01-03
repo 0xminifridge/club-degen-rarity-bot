@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4222",
+    "description": "chikn #4222",
+    "image": "https://cdn1.chikn.farm/images/d5226e330a9b1a0d6273c32a10e2543f62d2cc14.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden crusader"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

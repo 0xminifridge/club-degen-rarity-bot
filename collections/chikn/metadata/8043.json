@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8043",
+    "description": "chikn #8043",
+    "image": "https://cdn1.chikn.farm/images/5c5d9a16a65bbeb5e3351551b3cc130cad542592.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

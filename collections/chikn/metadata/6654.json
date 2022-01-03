@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6654",
+    "description": "chikn #6654",
+    "image": "https://cdn1.chikn.farm/images/e2586e1f7c574d6ae730657c6a974c4a8bdd043a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

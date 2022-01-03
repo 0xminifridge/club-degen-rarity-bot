@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6821",
+    "description": "chikn #6821",
+    "image": "https://cdn1.chikn.farm/images/2d143e5f647688961ad4ba20bb5e1da85e823e9f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

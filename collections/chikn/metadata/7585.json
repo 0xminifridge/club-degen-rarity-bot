@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7585",
+    "description": "chikn #7585",
+    "image": "https://cdn1.chikn.farm/images/bab2d7ff065119db69af41bc8798f5712c74cd68.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

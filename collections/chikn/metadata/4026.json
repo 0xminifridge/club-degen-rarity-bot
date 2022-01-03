@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4026",
+    "description": "chikn #4026",
+    "image": "https://cdn1.chikn.farm/images/d2e581eab367272f7c2cd3357fe272266ce34a48.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

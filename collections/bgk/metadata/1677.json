@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #1677",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/1677.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Confused"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Spinner"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "GM"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5516",
+    "description": "chikn #5516",
+    "image": "https://cdn1.chikn.farm/images/8657d0e68ff43993bf6a5de6e220709fb1210060.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

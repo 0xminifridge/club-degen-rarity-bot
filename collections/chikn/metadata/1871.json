@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1871",
+    "description": "chikn #1871",
+    "image": "https://cdn1.chikn.farm/images/50e9ace72423966a74ae5886407adfc722628aa5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cheeky redhead"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

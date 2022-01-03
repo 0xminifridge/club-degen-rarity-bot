@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3717",
+    "description": "chikn #3717",
+    "image": "https://cdn1.chikn.farm/images/008aa90ea603e99acd28608d3eb4fea9117adcdf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

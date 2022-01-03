@@ -1,0 +1,23 @@
+{
+    "name": "chikn #609",
+    "description": "chikn #609",
+    "image": "https://cdn1.chikn.farm/images/8990662e09fd67b0ca3ac8f6a1120648b954ab1b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

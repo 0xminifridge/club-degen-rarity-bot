@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #6305",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/6305.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Twinkle"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Clown"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Life Jacket"
+        }
+    ]
+}

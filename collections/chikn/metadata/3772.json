@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3772",
+    "description": "chikn #3772",
+    "image": "https://cdn1.chikn.farm/images/8ef0eae53abdd0f0e2043b8358be7a7244f1e086.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

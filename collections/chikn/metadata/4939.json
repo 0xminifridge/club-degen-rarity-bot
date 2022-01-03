@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4939",
+    "description": "chikn #4939",
+    "image": "https://cdn1.chikn.farm/images/2770e578a3e4d53b25ec9d865242dfc0121bd4f7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8632",
+    "description": "chikn #8632",
+    "image": "https://cdn1.chikn.farm/images/b4fadadb8fd78954f11177a61b9fe6e1583418eb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

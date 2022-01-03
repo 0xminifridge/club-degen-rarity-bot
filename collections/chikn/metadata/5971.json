@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5971",
+    "description": "chikn #5971",
+    "image": "https://cdn1.chikn.farm/images/6d5e5a696142ecc868024670dc06e9da3ca4eb91.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

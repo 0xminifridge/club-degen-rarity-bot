@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7305",
+    "description": "chikn #7305",
+    "image": "https://cdn1.chikn.farm/images/c5ffd15dc7b11248f82d6e89e09896fc424ba6f0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

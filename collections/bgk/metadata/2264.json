@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #2264",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/2264.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Laser"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BGK Yellow"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Tank Top"
+        }
+    ]
+}

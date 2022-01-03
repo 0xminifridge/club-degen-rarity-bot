@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3685",
+    "description": "chikn #3685",
+    "image": "https://cdn1.chikn.farm/images/1095206eb05ba751f83d4ab7b4f2ee78952c02f8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

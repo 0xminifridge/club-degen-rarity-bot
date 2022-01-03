@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3675",
+    "description": "chikn #3675",
+    "image": "https://cdn1.chikn.farm/images/18eec43d875fdeb9e77cd4b0eb310524f1210d39.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

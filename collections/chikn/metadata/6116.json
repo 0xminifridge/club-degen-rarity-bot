@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6116",
+    "description": "chikn #6116",
+    "image": "https://cdn1.chikn.farm/images/ddda9a4442914bc7e550c0c95eadfc4edb1ff838.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

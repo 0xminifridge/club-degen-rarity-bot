@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9716",
+    "description": "chikn #9716",
+    "image": "https://cdn1.chikn.farm/images/35a3f8f21fef15f5af1b49c5debd2e3d1eda652d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

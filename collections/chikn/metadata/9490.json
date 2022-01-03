@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9490",
+    "description": "chikn #9490",
+    "image": "https://cdn1.chikn.farm/images/387ba7e7991e350e904269aee46004734b3a8a96.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

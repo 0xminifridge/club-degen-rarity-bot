@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4011",
+    "description": "chikn #4011",
+    "image": "https://cdn1.chikn.farm/images/5681a4f2b819b2fa87a07709ae697e346645baba.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

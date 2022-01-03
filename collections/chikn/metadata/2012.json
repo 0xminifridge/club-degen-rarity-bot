@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2012",
+    "description": "chikn #2012",
+    "image": "https://cdn1.chikn.farm/images/60d7149d118dc4a5c990814905ba344f5138fb4b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

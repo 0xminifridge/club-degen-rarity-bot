@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5769",
+    "description": "chikn #5769",
+    "image": "https://cdn1.chikn.farm/images/2911b5da1d5a53cbcc6cec81bfa339b5375192a0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax degen"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

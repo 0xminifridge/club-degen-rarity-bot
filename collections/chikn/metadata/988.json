@@ -1,0 +1,27 @@
+{
+    "name": "chikn #988",
+    "description": "chikn #988",
+    "image": "https://cdn1.chikn.farm/images/5a1044f4749d95410c075143458f50c330a59629.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

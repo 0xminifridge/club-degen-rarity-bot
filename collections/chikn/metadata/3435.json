@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3435",
+    "description": "chikn #3435",
+    "image": "https://cdn1.chikn.farm/images/36168bb877e8fa603f913c0c236b168d722b8b4b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

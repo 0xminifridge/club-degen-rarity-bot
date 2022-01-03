@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2668",
+    "description": "chikn #2668",
+    "image": "https://cdn1.chikn.farm/images/b0ff3821bff4260688f007f960e48f5df5d16baf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4683",
+    "description": "chikn #4683",
+    "image": "https://cdn1.chikn.farm/images/7c6f8108870c164b4a4eab45e7125c759969df3a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

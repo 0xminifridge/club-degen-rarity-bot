@@ -1,0 +1,39 @@
+{
+    "name": "chikn #3399",
+    "description": "chikn #3399",
+    "image": "https://cdn1.chikn.farm/images/940fc2d4954b6f6c9e2119cc60ca75a0d5c7a0a7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

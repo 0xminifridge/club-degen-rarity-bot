@@ -1,0 +1,23 @@
+{
+    "name": "chikn #937",
+    "description": "chikn #937",
+    "image": "https://cdn1.chikn.farm/images/9eddff4b4bd4c041238ee51f72192c822475ea16.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

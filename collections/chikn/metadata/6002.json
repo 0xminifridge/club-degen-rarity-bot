@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6002",
+    "description": "chikn #6002",
+    "image": "https://cdn1.chikn.farm/images/3665dd4b817ee8da76baba0945949f1819988426.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

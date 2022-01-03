@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8080",
+    "description": "chikn #8080",
+    "image": "https://cdn1.chikn.farm/images/af9766bbd7edd1d60eba89cc8bcbd81267e8f427.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

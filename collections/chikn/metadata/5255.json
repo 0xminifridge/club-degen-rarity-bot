@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5255",
+    "description": "chikn #5255",
+    "image": "https://cdn1.chikn.farm/images/3ab7f4dd5280d936971aaad0d7d9e2e92da87f1b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

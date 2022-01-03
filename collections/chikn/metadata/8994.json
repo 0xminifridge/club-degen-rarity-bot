@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8994",
+    "description": "chikn #8994",
+    "image": "https://cdn1.chikn.farm/images/1fa56cecd6c9efc0525dee8d6ec9ee22e21129dc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

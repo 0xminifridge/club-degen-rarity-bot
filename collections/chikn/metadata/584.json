@@ -1,0 +1,27 @@
+{
+    "name": "chikn #584",
+    "description": "chikn #584",
+    "image": "https://cdn1.chikn.farm/images/eb81bc1953b2cbc513ded97c1794d818a6957169.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

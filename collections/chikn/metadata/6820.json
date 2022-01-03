@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6820",
+    "description": "chikn #6820",
+    "image": "https://cdn1.chikn.farm/images/e411a535b93c327ab325989062b20e4d7f459d19.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

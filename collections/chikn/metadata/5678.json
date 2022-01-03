@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5678",
+    "description": "chikn #5678",
+    "image": "https://cdn1.chikn.farm/images/fa80608789e8b9b1b9bac83dc061e94bcd8e3e05.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

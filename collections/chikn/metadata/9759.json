@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9759",
+    "description": "chikn #9759",
+    "image": "https://cdn1.chikn.farm/images/260b7de0b321babc1381a968fad27a3aed872b60.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

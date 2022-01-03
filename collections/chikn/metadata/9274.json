@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9274",
+    "description": "chikn #9274",
+    "image": "https://cdn1.chikn.farm/images/3ba9a8b5c0a6ece72df86a1b39987cc2dee30297.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

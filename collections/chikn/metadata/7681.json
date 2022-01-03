@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7681",
+    "description": "chikn #7681",
+    "image": "https://cdn1.chikn.farm/images/aa4215b667fab8944c34cc3d1ffb7b25c84c024b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

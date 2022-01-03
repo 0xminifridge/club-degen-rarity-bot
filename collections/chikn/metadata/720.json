@@ -1,0 +1,35 @@
+{
+    "name": "chikn #720",
+    "description": "chikn #720",
+    "image": "https://cdn1.chikn.farm/images/e8ec31d740b967f9119fa215ea63582bf3de1d39.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

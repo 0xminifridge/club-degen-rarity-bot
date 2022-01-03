@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5932",
+    "description": "chikn #5932",
+    "image": "https://cdn1.chikn.farm/images/d9d04700c6296050ade90f3cfe421a565dcf52df.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

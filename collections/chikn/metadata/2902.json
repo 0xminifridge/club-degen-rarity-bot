@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2902",
+    "description": "chikn #2902",
+    "image": "https://cdn1.chikn.farm/images/ccae390ff3c8ae2998c11c206064679272fca5e5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

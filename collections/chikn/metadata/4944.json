@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4944",
+    "description": "chikn #4944",
+    "image": "https://cdn1.chikn.farm/images/ab7413a164c7941428d5a7ca1cfb84dd66631758.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

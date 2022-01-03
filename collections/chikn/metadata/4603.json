@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4603",
+    "description": "chikn #4603",
+    "image": "https://cdn1.chikn.farm/images/df9c8238035bee9a2bdf995b80af54578e2e275b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

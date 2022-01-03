@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7879",
+    "description": "chikn #7879",
+    "image": "https://cdn1.chikn.farm/images/3af8337ac5101672a1d1655f1b140a64caf7fc1f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

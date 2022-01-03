@@ -1,0 +1,35 @@
+{
+    "name": "chikn #5921",
+    "description": "chikn #5921",
+    "image": "https://cdn1.chikn.farm/images/2298905f9cf34f71e4f9d6ece76e438d548e88e4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

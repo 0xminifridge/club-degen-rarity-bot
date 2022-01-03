@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7930",
+    "description": "chikn #7930",
+    "image": "https://cdn1.chikn.farm/images/10b45309bc4908e26efd8fc1f81709ff875f6fc9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "boxhead"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

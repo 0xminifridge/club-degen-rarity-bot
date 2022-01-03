@@ -1,0 +1,19 @@
+{
+    "name": "chikn #2896",
+    "description": "chikn #2896",
+    "image": "https://cdn1.chikn.farm/images/f8d2d5563d7ba6d44a0b50560f2bb863b387ec21.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

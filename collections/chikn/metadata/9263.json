@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9263",
+    "description": "chikn #9263",
+    "image": "https://cdn1.chikn.farm/images/66f1e3a1d7fbf50a156f79248bfebe41ff7eaa64.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

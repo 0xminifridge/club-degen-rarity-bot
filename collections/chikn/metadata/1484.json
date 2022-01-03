@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1484",
+    "description": "chikn #1484",
+    "image": "https://cdn1.chikn.farm/images/448f68c7c966dffb8ca485914bf174076ac0227c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

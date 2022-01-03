@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7288",
+    "description": "chikn #7288",
+    "image": "https://cdn1.chikn.farm/images/cd140e9e176ae39a958a8e6393f0add4baa1c158.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

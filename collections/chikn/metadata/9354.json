@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9354",
+    "description": "chikn #9354",
+    "image": "https://cdn1.chikn.farm/images/074c97f546d9f651b243726f4a14553801d60179.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

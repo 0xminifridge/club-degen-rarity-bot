@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2843",
+    "description": "chikn #2843",
+    "image": "https://cdn1.chikn.farm/images/9fe7715f1d7f891c30f738fcc1e6de7e0bb78b14.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

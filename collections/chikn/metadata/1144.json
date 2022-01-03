@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1144",
+    "description": "chikn #1144",
+    "image": "https://cdn1.chikn.farm/images/1c405ed7ff326d92a646bf6b264bb07d3fd8ef53.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

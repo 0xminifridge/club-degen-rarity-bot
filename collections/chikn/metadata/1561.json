@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1561",
+    "description": "chikn #1561",
+    "image": "https://cdn1.chikn.farm/images/60cfc543a89b6507b9bd5c5819cf36ed78093a07.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

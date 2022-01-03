@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1360",
+    "description": "chikn #1360",
+    "image": "https://cdn1.chikn.farm/images/d12bd722dd0d44fb33a51b827ece5d79cb55c062.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

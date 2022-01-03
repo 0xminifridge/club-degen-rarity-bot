@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4799",
+    "description": "chikn #4799",
+    "image": "https://cdn1.chikn.farm/images/d83ac1f93ac71f098be39eb8c2ece239d20d500c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

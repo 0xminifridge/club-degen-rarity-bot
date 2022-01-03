@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8856",
+    "description": "chikn #8856",
+    "image": "https://cdn1.chikn.farm/images/c51d742ab36ef576eb5febd1b48cbcacbcfe3b9f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

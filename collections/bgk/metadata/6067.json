@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #6067",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/6067.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Dreamy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Spikey"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Overalls"
+        }
+    ]
+}

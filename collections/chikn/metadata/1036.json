@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1036",
+    "description": "chikn #1036",
+    "image": "https://cdn1.chikn.farm/images/a987e396d846ff4ba399b199026cecc158227983.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

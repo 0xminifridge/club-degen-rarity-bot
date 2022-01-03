@@ -1,0 +1,23 @@
+{
+    "name": "chikn #725",
+    "description": "chikn #725",
+    "image": "https://cdn1.chikn.farm/images/393048e3fea7d722205e210e022f294882f286ea.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2731",
+    "description": "chikn #2731",
+    "image": "https://cdn1.chikn.farm/images/7fe06c7703f4821125a5fc0de19b21b050773bfc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6830",
+    "description": "chikn #6830",
+    "image": "https://cdn1.chikn.farm/images/f1a43f4439df1746e8b30f03e032fe94c11fde1f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "chikn #9027",
+    "description": "chikn #9027",
+    "image": "https://cdn1.chikn.farm/images/c1b4b0e7324399e4f17f1ff6ae7119759db88a3f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

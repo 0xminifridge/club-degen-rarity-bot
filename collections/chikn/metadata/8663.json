@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8663",
+    "description": "chikn #8663",
+    "image": "https://cdn1.chikn.farm/images/cf8237934952bfb6cb521931c294e1e9dbfdde01.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

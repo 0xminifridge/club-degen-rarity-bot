@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5195",
+    "description": "chikn #5195",
+    "image": "https://cdn1.chikn.farm/images/de22ae79a90a931030d2ff11bdeb8edaab76e47a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

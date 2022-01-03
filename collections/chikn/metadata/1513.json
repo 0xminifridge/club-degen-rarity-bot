@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1513",
+    "description": "chikn #1513",
+    "image": "https://cdn1.chikn.farm/images/38130f51a2410364feee297d70a8d124046aebbe.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

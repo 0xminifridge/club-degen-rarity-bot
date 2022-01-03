@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9956",
+    "description": "chikn #9956",
+    "image": "https://cdn1.chikn.farm/images/34f5b9a7a52d0b2a6d8eab03393328ef60c152e6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

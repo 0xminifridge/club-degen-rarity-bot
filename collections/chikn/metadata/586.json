@@ -1,0 +1,27 @@
+{
+    "name": "chikn #586",
+    "description": "chikn #586",
+    "image": "https://cdn1.chikn.farm/images/56639b1cfb4e1fc0d42369913ea72acc74ea8114.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

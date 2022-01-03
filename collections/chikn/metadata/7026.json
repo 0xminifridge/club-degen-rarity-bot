@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7026",
+    "description": "chikn #7026",
+    "image": "https://cdn1.chikn.farm/images/72e03226d12570b8e6270942f56e93303ba82fb3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "laser eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

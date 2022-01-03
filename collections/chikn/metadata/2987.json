@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2987",
+    "description": "chikn #2987",
+    "image": "https://cdn1.chikn.farm/images/e354577f53365bd1b61a6ccc32266e2db8d13ce7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

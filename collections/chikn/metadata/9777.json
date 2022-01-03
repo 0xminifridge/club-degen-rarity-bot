@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9777",
+    "description": "chikn #9777",
+    "image": "https://cdn1.chikn.farm/images/92404e6754472e602f69f49493ca5f0240d0d3f6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "karate kid"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

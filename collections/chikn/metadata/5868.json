@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5868",
+    "description": "chikn #5868",
+    "image": "https://cdn1.chikn.farm/images/e5499aa18b677c347364f489858129a5bac87e06.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6605",
+    "description": "chikn #6605",
+    "image": "https://cdn1.chikn.farm/images/eacc5bcf84bc295f799b9be840cc8e575d0bff3b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

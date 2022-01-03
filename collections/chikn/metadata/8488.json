@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8488",
+    "description": "chikn #8488",
+    "image": "https://cdn1.chikn.farm/images/fad1826e8588b065f63d23eb3765660abdb1b935.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "super saiyan"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

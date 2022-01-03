@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2167",
+    "description": "chikn #2167",
+    "image": "https://cdn1.chikn.farm/images/59cb8765d62c3c0ea9a27f90ff7cb8d97662a02f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

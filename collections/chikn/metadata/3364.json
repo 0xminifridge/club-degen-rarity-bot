@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3364",
+    "description": "chikn #3364",
+    "image": "https://cdn1.chikn.farm/images/3d23a41f5ad602757b1d0400e42885f7c5555590.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

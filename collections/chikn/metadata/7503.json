@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7503",
+    "description": "chikn #7503",
+    "image": "https://cdn1.chikn.farm/images/5e548737805f9d654b36f967d414c888d85a4bd7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "super saiyan"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

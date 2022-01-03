@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1130",
+    "description": "chikn #1130",
+    "image": "https://cdn1.chikn.farm/images/6434640cb0ef9daca28f0fbc0e6e442f469a29f3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

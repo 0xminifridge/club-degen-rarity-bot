@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2422",
+    "description": "chikn #2422",
+    "image": "https://cdn1.chikn.farm/images/8af37a9afda4b06174a28b3f4b9cee0257f5931b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

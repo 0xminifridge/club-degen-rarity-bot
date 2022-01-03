@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5352",
+    "description": "chikn #5352",
+    "image": "https://cdn1.chikn.farm/images/709ec4c1936b06da27b01a0b666c58c4dd3b592f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9623",
+    "description": "chikn #9623",
+    "image": "https://cdn1.chikn.farm/images/d334db54a9f126ac62a1a8cfa091eac2bc027f79.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

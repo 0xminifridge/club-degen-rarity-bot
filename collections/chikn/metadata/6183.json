@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6183",
+    "description": "chikn #6183",
+    "image": "https://cdn1.chikn.farm/images/65abc6d7ae6a638ea3e11f3b4b740a1e29fb7221.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

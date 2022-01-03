@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4596",
+    "description": "chikn #4596",
+    "image": "https://cdn1.chikn.farm/images/319f90e07da8444a917f08fdc8bd490aa3315e17.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

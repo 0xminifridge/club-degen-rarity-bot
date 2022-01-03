@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7268",
+    "description": "chikn #7268",
+    "image": "https://cdn1.chikn.farm/images/49fb7b148966ce1a00e4b04bcdde43cc4b96eaa7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #434",
+    "description": "chikn #434",
+    "image": "https://cdn1.chikn.farm/images/219d0b498f01c17799aca0d9f4b9125cd5f966c1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

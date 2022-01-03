@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9210",
+    "description": "chikn #9210",
+    "image": "https://cdn1.chikn.farm/images/2bbf8236c0aca6d25ce7bdf8f29860ad3df97b03.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

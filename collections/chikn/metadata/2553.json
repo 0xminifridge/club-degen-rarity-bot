@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2553",
+    "description": "chikn #2553",
+    "image": "https://cdn1.chikn.farm/images/2f4029733c95da0c575c57058d384b7b5702ffeb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

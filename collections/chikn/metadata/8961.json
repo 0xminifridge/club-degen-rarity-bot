@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8961",
+    "description": "chikn #8961",
+    "image": "https://cdn1.chikn.farm/images/84c618df7bce0f7f48943637289383889f088881.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

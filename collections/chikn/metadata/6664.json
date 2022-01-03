@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6664",
+    "description": "chikn #6664",
+    "image": "https://cdn1.chikn.farm/images/914f653e78ac029ffb7512a99c787a26b19a68cd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

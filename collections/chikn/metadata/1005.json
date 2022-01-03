@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1005",
+    "description": "chikn #1005",
+    "image": "https://cdn1.chikn.farm/images/b6cf7d5f1da0c761ae8c0a6a9f876fe9aeadfae6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

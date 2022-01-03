@@ -1,0 +1,35 @@
+{
+    "name": "chikn #4370",
+    "description": "chikn #4370",
+    "image": "https://cdn1.chikn.farm/images/be819ad1627ac96d0c910dfbb008e136e505576c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "murica"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

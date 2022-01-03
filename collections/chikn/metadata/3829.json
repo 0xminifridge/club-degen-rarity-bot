@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3829",
+    "description": "chikn #3829",
+    "image": "https://cdn1.chikn.farm/images/e59d597f4af7793089a42e0f04421c551061babe.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

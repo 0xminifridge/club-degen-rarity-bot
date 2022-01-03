@@ -1,0 +1,27 @@
+{
+    "name": "chikn #57",
+    "description": "chikn #57",
+    "image": "https://cdn1.chikn.farm/images/3113bfd5ec26030822d5bb2f0107d65ac6c77e07.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

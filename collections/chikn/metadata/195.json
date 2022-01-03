@@ -1,0 +1,27 @@
+{
+    "name": "chikn #195",
+    "description": "chikn #195",
+    "image": "https://cdn1.chikn.farm/images/347e8ff86b3703951ae507ca3b3f10ad2ad15a78.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

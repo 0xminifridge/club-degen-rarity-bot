@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #6909",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/6909.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gradient Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Squint"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Punk"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Life Jacket"
+        }
+    ]
+}

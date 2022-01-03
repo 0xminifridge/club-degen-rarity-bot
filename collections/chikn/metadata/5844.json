@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5844",
+    "description": "chikn #5844",
+    "image": "https://cdn1.chikn.farm/images/bd2b799376915062c5caef84453cd9e450cdfdb0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

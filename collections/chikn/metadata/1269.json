@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1269",
+    "description": "chikn #1269",
+    "image": "https://cdn1.chikn.farm/images/95aa8544f1929a2ff05d650631ecf088b45ec423.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

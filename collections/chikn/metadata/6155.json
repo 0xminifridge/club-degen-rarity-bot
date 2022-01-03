@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6155",
+    "description": "chikn #6155",
+    "image": "https://cdn1.chikn.farm/images/2a35ba85a181deeb34a1e11752d6bcb500e53a14.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

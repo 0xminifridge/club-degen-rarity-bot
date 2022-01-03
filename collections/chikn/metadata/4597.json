@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4597",
+    "description": "chikn #4597",
+    "image": "https://cdn1.chikn.farm/images/7abc2d5a3557a9d4f76b78743c1e8fa8d65d0394.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4478",
+    "description": "chikn #4478",
+    "image": "https://cdn1.chikn.farm/images/0126c46119ee08a4b6fcc1b4b0f03280c629e8c5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

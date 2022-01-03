@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1146",
+    "description": "chikn #1146",
+    "image": "https://cdn1.chikn.farm/images/ff82dba3565b73b3fb1949c16595dd986bc1a46d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

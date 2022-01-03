@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2741",
+    "description": "chikn #2741",
+    "image": "https://cdn1.chikn.farm/images/6a72c895a4c417893425fd9c6fe630337edd7adc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

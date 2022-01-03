@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3159",
+    "description": "chikn #3159",
+    "image": "https://cdn1.chikn.farm/images/a6b2fceb9e68f096b6deb2800967652fe09201fe.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

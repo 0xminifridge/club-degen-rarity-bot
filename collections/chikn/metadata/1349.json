@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1349",
+    "description": "chikn #1349",
+    "image": "https://cdn1.chikn.farm/images/fde1c7c2a70a2374d7133b63503520c8afd83ecf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

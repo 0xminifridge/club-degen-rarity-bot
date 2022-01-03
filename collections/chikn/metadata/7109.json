@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7109",
+    "description": "chikn #7109",
+    "image": "https://cdn1.chikn.farm/images/bec3993e534ca0a1560de2078578f995402b4af1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

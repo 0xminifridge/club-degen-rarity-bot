@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3372",
+    "description": "chikn #3372",
+    "image": "https://cdn1.chikn.farm/images/8bf58d2a9173a58a11b49ee7c427559a15b66f28.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

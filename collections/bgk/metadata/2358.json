@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #2358",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/2358.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Galaxy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Crazy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BGK Pink"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Prep"
+        }
+    ]
+}

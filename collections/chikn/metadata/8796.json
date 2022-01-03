@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8796",
+    "description": "chikn #8796",
+    "image": "https://cdn1.chikn.farm/images/b6e18298e22eb49e5aea828bcfaccf96341ea40c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

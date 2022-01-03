@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9859",
+    "description": "chikn #9859",
+    "image": "https://cdn1.chikn.farm/images/1ed94c47ae45ee1d4a2f093e0eea4a3905652367.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax degen"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

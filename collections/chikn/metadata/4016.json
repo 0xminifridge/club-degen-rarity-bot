@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4016",
+    "description": "chikn #4016",
+    "image": "https://cdn1.chikn.farm/images/f674e1b05acf77ee74e7b64af2f0a10aa99bbaaf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

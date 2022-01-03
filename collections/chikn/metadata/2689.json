@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2689",
+    "description": "chikn #2689",
+    "image": "https://cdn1.chikn.farm/images/ab23da0a45555ed45f47461901a90c75e6dfe967.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim og"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

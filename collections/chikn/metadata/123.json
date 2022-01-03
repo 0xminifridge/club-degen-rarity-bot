@@ -1,0 +1,27 @@
+{
+    "name": "chikn #123",
+    "description": "chikn #123",
+    "image": "https://cdn1.chikn.farm/images/31563310e39740432e445ee58da15ef3a1f4cad8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

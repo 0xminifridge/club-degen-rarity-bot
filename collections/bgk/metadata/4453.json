@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #4453",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/4453.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Confused"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BGK Black"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Turtleneck"
+        }
+    ]
+}

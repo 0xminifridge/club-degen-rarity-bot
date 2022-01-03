@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2624",
+    "description": "chikn #2624",
+    "image": "https://cdn1.chikn.farm/images/5ccf47c393cad5b246bbefc20fc656f0756683f5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9058",
+    "description": "chikn #9058",
+    "image": "https://cdn1.chikn.farm/images/2762af590dc566aa16eb8da2844fce7ac851c5f3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

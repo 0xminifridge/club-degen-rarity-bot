@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5902",
+    "description": "chikn #5902",
+    "image": "https://cdn1.chikn.farm/images/f9310b5b23aff72e6fbd4508e1669b59ccf53dff.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6068",
+    "description": "chikn #6068",
+    "image": "https://cdn1.chikn.farm/images/e1fd664e79fefb16ecb3ce5fe0e6a50d2d4036c0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin maxi"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7221",
+    "description": "chikn #7221",
+    "image": "https://cdn1.chikn.farm/images/2f0d9b90b8c97b99e5a3c63a2138f6ca2dbc7e88.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

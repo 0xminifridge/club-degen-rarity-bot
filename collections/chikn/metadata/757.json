@@ -1,0 +1,27 @@
+{
+    "name": "chikn #757",
+    "description": "chikn #757",
+    "image": "https://cdn1.chikn.farm/images/dcaa807fe64e6a43c6876da605a5b37123a68f87.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

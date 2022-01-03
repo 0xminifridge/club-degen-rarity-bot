@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1772",
+    "description": "chikn #1772",
+    "image": "https://cdn1.chikn.farm/images/78f713349f11268066466380ccf4bc11b0b95c68.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

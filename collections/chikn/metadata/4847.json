@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4847",
+    "description": "chikn #4847",
+    "image": "https://cdn1.chikn.farm/images/d887078e2d69d8aa1126ceeaf2b14dc5c97732b4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "laser eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

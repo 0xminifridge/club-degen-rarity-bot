@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3113",
+    "description": "chikn #3113",
+    "image": "https://cdn1.chikn.farm/images/43a7db530599fa6c44a415cc81c1f82ef03da3b1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

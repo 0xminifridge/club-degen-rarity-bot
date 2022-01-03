@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3407",
+    "description": "chikn #3407",
+    "image": "https://cdn1.chikn.farm/images/a9c5dcc483531cfe596ff28b632a2669d1020e49.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

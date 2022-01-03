@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2571",
+    "description": "chikn #2571",
+    "image": "https://cdn1.chikn.farm/images/569ab25ddb0941727cffa39035119f2451400d59.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

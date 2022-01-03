@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4190",
+    "description": "chikn #4190",
+    "image": "https://cdn1.chikn.farm/images/3c6ec8a49b06d2e5862a2e2289d213eb124cf35f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

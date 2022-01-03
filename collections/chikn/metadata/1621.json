@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1621",
+    "description": "chikn #1621",
+    "image": "https://cdn1.chikn.farm/images/e9b3d3714adeee483ab4efad468f3f02462d08c1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

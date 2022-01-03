@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #5365",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/5365.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Alien"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Twinkle"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Long Blonde"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Polka Dots"
+        }
+    ]
+}

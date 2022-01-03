@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2290",
+    "description": "chikn #2290",
+    "image": "https://cdn1.chikn.farm/images/e8ce7593aa9454e4b756f321e77fc04be5607496.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

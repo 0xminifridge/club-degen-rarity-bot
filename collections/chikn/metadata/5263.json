@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5263",
+    "description": "chikn #5263",
+    "image": "https://cdn1.chikn.farm/images/5e9693ad449190ba815e743ca7d9aee588ca4359.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3877",
+    "description": "chikn #3877",
+    "image": "https://cdn1.chikn.farm/images/1bca0dc48056745de8c5e4f3fe12753b753fbb65.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #3184",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/3184.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd Glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BGK Blue"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Prep"
+        }
+    ]
+}

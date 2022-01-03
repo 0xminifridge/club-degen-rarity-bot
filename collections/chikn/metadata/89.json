@@ -1,0 +1,23 @@
+{
+    "name": "chikn #89",
+    "description": "chikn #89",
+    "image": "https://cdn1.chikn.farm/images/ec8d7c0bf04ad3d7e1031727f6ecebbf2ce8bce1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

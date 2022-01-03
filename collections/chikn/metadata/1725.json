@@ -1,0 +1,19 @@
+{
+    "name": "chikn #1725",
+    "description": "chikn #1725",
+    "image": "https://cdn1.chikn.farm/images/4a89e5eca02e63aaf73377bc7c02bf7df0e96b8c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

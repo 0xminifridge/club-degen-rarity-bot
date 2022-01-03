@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7827",
+    "description": "chikn #7827",
+    "image": "https://cdn1.chikn.farm/images/6ce78278436ed6a35e2caebd4363c9bdd7623c56.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

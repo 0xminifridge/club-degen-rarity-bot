@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8528",
+    "description": "chikn #8528",
+    "image": "https://cdn1.chikn.farm/images/0302cdb6062c27b26a93fcecc1edbc1706c4b0a6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

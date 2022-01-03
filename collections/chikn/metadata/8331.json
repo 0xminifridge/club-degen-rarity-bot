@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8331",
+    "description": "chikn #8331",
+    "image": "https://cdn1.chikn.farm/images/0fafaee9c45e697e98e7424217ae3b719cd7d0a2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

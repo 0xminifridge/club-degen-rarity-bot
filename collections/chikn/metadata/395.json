@@ -1,0 +1,23 @@
+{
+    "name": "chikn #395",
+    "description": "chikn #395",
+    "image": "https://cdn1.chikn.farm/images/8cd1aff82956a63548d5a99b43cc9b1085489a16.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

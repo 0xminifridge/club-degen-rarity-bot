@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9398",
+    "description": "chikn #9398",
+    "image": "https://cdn1.chikn.farm/images/f6411ccd9c69b1eff0db43ca1885ade909daa687.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "hentai"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

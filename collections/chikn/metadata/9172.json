@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9172",
+    "description": "chikn #9172",
+    "image": "https://cdn1.chikn.farm/images/df94475abe2747a8e1cbf78be03dcc4355c51cd1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "murica"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

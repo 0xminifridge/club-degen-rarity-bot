@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5781",
+    "description": "chikn #5781",
+    "image": "https://cdn1.chikn.farm/images/e1300f9a2a586d071f83647d7a979b53693ef5a1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

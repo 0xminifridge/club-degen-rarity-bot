@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4289",
+    "description": "chikn #4289",
+    "image": "https://cdn1.chikn.farm/images/3d941f97786817f623937c072e0f17af7cb8eaa3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

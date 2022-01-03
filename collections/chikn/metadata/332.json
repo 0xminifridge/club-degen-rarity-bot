@@ -1,0 +1,31 @@
+{
+    "name": "chikn #332",
+    "description": "chikn #332",
+    "image": "https://cdn1.chikn.farm/images/3f89b60e8a91e24fee6537467e2f52cf452c94ad.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

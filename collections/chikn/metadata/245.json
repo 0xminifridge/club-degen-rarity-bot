@@ -1,0 +1,27 @@
+{
+    "name": "chikn #245",
+    "description": "chikn #245",
+    "image": "https://cdn1.chikn.farm/images/3de980bd083387ffec8f859a6ff8d08e34d15f9c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

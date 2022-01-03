@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9998",
+    "description": "chikn #9998",
+    "image": "https://cdn1.chikn.farm/images/6d424dda56e70f1f18cbf4ebfe0a4ef841e277b0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

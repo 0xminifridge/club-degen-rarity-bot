@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2580",
+    "description": "chikn #2580",
+    "image": "https://cdn1.chikn.farm/images/395345c21e7bfb13a16ef52069e82b9ba0c2c5e6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

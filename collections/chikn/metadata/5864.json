@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5864",
+    "description": "chikn #5864",
+    "image": "https://cdn1.chikn.farm/images/d41e04031f8de52e5a7feea7cefe284761e4af7c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

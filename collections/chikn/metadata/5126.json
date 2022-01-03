@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5126",
+    "description": "chikn #5126",
+    "image": "https://cdn1.chikn.farm/images/5c9dd2ef440ac16ec7788a661d2aae0615cd4e19.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

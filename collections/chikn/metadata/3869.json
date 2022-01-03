@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3869",
+    "description": "chikn #3869",
+    "image": "https://cdn1.chikn.farm/images/c9a166316d83e543e0eff3b1946ba1a1759bfc1a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

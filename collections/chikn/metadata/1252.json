@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1252",
+    "description": "chikn #1252",
+    "image": "https://cdn1.chikn.farm/images/f1df40604f62aea259a5586589b7323c3de5cd2b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

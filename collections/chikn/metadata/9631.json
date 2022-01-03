@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9631",
+    "description": "chikn #9631",
+    "image": "https://cdn1.chikn.farm/images/a41e444693cfea9546656168f571be669ec636a3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

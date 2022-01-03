@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4945",
+    "description": "chikn #4945",
+    "image": "https://cdn1.chikn.farm/images/6bb247f4067b4b049089e60f98e8734e96165fda.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "laser eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

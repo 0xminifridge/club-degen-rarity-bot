@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5684",
+    "description": "chikn #5684",
+    "image": "https://cdn1.chikn.farm/images/2c9b88edd02a900c9065212a9fbd18770f2c800e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

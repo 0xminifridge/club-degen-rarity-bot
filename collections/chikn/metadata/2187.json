@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2187",
+    "description": "chikn #2187",
+    "image": "https://cdn1.chikn.farm/images/bca86f5e685fa2f5c4e5ceaa97f09403a2c97331.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

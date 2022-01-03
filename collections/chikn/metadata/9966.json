@@ -1,0 +1,35 @@
+{
+    "name": "chikn #9966",
+    "description": "chikn #9966",
+    "image": "https://cdn1.chikn.farm/images/b8ddb67d6b6998604d1bbac9564dfcf2de60f68c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

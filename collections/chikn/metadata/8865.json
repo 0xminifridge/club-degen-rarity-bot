@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8865",
+    "description": "chikn #8865",
+    "image": "https://cdn1.chikn.farm/images/cc826eaca32480baa0b4d1861fe5ec96b598f9ed.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

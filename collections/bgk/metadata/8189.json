@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #8189",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/8189.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gradient Orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Laser"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blonde Mohawk"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Suit"
+        }
+    ]
+}

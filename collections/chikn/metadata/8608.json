@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8608",
+    "description": "chikn #8608",
+    "image": "https://cdn1.chikn.farm/images/a5fe4d7102260a21953e04924b76635a1715b466.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

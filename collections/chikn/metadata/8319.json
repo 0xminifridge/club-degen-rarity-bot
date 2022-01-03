@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8319",
+    "description": "chikn #8319",
+    "image": "https://cdn1.chikn.farm/images/50c347724607f0ca0b100a81cf73728f757ebc2b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

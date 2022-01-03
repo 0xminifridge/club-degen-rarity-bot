@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6067",
+    "description": "chikn #6067",
+    "image": "https://cdn1.chikn.farm/images/8d777445e41ec7db445ea80b25fc28ef990330aa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6042",
+    "description": "chikn #6042",
+    "image": "https://cdn1.chikn.farm/images/ee69b73eff1add78984196fc2812513fc7c0acd9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

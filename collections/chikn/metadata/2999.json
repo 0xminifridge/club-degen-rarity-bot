@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2999",
+    "description": "chikn #2999",
+    "image": "https://cdn1.chikn.farm/images/d8ea671fe15ef6c63a2075fbd4a3bfcacb5c14a7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

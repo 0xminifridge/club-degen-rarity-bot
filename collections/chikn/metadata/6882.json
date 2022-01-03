@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6882",
+    "description": "chikn #6882",
+    "image": "https://cdn1.chikn.farm/images/7992c3ef4217d382a8a200431fa530f4659f6f93.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

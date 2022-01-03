@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #977",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/977.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "BTC"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BGK Blue"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Jean Jacket"
+        }
+    ]
+}

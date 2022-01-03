@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3308",
+    "description": "chikn #3308",
+    "image": "https://cdn1.chikn.farm/images/2f39da24d13287dc50c7a3f1a58547929f10c26a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

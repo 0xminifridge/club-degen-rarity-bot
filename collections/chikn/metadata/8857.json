@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8857",
+    "description": "chikn #8857",
+    "image": "https://cdn1.chikn.farm/images/2abc6b0560fc721de6bed479d18694c782953046.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9433",
+    "description": "chikn #9433",
+    "image": "https://cdn1.chikn.farm/images/72ecd817c740f9d4d7efde56f5dc08f9b1791a68.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

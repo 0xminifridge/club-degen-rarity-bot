@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4360",
+    "description": "chikn #4360",
+    "image": "https://cdn1.chikn.farm/images/7747e5b3128ad3bdc66acb0873024d1de9179621.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

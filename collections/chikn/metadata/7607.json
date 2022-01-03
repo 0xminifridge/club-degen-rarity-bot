@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7607",
+    "description": "chikn #7607",
+    "image": "https://cdn1.chikn.farm/images/e7753939b1a00fd6562b8c311e37254456507f34.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

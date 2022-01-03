@@ -1,0 +1,23 @@
+{
+    "name": "chikn #892",
+    "description": "chikn #892",
+    "image": "https://cdn1.chikn.farm/images/e7291433903c5033e2dbebff9bc480b7ace9b6e8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3900",
+    "description": "chikn #3900",
+    "image": "https://cdn1.chikn.farm/images/a75f8d4df9f808df4f4f0dace0f667b064257d30.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "laser eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8079",
+    "description": "chikn #8079",
+    "image": "https://cdn1.chikn.farm/images/696e2a78fdceb349803a0bd3a308e58fe334caa2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

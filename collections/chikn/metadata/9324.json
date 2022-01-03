@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9324",
+    "description": "chikn #9324",
+    "image": "https://cdn1.chikn.farm/images/a2c23b50c028cbc7814c95c614319ad33d8254a2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

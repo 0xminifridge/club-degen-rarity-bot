@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9076",
+    "description": "chikn #9076",
+    "image": "https://cdn1.chikn.farm/images/847a9c41d64f1e8ef9adfdb51cae82e1cc6ee9b7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

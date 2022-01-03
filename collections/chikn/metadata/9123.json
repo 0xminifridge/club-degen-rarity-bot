@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9123",
+    "description": "chikn #9123",
+    "image": "https://cdn1.chikn.farm/images/b7b6305b78e15804209156b672f3fbf23fc25e8f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

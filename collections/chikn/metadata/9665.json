@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9665",
+    "description": "chikn #9665",
+    "image": "https://cdn1.chikn.farm/images/d97e43edb5f3c545865a855b395de911c84a4a45.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

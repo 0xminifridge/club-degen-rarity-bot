@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6788",
+    "description": "chikn #6788",
+    "image": "https://cdn1.chikn.farm/images/144be50c39c121c0d5bc665917035e7c8ae9ccb5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

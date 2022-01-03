@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6345",
+    "description": "chikn #6345",
+    "image": "https://cdn1.chikn.farm/images/63f761a4dde3815e487d09029c9952a8b5953ca0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

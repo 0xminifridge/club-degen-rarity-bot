@@ -1,0 +1,19 @@
+{
+    "name": "chikn #3431",
+    "description": "chikn #3431",
+    "image": "https://cdn1.chikn.farm/images/8d273f970322192255fe596c7787f89457e7cb83.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3825",
+    "description": "chikn #3825",
+    "image": "https://cdn1.chikn.farm/images/55e7a40c343b7d465d8d092b68c9cff11cce3c93.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

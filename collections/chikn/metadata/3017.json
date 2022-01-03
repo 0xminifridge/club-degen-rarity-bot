@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3017",
+    "description": "chikn #3017",
+    "image": "https://cdn1.chikn.farm/images/bf96a63f7a93cc27f87920711ab17391f806d82d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

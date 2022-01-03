@@ -1,0 +1,19 @@
+{
+    "name": "chikn #5194",
+    "description": "chikn #5194",
+    "image": "https://cdn1.chikn.farm/images/651012561659c9bcd8c53a952ba2296beda67c18.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

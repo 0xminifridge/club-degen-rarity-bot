@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8475",
+    "description": "chikn #8475",
+    "image": "https://cdn1.chikn.farm/images/1efa72805a850693d2bdfc08c2f62b166a8d70be.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pineapple"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

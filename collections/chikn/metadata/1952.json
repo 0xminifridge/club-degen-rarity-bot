@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1952",
+    "description": "chikn #1952",
+    "image": "https://cdn1.chikn.farm/images/b37afa8d465738858daf0c1f333106ea36e5f191.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "daft punk"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9296",
+    "description": "chikn #9296",
+    "image": "https://cdn1.chikn.farm/images/49703a5d1ef9d84cdfc13d8273db8a73b1369dcb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #2087",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/2087.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Strawberry"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Clown"
+        }
+    ]
+}

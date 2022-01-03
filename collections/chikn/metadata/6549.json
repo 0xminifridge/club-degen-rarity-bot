@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6549",
+    "description": "chikn #6549",
+    "image": "https://cdn1.chikn.farm/images/36038d075d8b494c07affa2a6184fce27c8a9bba.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

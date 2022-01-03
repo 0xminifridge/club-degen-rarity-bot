@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5125",
+    "description": "chikn #5125",
+    "image": "https://cdn1.chikn.farm/images/692df992d2cd28ec539f6d7b60acfa0dc50210ec.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

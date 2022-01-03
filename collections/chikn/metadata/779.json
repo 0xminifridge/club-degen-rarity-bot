@@ -1,0 +1,27 @@
+{
+    "name": "chikn #779",
+    "description": "chikn #779",
+    "image": "https://cdn1.chikn.farm/images/977f0dca992fe34395e9fc0da8e48d583d974cfd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

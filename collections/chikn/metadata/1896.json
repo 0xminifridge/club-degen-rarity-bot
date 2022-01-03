@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1896",
+    "description": "chikn #1896",
+    "image": "https://cdn1.chikn.farm/images/98217a29976cde5cbffee3b6f8fbde6e41a89cb9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim og"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

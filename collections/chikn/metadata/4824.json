@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4824",
+    "description": "chikn #4824",
+    "image": "https://cdn1.chikn.farm/images/134a5e8f064e316efc15236ca082802a5d4a0e44.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

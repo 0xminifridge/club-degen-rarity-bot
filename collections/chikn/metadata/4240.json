@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4240",
+    "description": "chikn #4240",
+    "image": "https://cdn1.chikn.farm/images/dbc2af3cf04cb16e2fc956c45c3a48f89d5279fa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

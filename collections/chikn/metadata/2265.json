@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2265",
+    "description": "chikn #2265",
+    "image": "https://cdn1.chikn.farm/images/6138fa1f98a2a442dff741b975375ea051fd6fdd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

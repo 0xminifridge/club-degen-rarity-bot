@@ -1,0 +1,27 @@
+{
+    "name": "chikn #488",
+    "description": "chikn #488",
+    "image": "https://cdn1.chikn.farm/images/284dc919c57cd0fa5d123636d296606c92395a9f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

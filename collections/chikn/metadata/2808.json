@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2808",
+    "description": "chikn #2808",
+    "image": "https://cdn1.chikn.farm/images/e43541ff9b245cd69866b3c5a882dd92a81728c4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

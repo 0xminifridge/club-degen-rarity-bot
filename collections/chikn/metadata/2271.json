@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2271",
+    "description": "chikn #2271",
+    "image": "https://cdn1.chikn.farm/images/303212fd81bbdda5c6769bf4fde52aac89430113.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

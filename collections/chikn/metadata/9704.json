@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9704",
+    "description": "chikn #9704",
+    "image": "https://cdn1.chikn.farm/images/35712303b344ce64060bcf63fcfb6386ef375461.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

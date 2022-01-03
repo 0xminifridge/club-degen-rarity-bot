@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5408",
+    "description": "chikn #5408",
+    "image": "https://cdn1.chikn.farm/images/3200f5f9074cdcd150f7063a261a1537f0531f76.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

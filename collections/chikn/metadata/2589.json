@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2589",
+    "description": "chikn #2589",
+    "image": "https://cdn1.chikn.farm/images/e958aea9a83c58cb8db15ec6cb9846cec59318c5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

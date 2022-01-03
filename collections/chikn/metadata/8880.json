@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8880",
+    "description": "chikn #8880",
+    "image": "https://cdn1.chikn.farm/images/2a37c24270ec9ab9ffb96de64865c0f12e9d8921.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

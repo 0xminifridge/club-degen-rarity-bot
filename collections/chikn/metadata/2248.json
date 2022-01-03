@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2248",
+    "description": "chikn #2248",
+    "image": "https://cdn1.chikn.farm/images/47ad45a6fd44c3c445b3686cf8ccd491db898bf2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

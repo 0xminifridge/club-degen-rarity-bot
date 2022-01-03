@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4215",
+    "description": "chikn #4215",
+    "image": "https://cdn1.chikn.farm/images/1d2071230259c641d7b4dbce7bcea5a52790df41.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

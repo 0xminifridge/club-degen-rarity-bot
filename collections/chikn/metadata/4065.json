@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4065",
+    "description": "chikn #4065",
+    "image": "https://cdn1.chikn.farm/images/635a8c3ce239030b5f759b085b3f3391039e3eec.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2588",
+    "description": "chikn #2588",
+    "image": "https://cdn1.chikn.farm/images/8d3c4d334924e38ca5a3d6b57bf2b538b9aed46b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

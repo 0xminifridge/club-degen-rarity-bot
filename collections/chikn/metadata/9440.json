@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9440",
+    "description": "chikn #9440",
+    "image": "https://cdn1.chikn.farm/images/a36fe19f774c9170fce4d6e25d7e93950df5e149.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

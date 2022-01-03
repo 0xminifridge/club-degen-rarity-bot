@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1095",
+    "description": "chikn #1095",
+    "image": "https://cdn1.chikn.farm/images/1cbb3b3c4746ca2e0d58e85a81325bf3498b8929.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

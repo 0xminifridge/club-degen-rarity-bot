@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1828",
+    "description": "chikn #1828",
+    "image": "https://cdn1.chikn.farm/images/4d3b5d830f73dbe7c5448aa08e00f2b52d9ac9c5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

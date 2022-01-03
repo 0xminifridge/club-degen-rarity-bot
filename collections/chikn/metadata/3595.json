@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3595",
+    "description": "chikn #3595",
+    "image": "https://cdn1.chikn.farm/images/c843fcec10be1df4c53edc9bc279faec61464d9f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4200",
+    "description": "chikn #4200",
+    "image": "https://cdn1.chikn.farm/images/f7808e974e5f92c8e23ee26d4d41c925d1cb8964.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

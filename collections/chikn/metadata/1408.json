@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1408",
+    "description": "chikn #1408",
+    "image": "https://cdn1.chikn.farm/images/395c7e72f6bf82368469f120bc1db9a6bb4e6c41.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1723",
+    "description": "chikn #1723",
+    "image": "https://cdn1.chikn.farm/images/ee3729bf61f570b526f6dbad0a28ded19301f77e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

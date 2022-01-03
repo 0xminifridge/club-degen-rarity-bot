@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7209",
+    "description": "chikn #7209",
+    "image": "https://cdn1.chikn.farm/images/6cbad0b36ee50d73e09aa7bfcff76d92845c8be8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

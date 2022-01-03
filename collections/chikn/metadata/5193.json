@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5193",
+    "description": "chikn #5193",
+    "image": "https://cdn1.chikn.farm/images/707e84a57ca9ae01cf9428a68e2f975ae1489810.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

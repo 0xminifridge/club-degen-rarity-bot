@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3234",
+    "description": "chikn #3234",
+    "image": "https://cdn1.chikn.farm/images/06fe5d58d4f2d08b0b2a2e7415bde80e75e8a541.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

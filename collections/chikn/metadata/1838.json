@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1838",
+    "description": "chikn #1838",
+    "image": "https://cdn1.chikn.farm/images/77e8bee17b1d9a48253f13973657bc29213b5515.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin maxi"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

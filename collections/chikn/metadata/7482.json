@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7482",
+    "description": "chikn #7482",
+    "image": "https://cdn1.chikn.farm/images/ce742cd265917d9cc71fbb00310229a265a61892.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

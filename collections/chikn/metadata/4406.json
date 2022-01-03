@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4406",
+    "description": "chikn #4406",
+    "image": "https://cdn1.chikn.farm/images/e9df937b1e8f5dfa7e118a744ed8c3cc8716c903.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

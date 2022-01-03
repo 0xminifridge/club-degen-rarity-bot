@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1625",
+    "description": "chikn #1625",
+    "image": "https://cdn1.chikn.farm/images/87c48d0534e3efc77aaa4eb22f74d48c8cc06d57.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

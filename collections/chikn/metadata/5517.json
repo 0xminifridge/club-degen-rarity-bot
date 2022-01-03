@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5517",
+    "description": "chikn #5517",
+    "image": "https://cdn1.chikn.farm/images/64123c0f35ad2a7ad53162e0969da8d7106bff6b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

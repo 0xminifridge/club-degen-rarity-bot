@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #8486",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/8486.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gradient Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clown"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Happy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Ice Cream"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Jean Jacket"
+        }
+    ]
+}

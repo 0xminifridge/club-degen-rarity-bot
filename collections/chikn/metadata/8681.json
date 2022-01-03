@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8681",
+    "description": "chikn #8681",
+    "image": "https://cdn1.chikn.farm/images/cb644f72e7d55bc26bf290bd0030ae1dc749c016.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

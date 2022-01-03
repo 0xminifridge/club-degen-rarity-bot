@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2169",
+    "description": "chikn #2169",
+    "image": "https://cdn1.chikn.farm/images/9c4d05f9021fd7bcc68096461c6cb5080fb03479.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

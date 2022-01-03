@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1757",
+    "description": "chikn #1757",
+    "image": "https://cdn1.chikn.farm/images/490d9255f80ae15ac6c0dc1ae761f5db886b4e93.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

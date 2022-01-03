@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8564",
+    "description": "chikn #8564",
+    "image": "https://cdn1.chikn.farm/images/9df0de3ba1a1d7d7c6c554c3e28c930b0431425b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

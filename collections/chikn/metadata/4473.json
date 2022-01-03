@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4473",
+    "description": "chikn #4473",
+    "image": "https://cdn1.chikn.farm/images/be1cc0e510964473944228e9e0552a35f8652d23.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

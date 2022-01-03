@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5608",
+    "description": "chikn #5608",
+    "image": "https://cdn1.chikn.farm/images/07bacce4407f79437d845385b7081f67d4ca5aeb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1592",
+    "description": "chikn #1592",
+    "image": "https://cdn1.chikn.farm/images/23f2deb0e1ed56a1ceb70c07b449cc89412f2f3e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7523",
+    "description": "chikn #7523",
+    "image": "https://cdn1.chikn.farm/images/dee9fc3b0b4bf40081c768134b876e95255bf974.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

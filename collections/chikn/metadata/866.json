@@ -1,0 +1,27 @@
+{
+    "name": "chikn #866",
+    "description": "chikn #866",
+    "image": "https://cdn1.chikn.farm/images/bdaa5e54e7a7a54739dbd74f43fcc23cfc0c71f6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

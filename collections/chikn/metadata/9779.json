@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9779",
+    "description": "chikn #9779",
+    "image": "https://cdn1.chikn.farm/images/3eb87d6d269565f046585218a58c0d04ffa8d8e0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

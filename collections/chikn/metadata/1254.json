@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1254",
+    "description": "chikn #1254",
+    "image": "https://cdn1.chikn.farm/images/ca289f581a19cbd986116914dc6d4a826dd257eb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

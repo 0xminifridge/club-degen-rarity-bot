@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9541",
+    "description": "chikn #9541",
+    "image": "https://cdn1.chikn.farm/images/a5ac0f1718f6a32c13aea9c92660f8631ccb6bae.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

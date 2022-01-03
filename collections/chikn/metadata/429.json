@@ -1,0 +1,27 @@
+{
+    "name": "chikn #429",
+    "description": "chikn #429",
+    "image": "https://cdn1.chikn.farm/images/da2ee23c566d8daceec3962f06df33f47d8b9571.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

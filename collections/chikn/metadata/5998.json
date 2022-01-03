@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5998",
+    "description": "chikn #5998",
+    "image": "https://cdn1.chikn.farm/images/55bbf6badaaf19a5d433fe47c961ebaa015eb919.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

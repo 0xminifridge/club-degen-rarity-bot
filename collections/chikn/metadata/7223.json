@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7223",
+    "description": "chikn #7223",
+    "image": "https://cdn1.chikn.farm/images/eddc3dc9554dca9fadd4bd9063e38983c728e6fe.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "business boy"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

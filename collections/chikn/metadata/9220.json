@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9220",
+    "description": "chikn #9220",
+    "image": "https://cdn1.chikn.farm/images/1df2194c6a7349730e06da7d566df2e41a4475f9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

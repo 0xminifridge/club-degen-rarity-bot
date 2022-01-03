@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8942",
+    "description": "chikn #8942",
+    "image": "https://cdn1.chikn.farm/images/57b384d1d85929da906de83316d2675668839d25.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

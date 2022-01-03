@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4701",
+    "description": "chikn #4701",
+    "image": "https://cdn1.chikn.farm/images/600b49f8bec6b8f890978bf734a5e3dc99133c27.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

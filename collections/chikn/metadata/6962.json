@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6962",
+    "description": "chikn #6962",
+    "image": "https://cdn1.chikn.farm/images/e09792cdb11358ca7d6dfc05c2b947ef2c538ca1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

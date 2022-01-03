@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1342",
+    "description": "chikn #1342",
+    "image": "https://cdn1.chikn.farm/images/3d6685a89cfcf713b9b2a7601f805a4e02db4fd4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

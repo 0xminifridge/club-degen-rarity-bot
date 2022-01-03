@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5127",
+    "description": "chikn #5127",
+    "image": "https://cdn1.chikn.farm/images/eb5b1ea005af948b5cbb92864e27bdf185d8b376.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

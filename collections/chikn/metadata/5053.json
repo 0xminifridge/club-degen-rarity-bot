@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5053",
+    "description": "chikn #5053",
+    "image": "https://cdn1.chikn.farm/images/55fa527ca55e67166f81fc7eea2e0a3911c3fe15.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

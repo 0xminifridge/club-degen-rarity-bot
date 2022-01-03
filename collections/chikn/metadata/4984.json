@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4984",
+    "description": "chikn #4984",
+    "image": "https://cdn1.chikn.farm/images/e001fcf5a9e6638d7ae4d60d2c22bb8959b2497c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

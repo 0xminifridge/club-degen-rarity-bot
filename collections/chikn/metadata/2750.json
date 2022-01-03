@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2750",
+    "description": "chikn #2750",
+    "image": "https://cdn1.chikn.farm/images/9450abac540b2a0b52c268d3ff2e60e28c0fc16f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

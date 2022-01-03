@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6551",
+    "description": "chikn #6551",
+    "image": "https://cdn1.chikn.farm/images/a87b89e55c3d1f9c006d85f0d0d6a87809cb1a99.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5356",
+    "description": "chikn #5356",
+    "image": "https://cdn1.chikn.farm/images/2c0dd1275a3ccbd65ccda7f08714995f59f23eb2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

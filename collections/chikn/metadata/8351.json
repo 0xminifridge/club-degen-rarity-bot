@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8351",
+    "description": "chikn #8351",
+    "image": "https://cdn1.chikn.farm/images/1a7b4b7c459dd0dc750547529a08bd9422fdd85e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

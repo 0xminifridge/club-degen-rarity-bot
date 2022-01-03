@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5651",
+    "description": "chikn #5651",
+    "image": "https://cdn1.chikn.farm/images/7bd79e75e6f456d006927c4871dcfc9627dfc46c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

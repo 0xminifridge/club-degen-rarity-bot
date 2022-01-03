@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5277",
+    "description": "chikn #5277",
+    "image": "https://cdn1.chikn.farm/images/d1c70a6240f1878cfdb893ce27245b1d767491b1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

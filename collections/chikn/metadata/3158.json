@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3158",
+    "description": "chikn #3158",
+    "image": "https://cdn1.chikn.farm/images/807c8dd9c4f51d614061e5e9bcd11554dba3a0b6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

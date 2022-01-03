@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7609",
+    "description": "chikn #7609",
+    "image": "https://cdn1.chikn.farm/images/d1fe128179a02fb3e3cc1b5d0785b10010f79f51.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

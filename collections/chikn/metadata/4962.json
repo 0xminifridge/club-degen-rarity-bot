@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4962",
+    "description": "chikn #4962",
+    "image": "https://cdn1.chikn.farm/images/43250bc51e17f579642d9fa92243a747a6e8a1bb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

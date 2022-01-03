@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5894",
+    "description": "chikn #5894",
+    "image": "https://cdn1.chikn.farm/images/d90abe1555942f7349d92689a636b05b0cc2e28d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2398",
+    "description": "chikn #2398",
+    "image": "https://cdn1.chikn.farm/images/402c0844cffb134c5fe13453c014677f1455973e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

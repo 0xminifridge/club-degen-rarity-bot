@@ -1,0 +1,27 @@
+{
+    "name": "chikn #11",
+    "description": "chikn #11",
+    "image": "https://cdn1.chikn.farm/images/3c3498fcce1994b73aea24f391a32ee2139f3a4b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9916",
+    "description": "chikn #9916",
+    "image": "https://cdn1.chikn.farm/images/c8b039624e0fd144c2101b483f42440000f53e8a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

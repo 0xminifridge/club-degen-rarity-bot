@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8140",
+    "description": "chikn #8140",
+    "image": "https://cdn1.chikn.farm/images/eb94d666745209076fd31fa33d90af14fe594c6f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

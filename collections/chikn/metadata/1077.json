@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1077",
+    "description": "chikn #1077",
+    "image": "https://cdn1.chikn.farm/images/92782612c7832d335686cb555ecce11cba4b8fb2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

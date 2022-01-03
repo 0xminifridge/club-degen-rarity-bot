@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7258",
+    "description": "chikn #7258",
+    "image": "https://cdn1.chikn.farm/images/d1022db5f3898d6977d6fbf52b6ab6f8972547e0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

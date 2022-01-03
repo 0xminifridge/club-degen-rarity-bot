@@ -1,0 +1,27 @@
+{
+    "name": "chikn #334",
+    "description": "chikn #334",
+    "image": "https://cdn1.chikn.farm/images/4a70c53d3ff1c10dcb5a082ecc66910557990777.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

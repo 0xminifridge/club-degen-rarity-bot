@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4247",
+    "description": "chikn #4247",
+    "image": "https://cdn1.chikn.farm/images/08ef97c6f6947110bed1f6c2d28c1b8cc69416b5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "super saiyan"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

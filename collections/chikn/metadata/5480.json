@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5480",
+    "description": "chikn #5480",
+    "image": "https://cdn1.chikn.farm/images/222becdd78bc9b6c3ecbec06751768bb2e2d84db.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

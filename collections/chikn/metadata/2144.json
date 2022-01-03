@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2144",
+    "description": "chikn #2144",
+    "image": "https://cdn1.chikn.farm/images/7262fbf95cab35c676d0c516e9b2771e506ea3cc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "real feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5721",
+    "description": "chikn #5721",
+    "image": "https://cdn1.chikn.farm/images/f3fb5fe9a1c9904016a4008317011d5da8f7acd3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

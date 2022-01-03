@@ -1,0 +1,27 @@
+{
+    "name": "chikn #401",
+    "description": "chikn #401",
+    "image": "https://cdn1.chikn.farm/images/079ce7c497fd9f1bc0bd2bf1369aed450ffbab22.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

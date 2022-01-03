@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #304",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/304.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Buzzed"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Teal BGK"
+        }
+    ]
+}

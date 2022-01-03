@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5001",
+    "description": "chikn #5001",
+    "image": "https://cdn1.chikn.farm/images/916299d296e64ff735d47d315a0dbe47a05f2ce3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

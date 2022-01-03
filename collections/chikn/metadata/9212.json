@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9212",
+    "description": "chikn #9212",
+    "image": "https://cdn1.chikn.farm/images/a3ff5efcfebdc413f12530bc5d68b6b5775fa53e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

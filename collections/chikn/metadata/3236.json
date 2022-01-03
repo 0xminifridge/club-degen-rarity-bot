@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3236",
+    "description": "chikn #3236",
+    "image": "https://cdn1.chikn.farm/images/e8877060edf10a5f3d664f4533c862ed79d5258a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "tungsten cube"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

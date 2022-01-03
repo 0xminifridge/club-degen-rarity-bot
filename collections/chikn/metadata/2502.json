@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2502",
+    "description": "chikn #2502",
+    "image": "https://cdn1.chikn.farm/images/5d8832d2456b8a4704d208c1fb06ef51371edf39.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

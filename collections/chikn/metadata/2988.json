@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2988",
+    "description": "chikn #2988",
+    "image": "https://cdn1.chikn.farm/images/f5c199b0fedfd8723b6f78e5dab7f3aa66c4428c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

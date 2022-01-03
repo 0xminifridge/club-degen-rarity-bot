@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4173",
+    "description": "chikn #4173",
+    "image": "https://cdn1.chikn.farm/images/40d4a57acbabb0b587b53ac92e718ff5adf524cd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

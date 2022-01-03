@@ -1,0 +1,19 @@
+{
+    "name": "chikn #6787",
+    "description": "chikn #6787",
+    "image": "https://cdn1.chikn.farm/images/e7c825a7ef09f204b00127c7f8021c3ef1aa288f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

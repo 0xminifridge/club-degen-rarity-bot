@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8639",
+    "description": "chikn #8639",
+    "image": "https://cdn1.chikn.farm/images/e7ae1230d3ed34cc6c8518864692d6a0f792a870.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

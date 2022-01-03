@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7748",
+    "description": "chikn #7748",
+    "image": "https://cdn1.chikn.farm/images/77f87a7bca1baab4690a202d70ea9655cf31c029.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

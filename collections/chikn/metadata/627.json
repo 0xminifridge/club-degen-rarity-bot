@@ -1,0 +1,27 @@
+{
+    "name": "chikn #627",
+    "description": "chikn #627",
+    "image": "https://cdn1.chikn.farm/images/9df7329eaaff5f99c339dc47ecaaa7e09fa100ef.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

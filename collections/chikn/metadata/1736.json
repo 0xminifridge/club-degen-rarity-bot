@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1736",
+    "description": "chikn #1736",
+    "image": "https://cdn1.chikn.farm/images/364a8bdfa47e4d4c74cb1e48c620ba47ea86892b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim og"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

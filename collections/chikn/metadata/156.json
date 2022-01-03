@@ -1,0 +1,27 @@
+{
+    "name": "chikn #156",
+    "description": "chikn #156",
+    "image": "https://cdn1.chikn.farm/images/68f24f46fc70c80ec31fed0f8dd8e267f1ea6bd3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

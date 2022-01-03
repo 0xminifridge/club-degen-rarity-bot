@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5666",
+    "description": "chikn #5666",
+    "image": "https://cdn1.chikn.farm/images/6ef1a95db6c266bba2e83a21e278c4eddd8fc6bf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #629",
+    "description": "chikn #629",
+    "image": "https://cdn1.chikn.farm/images/bf5d1c285aab086125ac67f096bd2dbab1c113e9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

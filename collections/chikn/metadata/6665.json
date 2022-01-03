@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6665",
+    "description": "chikn #6665",
+    "image": "https://cdn1.chikn.farm/images/3c57401dc4ef1b6d96553391941627c9267321fc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2621",
+    "description": "chikn #2621",
+    "image": "https://cdn1.chikn.farm/images/869b7b149cb3ac40938bf0a1ae1dd7c9cadc0272.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

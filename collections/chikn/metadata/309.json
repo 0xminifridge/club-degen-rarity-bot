@@ -1,0 +1,27 @@
+{
+    "name": "chikn #309",
+    "description": "chikn #309",
+    "image": "https://cdn1.chikn.farm/images/5588e727854ec94bd3656c4a9cfe1f60551701fb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin maxi"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

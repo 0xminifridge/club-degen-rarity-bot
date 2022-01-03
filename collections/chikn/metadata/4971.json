@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4971",
+    "description": "chikn #4971",
+    "image": "https://cdn1.chikn.farm/images/f1b6e9145e22a2823c1faff7794039ca9e31629b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

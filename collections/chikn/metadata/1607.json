@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1607",
+    "description": "chikn #1607",
+    "image": "https://cdn1.chikn.farm/images/87e3dbcccc2677eceb594d0e919afa9e263c1a8a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

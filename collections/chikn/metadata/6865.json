@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6865",
+    "description": "chikn #6865",
+    "image": "https://cdn1.chikn.farm/images/3d4c13466fd4edfc0988ee4aadfd342408b9d255.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5726",
+    "description": "chikn #5726",
+    "image": "https://cdn1.chikn.farm/images/9715e852648ea8dd4019ff32086981c9c5b62595.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "daft punk"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

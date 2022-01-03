@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7255",
+    "description": "chikn #7255",
+    "image": "https://cdn1.chikn.farm/images/b542662699279f7c5cf9cb1c708afdb54f80d7e1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3892",
+    "description": "chikn #3892",
+    "image": "https://cdn1.chikn.farm/images/7b308b3767bc3949a5081fa42b6a15bb01f6b48e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

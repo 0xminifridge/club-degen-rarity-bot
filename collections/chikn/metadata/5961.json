@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5961",
+    "description": "chikn #5961",
+    "image": "https://cdn1.chikn.farm/images/be58f7022b20d507de86b82718499721f4069ff4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1378",
+    "description": "chikn #1378",
+    "image": "https://cdn1.chikn.farm/images/04910448c7e9ce20deff9a87da80241180285717.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3817",
+    "description": "chikn #3817",
+    "image": "https://cdn1.chikn.farm/images/2268bb2d7996fc5caa242c065c4a4246c30da367.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

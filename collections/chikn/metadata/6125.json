@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6125",
+    "description": "chikn #6125",
+    "image": "https://cdn1.chikn.farm/images/1f9efa469e8b221b7251cb9841d5da10dd5a5371.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

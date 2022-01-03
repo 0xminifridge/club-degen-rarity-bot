@@ -1,0 +1,19 @@
+{
+    "name": "chikn #9021",
+    "description": "chikn #9021",
+    "image": "https://cdn1.chikn.farm/images/c37bb5c817cda46bc63399031a708fd0ed299077.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

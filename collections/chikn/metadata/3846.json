@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3846",
+    "description": "chikn #3846",
+    "image": "https://cdn1.chikn.farm/images/7b81a90f899dfb22fb5359e9453cddc2eaa5d9fe.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

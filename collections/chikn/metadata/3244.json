@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3244",
+    "description": "chikn #3244",
+    "image": "https://cdn1.chikn.farm/images/20f5d1f88cffad31f30c394461caf2f0cad0fbfe.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

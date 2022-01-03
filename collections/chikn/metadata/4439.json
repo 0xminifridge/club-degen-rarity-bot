@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4439",
+    "description": "chikn #4439",
+    "image": "https://cdn1.chikn.farm/images/771442a98093106e5f4800bf2e68d6c4ae2cfdbd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

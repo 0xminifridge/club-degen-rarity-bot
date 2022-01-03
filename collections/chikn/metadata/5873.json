@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5873",
+    "description": "chikn #5873",
+    "image": "https://cdn1.chikn.farm/images/dd41b83001b8d2397fff95cc0aaba1bbd94c1354.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2447",
+    "description": "chikn #2447",
+    "image": "https://cdn1.chikn.farm/images/c980af9152cf494f3e6ddb29eac95db1e9158083.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

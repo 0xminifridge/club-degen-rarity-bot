@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7915",
+    "description": "chikn #7915",
+    "image": "https://cdn1.chikn.farm/images/35f16e021c6e0595cb8768321cbf997629eb4b3d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "laser eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

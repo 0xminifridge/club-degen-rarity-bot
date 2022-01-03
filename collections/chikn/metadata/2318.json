@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2318",
+    "description": "chikn #2318",
+    "image": "https://cdn1.chikn.farm/images/8f4973952510cbb4cc9dc2f5a64f881c852a3440.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

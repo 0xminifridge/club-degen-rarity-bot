@@ -1,0 +1,19 @@
+{
+    "name": "chikn #1785",
+    "description": "chikn #1785",
+    "image": "https://cdn1.chikn.farm/images/7a1e4fea868abaa01cf5c1dce6d21a395fc732c5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

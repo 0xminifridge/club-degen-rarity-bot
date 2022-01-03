@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4079",
+    "description": "chikn #4079",
+    "image": "https://cdn1.chikn.farm/images/a00414344ad4f816732a6c5e6d44c9ffb4a2c132.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

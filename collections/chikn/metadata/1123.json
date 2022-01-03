@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1123",
+    "description": "chikn #1123",
+    "image": "https://cdn1.chikn.farm/images/50fe9b7f776a3eafbbc317928ce6bfc57a0c5230.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

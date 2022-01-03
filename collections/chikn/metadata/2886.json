@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2886",
+    "description": "chikn #2886",
+    "image": "https://cdn1.chikn.farm/images/bec575048ab2606462ad3442944dc5c5ab361577.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9268",
+    "description": "chikn #9268",
+    "image": "https://cdn1.chikn.farm/images/eb816e862ba4c5ad96e7d4e1387f7e57c25e9456.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

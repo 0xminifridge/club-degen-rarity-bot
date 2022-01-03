@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3078",
+    "description": "chikn #3078",
+    "image": "https://cdn1.chikn.farm/images/0a3cef31e065af998ea7799582f4885d186b4bc8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

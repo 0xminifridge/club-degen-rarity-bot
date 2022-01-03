@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4124",
+    "description": "chikn #4124",
+    "image": "https://cdn1.chikn.farm/images/92e0867d1200899aa0dc9489d25249bbadfd4831.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

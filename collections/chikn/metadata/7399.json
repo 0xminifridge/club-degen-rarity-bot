@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7399",
+    "description": "chikn #7399",
+    "image": "https://cdn1.chikn.farm/images/e705174ed541f3b7be305a792a505a44f38c280c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "super saiyan"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

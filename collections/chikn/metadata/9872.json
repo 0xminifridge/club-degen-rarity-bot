@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9872",
+    "description": "chikn #9872",
+    "image": "https://cdn1.chikn.farm/images/ebeb27acc07442af4a9413cbc8b53f4d56ba01d0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

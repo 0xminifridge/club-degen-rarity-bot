@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4116",
+    "description": "chikn #4116",
+    "image": "https://cdn1.chikn.farm/images/92fa6d678ef75a634b1680fb838a2b1613cbf663.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

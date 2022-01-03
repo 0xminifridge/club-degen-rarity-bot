@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9419",
+    "description": "chikn #9419",
+    "image": "https://cdn1.chikn.farm/images/1dd46378b9a9739db3b4b4ca0cac68ade0207144.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

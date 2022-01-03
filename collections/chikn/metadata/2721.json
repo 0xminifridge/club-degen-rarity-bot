@@ -1,0 +1,19 @@
+{
+    "name": "chikn #2721",
+    "description": "chikn #2721",
+    "image": "https://cdn1.chikn.farm/images/7114580795567b2a9e621af0322f4aa861ddfee8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

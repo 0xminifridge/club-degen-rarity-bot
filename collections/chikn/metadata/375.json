@@ -1,0 +1,27 @@
+{
+    "name": "chikn #375",
+    "description": "chikn #375",
+    "image": "https://cdn1.chikn.farm/images/34b8454b34a014f33877e1342e74aa5007bd9657.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

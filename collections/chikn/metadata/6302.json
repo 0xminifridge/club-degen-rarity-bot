@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6302",
+    "description": "chikn #6302",
+    "image": "https://cdn1.chikn.farm/images/e07691eabdaad4ef1a4c877c6440b2b123b66d82.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

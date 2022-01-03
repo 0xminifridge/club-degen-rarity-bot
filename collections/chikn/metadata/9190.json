@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9190",
+    "description": "chikn #9190",
+    "image": "https://cdn1.chikn.farm/images/e832278fb3b39fa52fb4aed83cecc7f2d9b10dfa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden crusader"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

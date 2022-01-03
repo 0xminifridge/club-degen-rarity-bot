@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8014",
+    "description": "chikn #8014",
+    "image": "https://cdn1.chikn.farm/images/aa06250c20580157f6ad704c08e3a24c51c92771.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

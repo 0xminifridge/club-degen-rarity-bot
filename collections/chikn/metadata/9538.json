@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9538",
+    "description": "chikn #9538",
+    "image": "https://cdn1.chikn.farm/images/eec47c69421718809cdb109355604cf633bcf56e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "galactic"
+        }
+    ]
+}

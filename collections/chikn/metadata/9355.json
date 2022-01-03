@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9355",
+    "description": "chikn #9355",
+    "image": "https://cdn1.chikn.farm/images/3d19272ea54ea6ab6cd67b4ded33a45122c44edf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

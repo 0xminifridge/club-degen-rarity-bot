@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4441",
+    "description": "chikn #4441",
+    "image": "https://cdn1.chikn.farm/images/f5c2474bf567a731d1024f7e2db83a875d04b8ce.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #22",
+    "description": "chikn #22",
+    "image": "https://cdn1.chikn.farm/images/78d74b3826dc415ee933d40d47c497f48149865d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

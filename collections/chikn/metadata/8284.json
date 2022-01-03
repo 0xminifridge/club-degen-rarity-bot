@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8284",
+    "description": "chikn #8284",
+    "image": "https://cdn1.chikn.farm/images/b57d1fdc1378d849e41a2178f52552c3f5cf2b27.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

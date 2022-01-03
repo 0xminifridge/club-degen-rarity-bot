@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7774",
+    "description": "chikn #7774",
+    "image": "https://cdn1.chikn.farm/images/dde1f727629576ca7c1721722249c26a1eb96a40.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

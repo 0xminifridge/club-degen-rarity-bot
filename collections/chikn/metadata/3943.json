@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3943",
+    "description": "chikn #3943",
+    "image": "https://cdn1.chikn.farm/images/69802e86f73c524a95371088e98e15331683499f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

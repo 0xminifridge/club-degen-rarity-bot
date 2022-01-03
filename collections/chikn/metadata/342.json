@@ -1,0 +1,19 @@
+{
+    "name": "chikn #342",
+    "description": "chikn #342",
+    "image": "https://cdn1.chikn.farm/images/5be3f8fe7ea467d71a6e6d18179e9a076ced4be6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

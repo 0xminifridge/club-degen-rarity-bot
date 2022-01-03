@@ -1,0 +1,27 @@
+{
+    "name": "chikn #756",
+    "description": "chikn #756",
+    "image": "https://cdn1.chikn.farm/images/142b39e1b4f4f04eb0742639edc9b054474d7371.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7259",
+    "description": "chikn #7259",
+    "image": "https://cdn1.chikn.farm/images/871c128c1489fab4f013dc25d33e4e4820290027.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

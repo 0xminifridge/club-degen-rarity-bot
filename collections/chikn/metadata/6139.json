@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6139",
+    "description": "chikn #6139",
+    "image": "https://cdn1.chikn.farm/images/008c4f9e12f250a4a5a0152077f0650b3bcc4de4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

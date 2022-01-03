@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1848",
+    "description": "chikn #1848",
+    "image": "https://cdn1.chikn.farm/images/29b0a521878f4743b31718a26f18d46b3a36bd43.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

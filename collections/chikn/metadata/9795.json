@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9795",
+    "description": "chikn #9795",
+    "image": "https://cdn1.chikn.farm/images/b3adc91b64a13cd290c0709580ba20934ad8d0a9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6958",
+    "description": "chikn #6958",
+    "image": "https://cdn1.chikn.farm/images/373759bf5844778a0f476a3ef749c85ef3b6f53f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

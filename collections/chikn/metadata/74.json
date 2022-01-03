@@ -1,0 +1,27 @@
+{
+    "name": "chikn #74",
+    "description": "chikn #74",
+    "image": "https://cdn1.chikn.farm/images/2087ac2a02e75ef924f518a99babea7112cd4ef7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

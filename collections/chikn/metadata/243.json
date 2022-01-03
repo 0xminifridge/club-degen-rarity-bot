@@ -1,0 +1,23 @@
+{
+    "name": "chikn #243",
+    "description": "chikn #243",
+    "image": "https://cdn1.chikn.farm/images/63c2e2445093876103fbc4254e7b36e7828b48c4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

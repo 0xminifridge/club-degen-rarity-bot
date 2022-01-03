@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9707",
+    "description": "chikn #9707",
+    "image": "https://cdn1.chikn.farm/images/826e8f1cac097d40675814eb237ce1bbceadca04.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

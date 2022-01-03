@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9510",
+    "description": "chikn #9510",
+    "image": "https://cdn1.chikn.farm/images/53b6e14727a7cbefef33adc85dc9202c73569231.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

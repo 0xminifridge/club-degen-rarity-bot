@@ -1,0 +1,35 @@
+{
+    "name": "chikn #3283",
+    "description": "chikn #3283",
+    "image": "https://cdn1.chikn.farm/images/cd211cbc4473f3d01121b38da1fd98ab1ea80c09.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1307",
+    "description": "chikn #1307",
+    "image": "https://cdn1.chikn.farm/images/1a4febff6f9ced90005e5d0d8a9b260233dbc4b6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

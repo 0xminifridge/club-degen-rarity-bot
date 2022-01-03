@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7885",
+    "description": "chikn #7885",
+    "image": "https://cdn1.chikn.farm/images/4796102ec8c8c41760d1f1dc93a04a26d37e47d3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "super saiyan"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

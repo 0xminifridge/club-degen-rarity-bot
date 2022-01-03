@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5445",
+    "description": "chikn #5445",
+    "image": "https://cdn1.chikn.farm/images/95978f0925bb31b1067bb11a3b3ea89335ffc087.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

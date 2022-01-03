@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1433",
+    "description": "chikn #1433",
+    "image": "https://cdn1.chikn.farm/images/0d92655f4e63a82bf72d8996b26c583a939565b7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

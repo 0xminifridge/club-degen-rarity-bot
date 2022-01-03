@@ -1,0 +1,19 @@
+{
+    "name": "chikn #7001",
+    "description": "chikn #7001",
+    "image": "https://cdn1.chikn.farm/images/61cf93d340db751a562c112bb238eaebbefc9b88.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8653",
+    "description": "chikn #8653",
+    "image": "https://cdn1.chikn.farm/images/e1b52e4100a57bec7ea8a7d339f43d3fc094238b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

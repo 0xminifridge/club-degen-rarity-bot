@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3320",
+    "description": "chikn #3320",
+    "image": "https://cdn1.chikn.farm/images/ae767829cfb3ac5d651f681224ba8f91401666ce.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim og"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

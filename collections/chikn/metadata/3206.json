@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3206",
+    "description": "chikn #3206",
+    "image": "https://cdn1.chikn.farm/images/0ceb0bce59bb86e0ddbf5b4f53b77f4069ba700b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9081",
+    "description": "chikn #9081",
+    "image": "https://cdn1.chikn.farm/images/4917a26c1706950abef28306d82078f3e5ae0dcc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

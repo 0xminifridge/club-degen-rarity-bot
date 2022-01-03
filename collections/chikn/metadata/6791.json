@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6791",
+    "description": "chikn #6791",
+    "image": "https://cdn1.chikn.farm/images/df546da62d8dc0bd590c0799c507361b0d8551f9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2174",
+    "description": "chikn #2174",
+    "image": "https://cdn1.chikn.farm/images/20e365d5c3c180b52a30333555a8b4c98ef79636.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

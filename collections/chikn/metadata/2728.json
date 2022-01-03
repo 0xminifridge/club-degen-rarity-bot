@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2728",
+    "description": "chikn #2728",
+    "image": "https://cdn1.chikn.farm/images/25e05371d9178cdf2e076ed46fc03b931b0d89e1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

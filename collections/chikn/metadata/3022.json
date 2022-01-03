@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3022",
+    "description": "chikn #3022",
+    "image": "https://cdn1.chikn.farm/images/d80e404c66dfd5f07755f148dd7d5b2c6e0682a7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

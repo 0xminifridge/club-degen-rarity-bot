@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2871",
+    "description": "chikn #2871",
+    "image": "https://cdn1.chikn.farm/images/c36df301e83c08492450054dda583e21e117d047.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "daft punk"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

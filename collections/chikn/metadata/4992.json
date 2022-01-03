@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4992",
+    "description": "chikn #4992",
+    "image": "https://cdn1.chikn.farm/images/a7e7f5e195aeacb6b84e0d5bde13cd1efaa0ecd4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2284",
+    "description": "chikn #2284",
+    "image": "https://cdn1.chikn.farm/images/c854571008d556172db1e9895c90f772c2d0897f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

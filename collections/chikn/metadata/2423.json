@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2423",
+    "description": "chikn #2423",
+    "image": "https://cdn1.chikn.farm/images/d5561423033a4d936fb7cab437a8f8fc075f8244.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7510",
+    "description": "chikn #7510",
+    "image": "https://cdn1.chikn.farm/images/3407bb2ca2c17507ab804035a9771024df9368dc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

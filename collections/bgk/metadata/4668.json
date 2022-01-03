@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #4668",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/4668.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Galaxy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Crazy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BGK Black"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Jean Jacket"
+        }
+    ]
+}

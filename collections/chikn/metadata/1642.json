@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1642",
+    "description": "chikn #1642",
+    "image": "https://cdn1.chikn.farm/images/15b5cbd27f0231237009e5b3261d9f518d7378fd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax degen"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

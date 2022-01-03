@@ -1,0 +1,35 @@
+{
+    "name": "chikn #5366",
+    "description": "chikn #5366",
+    "image": "https://cdn1.chikn.farm/images/c170f2a910032af9deda20d401602e5b9f0be8ad.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

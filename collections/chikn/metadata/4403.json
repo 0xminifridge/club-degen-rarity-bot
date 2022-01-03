@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4403",
+    "description": "chikn #4403",
+    "image": "https://cdn1.chikn.farm/images/f90b5c978e56368c971f95bc88e158fd6eabb31c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

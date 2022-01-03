@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4302",
+    "description": "chikn #4302",
+    "image": "https://cdn1.chikn.farm/images/b6cde546d01e4d3c7bc735055b8e4405aa9de862.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax degen"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

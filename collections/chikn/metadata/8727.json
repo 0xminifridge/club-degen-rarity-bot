@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8727",
+    "description": "chikn #8727",
+    "image": "https://cdn1.chikn.farm/images/06540119fde4accc8caedf776a5151e8cc05e9e1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pineapple"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

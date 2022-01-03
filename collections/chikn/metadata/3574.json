@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3574",
+    "description": "chikn #3574",
+    "image": "https://cdn1.chikn.farm/images/f554953140b95d07329b7212d9903bcfebb8eacb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

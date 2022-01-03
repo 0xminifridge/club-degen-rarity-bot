@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3217",
+    "description": "chikn #3217",
+    "image": "https://cdn1.chikn.farm/images/115359d2bf2f2ac4f77342d920de2153990e2d32.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

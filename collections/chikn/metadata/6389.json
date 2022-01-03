@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6389",
+    "description": "chikn #6389",
+    "image": "https://cdn1.chikn.farm/images/187583e5be904709712ed9c770abc63bc38223d7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1237",
+    "description": "chikn #1237",
+    "image": "https://cdn1.chikn.farm/images/6dc9e57fbeac92b97e8c82eac7ad777739c6944b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

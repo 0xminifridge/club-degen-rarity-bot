@@ -1,0 +1,23 @@
+{
+    "name": "chikn #961",
+    "description": "chikn #961",
+    "image": "https://cdn1.chikn.farm/images/ff6a3b83c24da760645e94d2ed680111bb751f18.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

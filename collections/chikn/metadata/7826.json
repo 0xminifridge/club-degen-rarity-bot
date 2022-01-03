@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7826",
+    "description": "chikn #7826",
+    "image": "https://cdn1.chikn.farm/images/d468b1e24dfc5abf29b6a2c7c582e65c85e30aca.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

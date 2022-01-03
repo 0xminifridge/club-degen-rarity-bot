@@ -1,0 +1,31 @@
+{
+    "name": "chikn #485",
+    "description": "chikn #485",
+    "image": "https://cdn1.chikn.farm/images/813b5b6bbc78c98d8d9a1f2689f9e49c1f6a0d48.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

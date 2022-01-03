@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6483",
+    "description": "chikn #6483",
+    "image": "https://cdn1.chikn.farm/images/e4a0d67f6449c811b4ca0de755eebd4a302582d8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

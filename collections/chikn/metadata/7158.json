@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7158",
+    "description": "chikn #7158",
+    "image": "https://cdn1.chikn.farm/images/e86068bb0c7ea4578c77221027a9f05c459714d0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5435",
+    "description": "chikn #5435",
+    "image": "https://cdn1.chikn.farm/images/6da88fd7f370a2b69f4ec3e7c9611268214aa00e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

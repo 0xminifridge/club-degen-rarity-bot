@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1367",
+    "description": "chikn #1367",
+    "image": "https://cdn1.chikn.farm/images/4e3ee1f1f8bbcd68301f0442f851b175764446ed.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "luckiest red cap"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

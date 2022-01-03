@@ -1,0 +1,19 @@
+{
+    "name": "chikn #7642",
+    "description": "chikn #7642",
+    "image": "https://cdn1.chikn.farm/images/3ec5ef90dd81733533504a702db7e14334d76fd0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

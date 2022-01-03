@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2354",
+    "description": "chikn #2354",
+    "image": "https://cdn1.chikn.farm/images/4ccabe07e32daeee29a9ddf9616430bd5fce06d7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

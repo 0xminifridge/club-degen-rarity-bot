@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3140",
+    "description": "chikn #3140",
+    "image": "https://cdn1.chikn.farm/images/1e3dac474f9199e6424a875b00ff6974a09259b5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "galactic"
+        }
+    ]
+}

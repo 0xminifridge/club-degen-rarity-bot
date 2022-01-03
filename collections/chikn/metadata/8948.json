@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8948",
+    "description": "chikn #8948",
+    "image": "https://cdn1.chikn.farm/images/9b1ee36b71b3006da239ad6bf8c53a8e7a973ec7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

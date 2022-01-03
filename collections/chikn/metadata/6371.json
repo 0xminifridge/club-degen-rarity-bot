@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6371",
+    "description": "chikn #6371",
+    "image": "https://cdn1.chikn.farm/images/d600d3d3a703c4a4857c9e62fa0e4fcd18d0051d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

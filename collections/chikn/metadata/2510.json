@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2510",
+    "description": "chikn #2510",
+    "image": "https://cdn1.chikn.farm/images/d99f7c68d1bcef0a799dbb7fbf741437c18dc889.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

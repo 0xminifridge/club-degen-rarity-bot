@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7220",
+    "description": "chikn #7220",
+    "image": "https://cdn1.chikn.farm/images/480d4b47011b00c07d910aee469339d94f2f627d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

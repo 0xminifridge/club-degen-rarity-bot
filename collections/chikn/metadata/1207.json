@@ -1,0 +1,15 @@
+{
+    "name": "chikn #1207",
+    "description": "chikn #1207",
+    "image": "https://cdn1.chikn.farm/images/625d36fae333acd56073e407bac715e2c765e409.jpeg",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9449",
+    "description": "chikn #9449",
+    "image": "https://cdn1.chikn.farm/images/6f37a4d3ddb83f011dcf3c53b1f1a0a209d8a60e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

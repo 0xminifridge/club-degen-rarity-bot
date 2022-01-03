@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3087",
+    "description": "chikn #3087",
+    "image": "https://cdn1.chikn.farm/images/015aa588b2310d89c153132261e7dd7e51c64d81.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

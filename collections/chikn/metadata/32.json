@@ -1,0 +1,31 @@
+{
+    "name": "chikn #32",
+    "description": "chikn #32",
+    "image": "https://cdn1.chikn.farm/images/c67b9f006f78b13ce9e3ab9e0a9b57d500969bb0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

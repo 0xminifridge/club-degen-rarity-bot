@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3471",
+    "description": "chikn #3471",
+    "image": "https://cdn1.chikn.farm/images/53784004049421e456e5d08cc3f167b33045e1c4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

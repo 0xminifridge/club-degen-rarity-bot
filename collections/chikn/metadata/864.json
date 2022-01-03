@@ -1,0 +1,27 @@
+{
+    "name": "chikn #864",
+    "description": "chikn #864",
+    "image": "https://cdn1.chikn.farm/images/d1cb5dcdcedd795c2898e5fbc14a167c63c67fff.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

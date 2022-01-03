@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1522",
+    "description": "chikn #1522",
+    "image": "https://cdn1.chikn.farm/images/bc85e158bc88919aa1fce0a0db961977378babd5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

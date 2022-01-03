@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9940",
+    "description": "chikn #9940",
+    "image": "https://cdn1.chikn.farm/images/0fb7bdddd219e64823e19b413fa9d817ecfd12a7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

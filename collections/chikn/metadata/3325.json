@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3325",
+    "description": "chikn #3325",
+    "image": "https://cdn1.chikn.farm/images/938e62cfd723486da9bfde73e2df28b7ac53bcb2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

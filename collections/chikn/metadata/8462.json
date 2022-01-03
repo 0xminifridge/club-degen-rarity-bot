@@ -1,0 +1,19 @@
+{
+    "name": "chikn #8462",
+    "description": "chikn #8462",
+    "image": "https://cdn1.chikn.farm/images/cb2b6ee64a479a0b1d1a00fc8f43a581a16a3a27.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

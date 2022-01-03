@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6037",
+    "description": "chikn #6037",
+    "image": "https://cdn1.chikn.farm/images/94fff481770111479675d116ada18414fd56049f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

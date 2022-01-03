@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4212",
+    "description": "chikn #4212",
+    "image": "https://cdn1.chikn.farm/images/27bea3d72e1ffe9c1889bda6b75426a2b8c3e940.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

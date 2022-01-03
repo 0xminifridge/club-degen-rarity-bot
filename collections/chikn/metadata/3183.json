@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3183",
+    "description": "chikn #3183",
+    "image": "https://cdn1.chikn.farm/images/3eb58a92f27ebf8054688dd671bd396743723a9d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "real feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

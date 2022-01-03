@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1382",
+    "description": "chikn #1382",
+    "image": "https://cdn1.chikn.farm/images/9ac061915071ffc5c834889957a20019cf375e3c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

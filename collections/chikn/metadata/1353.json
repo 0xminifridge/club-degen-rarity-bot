@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1353",
+    "description": "chikn #1353",
+    "image": "https://cdn1.chikn.farm/images/4175c2e1542d0ea244ddb61e08926c26ad4f7036.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6473",
+    "description": "chikn #6473",
+    "image": "https://cdn1.chikn.farm/images/cfe81301d63d48d26e31aa592587b7cd54ac5ed2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1209",
+    "description": "chikn #1209",
+    "image": "https://cdn1.chikn.farm/images/0e6671f53434d405419685c1f9814b309cf92d7a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

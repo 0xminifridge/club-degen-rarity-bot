@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6513",
+    "description": "chikn #6513",
+    "image": "https://cdn1.chikn.farm/images/5ece841d9f4e93b70e1bf0306bdbe5f793bd2947.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8966",
+    "description": "chikn #8966",
+    "image": "https://cdn1.chikn.farm/images/bb482ddd9f0004195e601d84a345b96029c59bf5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4680",
+    "description": "chikn #4680",
+    "image": "https://cdn1.chikn.farm/images/30b539a07dbce7a44d7d04132ae9267f27c9debc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

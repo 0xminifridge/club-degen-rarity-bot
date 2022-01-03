@@ -1,0 +1,19 @@
+{
+    "name": "chikn #238",
+    "description": "chikn #238",
+    "image": "https://cdn1.chikn.farm/images/f47d799f044e5186772cd258e8bcfd2f0ccddeae.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

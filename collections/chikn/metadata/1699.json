@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1699",
+    "description": "chikn #1699",
+    "image": "https://cdn1.chikn.farm/images/1b3be956e45a175124a21c94ed98211d691695e9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

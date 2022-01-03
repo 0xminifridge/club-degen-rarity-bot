@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6892",
+    "description": "chikn #6892",
+    "image": "https://cdn1.chikn.farm/images/b56327c81b72da205662bce5c63b10440c248d2d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

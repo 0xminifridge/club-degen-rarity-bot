@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1300",
+    "description": "chikn #1300",
+    "image": "https://cdn1.chikn.farm/images/d3b2258bb5140ef38a26cc4ff215e1720c98b93a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

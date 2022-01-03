@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4191",
+    "description": "chikn #4191",
+    "image": "https://cdn1.chikn.farm/images/7d165564a243e3a9ce259c9d015060a7ecc10219.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

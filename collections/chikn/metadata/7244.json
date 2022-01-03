@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7244",
+    "description": "chikn #7244",
+    "image": "https://cdn1.chikn.farm/images/ea2e7426375f7f41da3fe780038571ae29e6772b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

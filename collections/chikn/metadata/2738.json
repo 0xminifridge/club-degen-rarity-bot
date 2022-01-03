@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2738",
+    "description": "chikn #2738",
+    "image": "https://cdn1.chikn.farm/images/4458a09ae013f3f901a404e2096480340258c01d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

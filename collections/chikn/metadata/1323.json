@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1323",
+    "description": "chikn #1323",
+    "image": "https://cdn1.chikn.farm/images/b479e091bdec43bcd69976dcd359ef61545c98c0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

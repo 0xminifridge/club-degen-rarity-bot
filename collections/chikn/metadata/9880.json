@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9880",
+    "description": "chikn #9880",
+    "image": "https://cdn1.chikn.farm/images/1276b6d754878ea16d17c6cb4d448ff0b875da4d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

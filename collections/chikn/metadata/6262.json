@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6262",
+    "description": "chikn #6262",
+    "image": "https://cdn1.chikn.farm/images/7a801c2800a965b5af341bf91840a4fddbabd01d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden crusader"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

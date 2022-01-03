@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7408",
+    "description": "chikn #7408",
+    "image": "https://cdn1.chikn.farm/images/cd5e0545cb005bea7f7eace7d59add18f00a28a7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7952",
+    "description": "chikn #7952",
+    "image": "https://cdn1.chikn.farm/images/fb6d9e65ef46229d5a99100f7d935844e42f4d1a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

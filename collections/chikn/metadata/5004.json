@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5004",
+    "description": "chikn #5004",
+    "image": "https://cdn1.chikn.farm/images/1a977b7c0c1d0e311eeff146b7a1db672d717214.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

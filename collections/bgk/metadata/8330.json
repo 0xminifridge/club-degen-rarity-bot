@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #8330",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/8330.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Squint"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Beanie"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Life Jacket"
+        }
+    ]
+}

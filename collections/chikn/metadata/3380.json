@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3380",
+    "description": "chikn #3380",
+    "image": "https://cdn1.chikn.farm/images/84917ff127bc9bb541dbbe11cdc2e901f851dd91.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

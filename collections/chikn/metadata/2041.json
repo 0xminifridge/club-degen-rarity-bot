@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2041",
+    "description": "chikn #2041",
+    "image": "https://cdn1.chikn.farm/images/a16940c3dabaf660661e602342ec27b634d2d5e5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

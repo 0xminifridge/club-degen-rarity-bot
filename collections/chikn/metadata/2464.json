@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2464",
+    "description": "chikn #2464",
+    "image": "https://cdn1.chikn.farm/images/70c2c7d3abd9431df711de041873dfb170f986e3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

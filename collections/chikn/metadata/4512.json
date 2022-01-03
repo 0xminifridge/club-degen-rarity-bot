@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4512",
+    "description": "chikn #4512",
+    "image": "https://cdn1.chikn.farm/images/1e73e984a92813d6f552bdf7d3afcb1e8c6d8fa3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

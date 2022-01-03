@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5732",
+    "description": "chikn #5732",
+    "image": "https://cdn1.chikn.farm/images/b28b48d1d9f1e0c27ccb7bc87d7dd2d1c321b3f3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

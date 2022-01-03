@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6606",
+    "description": "chikn #6606",
+    "image": "https://cdn1.chikn.farm/images/3153b687793350732c1a26eba300d9f38ba84bbb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

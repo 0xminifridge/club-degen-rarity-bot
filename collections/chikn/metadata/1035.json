@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1035",
+    "description": "chikn #1035",
+    "image": "https://cdn1.chikn.farm/images/a4884ba02c02032fb66384d30f88a72d96acbf47.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

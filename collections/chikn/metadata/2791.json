@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2791",
+    "description": "chikn #2791",
+    "image": "https://cdn1.chikn.farm/images/eb54f18509898884ff031c8ccb1a6b74c4a0145a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

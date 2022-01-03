@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2681",
+    "description": "chikn #2681",
+    "image": "https://cdn1.chikn.farm/images/16b37a250d5e13e9ce25cf5c467996e8fffb4ee3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

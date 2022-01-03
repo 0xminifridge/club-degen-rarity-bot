@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6459",
+    "description": "chikn #6459",
+    "image": "https://cdn1.chikn.farm/images/2bb4e112c4c8455a7b457512440f95d1e600d9b3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

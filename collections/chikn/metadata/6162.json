@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6162",
+    "description": "chikn #6162",
+    "image": "https://cdn1.chikn.farm/images/5784ce6b6a03141a4c0eda6e2371077ff653b8ab.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

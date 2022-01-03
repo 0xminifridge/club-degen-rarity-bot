@@ -1,0 +1,23 @@
+{
+    "name": "chikn #877",
+    "description": "chikn #877",
+    "image": "https://cdn1.chikn.farm/images/e2c5801cc493dfdcfadc72b437846e7f6b53ccb4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

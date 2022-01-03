@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6895",
+    "description": "chikn #6895",
+    "image": "https://cdn1.chikn.farm/images/8850de57ee9cab4a7c0f14e8b9505a21244395de.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

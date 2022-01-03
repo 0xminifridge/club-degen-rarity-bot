@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6395",
+    "description": "chikn #6395",
+    "image": "https://cdn1.chikn.farm/images/23c9170c9b1f153b12adc5ae9650700ae6d1c2ef.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6480",
+    "description": "chikn #6480",
+    "image": "https://cdn1.chikn.farm/images/02fc5c999d5f8f2dd63dc89b6d7431ab8f769b81.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

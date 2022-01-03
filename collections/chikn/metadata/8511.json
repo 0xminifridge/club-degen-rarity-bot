@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8511",
+    "description": "chikn #8511",
+    "image": "https://cdn1.chikn.farm/images/0cb4258cb453ee1c0a8e14db9d998e0a0c06b34f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5870",
+    "description": "chikn #5870",
+    "image": "https://cdn1.chikn.farm/images/32bebe693a073e6516424256cead3a7b60ab2871.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

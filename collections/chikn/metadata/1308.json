@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1308",
+    "description": "chikn #1308",
+    "image": "https://cdn1.chikn.farm/images/3562d7af483da73fdaae74d91871a275d1c98017.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

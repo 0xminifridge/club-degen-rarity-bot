@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #8572",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/8572.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Spikey"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "GM"
+        }
+    ]
+}

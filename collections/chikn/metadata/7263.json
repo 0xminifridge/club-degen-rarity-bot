@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7263",
+    "description": "chikn #7263",
+    "image": "https://cdn1.chikn.farm/images/c3429e4fe899689afd06812d6734a1565a319112.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

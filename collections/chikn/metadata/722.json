@@ -1,0 +1,31 @@
+{
+    "name": "chikn #722",
+    "description": "chikn #722",
+    "image": "https://cdn1.chikn.farm/images/7e8a87f71b9387530fc7e8a7911b3bce70f5e8f6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

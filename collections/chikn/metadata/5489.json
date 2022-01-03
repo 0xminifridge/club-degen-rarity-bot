@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5489",
+    "description": "chikn #5489",
+    "image": "https://cdn1.chikn.farm/images/2011aef4e64dd8cf8d8572b91a7c02a6dcf3ae7a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

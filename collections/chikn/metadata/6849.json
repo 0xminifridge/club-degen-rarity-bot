@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6849",
+    "description": "chikn #6849",
+    "image": "https://cdn1.chikn.farm/images/91cfc9283a017c25e07ade312d76017a7718e221.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

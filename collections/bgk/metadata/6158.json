@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #6158",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/6158.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Clown"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Tank Top"
+        }
+    ]
+}

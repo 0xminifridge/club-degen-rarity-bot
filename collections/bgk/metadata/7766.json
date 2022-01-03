@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #7766",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/7766.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd Glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Spinner"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Prep"
+        }
+    ]
+}

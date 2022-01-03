@@ -1,0 +1,19 @@
+{
+    "name": "chikn #9238",
+    "description": "chikn #9238",
+    "image": "https://cdn1.chikn.farm/images/fd3a0f856a11f6da4569fc44dd502a543bb886d6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

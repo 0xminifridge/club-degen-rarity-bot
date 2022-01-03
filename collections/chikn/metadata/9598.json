@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9598",
+    "description": "chikn #9598",
+    "image": "https://cdn1.chikn.farm/images/6e66c5639aabef10df5d1c0721688ab42588eda9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

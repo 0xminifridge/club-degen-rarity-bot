@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3527",
+    "description": "chikn #3527",
+    "image": "https://cdn1.chikn.farm/images/8cc75b135e2d6cf9be2cca6f784d7849a36a2ca7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

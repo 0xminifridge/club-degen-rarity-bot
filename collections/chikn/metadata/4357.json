@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4357",
+    "description": "chikn #4357",
+    "image": "https://cdn1.chikn.farm/images/aebbacf2f586726a0bf349dc8bdf4344069dba01.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

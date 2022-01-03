@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2778",
+    "description": "chikn #2778",
+    "image": "https://cdn1.chikn.farm/images/21e2a0243f4146a223814125007980ae1f89ee04.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

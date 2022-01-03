@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #1216",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/1216.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd Glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Long Blonde"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Tie Dye"
+        }
+    ]
+}

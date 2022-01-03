@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7744",
+    "description": "chikn #7744",
+    "image": "https://cdn1.chikn.farm/images/5e6c64b446aaf0216a35c9cc872115689ab3375a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6239",
+    "description": "chikn #6239",
+    "image": "https://cdn1.chikn.farm/images/0edb1ca216f1f878251522006b35076e7733ae82.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

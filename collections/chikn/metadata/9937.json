@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9937",
+    "description": "chikn #9937",
+    "image": "https://cdn1.chikn.farm/images/c8eb36d22ba94abfcfe324f0d5ef3e05913e0246.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

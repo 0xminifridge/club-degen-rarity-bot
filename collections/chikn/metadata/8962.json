@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8962",
+    "description": "chikn #8962",
+    "image": "https://cdn1.chikn.farm/images/6e41ccb7d2024e6a8a0d5262c8a2b0698f3ea2b1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

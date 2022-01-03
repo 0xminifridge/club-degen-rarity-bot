@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6893",
+    "description": "chikn #6893",
+    "image": "https://cdn1.chikn.farm/images/4717194b7186a0cfd93981869eaf9d7f11a8df19.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8030",
+    "description": "chikn #8030",
+    "image": "https://cdn1.chikn.farm/images/4e15f004711fe4cc677b9f2533bde603f85dfd76.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

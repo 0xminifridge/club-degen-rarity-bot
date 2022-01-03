@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2566",
+    "description": "chikn #2566",
+    "image": "https://cdn1.chikn.farm/images/76b334588b0406d81ee176873b5a9dd2d00e1516.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "murica"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

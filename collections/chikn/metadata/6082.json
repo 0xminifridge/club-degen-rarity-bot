@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6082",
+    "description": "chikn #6082",
+    "image": "https://cdn1.chikn.farm/images/dc3b5a72fc59782993b6642a850e186ffe0d9d2e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

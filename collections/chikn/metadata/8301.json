@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8301",
+    "description": "chikn #8301",
+    "image": "https://cdn1.chikn.farm/images/5666dbe4984096893f4a44505943c80c17e0892b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

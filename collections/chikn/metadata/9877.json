@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9877",
+    "description": "chikn #9877",
+    "image": "https://cdn1.chikn.farm/images/2a7bc5fdfc7a1fbcaff5cb3d01bd5cd314a01a3d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

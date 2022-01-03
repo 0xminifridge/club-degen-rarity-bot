@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6764",
+    "description": "chikn #6764",
+    "image": "https://cdn1.chikn.farm/images/0b7e4e262fd87d2a8f67a5e9ea9d24950b755b2c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

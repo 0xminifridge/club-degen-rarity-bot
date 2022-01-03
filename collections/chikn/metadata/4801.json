@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4801",
+    "description": "chikn #4801",
+    "image": "https://cdn1.chikn.farm/images/67a7487a4477de514bafda980aaea8b7674b6af6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

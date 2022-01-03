@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6804",
+    "description": "chikn #6804",
+    "image": "https://cdn1.chikn.farm/images/a05c6dbe152e25568c4942b63816db211e01f737.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

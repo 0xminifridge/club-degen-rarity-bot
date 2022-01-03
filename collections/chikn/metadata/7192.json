@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7192",
+    "description": "chikn #7192",
+    "image": "https://cdn1.chikn.farm/images/22eca5a8366b20e851ec74cdab41092bdbb43bfd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

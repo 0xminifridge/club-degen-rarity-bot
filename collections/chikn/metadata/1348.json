@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1348",
+    "description": "chikn #1348",
+    "image": "https://cdn1.chikn.farm/images/6dbefd2ea0f8f2efda8ed453dd125170f682ce4c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

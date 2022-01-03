@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4742",
+    "description": "chikn #4742",
+    "image": "https://cdn1.chikn.farm/images/7fd44849aeb9e429b7e9917b4d40e55fdb84c7cd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

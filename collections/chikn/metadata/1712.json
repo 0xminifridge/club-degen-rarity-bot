@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1712",
+    "description": "chikn #1712",
+    "image": "https://cdn1.chikn.farm/images/eb493332ec8842e09c0de05d82aea3782f71fa28.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

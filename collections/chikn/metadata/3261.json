@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3261",
+    "description": "chikn #3261",
+    "image": "https://cdn1.chikn.farm/images/eec8af92c8f890b566454ff46745984aa7378d0e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

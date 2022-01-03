@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2754",
+    "description": "chikn #2754",
+    "image": "https://cdn1.chikn.farm/images/57dfc23ee8ca09ffed6ae3528e846c2618c9ab82.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

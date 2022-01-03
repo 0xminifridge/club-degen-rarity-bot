@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6552",
+    "description": "chikn #6552",
+    "image": "https://cdn1.chikn.farm/images/28dc56be1bf5c41aa5e4548105fc9e58d2557753.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

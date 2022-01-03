@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6058",
+    "description": "chikn #6058",
+    "image": "https://cdn1.chikn.farm/images/c2feb7a474b38bbf78ca3fc9c57a800f17843a25.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

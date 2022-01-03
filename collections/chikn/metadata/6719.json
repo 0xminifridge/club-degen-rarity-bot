@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6719",
+    "description": "chikn #6719",
+    "image": "https://cdn1.chikn.farm/images/2feea95937eac87c9247456eab4a8addfefd9a14.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pineapple"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #860",
+    "description": "chikn #860",
+    "image": "https://cdn1.chikn.farm/images/1d6e41d7341be6eafb90be2233291d70d6df10a7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

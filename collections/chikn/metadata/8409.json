@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8409",
+    "description": "chikn #8409",
+    "image": "https://cdn1.chikn.farm/images/992db88a659fb4d6202a0db6a199c2eabcdd3b6c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

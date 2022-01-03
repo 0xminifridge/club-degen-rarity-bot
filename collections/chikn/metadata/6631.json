@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6631",
+    "description": "chikn #6631",
+    "image": "https://cdn1.chikn.farm/images/4c8abc7d7e3211fbd36ee939f5a1d9b7f78eec17.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "boxhead"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5403",
+    "description": "chikn #5403",
+    "image": "https://cdn1.chikn.farm/images/55121b98b3d2a5874f80b5472f92106ee9f839a0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2569",
+    "description": "chikn #2569",
+    "image": "https://cdn1.chikn.farm/images/8254fb90b1e2388d4c02ece2ce467343cd6eeaf2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

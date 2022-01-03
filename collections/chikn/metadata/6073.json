@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6073",
+    "description": "chikn #6073",
+    "image": "https://cdn1.chikn.farm/images/96c4bd966c1c5122f36fb99218b362cc2a398d8d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

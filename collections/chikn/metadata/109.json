@@ -1,0 +1,27 @@
+{
+    "name": "chikn #109",
+    "description": "chikn #109",
+    "image": "https://cdn1.chikn.farm/images/b79e5d001255b2367870e55e7b640289dc26950e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

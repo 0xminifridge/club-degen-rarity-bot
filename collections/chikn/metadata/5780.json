@@ -1,0 +1,19 @@
+{
+    "name": "chikn #5780",
+    "description": "chikn #5780",
+    "image": "https://cdn1.chikn.farm/images/2e194fc9e5c1541ff98185b82eb01f96b4d74ffc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

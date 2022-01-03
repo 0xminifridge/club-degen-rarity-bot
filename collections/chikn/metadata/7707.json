@@ -1,0 +1,19 @@
+{
+    "name": "chikn #7707",
+    "description": "chikn #7707",
+    "image": "https://cdn1.chikn.farm/images/79c7b2ac636805fdcd3c8e3822397d645293f6ca.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

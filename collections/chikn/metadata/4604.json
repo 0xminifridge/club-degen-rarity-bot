@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4604",
+    "description": "chikn #4604",
+    "image": "https://cdn1.chikn.farm/images/4d0a930269d085ef1214c7329bc13cd8c4f20df8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

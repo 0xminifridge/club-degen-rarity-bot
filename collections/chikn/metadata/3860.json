@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3860",
+    "description": "chikn #3860",
+    "image": "https://cdn1.chikn.farm/images/5d6c32c0a6624091378a9cb938311f7b117c1f9d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

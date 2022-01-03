@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3861",
+    "description": "chikn #3861",
+    "image": "https://cdn1.chikn.farm/images/8ac902d08b6eae77a3cf1b989c294d47cac9dfeb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

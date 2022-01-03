@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1877",
+    "description": "chikn #1877",
+    "image": "https://cdn1.chikn.farm/images/6619edcec97cd977cd7a37b52bd175bb90348834.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

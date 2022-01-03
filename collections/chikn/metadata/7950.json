@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7950",
+    "description": "chikn #7950",
+    "image": "https://cdn1.chikn.farm/images/6ff81b44f6f473d382e1906951d916de6b584f9d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

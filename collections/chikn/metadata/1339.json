@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1339",
+    "description": "chikn #1339",
+    "image": "https://cdn1.chikn.farm/images/4d6a38918f83151598a4f3bcb5870c3509c72d1c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

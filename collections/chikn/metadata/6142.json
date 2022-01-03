@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6142",
+    "description": "chikn #6142",
+    "image": "https://cdn1.chikn.farm/images/441dab0a7d484b7ae5191037ee59356fc97a7fcf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

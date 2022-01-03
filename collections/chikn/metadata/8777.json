@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8777",
+    "description": "chikn #8777",
+    "image": "https://cdn1.chikn.farm/images/a4cfcfbdff001d1529f9f010853d9795e0264998.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

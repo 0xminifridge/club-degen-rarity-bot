@@ -1,0 +1,31 @@
+{
+    "name": "chikn #719",
+    "description": "chikn #719",
+    "image": "https://cdn1.chikn.farm/images/36fcb5a298cde3857379320cad2f74cfb8b76565.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

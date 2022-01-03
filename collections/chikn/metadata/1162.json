@@ -1,0 +1,19 @@
+{
+    "name": "chikn #1162",
+    "description": "chikn #1162",
+    "image": "https://cdn1.chikn.farm/images/35d242e3e12a031d5b74c389a3bcd214d0eb9af9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

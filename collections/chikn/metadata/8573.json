@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8573",
+    "description": "chikn #8573",
+    "image": "https://cdn1.chikn.farm/images/0a208368b6bdbd21dfc40956ee3d9b4440e76aad.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6506",
+    "description": "chikn #6506",
+    "image": "https://cdn1.chikn.farm/images/b3a3a0184f24e3f85131cb5cbd5ae0e790f3fad0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

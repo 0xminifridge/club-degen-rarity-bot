@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1125",
+    "description": "chikn #1125",
+    "image": "https://cdn1.chikn.farm/images/12d9c24055dc39d49ebdd9da9567dadda5dea385.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "murica"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

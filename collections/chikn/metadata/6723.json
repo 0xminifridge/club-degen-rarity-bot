@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6723",
+    "description": "chikn #6723",
+    "image": "https://cdn1.chikn.farm/images/d56cc20d36970b64215ffddc7d5a2e78fd48a6fd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

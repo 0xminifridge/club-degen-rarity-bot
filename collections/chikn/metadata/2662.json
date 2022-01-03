@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2662",
+    "description": "chikn #2662",
+    "image": "https://cdn1.chikn.farm/images/32e0ec85462885702c22260df7f3fa1b8974e13a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim og"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1562",
+    "description": "chikn #1562",
+    "image": "https://cdn1.chikn.farm/images/c74af8e788dea180de81fc812a20dc8e7d413051.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

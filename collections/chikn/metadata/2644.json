@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2644",
+    "description": "chikn #2644",
+    "image": "https://cdn1.chikn.farm/images/641819cef16e9facf02d6feb52ffe02f23bd335d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

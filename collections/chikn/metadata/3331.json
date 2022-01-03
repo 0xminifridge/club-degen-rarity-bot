@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3331",
+    "description": "chikn #3331",
+    "image": "https://cdn1.chikn.farm/images/24dccb2d82b2e94d3dc982f046fd08ceace4ac18.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

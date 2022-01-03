@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8920",
+    "description": "chikn #8920",
+    "image": "https://cdn1.chikn.farm/images/26dc44af5337f0c52cb5acb52244d83ac3d2d098.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

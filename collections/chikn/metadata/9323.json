@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9323",
+    "description": "chikn #9323",
+    "image": "https://cdn1.chikn.farm/images/8edaa309c2326782895a79e3f23fd62dbe81a4d4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

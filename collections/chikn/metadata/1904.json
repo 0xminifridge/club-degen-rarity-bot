@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1904",
+    "description": "chikn #1904",
+    "image": "https://cdn1.chikn.farm/images/67a0dcf6af6652df7d321e34a2eecf7cefe32eef.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

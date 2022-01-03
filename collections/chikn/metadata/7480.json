@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7480",
+    "description": "chikn #7480",
+    "image": "https://cdn1.chikn.farm/images/7c5505d909f38a1550507be46695bccb45d70a12.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

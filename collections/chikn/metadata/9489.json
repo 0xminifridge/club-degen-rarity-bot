@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9489",
+    "description": "chikn #9489",
+    "image": "https://cdn1.chikn.farm/images/d23190c7454069c49aa0f52dcddd5c8dc4353ecc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

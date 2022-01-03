@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5683",
+    "description": "chikn #5683",
+    "image": "https://cdn1.chikn.farm/images/73e714e3c5f1ec97bfd421268308a567d433b220.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

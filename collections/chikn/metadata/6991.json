@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6991",
+    "description": "chikn #6991",
+    "image": "https://cdn1.chikn.farm/images/0aa23810a5dff84e2f8693c2002764cf2fbaee03.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

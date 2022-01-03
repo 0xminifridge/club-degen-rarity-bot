@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8196",
+    "description": "chikn #8196",
+    "image": "https://cdn1.chikn.farm/images/2ffadfed75123f2bd74f2a72d4a8f94f56123b3d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8890",
+    "description": "chikn #8890",
+    "image": "https://cdn1.chikn.farm/images/828070005806cb8cf97b90d6aca64b7d4f6e9840.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "inherited royalty"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

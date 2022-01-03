@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6294",
+    "description": "chikn #6294",
+    "image": "https://cdn1.chikn.farm/images/414a60d3ffbfe0e851b35f1795b5555929ff5fa8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

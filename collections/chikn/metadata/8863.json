@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8863",
+    "description": "chikn #8863",
+    "image": "https://cdn1.chikn.farm/images/c3b26260da3d4bd4514786cd22eb9c7d02f64d2e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

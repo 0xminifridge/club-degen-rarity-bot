@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6467",
+    "description": "chikn #6467",
+    "image": "https://cdn1.chikn.farm/images/75600ce997e9b71929502f33f83a9d0891e5cc98.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

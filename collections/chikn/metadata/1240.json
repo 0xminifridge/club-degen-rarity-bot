@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1240",
+    "description": "chikn #1240",
+    "image": "https://cdn1.chikn.farm/images/667d4e3ef6b65f447d80bb9ba4297fc3974259e3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

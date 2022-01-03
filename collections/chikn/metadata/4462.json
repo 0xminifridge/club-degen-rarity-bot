@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4462",
+    "description": "chikn #4462",
+    "image": "https://cdn1.chikn.farm/images/25767d3ee877325f63f308aefa8f3271e63d5c9e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

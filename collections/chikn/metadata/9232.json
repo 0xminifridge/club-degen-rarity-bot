@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9232",
+    "description": "chikn #9232",
+    "image": "https://cdn1.chikn.farm/images/65621ca8cecd87f0d42f10ada86e6075dcebc1ce.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

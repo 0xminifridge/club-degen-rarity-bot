@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5286",
+    "description": "chikn #5286",
+    "image": "https://cdn1.chikn.farm/images/ab3f03bc1a765dd598ccb7d3a8d5fd4a1e82c3cd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

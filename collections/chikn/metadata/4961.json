@@ -1,0 +1,35 @@
+{
+    "name": "chikn #4961",
+    "description": "chikn #4961",
+    "image": "https://cdn1.chikn.farm/images/4f4aca9a3879472e911ac9c97243bb9fc8e4de83.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

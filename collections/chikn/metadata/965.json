@@ -1,0 +1,23 @@
+{
+    "name": "chikn #965",
+    "description": "chikn #965",
+    "image": "https://cdn1.chikn.farm/images/5678b08f71f089aba8f785ad41a80898aa75c4ca.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

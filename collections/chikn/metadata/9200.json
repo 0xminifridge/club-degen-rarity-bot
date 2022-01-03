@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9200",
+    "description": "chikn #9200",
+    "image": "https://cdn1.chikn.farm/images/8486436adf4cb85876a23c106313656215232e37.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

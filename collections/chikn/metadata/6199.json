@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6199",
+    "description": "chikn #6199",
+    "image": "https://cdn1.chikn.farm/images/e0f680f7c64d7045f0d777ed84a94cd93ded6f4c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "laser eye"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

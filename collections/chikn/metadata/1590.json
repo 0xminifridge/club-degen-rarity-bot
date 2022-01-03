@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1590",
+    "description": "chikn #1590",
+    "image": "https://cdn1.chikn.farm/images/b5dc715b7f18b3195ca9c90fc935c5e7a100bd09.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim og"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

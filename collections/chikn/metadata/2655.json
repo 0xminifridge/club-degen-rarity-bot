@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2655",
+    "description": "chikn #2655",
+    "image": "https://cdn1.chikn.farm/images/9c8b125643ac75a71151f721711f2619a1b17ebb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7848",
+    "description": "chikn #7848",
+    "image": "https://cdn1.chikn.farm/images/eadd0005d17a73b97364b4dc7eade61a19c77bc5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

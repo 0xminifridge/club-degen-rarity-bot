@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8330",
+    "description": "chikn #8330",
+    "image": "https://cdn1.chikn.farm/images/d7efb58b77fcce3f7406ad008b8ad1f8bd10ffe4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9219",
+    "description": "chikn #9219",
+    "image": "https://cdn1.chikn.farm/images/a1aeb5cfd39839c0c6031e0de2e5ecbd06a5d85e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

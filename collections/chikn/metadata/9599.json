@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9599",
+    "description": "chikn #9599",
+    "image": "https://cdn1.chikn.farm/images/6f718e4483587b18189f6a90eaf613c9cbb4e540.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "boxhead"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

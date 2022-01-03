@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6366",
+    "description": "chikn #6366",
+    "image": "https://cdn1.chikn.farm/images/0d51f5df14e72c1aa9c58ac018440d6cf81b27aa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pineapple"
+        },
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4472",
+    "description": "chikn #4472",
+    "image": "https://cdn1.chikn.farm/images/e585d58ebc9c5c96624eb66722016867a26a378a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

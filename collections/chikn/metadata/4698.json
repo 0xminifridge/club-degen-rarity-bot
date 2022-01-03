@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4698",
+    "description": "chikn #4698",
+    "image": "https://cdn1.chikn.farm/images/b4f21d76b6b86fbd01dc4acea70ec62eb405c476.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

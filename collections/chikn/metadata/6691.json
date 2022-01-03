@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6691",
+    "description": "chikn #6691",
+    "image": "https://cdn1.chikn.farm/images/2071147f78c3ff485721453eb5e56ea3a174911c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim og"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

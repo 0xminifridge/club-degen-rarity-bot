@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4280",
+    "description": "chikn #4280",
+    "image": "https://cdn1.chikn.farm/images/c1355207cf7417bb2bdcb495d7b3254981c8a83c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

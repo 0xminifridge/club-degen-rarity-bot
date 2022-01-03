@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9619",
+    "description": "chikn #9619",
+    "image": "https://cdn1.chikn.farm/images/5f6909d6a3de511de85ef0755df750a5f069c7c0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

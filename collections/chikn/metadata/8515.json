@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8515",
+    "description": "chikn #8515",
+    "image": "https://cdn1.chikn.farm/images/e5a5e078d8c46e0b3d1effd936a6b92b0c9db202.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

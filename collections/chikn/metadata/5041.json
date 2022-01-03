@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5041",
+    "description": "chikn #5041",
+    "image": "https://cdn1.chikn.farm/images/0fecd5ecccad9adf1ce9934f5c9727bf40f1cf15.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

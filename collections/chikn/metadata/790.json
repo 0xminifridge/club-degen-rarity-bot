@@ -1,0 +1,23 @@
+{
+    "name": "chikn #790",
+    "description": "chikn #790",
+    "image": "https://cdn1.chikn.farm/images/124aa891f64260ba742ee350357a433f41f720ce.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5218",
+    "description": "chikn #5218",
+    "image": "https://cdn1.chikn.farm/images/268b2b3c77079bc48fc562bdce3cb83075798838.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

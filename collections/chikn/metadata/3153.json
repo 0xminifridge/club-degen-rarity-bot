@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3153",
+    "description": "chikn #3153",
+    "image": "https://cdn1.chikn.farm/images/6a30f7c5321164116aa4af8dc09d26a716f0752b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

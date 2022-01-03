@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2811",
+    "description": "chikn #2811",
+    "image": "https://cdn1.chikn.farm/images/c2a82393e27cc40d9257bad2a7fd188f86de67a5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

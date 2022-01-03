@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7364",
+    "description": "chikn #7364",
+    "image": "https://cdn1.chikn.farm/images/64676053250214c0f33ee52dab73cae97dda3820.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "laser eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

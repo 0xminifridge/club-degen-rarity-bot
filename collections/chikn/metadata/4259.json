@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4259",
+    "description": "chikn #4259",
+    "image": "https://cdn1.chikn.farm/images/3fe30d2bf24b2257385cd0858aa33ede25a5b1e2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

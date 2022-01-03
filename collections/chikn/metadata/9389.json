@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9389",
+    "description": "chikn #9389",
+    "image": "https://cdn1.chikn.farm/images/87d5612f2ab99564fc8b6cdb751ec1c740b360ba.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

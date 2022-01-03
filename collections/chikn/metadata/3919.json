@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3919",
+    "description": "chikn #3919",
+    "image": "https://cdn1.chikn.farm/images/5455a59122df5bed9c855ea8b81ae4c3ced3c8a7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3714",
+    "description": "chikn #3714",
+    "image": "https://cdn1.chikn.farm/images/e87a0c7e8c83faca16e78431044a9f8cb02ef458.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

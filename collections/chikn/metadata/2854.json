@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2854",
+    "description": "chikn #2854",
+    "image": "https://cdn1.chikn.farm/images/1fedca803b86ebc138a39d2232b66e5f37815c25.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

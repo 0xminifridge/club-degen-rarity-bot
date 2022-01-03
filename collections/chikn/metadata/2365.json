@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2365",
+    "description": "chikn #2365",
+    "image": "https://cdn1.chikn.farm/images/815809f9c4606b96a303af615fe4bff7b6f25958.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #838",
+    "description": "chikn #838",
+    "image": "https://cdn1.chikn.farm/images/ae41f4ba2050d06876a9af5e6f4e8ba617d06ba2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

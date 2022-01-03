@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3341",
+    "description": "chikn #3341",
+    "image": "https://cdn1.chikn.farm/images/d1d041722bea2ca0a3dc0f97e91b958862857df9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6698",
+    "description": "chikn #6698",
+    "image": "https://cdn1.chikn.farm/images/7b02416a0014327ec06c59a716d3e06bb1b87443.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

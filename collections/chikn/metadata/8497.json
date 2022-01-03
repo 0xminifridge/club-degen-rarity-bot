@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8497",
+    "description": "chikn #8497",
+    "image": "https://cdn1.chikn.farm/images/0cb6aa8d297f47a730b3dc00028af117f6e9582a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

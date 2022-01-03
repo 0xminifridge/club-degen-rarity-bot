@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5281",
+    "description": "chikn #5281",
+    "image": "https://cdn1.chikn.farm/images/e93e4a4bfdeea0c837f8c7c9562b14fb3697c4d5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

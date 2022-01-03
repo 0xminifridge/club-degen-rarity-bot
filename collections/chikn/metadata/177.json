@@ -1,0 +1,23 @@
+{
+    "name": "chikn #177",
+    "description": "chikn #177",
+    "image": "https://cdn1.chikn.farm/images/3be7cf6eea0fe84b624b279f62c00e63a16b6be4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

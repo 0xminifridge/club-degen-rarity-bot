@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3700",
+    "description": "chikn #3700",
+    "image": "https://cdn1.chikn.farm/images/230c1355cd41f2e713ad14b3919ff48abcc508cf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

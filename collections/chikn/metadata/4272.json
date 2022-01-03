@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4272",
+    "description": "chikn #4272",
+    "image": "https://cdn1.chikn.farm/images/8d0b2b85e2859dd382022851784e73fe0da0c03f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

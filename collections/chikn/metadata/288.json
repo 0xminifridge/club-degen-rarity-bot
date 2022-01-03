@@ -1,0 +1,31 @@
+{
+    "name": "chikn #288",
+    "description": "chikn #288",
+    "image": "https://cdn1.chikn.farm/images/380993609a6944a7c2bcd24ea94e37ff61f9e804.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

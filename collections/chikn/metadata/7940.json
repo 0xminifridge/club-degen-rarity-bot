@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7940",
+    "description": "chikn #7940",
+    "image": "https://cdn1.chikn.farm/images/0f8f059082bab39a8f9f0af6a237b4cf5b8b6c29.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

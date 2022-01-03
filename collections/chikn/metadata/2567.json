@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2567",
+    "description": "chikn #2567",
+    "image": "https://cdn1.chikn.farm/images/60c9ff006f35cc602c310fc2a5b18300ddae1402.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

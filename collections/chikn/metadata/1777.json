@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1777",
+    "description": "chikn #1777",
+    "image": "https://cdn1.chikn.farm/images/307d698686c8d96245226e572b0dbe89b6e0b0a6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

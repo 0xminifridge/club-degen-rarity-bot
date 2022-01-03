@@ -1,0 +1,31 @@
+{
+    "name": "chikn #452",
+    "description": "chikn #452",
+    "image": "https://cdn1.chikn.farm/images/8eca1c9211fc32cba7f7ea07ba9c9e0dd0ca9d92.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "tungsten cube"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

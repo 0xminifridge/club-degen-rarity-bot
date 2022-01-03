@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4459",
+    "description": "chikn #4459",
+    "image": "https://cdn1.chikn.farm/images/18bdffdeb2f0a5d50fe410ea05a8a2cc092dff28.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

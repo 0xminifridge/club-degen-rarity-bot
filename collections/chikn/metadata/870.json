@@ -1,0 +1,27 @@
+{
+    "name": "chikn #870",
+    "description": "chikn #870",
+    "image": "https://cdn1.chikn.farm/images/314046b3082192f7c09970af1e33ce89163420fe.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin maxi"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

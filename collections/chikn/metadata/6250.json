@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6250",
+    "description": "chikn #6250",
+    "image": "https://cdn1.chikn.farm/images/ed5b9dee7ee69eeab464c52e5b7792c2adf5db1e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

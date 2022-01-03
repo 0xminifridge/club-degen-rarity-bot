@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1830",
+    "description": "chikn #1830",
+    "image": "https://cdn1.chikn.farm/images/28619a56c68a05e0eae9a98e45d514377c7353a2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "murica"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

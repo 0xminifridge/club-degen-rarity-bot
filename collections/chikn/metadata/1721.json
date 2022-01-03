@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1721",
+    "description": "chikn #1721",
+    "image": "https://cdn1.chikn.farm/images/6a129d247ef16627de2b7b6478f1dbcd022e610e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "super saiyan"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

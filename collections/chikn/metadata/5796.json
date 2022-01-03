@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5796",
+    "description": "chikn #5796",
+    "image": "https://cdn1.chikn.farm/images/cf9d1c70e13aac9b91a4133e2c0a43b8d7dc1b66.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

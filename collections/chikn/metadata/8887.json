@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8887",
+    "description": "chikn #8887",
+    "image": "https://cdn1.chikn.farm/images/34e1e653a689f2146b3990f10df2af846ab23471.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

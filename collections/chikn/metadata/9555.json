@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9555",
+    "description": "chikn #9555",
+    "image": "https://cdn1.chikn.farm/images/397da3f93c0d275aedea30db15d169de2ca1afd0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

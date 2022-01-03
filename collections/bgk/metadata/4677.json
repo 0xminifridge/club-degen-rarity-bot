@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #4677",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/4677.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Confused"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pink Mohawk"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Pink Hoodie"
+        }
+    ]
+}

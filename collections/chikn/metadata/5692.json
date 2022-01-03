@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5692",
+    "description": "chikn #5692",
+    "image": "https://cdn1.chikn.farm/images/43e1dbd3f8d318083321dfdd5a164e0f9eb8573e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

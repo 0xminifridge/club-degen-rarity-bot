@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9347",
+    "description": "chikn #9347",
+    "image": "https://cdn1.chikn.farm/images/ad88d45bb2f55b1fd687edc84c90a22a10676119.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

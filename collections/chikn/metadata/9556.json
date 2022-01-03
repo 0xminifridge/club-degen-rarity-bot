@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9556",
+    "description": "chikn #9556",
+    "image": "https://cdn1.chikn.farm/images/73f08f3ff7c1a6269ae8c77d6d33b222a7e007bd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

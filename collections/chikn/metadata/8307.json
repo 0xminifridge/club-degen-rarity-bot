@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8307",
+    "description": "chikn #8307",
+    "image": "https://cdn1.chikn.farm/images/5993adf9a99c49515f7c1c96af583489a99d28d7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

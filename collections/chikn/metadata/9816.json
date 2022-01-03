@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9816",
+    "description": "chikn #9816",
+    "image": "https://cdn1.chikn.farm/images/3337524855e0b745923d3cbbc0a88ec41bd223ad.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1910",
+    "description": "chikn #1910",
+    "image": "https://cdn1.chikn.farm/images/7a2f847907af3a99a254fe14d98f3f5d859aebb1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax degen"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

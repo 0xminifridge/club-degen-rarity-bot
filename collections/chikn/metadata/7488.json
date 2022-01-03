@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7488",
+    "description": "chikn #7488",
+    "image": "https://cdn1.chikn.farm/images/01d427e980e97d97b5f98b9eeee55155eb53e165.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

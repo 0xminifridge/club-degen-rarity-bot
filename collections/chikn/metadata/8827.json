@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8827",
+    "description": "chikn #8827",
+    "image": "https://cdn1.chikn.farm/images/8e8df27aa3e4e7882f1e426ac9fedb3058053623.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

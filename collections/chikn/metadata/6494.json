@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6494",
+    "description": "chikn #6494",
+    "image": "https://cdn1.chikn.farm/images/e32a3f85377cd1bb713596ac0a5ee540cc9392c3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "real feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

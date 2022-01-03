@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4864",
+    "description": "chikn #4864",
+    "image": "https://cdn1.chikn.farm/images/20cace5d44a184c599e301a64f3dc1886c4c7ff8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

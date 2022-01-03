@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1439",
+    "description": "chikn #1439",
+    "image": "https://cdn1.chikn.farm/images/ec68ca09bbf3405e76d2b076a897e12f56b64405.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #808",
+    "description": "chikn #808",
+    "image": "https://cdn1.chikn.farm/images/5982ce0ce0134024c50216068d726363e7a1d099.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

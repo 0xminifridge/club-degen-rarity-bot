@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3509",
+    "description": "chikn #3509",
+    "image": "https://cdn1.chikn.farm/images/1af5ae9c0e44beef943608c386d8546d22ba67cb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9026",
+    "description": "chikn #9026",
+    "image": "https://cdn1.chikn.farm/images/0bb3964771ced6b26ba23b1ecc6defc78fbb21db.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

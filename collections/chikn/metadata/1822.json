@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1822",
+    "description": "chikn #1822",
+    "image": "https://cdn1.chikn.farm/images/18bb62d90edec5e66ab1f1c3b8da6202bbf9dca8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

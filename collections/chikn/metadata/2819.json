@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2819",
+    "description": "chikn #2819",
+    "image": "https://cdn1.chikn.farm/images/3f5f0f42766b40e52d5b8b01916130098d64e9aa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "feet",
+            "value": "real feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

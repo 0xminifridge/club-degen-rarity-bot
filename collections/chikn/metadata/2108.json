@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2108",
+    "description": "chikn #2108",
+    "image": "https://cdn1.chikn.farm/images/7480ec3a5a26edb239e3cde71cd02b7b2e762b3c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

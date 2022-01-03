@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7779",
+    "description": "chikn #7779",
+    "image": "https://cdn1.chikn.farm/images/26f55ce905209fdd411dddae7b8c28df0df76ca3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

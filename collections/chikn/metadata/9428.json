@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9428",
+    "description": "chikn #9428",
+    "image": "https://cdn1.chikn.farm/images/3cb668631cc5af6f6ce6cf3c21c056f7c9f33af3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

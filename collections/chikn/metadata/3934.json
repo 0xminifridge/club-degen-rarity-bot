@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3934",
+    "description": "chikn #3934",
+    "image": "https://cdn1.chikn.farm/images/bf3396e8ffe6218bbe22dced3e4b259ba1c1f874.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

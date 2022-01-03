@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9634",
+    "description": "chikn #9634",
+    "image": "https://cdn1.chikn.farm/images/091331d7cb4dae5560849df53776d92d4a51c589.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

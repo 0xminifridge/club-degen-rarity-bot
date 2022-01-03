@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9229",
+    "description": "chikn #9229",
+    "image": "https://cdn1.chikn.farm/images/a90de56edcabeca1e23d8e1e5d0e4023d57d90a7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

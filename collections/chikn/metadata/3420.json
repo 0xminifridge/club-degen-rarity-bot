@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3420",
+    "description": "chikn #3420",
+    "image": "https://cdn1.chikn.farm/images/fd9318d0ea197ff27af71dfddcf6139f0a82ffc9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

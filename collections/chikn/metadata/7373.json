@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7373",
+    "description": "chikn #7373",
+    "image": "https://cdn1.chikn.farm/images/3aded141a513a26feb9d6f8a162dd7bf2a24878f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

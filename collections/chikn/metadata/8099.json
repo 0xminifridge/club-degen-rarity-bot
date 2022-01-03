@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8099",
+    "description": "chikn #8099",
+    "image": "https://cdn1.chikn.farm/images/6678e656c5b120047880ee21f1a3393024a52797.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

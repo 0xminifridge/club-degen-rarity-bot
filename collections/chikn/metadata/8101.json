@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8101",
+    "description": "chikn #8101",
+    "image": "https://cdn1.chikn.farm/images/daeb1a6240551cddc4f2b97b966faa727e93167e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

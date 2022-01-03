@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7641",
+    "description": "chikn #7641",
+    "image": "https://cdn1.chikn.farm/images/d19826586898f65f588b57d35c601b70e9fb7e90.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

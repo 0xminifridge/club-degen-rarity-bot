@@ -1,0 +1,23 @@
+{
+    "name": "chikn #981",
+    "description": "chikn #981",
+    "image": "https://cdn1.chikn.farm/images/92c40cc76dc172dfea03e8dd73a1a8ab8547db66.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

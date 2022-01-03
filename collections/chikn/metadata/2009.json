@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2009",
+    "description": "chikn #2009",
+    "image": "https://cdn1.chikn.farm/images/be1c6dd6ccdec42f126840b841acc39f68057383.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

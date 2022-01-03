@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6785",
+    "description": "chikn #6785",
+    "image": "https://cdn1.chikn.farm/images/569d39bfc73a75481661d31e5492de77c386bb75.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

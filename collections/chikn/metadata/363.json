@@ -1,0 +1,23 @@
+{
+    "name": "chikn #363",
+    "description": "chikn #363",
+    "image": "https://cdn1.chikn.farm/images/b3b19bfb7c4915069a860da493b41c3f998668da.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2766",
+    "description": "chikn #2766",
+    "image": "https://cdn1.chikn.farm/images/5d8a49d9900c0383bd51a76bbfb2207a021f3837.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

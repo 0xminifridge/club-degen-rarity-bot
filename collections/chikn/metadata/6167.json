@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6167",
+    "description": "chikn #6167",
+    "image": "https://cdn1.chikn.farm/images/5f4cf728608ae48f2fd62238d4a2dac7197b05f6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

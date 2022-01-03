@@ -1,0 +1,27 @@
+{
+    "name": "chikn #407",
+    "description": "chikn #407",
+    "image": "https://cdn1.chikn.farm/images/47b3ea1facd5407dd71420de327c9d95f38618ff.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax degen"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

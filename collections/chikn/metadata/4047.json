@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4047",
+    "description": "chikn #4047",
+    "image": "https://cdn1.chikn.farm/images/0a54eed1f42ece254b79446b398658b3de59348e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

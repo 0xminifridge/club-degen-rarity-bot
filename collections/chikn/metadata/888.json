@@ -1,0 +1,27 @@
+{
+    "name": "chikn #888",
+    "description": "chikn #888",
+    "image": "https://cdn1.chikn.farm/images/30969213a88d84437d8cc83da5557069b2e16f2b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #372",
+    "description": "chikn #372",
+    "image": "https://cdn1.chikn.farm/images/9e49044c88316113916004aad8956849883df6a0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #7184",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/7184.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gradient Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Twinkle"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Army Helmet"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Overalls"
+        }
+    ]
+}

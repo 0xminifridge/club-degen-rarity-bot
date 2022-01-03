@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3790",
+    "description": "chikn #3790",
+    "image": "https://cdn1.chikn.farm/images/08b50df4d9d4187749cd07811ec70642a6202528.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

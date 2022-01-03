@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #5326",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/5326.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Squint"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Strawberry"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Leather Jacket"
+        }
+    ]
+}

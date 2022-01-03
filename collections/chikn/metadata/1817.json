@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1817",
+    "description": "chikn #1817",
+    "image": "https://cdn1.chikn.farm/images/81c268e74421c44270af89bd59465a000c9b8d13.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

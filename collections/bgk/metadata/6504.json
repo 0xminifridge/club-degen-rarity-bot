@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #6504",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/6504.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Strawberry"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Teal BGK"
+        }
+    ]
+}

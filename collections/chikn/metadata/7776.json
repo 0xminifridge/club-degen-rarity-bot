@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7776",
+    "description": "chikn #7776",
+    "image": "https://cdn1.chikn.farm/images/6d15658a8f5593eab945b6c22670f464f44dc9a7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

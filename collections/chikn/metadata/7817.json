@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7817",
+    "description": "chikn #7817",
+    "image": "https://cdn1.chikn.farm/images/d5d27532cee99bfcb3359a559f507fea4cb6dc9e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

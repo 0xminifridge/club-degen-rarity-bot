@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1816",
+    "description": "chikn #1816",
+    "image": "https://cdn1.chikn.farm/images/66481f02d4639e925fd1f70c973a8bf2661fd8a0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

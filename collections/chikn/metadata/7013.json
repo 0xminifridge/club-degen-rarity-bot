@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7013",
+    "description": "chikn #7013",
+    "image": "https://cdn1.chikn.farm/images/2be17e890d6480f3e540418378e4898bf0d4f651.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

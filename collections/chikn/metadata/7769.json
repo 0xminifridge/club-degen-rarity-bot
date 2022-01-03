@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7769",
+    "description": "chikn #7769",
+    "image": "https://cdn1.chikn.farm/images/bd38fc4206b25e724cfaa24f8a736c4795a65fb4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2307",
+    "description": "chikn #2307",
+    "image": "https://cdn1.chikn.farm/images/4fc7bc4cda5b31b180ec4076d05ce8c9211ec89d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2096",
+    "description": "chikn #2096",
+    "image": "https://cdn1.chikn.farm/images/f216831c876fd6b9d5bd66dfd30014d57cb676ee.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7004",
+    "description": "chikn #7004",
+    "image": "https://cdn1.chikn.farm/images/5ebd947c0d3332c0f1e98078952a8c89261ce867.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

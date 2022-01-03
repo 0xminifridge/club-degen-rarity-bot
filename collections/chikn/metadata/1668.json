@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1668",
+    "description": "chikn #1668",
+    "image": "https://cdn1.chikn.farm/images/9f2e1ed3664554c3d51dd69351787cb3bf7663fc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

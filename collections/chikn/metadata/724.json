@@ -1,0 +1,23 @@
+{
+    "name": "chikn #724",
+    "description": "chikn #724",
+    "image": "https://cdn1.chikn.farm/images/c1983e762ac14f95c2dc43f5a34e355d3b879812.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

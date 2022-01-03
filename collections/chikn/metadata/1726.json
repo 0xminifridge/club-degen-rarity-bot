@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1726",
+    "description": "chikn #1726",
+    "image": "https://cdn1.chikn.farm/images/04fe6544f45f95601f7d4f9297c367be712c5b42.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

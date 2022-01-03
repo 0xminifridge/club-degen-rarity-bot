@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7538",
+    "description": "chikn #7538",
+    "image": "https://cdn1.chikn.farm/images/30d620d7a122860964e76e545bf3e40a8dabb1c2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

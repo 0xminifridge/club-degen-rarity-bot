@@ -1,0 +1,27 @@
+{
+    "name": "chikn #439",
+    "description": "chikn #439",
+    "image": "https://cdn1.chikn.farm/images/382c14b98bda242fa5a59e69fdbc99f7facfe7b2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

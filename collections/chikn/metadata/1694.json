@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1694",
+    "description": "chikn #1694",
+    "image": "https://cdn1.chikn.farm/images/8dc40af5a7bfc3fab2f0d20e8e463283cee7fb7f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

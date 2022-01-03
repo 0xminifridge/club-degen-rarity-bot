@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5767",
+    "description": "chikn #5767",
+    "image": "https://cdn1.chikn.farm/images/ac504ca31b17d6d47f7cc7b82a0c88e9755eb04a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

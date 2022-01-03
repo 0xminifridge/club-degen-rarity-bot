@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4270",
+    "description": "chikn #4270",
+    "image": "https://cdn1.chikn.farm/images/7924e959bdb430b15ecb23c2975d06b450a8350d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden bone daddy"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

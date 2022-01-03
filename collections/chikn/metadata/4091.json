@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4091",
+    "description": "chikn #4091",
+    "image": "https://cdn1.chikn.farm/images/35bffb3e3a8ee2b9d5ac8d7f04ff4680a4fd323d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6138",
+    "description": "chikn #6138",
+    "image": "https://cdn1.chikn.farm/images/efa6991c212db4adf56010e98f3ea66cd63692a7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

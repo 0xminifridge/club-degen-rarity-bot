@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2426",
+    "description": "chikn #2426",
+    "image": "https://cdn1.chikn.farm/images/8862614ff979e4fff0d58b652a821154f89133ef.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

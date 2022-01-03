@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8440",
+    "description": "chikn #8440",
+    "image": "https://cdn1.chikn.farm/images/fd049a8a87bde979a89444c3c7f24290b37d8a62.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

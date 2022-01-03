@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9000",
+    "description": "chikn #9000",
+    "image": "https://cdn1.chikn.farm/images/fb72c15b0dca89726337eda8da68f984426aea01.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6612",
+    "description": "chikn #6612",
+    "image": "https://cdn1.chikn.farm/images/b4c5c9bac9a3c750aea4baab39520d6c0907ccd5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

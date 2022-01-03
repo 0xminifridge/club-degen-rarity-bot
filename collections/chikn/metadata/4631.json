@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4631",
+    "description": "chikn #4631",
+    "image": "https://cdn1.chikn.farm/images/b58309f5bda77536d08c245e026bdd4cc6bc7d92.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

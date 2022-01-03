@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3004",
+    "description": "chikn #3004",
+    "image": "https://cdn1.chikn.farm/images/15bc4e79e7e0a1df006cf157963f85aecad85d9e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

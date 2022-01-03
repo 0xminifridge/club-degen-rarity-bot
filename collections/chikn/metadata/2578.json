@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2578",
+    "description": "chikn #2578",
+    "image": "https://cdn1.chikn.farm/images/e95d5e71c7e1035114cbcc5103d167df30ee068a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

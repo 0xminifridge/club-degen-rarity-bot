@@ -1,0 +1,19 @@
+{
+    "name": "chikn #6797",
+    "description": "chikn #6797",
+    "image": "https://cdn1.chikn.farm/images/49829b491e8542e6529d0873b2da14ea4105333f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

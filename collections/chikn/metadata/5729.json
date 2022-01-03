@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5729",
+    "description": "chikn #5729",
+    "image": "https://cdn1.chikn.farm/images/51378e8e3b8e91f235cc4e6427dbf2760f8c721a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "luckiest red cap"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

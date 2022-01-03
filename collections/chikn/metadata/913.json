@@ -1,0 +1,27 @@
+{
+    "name": "chikn #913",
+    "description": "chikn #913",
+    "image": "https://cdn1.chikn.farm/images/b35195d6cf063508db2631ea265e01a267e336dd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

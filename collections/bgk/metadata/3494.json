@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #3494",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/3494.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clown"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Beams"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BGK Blue"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Tank Top"
+        }
+    ]
+}

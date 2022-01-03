@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3533",
+    "description": "chikn #3533",
+    "image": "https://cdn1.chikn.farm/images/c0d78be81b9119cc612991912743a78bcde84b53.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

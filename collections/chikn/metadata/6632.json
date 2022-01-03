@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6632",
+    "description": "chikn #6632",
+    "image": "https://cdn1.chikn.farm/images/145565adef52661585014cffd710b4879c9cf037.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

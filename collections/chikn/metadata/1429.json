@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1429",
+    "description": "chikn #1429",
+    "image": "https://cdn1.chikn.farm/images/78ea7c9c51babe173a19cd26c75c014189b79ce4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

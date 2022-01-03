@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2324",
+    "description": "chikn #2324",
+    "image": "https://cdn1.chikn.farm/images/d441ba1dc529cc0478038853394f0188372ff5be.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

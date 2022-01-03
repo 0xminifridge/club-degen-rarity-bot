@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3411",
+    "description": "chikn #3411",
+    "image": "https://cdn1.chikn.farm/images/c5e63a6938d72866ce6c5ff3262005fe9f245061.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

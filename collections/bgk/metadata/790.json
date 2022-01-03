@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #790",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/790.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pink Mohawk"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Hoodie"
+        }
+    ]
+}

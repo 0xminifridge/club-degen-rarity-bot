@@ -1,0 +1,15 @@
+{
+    "name": "chikn #8728",
+    "description": "chikn #8728",
+    "image": "https://cdn1.chikn.farm/images/5867e2916cadb609d5bfea8208380c2f0f80f908.jpeg",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

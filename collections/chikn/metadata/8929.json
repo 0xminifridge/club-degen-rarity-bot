@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8929",
+    "description": "chikn #8929",
+    "image": "https://cdn1.chikn.farm/images/19c05968b02012230e5dcab5011f984effe4ab24.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

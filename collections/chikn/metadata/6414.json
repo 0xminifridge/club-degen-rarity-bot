@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6414",
+    "description": "chikn #6414",
+    "image": "https://cdn1.chikn.farm/images/cceeab6586eba3b535ee1f155a594c7c5927ba24.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "super saiyan"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

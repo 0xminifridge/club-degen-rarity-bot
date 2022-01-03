@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9967",
+    "description": "chikn #9967",
+    "image": "https://cdn1.chikn.farm/images/b72cc5cf30740a6f5e9b5bd3483d242fd42097fb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "icey stare"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "galactic"
+        }
+    ]
+}

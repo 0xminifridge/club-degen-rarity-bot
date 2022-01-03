@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3118",
+    "description": "chikn #3118",
+    "image": "https://cdn1.chikn.farm/images/5be33ac89efcea8dae7737f65347203d6e262c6a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

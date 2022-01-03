@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6857",
+    "description": "chikn #6857",
+    "image": "https://cdn1.chikn.farm/images/6298dc43eeec598d61723ba0762f5c23bfc9b1a9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

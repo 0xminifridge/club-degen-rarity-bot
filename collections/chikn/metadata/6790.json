@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6790",
+    "description": "chikn #6790",
+    "image": "https://cdn1.chikn.farm/images/1d2ef072d1ad80492511bf604e8be4f7fe010056.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

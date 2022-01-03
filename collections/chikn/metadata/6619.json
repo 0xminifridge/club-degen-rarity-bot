@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6619",
+    "description": "chikn #6619",
+    "image": "https://cdn1.chikn.farm/images/d44758677c4820f8075d1da0e11c4f38ca01a3cc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

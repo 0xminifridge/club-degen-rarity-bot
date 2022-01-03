@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2098",
+    "description": "chikn #2098",
+    "image": "https://cdn1.chikn.farm/images/142bb0fb5b9ebe933ce311fd7d011d9a01df79d6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

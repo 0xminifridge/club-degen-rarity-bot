@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7329",
+    "description": "chikn #7329",
+    "image": "https://cdn1.chikn.farm/images/0722749388a769620fc5c272b1ec157d4bcbfdff.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

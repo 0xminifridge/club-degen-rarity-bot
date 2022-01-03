@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9939",
+    "description": "chikn #9939",
+    "image": "https://cdn1.chikn.farm/images/d3b029b44466860beb65e74bcad31aef6501a16b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7579",
+    "description": "chikn #7579",
+    "image": "https://cdn1.chikn.farm/images/28c74a0496f65c253e46570ccf3ac2982fa81adb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8128",
+    "description": "chikn #8128",
+    "image": "https://cdn1.chikn.farm/images/4abf28a00fd621cf5b5b66f8f10a1a847af07d91.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

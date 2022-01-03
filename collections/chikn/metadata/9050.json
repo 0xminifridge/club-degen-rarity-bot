@@ -1,0 +1,15 @@
+{
+    "name": "chikn #9050",
+    "description": "chikn #9050",
+    "image": "https://cdn1.chikn.farm/images/797448791d4fe75726cf50e00885eefa800dbbfb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

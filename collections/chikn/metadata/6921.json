@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6921",
+    "description": "chikn #6921",
+    "image": "https://cdn1.chikn.farm/images/cc769eb1f673ec2d0ee602693907de6d9aac85d9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

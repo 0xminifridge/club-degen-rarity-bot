@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8598",
+    "description": "chikn #8598",
+    "image": "https://cdn1.chikn.farm/images/155e5bc51167a9121fd4929922511e11d233ce1e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

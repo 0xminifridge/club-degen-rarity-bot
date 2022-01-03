@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6953",
+    "description": "chikn #6953",
+    "image": "https://cdn1.chikn.farm/images/83002d8a36eb52ddfaed6e871ca626733eddf235.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

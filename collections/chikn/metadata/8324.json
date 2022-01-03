@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8324",
+    "description": "chikn #8324",
+    "image": "https://cdn1.chikn.farm/images/1a4850d7318547341ed9428214fdffd5a08758a6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

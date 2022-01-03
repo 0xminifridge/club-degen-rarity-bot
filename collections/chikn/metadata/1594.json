@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1594",
+    "description": "chikn #1594",
+    "image": "https://cdn1.chikn.farm/images/90a1dc81cf861bdbb76a2eeb89735ce4e7a7fa32.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

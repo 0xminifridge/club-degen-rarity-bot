@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5567",
+    "description": "chikn #5567",
+    "image": "https://cdn1.chikn.farm/images/cf47f1fb1d64eb4e524e4f5402ea60807bcc4ec2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

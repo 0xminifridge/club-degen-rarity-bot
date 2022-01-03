@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7525",
+    "description": "chikn #7525",
+    "image": "https://cdn1.chikn.farm/images/7c846c693ef1102a4387982fa30531b0f4938547.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

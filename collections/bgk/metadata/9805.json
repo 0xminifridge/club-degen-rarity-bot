@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #9805",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/9805.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gradient Orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Spikey"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hawaiian"
+        }
+    ]
+}

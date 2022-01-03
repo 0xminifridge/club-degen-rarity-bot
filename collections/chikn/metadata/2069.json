@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2069",
+    "description": "chikn #2069",
+    "image": "https://cdn1.chikn.farm/images/5b2e1c31bcc26d542d2aca83426ee8dfde70b3ef.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

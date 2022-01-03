@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7461",
+    "description": "chikn #7461",
+    "image": "https://cdn1.chikn.farm/images/bd80515ea9e604a2e3b4111171b5bf366ec153e7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2943",
+    "description": "chikn #2943",
+    "image": "https://cdn1.chikn.farm/images/3e9d4a26e44e033c002cc0b04c417a7a187b83ee.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

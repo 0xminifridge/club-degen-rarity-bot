@@ -1,0 +1,27 @@
+{
+    "name": "chikn #130",
+    "description": "chikn #130",
+    "image": "https://cdn1.chikn.farm/images/6b9123d234e71d626e79eb0fc5c95e357f75b7d0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

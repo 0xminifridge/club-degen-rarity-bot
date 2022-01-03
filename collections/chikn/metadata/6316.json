@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6316",
+    "description": "chikn #6316",
+    "image": "https://cdn1.chikn.farm/images/60cb1af58c5345abe72ce46a7543abf16d2a0ff8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

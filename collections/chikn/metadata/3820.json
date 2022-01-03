@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3820",
+    "description": "chikn #3820",
+    "image": "https://cdn1.chikn.farm/images/158982b28997df1ae42a05c4d465614a1a7a5bec.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

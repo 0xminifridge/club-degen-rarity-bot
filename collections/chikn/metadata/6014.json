@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6014",
+    "description": "chikn #6014",
+    "image": "https://cdn1.chikn.farm/images/3e7a36518abe79ee9385cbd5defd6cf693c70555.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

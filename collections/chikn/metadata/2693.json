@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2693",
+    "description": "chikn #2693",
+    "image": "https://cdn1.chikn.farm/images/46d639ea39764b8a8737da50a0bc88dfc34d1ec1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

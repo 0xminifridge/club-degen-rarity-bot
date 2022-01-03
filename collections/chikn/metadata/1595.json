@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1595",
+    "description": "chikn #1595",
+    "image": "https://cdn1.chikn.farm/images/7799d1df2a1668c9f03805bab2cda2e6ab10812b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

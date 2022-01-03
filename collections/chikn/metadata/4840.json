@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4840",
+    "description": "chikn #4840",
+    "image": "https://cdn1.chikn.farm/images/28de9cb1d8fbfa86ba92e37796598a9cd96cc861.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

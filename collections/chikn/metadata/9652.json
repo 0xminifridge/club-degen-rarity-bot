@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9652",
+    "description": "chikn #9652",
+    "image": "https://cdn1.chikn.farm/images/e93fc48fcd07de20a743b73731013f76f0f4e75e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "real feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

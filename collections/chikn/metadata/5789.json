@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5789",
+    "description": "chikn #5789",
+    "image": "https://cdn1.chikn.farm/images/35d908a8b4f0784d01cfe0a95472e00707203487.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

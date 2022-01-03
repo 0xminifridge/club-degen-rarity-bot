@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4553",
+    "description": "chikn #4553",
+    "image": "https://cdn1.chikn.farm/images/4a60365d5d03b6a05e9893e5510a7eef5cbd2fd5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

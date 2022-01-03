@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7768",
+    "description": "chikn #7768",
+    "image": "https://cdn1.chikn.farm/images/48aeb597f15fe19d0765ab5e1683232b2729846f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "icey stare"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

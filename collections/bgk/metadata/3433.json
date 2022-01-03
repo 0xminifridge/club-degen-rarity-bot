@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #3433",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/3433.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Parted White"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hawaiian"
+        }
+    ]
+}

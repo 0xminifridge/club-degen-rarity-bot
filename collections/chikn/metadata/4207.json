@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4207",
+    "description": "chikn #4207",
+    "image": "https://cdn1.chikn.farm/images/87f4755df24f7ad6fe55931e22482271e1f16e00.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

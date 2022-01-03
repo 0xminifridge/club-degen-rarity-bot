@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7112",
+    "description": "chikn #7112",
+    "image": "https://cdn1.chikn.farm/images/6c569eff607382b403a39356ed5f2c6310eb1eaf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5399",
+    "description": "chikn #5399",
+    "image": "https://cdn1.chikn.farm/images/60550db2b7674062030020e978e51aa1f729119c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "murica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

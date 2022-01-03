@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4460",
+    "description": "chikn #4460",
+    "image": "https://cdn1.chikn.farm/images/c5f75cd7016100bf162149e2d02eceece90b1990.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

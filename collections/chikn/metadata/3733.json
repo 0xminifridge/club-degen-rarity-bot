@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3733",
+    "description": "chikn #3733",
+    "image": "https://cdn1.chikn.farm/images/45893d262abc2ea78d843ba34726727e679f7d9f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1926",
+    "description": "chikn #1926",
+    "image": "https://cdn1.chikn.farm/images/93ec42594633fed8b98a8e0eb16191a33c740f85.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "laser eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

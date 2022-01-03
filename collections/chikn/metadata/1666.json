@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1666",
+    "description": "chikn #1666",
+    "image": "https://cdn1.chikn.farm/images/6bfe9ca955ea5c9ae266fe0e30eb65fc8ccbc2b2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

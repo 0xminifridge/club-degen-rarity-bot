@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1366",
+    "description": "chikn #1366",
+    "image": "https://cdn1.chikn.farm/images/5074cd5d605abbf25a9e09377ee08ca25e17cc50.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

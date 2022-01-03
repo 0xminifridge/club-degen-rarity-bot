@@ -1,0 +1,23 @@
+{
+    "name": "chikn #650",
+    "description": "chikn #650",
+    "image": "https://cdn1.chikn.farm/images/bd2a584d55ef1e0e2fd8fb61aa163e0e8c80878f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

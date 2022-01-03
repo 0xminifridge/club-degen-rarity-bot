@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1560",
+    "description": "chikn #1560",
+    "image": "https://cdn1.chikn.farm/images/d5788438ee173f2f954a7832c0a6b8dc73ba061f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

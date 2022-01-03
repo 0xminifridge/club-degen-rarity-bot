@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9518",
+    "description": "chikn #9518",
+    "image": "https://cdn1.chikn.farm/images/c1ceb12469dfb3f65b84191f3512a7a8bd31a406.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

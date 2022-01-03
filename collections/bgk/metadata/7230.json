@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #7230",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/7230.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BGK Black"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Overalls"
+        }
+    ]
+}

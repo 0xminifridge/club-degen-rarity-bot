@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4791",
+    "description": "chikn #4791",
+    "image": "https://cdn1.chikn.farm/images/bcebdf5d7072fc458d6af9f3a39b5214b5fb022d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

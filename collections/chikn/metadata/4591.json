@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4591",
+    "description": "chikn #4591",
+    "image": "https://cdn1.chikn.farm/images/015f461efdd4d8f8e0f6b598699668444b7bd117.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3433",
+    "description": "chikn #3433",
+    "image": "https://cdn1.chikn.farm/images/230e0f712ed4220a14e299d24cfeef1fa5d5f881.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9732",
+    "description": "chikn #9732",
+    "image": "https://cdn1.chikn.farm/images/34a86ee558f05ef45c5a3d9d0dbc46296332ef36.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

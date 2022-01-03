@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2230",
+    "description": "chikn #2230",
+    "image": "https://cdn1.chikn.farm/images/b18bd72f22b7e245742a420522261835f7b4434d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

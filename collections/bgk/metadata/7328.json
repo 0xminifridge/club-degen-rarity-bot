@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #7328",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/7328.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Happy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Slick"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hawaiian"
+        }
+    ]
+}

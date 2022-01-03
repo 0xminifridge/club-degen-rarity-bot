@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9515",
+    "description": "chikn #9515",
+    "image": "https://cdn1.chikn.farm/images/a21023dd99b4a409cd9f8b8ec54da3d17b88ce83.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin maxi"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

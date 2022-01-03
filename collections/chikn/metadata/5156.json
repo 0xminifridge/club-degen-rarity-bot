@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5156",
+    "description": "chikn #5156",
+    "image": "https://cdn1.chikn.farm/images/14c122467b2aa5ed493759e8693bb9074c5d2ac2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

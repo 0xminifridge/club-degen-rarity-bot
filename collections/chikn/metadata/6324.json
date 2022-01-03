@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6324",
+    "description": "chikn #6324",
+    "image": "https://cdn1.chikn.farm/images/9dc54a06382d914ff6a8b0c9efadcf4598c3f714.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

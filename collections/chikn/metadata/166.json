@@ -1,0 +1,27 @@
+{
+    "name": "chikn #166",
+    "description": "chikn #166",
+    "image": "https://cdn1.chikn.farm/images/9111b5d51e4ea6be17e14562ad6c1a1b33e45e2b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

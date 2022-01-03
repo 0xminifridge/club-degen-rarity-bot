@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6946",
+    "description": "chikn #6946",
+    "image": "https://cdn1.chikn.farm/images/6ca60b9c6cc68ff9293fc1d6d129a0ddc9891b6c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "karate kid"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

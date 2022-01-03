@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1228",
+    "description": "chikn #1228",
+    "image": "https://cdn1.chikn.farm/images/e1f7e607e5df3894f2761ed83848161b68c5f2ac.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

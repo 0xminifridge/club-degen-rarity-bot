@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3228",
+    "description": "chikn #3228",
+    "image": "https://cdn1.chikn.farm/images/b8a3446389df978e76eae37fbd63112b1dfef923.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "daft punk"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

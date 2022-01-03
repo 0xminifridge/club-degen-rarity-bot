@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4978",
+    "description": "chikn #4978",
+    "image": "https://cdn1.chikn.farm/images/fd8059997ddc2de2861125b977b4aa2b77642a05.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #492",
+    "description": "chikn #492",
+    "image": "https://cdn1.chikn.farm/images/b74362b1c0b7c64b624d790ef6385c1322c59eaa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

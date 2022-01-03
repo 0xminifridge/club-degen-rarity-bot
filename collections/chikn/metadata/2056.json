@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2056",
+    "description": "chikn #2056",
+    "image": "https://cdn1.chikn.farm/images/2aa96ef970bf1027e7f1907297e25b04a86bd501.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

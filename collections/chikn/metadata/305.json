@@ -1,0 +1,23 @@
+{
+    "name": "chikn #305",
+    "description": "chikn #305",
+    "image": "https://cdn1.chikn.farm/images/35cd4d187ed22fd89f2b563d4825f8e1cfa71d3d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

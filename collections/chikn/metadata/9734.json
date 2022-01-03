@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9734",
+    "description": "chikn #9734",
+    "image": "https://cdn1.chikn.farm/images/5cf0551d2530e4d1260fea7b5ddcaa0b9465c6b0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

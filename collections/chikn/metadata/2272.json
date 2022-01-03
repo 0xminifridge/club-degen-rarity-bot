@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2272",
+    "description": "chikn #2272",
+    "image": "https://cdn1.chikn.farm/images/2f82227824814b5960549a5c3e5524696622ee75.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

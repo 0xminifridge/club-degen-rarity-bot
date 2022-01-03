@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1054",
+    "description": "chikn #1054",
+    "image": "https://cdn1.chikn.farm/images/fca6e381205e0ad154eb23519b9d1473ead309df.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

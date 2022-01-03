@@ -1,0 +1,19 @@
+{
+    "name": "chikn #6375",
+    "description": "chikn #6375",
+    "image": "https://cdn1.chikn.farm/images/9d55d12e8ffb854ae1776c89a69cbefc1e6a78f0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

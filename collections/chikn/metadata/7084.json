@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7084",
+    "description": "chikn #7084",
+    "image": "https://cdn1.chikn.farm/images/f7a2b268c794f5ee772ac1df70da6fce4d84fdaa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

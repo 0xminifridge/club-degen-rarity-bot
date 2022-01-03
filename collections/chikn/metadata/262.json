@@ -1,0 +1,27 @@
+{
+    "name": "chikn #262",
+    "description": "chikn #262",
+    "image": "https://cdn1.chikn.farm/images/dcb9052f5ef03c5f8f342138d4ae1abe95d7c33d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

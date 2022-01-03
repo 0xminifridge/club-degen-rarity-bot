@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4848",
+    "description": "chikn #4848",
+    "image": "https://cdn1.chikn.farm/images/6e1d40b47e824eed2e63dea3b032d1d4960e376a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "chikn #3978",
+    "description": "chikn #3978",
+    "image": "https://cdn1.chikn.farm/images/1a2f198669221154650af1b56ef6bb56b4dea226.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden crusader"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "chikn #82",
+    "description": "chikn #82",
+    "image": "https://cdn1.chikn.farm/images/777bb5ccefd0591766891b833225002696a13bdb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #46",
+    "description": "chikn #46",
+    "image": "https://cdn1.chikn.farm/images/0036167642dab820078d45a80a2635c7f347a181.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

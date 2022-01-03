@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2946",
+    "description": "chikn #2946",
+    "image": "https://cdn1.chikn.farm/images/d83bf41a9b7805447e7a99275caa187d5fd46c16.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

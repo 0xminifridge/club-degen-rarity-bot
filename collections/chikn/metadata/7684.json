@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7684",
+    "description": "chikn #7684",
+    "image": "https://cdn1.chikn.farm/images/853dd5659e3c07d6ae016cdfe67b30eed02e1f32.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "laser eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1113",
+    "description": "chikn #1113",
+    "image": "https://cdn1.chikn.farm/images/59f33b29188fd70011d48f606429e8f480d4a5f5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

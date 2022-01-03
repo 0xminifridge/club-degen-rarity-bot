@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4537",
+    "description": "chikn #4537",
+    "image": "https://cdn1.chikn.farm/images/d400b2cb5844de1892aa6edbfafbdad0cc95282e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

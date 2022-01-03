@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2458",
+    "description": "chikn #2458",
+    "image": "https://cdn1.chikn.farm/images/dc12cc273d39e819737ab6694f1b6dc51abc02dd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

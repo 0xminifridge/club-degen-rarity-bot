@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4983",
+    "description": "chikn #4983",
+    "image": "https://cdn1.chikn.farm/images/09ee29203b6622ea0aaf41544929a6cd6d1ab19a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

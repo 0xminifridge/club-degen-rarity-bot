@@ -1,0 +1,15 @@
+{
+    "name": "chikn #4782",
+    "description": "chikn #4782",
+    "image": "https://cdn1.chikn.farm/images/55a603aa164026f042de3df1abcf113fd41a5f8f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

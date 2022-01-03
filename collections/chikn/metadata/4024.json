@@ -1,0 +1,19 @@
+{
+    "name": "chikn #4024",
+    "description": "chikn #4024",
+    "image": "https://cdn1.chikn.farm/images/0ff41c074f02d6be5edf6b062471374c508aa3b4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

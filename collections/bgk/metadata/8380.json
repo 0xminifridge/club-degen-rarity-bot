@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #8380",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/8380.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Spinner"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "PJs"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7624",
+    "description": "chikn #7624",
+    "image": "https://cdn1.chikn.farm/images/d731c73b8ba23808b5077ba4c07dedf24f7b31bf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "torso",
+            "value": "karate kid"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

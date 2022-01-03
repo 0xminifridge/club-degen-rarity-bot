@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9003",
+    "description": "chikn #9003",
+    "image": "https://cdn1.chikn.farm/images/ecfdc021a858e6b7c5c4f4d1b46aff330f51594b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3770",
+    "description": "chikn #3770",
+    "image": "https://cdn1.chikn.farm/images/e980d1cb8aa58281373527c5d8d2fc5e81e598ee.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

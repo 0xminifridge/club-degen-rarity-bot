@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6115",
+    "description": "chikn #6115",
+    "image": "https://cdn1.chikn.farm/images/c562f6c2cd49220a54fc89cdebcaf4315b05657d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

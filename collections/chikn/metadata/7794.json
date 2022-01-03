@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7794",
+    "description": "chikn #7794",
+    "image": "https://cdn1.chikn.farm/images/017c42bedf698c772b9c71f4ed701414470dba18.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

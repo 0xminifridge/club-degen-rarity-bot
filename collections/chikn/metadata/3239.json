@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3239",
+    "description": "chikn #3239",
+    "image": "https://cdn1.chikn.farm/images/aa1d32ccf15b9a842b3aa23e5c4d05fcaff23703.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

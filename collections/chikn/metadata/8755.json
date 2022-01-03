@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8755",
+    "description": "chikn #8755",
+    "image": "https://cdn1.chikn.farm/images/b7b09e34cdd9ac670f2178a65f344c4be3dd4002.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

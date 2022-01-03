@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9896",
+    "description": "chikn #9896",
+    "image": "https://cdn1.chikn.farm/images/ba0a028caffc6f32ab79736863c0743e4d0f0b01.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

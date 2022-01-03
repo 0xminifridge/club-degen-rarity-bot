@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8473",
+    "description": "chikn #8473",
+    "image": "https://cdn1.chikn.farm/images/7ed407f54426dd076c8c26d93cf54f513583049b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pineapple"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

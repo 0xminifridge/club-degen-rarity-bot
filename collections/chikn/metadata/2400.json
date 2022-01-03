@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2400",
+    "description": "chikn #2400",
+    "image": "https://cdn1.chikn.farm/images/c8ef8059f558ae39f6be9cafecad4a48586975fe.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

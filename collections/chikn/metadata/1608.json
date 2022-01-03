@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1608",
+    "description": "chikn #1608",
+    "image": "https://cdn1.chikn.farm/images/89b23c606330b97ed1a67b5706112f6ee5b6a625.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

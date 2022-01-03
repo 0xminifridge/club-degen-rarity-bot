@@ -1,0 +1,23 @@
+{
+    "name": "chikn #99",
+    "description": "chikn #99",
+    "image": "https://cdn1.chikn.farm/images/27a9d771f8153d1643d067ad044504ae05105e66.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

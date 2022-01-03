@@ -1,0 +1,27 @@
+{
+    "name": "chikn #281",
+    "description": "chikn #281",
+    "image": "https://cdn1.chikn.farm/images/6aeeaa7a87e81fd7b0431f0e9aa6f7ac1945e92f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

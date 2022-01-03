@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3050",
+    "description": "chikn #3050",
+    "image": "https://cdn1.chikn.farm/images/38c7cdb39b87f3d935ac39d04e776ae94b514ac4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

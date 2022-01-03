@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3649",
+    "description": "chikn #3649",
+    "image": "https://cdn1.chikn.farm/images/ed697b05821bf27cd970dbe425ebf9f23e2940d6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

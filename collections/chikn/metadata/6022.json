@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6022",
+    "description": "chikn #6022",
+    "image": "https://cdn1.chikn.farm/images/d9240149a03df28498281a3b9a9e95822b91e1b0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

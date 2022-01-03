@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2954",
+    "description": "chikn #2954",
+    "image": "https://cdn1.chikn.farm/images/d3fdbebca8dc1ba1a35c369f7c78fe0aaf78ab68.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

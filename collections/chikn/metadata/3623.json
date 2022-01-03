@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3623",
+    "description": "chikn #3623",
+    "image": "https://cdn1.chikn.farm/images/65afaf38ce4b5455f781bf1ab6a69c9d3b608459.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8489",
+    "description": "chikn #8489",
+    "image": "https://cdn1.chikn.farm/images/60ddd5bb101ce48c86f8d9e32482dba9e7f4f98d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

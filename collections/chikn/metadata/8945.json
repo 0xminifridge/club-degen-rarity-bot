@@ -1,0 +1,19 @@
+{
+    "name": "chikn #8945",
+    "description": "chikn #8945",
+    "image": "https://cdn1.chikn.farm/images/a50d4eb7b73adba9846c31fac8f3d93cce56c1d6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9481",
+    "description": "chikn #9481",
+    "image": "https://cdn1.chikn.farm/images/c0097d1c88be9df702c5c5a8b7f95051f1401f92.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "karate kid"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

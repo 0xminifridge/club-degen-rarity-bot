@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6806",
+    "description": "chikn #6806",
+    "image": "https://cdn1.chikn.farm/images/16279d9eb3235bfd1dce0d232ea019ae1aa70ee2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

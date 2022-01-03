@@ -1,0 +1,31 @@
+{
+    "name": "chikn #96",
+    "description": "chikn #96",
+    "image": "https://cdn1.chikn.farm/images/e61e48ccb74cb37fd121c3191d4ed3d8b4c71366.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

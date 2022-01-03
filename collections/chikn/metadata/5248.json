@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5248",
+    "description": "chikn #5248",
+    "image": "https://cdn1.chikn.farm/images/3a5854f22882f71b5242d0519a5d24e9c10078fa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

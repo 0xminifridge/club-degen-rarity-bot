@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2507",
+    "description": "chikn #2507",
+    "image": "https://cdn1.chikn.farm/images/e13fa80db16ca751903524b34dbcafc631dbecb9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

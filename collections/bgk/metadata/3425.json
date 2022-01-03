@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #3425",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/3425.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gradient Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Candy Cane"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Long Blonde"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Sailor"
+        }
+    ]
+}

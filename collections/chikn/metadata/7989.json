@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7989",
+    "description": "chikn #7989",
+    "image": "https://cdn1.chikn.farm/images/eea6aa72547675d7e4e337ba6d55ef84596a3739.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

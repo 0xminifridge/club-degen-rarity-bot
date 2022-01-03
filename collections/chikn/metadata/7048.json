@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7048",
+    "description": "chikn #7048",
+    "image": "https://cdn1.chikn.farm/images/0f62db2e4860ebae9600ebd8f01fa3f39a2453ba.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

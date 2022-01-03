@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9311",
+    "description": "chikn #9311",
+    "image": "https://cdn1.chikn.farm/images/87c62cfbff4595d9681ccf355ea9616ca82c8181.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

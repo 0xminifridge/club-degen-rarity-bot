@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4626",
+    "description": "chikn #4626",
+    "image": "https://cdn1.chikn.farm/images/e3b0f4bb8f00ad5c374745fe9e5823b51b7ed738.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

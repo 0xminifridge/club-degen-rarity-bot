@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3628",
+    "description": "chikn #3628",
+    "image": "https://cdn1.chikn.farm/images/4300b3c53b86e65d9b03a1cd690adaee4f119682.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

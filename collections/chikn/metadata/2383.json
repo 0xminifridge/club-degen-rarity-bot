@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2383",
+    "description": "chikn #2383",
+    "image": "https://cdn1.chikn.farm/images/1331ba78041de36dec7401d2aa4b25904b968563.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

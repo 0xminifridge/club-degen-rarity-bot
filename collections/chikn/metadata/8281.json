@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8281",
+    "description": "chikn #8281",
+    "image": "https://cdn1.chikn.farm/images/46237210ff6a78233b8f8d2ca1895d2c0e8af9a1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

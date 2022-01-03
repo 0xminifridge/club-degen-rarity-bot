@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3806",
+    "description": "chikn #3806",
+    "image": "https://cdn1.chikn.farm/images/2ec3533c969b11cea5ad20266ca92d07557e8ccc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

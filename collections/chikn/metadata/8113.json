@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8113",
+    "description": "chikn #8113",
+    "image": "https://cdn1.chikn.farm/images/e0a255033d9e37a0318e150abc3ca47dc751dfd8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

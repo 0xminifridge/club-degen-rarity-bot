@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6907",
+    "description": "chikn #6907",
+    "image": "https://cdn1.chikn.farm/images/e6c9bc1a748a43ad681bba9f911702923f9a4c18.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

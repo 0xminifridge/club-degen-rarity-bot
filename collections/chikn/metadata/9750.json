@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9750",
+    "description": "chikn #9750",
+    "image": "https://cdn1.chikn.farm/images/6c53f07c3c29d84b70441e2d6f7d5d5f4b93560f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden crusader"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

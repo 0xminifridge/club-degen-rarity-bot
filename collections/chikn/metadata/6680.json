@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6680",
+    "description": "chikn #6680",
+    "image": "https://cdn1.chikn.farm/images/250cded03fa1d40ea4484460e1f6ddb3333bb180.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

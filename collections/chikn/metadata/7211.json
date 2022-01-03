@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7211",
+    "description": "chikn #7211",
+    "image": "https://cdn1.chikn.farm/images/fd66842e47790daf6fa47a714f73517257633512.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

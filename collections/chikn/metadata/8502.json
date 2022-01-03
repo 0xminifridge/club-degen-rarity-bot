@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8502",
+    "description": "chikn #8502",
+    "image": "https://cdn1.chikn.farm/images/e70f55dfd5a3fafa5a53adc0789b037ecaef5b9d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

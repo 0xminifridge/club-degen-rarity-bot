@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9051",
+    "description": "chikn #9051",
+    "image": "https://cdn1.chikn.farm/images/37aaa5f5b5ee36f02b9ce8accb3cb7bba06bbbfa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

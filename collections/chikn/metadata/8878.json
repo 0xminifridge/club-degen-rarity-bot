@@ -1,0 +1,19 @@
+{
+    "name": "chikn #8878",
+    "description": "chikn #8878",
+    "image": "https://cdn1.chikn.farm/images/0fb491e1dd3d3b2b0624f33ca7f15be5f98c8858.jpeg",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

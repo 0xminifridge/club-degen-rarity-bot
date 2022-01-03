@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1646",
+    "description": "chikn #1646",
+    "image": "https://cdn1.chikn.farm/images/a05b0b946d636721f3324446d1439f80644fb173.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

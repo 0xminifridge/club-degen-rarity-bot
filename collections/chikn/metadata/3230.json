@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3230",
+    "description": "chikn #3230",
+    "image": "https://cdn1.chikn.farm/images/cc8d7e886350dfea97f52b1c23da506555229587.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

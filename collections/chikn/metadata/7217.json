@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7217",
+    "description": "chikn #7217",
+    "image": "https://cdn1.chikn.farm/images/6ec1ba3cd9bb6af39d03a3ada4039409849d1e7a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

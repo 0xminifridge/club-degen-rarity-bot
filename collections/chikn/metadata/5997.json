@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5997",
+    "description": "chikn #5997",
+    "image": "https://cdn1.chikn.farm/images/5b7830dd7cd4723283db89876993d4b9243e0b6b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2470",
+    "description": "chikn #2470",
+    "image": "https://cdn1.chikn.farm/images/df91ffd01eb70a1c5fdf450810d6cada1bb588d4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "super saiyan"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

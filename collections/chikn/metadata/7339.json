@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7339",
+    "description": "chikn #7339",
+    "image": "https://cdn1.chikn.farm/images/f20a5027afabbf1df9e8ed31a82d60df33201ba4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

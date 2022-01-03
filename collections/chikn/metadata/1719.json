@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1719",
+    "description": "chikn #1719",
+    "image": "https://cdn1.chikn.farm/images/e073739fbc25dc79e5cf557ccf733f968710d8a4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

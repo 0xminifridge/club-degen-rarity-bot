@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7497",
+    "description": "chikn #7497",
+    "image": "https://cdn1.chikn.farm/images/495feac148754cd3d9fff18aeb094e8940bc7ed9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

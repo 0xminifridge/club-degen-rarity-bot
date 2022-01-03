@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9600",
+    "description": "chikn #9600",
+    "image": "https://cdn1.chikn.farm/images/202b5d0872750a705bfe4404bc05fe4a09dde152.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9910",
+    "description": "chikn #9910",
+    "image": "https://cdn1.chikn.farm/images/63835715f4c62b456e9e0224b3158d07ea0fcc76.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "luckiest red cap"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

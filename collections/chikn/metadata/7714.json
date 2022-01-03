@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7714",
+    "description": "chikn #7714",
+    "image": "https://cdn1.chikn.farm/images/f8c0172bf7d19063f3e9d68a2a38ecf14480aa87.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

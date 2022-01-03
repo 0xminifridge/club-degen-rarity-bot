@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9120",
+    "description": "chikn #9120",
+    "image": "https://cdn1.chikn.farm/images/fcac11ca090a62fa9606b6da15c8012e4d3b75ed.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

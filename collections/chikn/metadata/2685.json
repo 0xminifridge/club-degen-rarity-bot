@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2685",
+    "description": "chikn #2685",
+    "image": "https://cdn1.chikn.farm/images/304b10a9eeaaacc335e774c262bca4e4cda9ee73.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

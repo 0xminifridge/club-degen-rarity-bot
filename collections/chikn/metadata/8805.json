@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8805",
+    "description": "chikn #8805",
+    "image": "https://cdn1.chikn.farm/images/77904faf5c383064b782df731a8ef32ad1c36b8b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

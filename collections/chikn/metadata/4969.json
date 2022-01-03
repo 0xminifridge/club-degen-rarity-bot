@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4969",
+    "description": "chikn #4969",
+    "image": "https://cdn1.chikn.farm/images/6091c168b6a1916eff6d0926d3484f9d9111281f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

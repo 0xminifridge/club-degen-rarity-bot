@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4671",
+    "description": "chikn #4671",
+    "image": "https://cdn1.chikn.farm/images/6c504223e2fe79cb81e19b12672f048d766681db.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

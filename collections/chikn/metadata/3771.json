@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3771",
+    "description": "chikn #3771",
+    "image": "https://cdn1.chikn.farm/images/906f7a84f0dc4ce6efd929a41199ce74c9e1b75c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

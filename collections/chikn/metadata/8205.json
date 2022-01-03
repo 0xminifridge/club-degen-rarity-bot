@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8205",
+    "description": "chikn #8205",
+    "image": "https://cdn1.chikn.farm/images/64a49ea05ccb047b2545ccfb55259d09bca7d6d2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7763",
+    "description": "chikn #7763",
+    "image": "https://cdn1.chikn.farm/images/564cec8080310ca4be212ddb50ac51a585904ea0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

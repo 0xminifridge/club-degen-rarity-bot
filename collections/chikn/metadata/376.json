@@ -1,0 +1,27 @@
+{
+    "name": "chikn #376",
+    "description": "chikn #376",
+    "image": "https://cdn1.chikn.farm/images/6b1ddb210835114eb90fe5a8aaf3d4b178a7b430.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

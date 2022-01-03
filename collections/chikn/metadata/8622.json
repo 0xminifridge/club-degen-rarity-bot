@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8622",
+    "description": "chikn #8622",
+    "image": "https://cdn1.chikn.farm/images/ed79d7b1d6584490494ad63bd80779c67c343757.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

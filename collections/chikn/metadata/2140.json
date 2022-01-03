@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2140",
+    "description": "chikn #2140",
+    "image": "https://cdn1.chikn.farm/images/7e5bf971f2c46c5f741844016046826e21cad8a6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #795",
+    "description": "chikn #795",
+    "image": "https://cdn1.chikn.farm/images/97f437de3431ff05526490fad65855f09a2950c0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1415",
+    "description": "chikn #1415",
+    "image": "https://cdn1.chikn.farm/images/2df0c2c2c7a58ad24ceec4a8e9b4f8453ddc39bf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

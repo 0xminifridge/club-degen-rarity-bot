@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5224",
+    "description": "chikn #5224",
+    "image": "https://cdn1.chikn.farm/images/ae3b17947271768ec3a79941610fbe4a74e5cece.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

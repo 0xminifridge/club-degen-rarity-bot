@@ -1,0 +1,27 @@
+{
+    "name": "chikn #330",
+    "description": "chikn #330",
+    "image": "https://cdn1.chikn.farm/images/f99de933dda90660838dccbe0b48874efe011c10.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

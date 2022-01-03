@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7183",
+    "description": "chikn #7183",
+    "image": "https://cdn1.chikn.farm/images/18c77af03c09977ba0321ffde3ed2345d7c3eb12.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

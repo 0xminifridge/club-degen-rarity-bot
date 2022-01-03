@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7554",
+    "description": "chikn #7554",
+    "image": "https://cdn1.chikn.farm/images/b9e9f2d6a7de768bd9df4119c2dcb431949cf70e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

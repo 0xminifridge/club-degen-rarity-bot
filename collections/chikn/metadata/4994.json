@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4994",
+    "description": "chikn #4994",
+    "image": "https://cdn1.chikn.farm/images/72f91b27df897e7936787726723cc78ca47f491e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "murica"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

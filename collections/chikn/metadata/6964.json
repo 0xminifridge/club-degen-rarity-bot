@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6964",
+    "description": "chikn #6964",
+    "image": "https://cdn1.chikn.farm/images/ef068b38726770a5b08a5bc64710b8ebda60b15a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

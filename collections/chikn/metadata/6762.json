@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6762",
+    "description": "chikn #6762",
+    "image": "https://cdn1.chikn.farm/images/9ba58be92ba941cec8a64606af089924f67b4d8b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "luckiest red cap"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

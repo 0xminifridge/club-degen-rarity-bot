@@ -1,0 +1,27 @@
+{
+    "name": "chikn #694",
+    "description": "chikn #694",
+    "image": "https://cdn1.chikn.farm/images/ea12898cfb326fcb876106d511218f0a45b70c0a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

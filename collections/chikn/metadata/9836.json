@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9836",
+    "description": "chikn #9836",
+    "image": "https://cdn1.chikn.farm/images/cefce946a4c7e599eecf16380929e90c1b1914ab.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

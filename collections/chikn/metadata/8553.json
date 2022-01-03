@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8553",
+    "description": "chikn #8553",
+    "image": "https://cdn1.chikn.farm/images/66b0baca3c64e94416c3f2d740ffcbde98d4c7a5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

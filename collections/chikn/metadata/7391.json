@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7391",
+    "description": "chikn #7391",
+    "image": "https://cdn1.chikn.farm/images/094278908cd346f43858edcd2c370ac42bd9cd2f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

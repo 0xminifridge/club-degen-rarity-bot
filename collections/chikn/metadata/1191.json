@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1191",
+    "description": "chikn #1191",
+    "image": "https://cdn1.chikn.farm/images/d37312d37038ce0e9da4dc71491cf0f6a431fa7f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

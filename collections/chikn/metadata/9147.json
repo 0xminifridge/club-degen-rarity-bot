@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9147",
+    "description": "chikn #9147",
+    "image": "https://cdn1.chikn.farm/images/2f263fb4f44fa9ad1b85749fe731b44b69b8af4c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7990",
+    "description": "chikn #7990",
+    "image": "https://cdn1.chikn.farm/images/7786770f3c210439ba1e4cdce8474dc00104dc1c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

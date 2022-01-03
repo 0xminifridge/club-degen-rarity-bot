@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8150",
+    "description": "chikn #8150",
+    "image": "https://cdn1.chikn.farm/images/80d7a2018fd01421ce3c3926c14a0bb246f7ca5d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

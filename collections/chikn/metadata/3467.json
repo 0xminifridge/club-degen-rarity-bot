@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3467",
+    "description": "chikn #3467",
+    "image": "https://cdn1.chikn.farm/images/1212cbbb33f5e345f4d112887b01306d258e9de3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

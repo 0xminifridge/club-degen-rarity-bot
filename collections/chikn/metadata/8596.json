@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8596",
+    "description": "chikn #8596",
+    "image": "https://cdn1.chikn.farm/images/8653b02dcb72d77ce845d3d71a9d0258834ef327.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

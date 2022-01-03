@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5616",
+    "description": "chikn #5616",
+    "image": "https://cdn1.chikn.farm/images/ad6a94c1179b4c05abefa9fbd5097fcd43e91e80.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

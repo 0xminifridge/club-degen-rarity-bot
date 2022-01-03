@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7078",
+    "description": "chikn #7078",
+    "image": "https://cdn1.chikn.farm/images/ebc60cd44929c33638b9f34a313c3bb4cbb83f7c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

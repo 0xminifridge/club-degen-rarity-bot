@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5619",
+    "description": "chikn #5619",
+    "image": "https://cdn1.chikn.farm/images/b4fe8bca3aefb32d5d3d75878881d71f4991b5fb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

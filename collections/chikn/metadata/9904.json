@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9904",
+    "description": "chikn #9904",
+    "image": "https://cdn1.chikn.farm/images/6e912f3177141a986586b9d31a89da4e699517b2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

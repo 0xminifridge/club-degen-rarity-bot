@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3610",
+    "description": "chikn #3610",
+    "image": "https://cdn1.chikn.farm/images/213416d1cdef8a4643c1862bc0cd967dd7789034.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

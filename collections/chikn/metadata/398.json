@@ -1,0 +1,23 @@
+{
+    "name": "chikn #398",
+    "description": "chikn #398",
+    "image": "https://cdn1.chikn.farm/images/a6d0e032b6e400faaa4998cbe1a2852955fa5c5e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8216",
+    "description": "chikn #8216",
+    "image": "https://cdn1.chikn.farm/images/0ad86a80de82e8b7faebc1aa843f3370562cdca5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

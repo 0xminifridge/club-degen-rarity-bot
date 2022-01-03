@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5070",
+    "description": "chikn #5070",
+    "image": "https://cdn1.chikn.farm/images/a044596cf8a33c7cdf90e13472a58d09901912dc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

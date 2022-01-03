@@ -1,0 +1,23 @@
+{
+    "name": "chikn #412",
+    "description": "chikn #412",
+    "image": "https://cdn1.chikn.farm/images/5c1c52edc7e18b2cca84cc7fe74483ddc2f5339f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

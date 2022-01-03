@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9136",
+    "description": "chikn #9136",
+    "image": "https://cdn1.chikn.farm/images/7ca8bc16cba3db568f6e9f28ef329f700e26a5f1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

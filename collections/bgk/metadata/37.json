@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #37",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/37.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Clown"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "PJs"
+        }
+    ]
+}

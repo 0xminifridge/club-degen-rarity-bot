@@ -1,0 +1,27 @@
+{
+    "name": "chikn #982",
+    "description": "chikn #982",
+    "image": "https://cdn1.chikn.farm/images/f1c1461c2af072e3f312d54d0b3b3f1032548eaf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

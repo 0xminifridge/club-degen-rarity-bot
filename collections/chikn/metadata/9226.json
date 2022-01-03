@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9226",
+    "description": "chikn #9226",
+    "image": "https://cdn1.chikn.farm/images/0450ff19eef18ac87ea7aaf673ad7ee03fea8705.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

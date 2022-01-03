@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2956",
+    "description": "chikn #2956",
+    "image": "https://cdn1.chikn.farm/images/9f4cb2fcd203ddd6d39b92d07371e48c88ccafb3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

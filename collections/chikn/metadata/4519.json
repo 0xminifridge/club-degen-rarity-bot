@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4519",
+    "description": "chikn #4519",
+    "image": "https://cdn1.chikn.farm/images/6bbc0c6f737153e9c390b65b5007e6f108f597df.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "luckiest red cap"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

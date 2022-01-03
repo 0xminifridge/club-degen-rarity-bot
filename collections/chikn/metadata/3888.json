@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3888",
+    "description": "chikn #3888",
+    "image": "https://cdn1.chikn.farm/images/437fb6d09912263e30c2820b1d0751314c1b379c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

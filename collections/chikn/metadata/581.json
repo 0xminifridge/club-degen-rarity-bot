@@ -1,0 +1,27 @@
+{
+    "name": "chikn #581",
+    "description": "chikn #581",
+    "image": "https://cdn1.chikn.farm/images/549f8fcce4d498ac09c1a5093464d2aec3f1f877.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

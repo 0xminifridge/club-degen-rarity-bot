@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7028",
+    "description": "chikn #7028",
+    "image": "https://cdn1.chikn.farm/images/e11ab16d808612d1d3d5584f96191300c4fd222a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

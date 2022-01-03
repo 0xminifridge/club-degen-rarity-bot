@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6369",
+    "description": "chikn #6369",
+    "image": "https://cdn1.chikn.farm/images/fe007bb9f09acc3e6aff3156b41b92c5985159c4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

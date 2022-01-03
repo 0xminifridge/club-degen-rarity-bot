@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5840",
+    "description": "chikn #5840",
+    "image": "https://cdn1.chikn.farm/images/12f19578842150d535e79ba6f7d270f65bd2d1a2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

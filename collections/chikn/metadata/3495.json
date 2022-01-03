@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3495",
+    "description": "chikn #3495",
+    "image": "https://cdn1.chikn.farm/images/a8ab749a50e1e9c47ba1df249b480d8e67a2323d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6203",
+    "description": "chikn #6203",
+    "image": "https://cdn1.chikn.farm/images/6e86b3be35bf90e05c52d87185e8d18dfdb93759.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

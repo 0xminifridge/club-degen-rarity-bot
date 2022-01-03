@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3484",
+    "description": "chikn #3484",
+    "image": "https://cdn1.chikn.farm/images/715fdeeeae8ec5a0c08726069dc1fc45049ece7c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

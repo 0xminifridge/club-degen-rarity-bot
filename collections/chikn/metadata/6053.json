@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6053",
+    "description": "chikn #6053",
+    "image": "https://cdn1.chikn.farm/images/b12446c0803f07793672ab1114c1245c2ebc33bd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

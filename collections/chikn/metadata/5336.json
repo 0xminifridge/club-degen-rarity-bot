@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5336",
+    "description": "chikn #5336",
+    "image": "https://cdn1.chikn.farm/images/ad6ad5b16e2f4cb926f1dcee24e04772ecfd10ad.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

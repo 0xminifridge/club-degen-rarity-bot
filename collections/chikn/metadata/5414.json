@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5414",
+    "description": "chikn #5414",
+    "image": "https://cdn1.chikn.farm/images/4eb45b9daaa3885b8ce1846a5f312ffbe8b35ad4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

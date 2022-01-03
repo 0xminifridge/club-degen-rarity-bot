@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5464",
+    "description": "chikn #5464",
+    "image": "https://cdn1.chikn.farm/images/34cb3e0710c4a40ad8aa64ea3c39affb58d0968c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

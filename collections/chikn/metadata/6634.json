@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6634",
+    "description": "chikn #6634",
+    "image": "https://cdn1.chikn.farm/images/44f5e894bd57b24623e4483d6a2cd0299741410e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "chikn #2757",
+    "description": "chikn #2757",
+    "image": "https://cdn1.chikn.farm/images/Chikn_Unique_Peeper.jpg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "?"
+        },
+        {
+            "trait_type": "neck",
+            "value": "?"
+        },
+        {
+            "trait_type": "torso",
+            "value": "?"
+        },
+        {
+            "trait_type": "feet",
+            "value": "?"
+        },
+        {
+            "trait_type": "tail",
+            "value": "?"
+        },
+        {
+            "trait_type": "body",
+            "value": "?"
+        },
+        {
+            "trait_type": "trim",
+            "value": "?"
+        },
+        {
+            "trait_type": "background",
+            "value": "?"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5423",
+    "description": "chikn #5423",
+    "image": "https://cdn1.chikn.farm/images/182ac137057c84cf61027b9ce03a1da20f7e2f4b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

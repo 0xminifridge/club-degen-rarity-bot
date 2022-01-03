@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5772",
+    "description": "chikn #5772",
+    "image": "https://cdn1.chikn.farm/images/d6342b155d4276443c3851cff846f0735161f947.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

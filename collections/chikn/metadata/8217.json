@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8217",
+    "description": "chikn #8217",
+    "image": "https://cdn1.chikn.farm/images/2364b38d772bbaa42e06408d6f5f4a060283e5c6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

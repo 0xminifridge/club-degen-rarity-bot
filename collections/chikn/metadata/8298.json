@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8298",
+    "description": "chikn #8298",
+    "image": "https://cdn1.chikn.farm/images/db5871a19d1ff5b9cca5c87edab4db46134ad8a1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

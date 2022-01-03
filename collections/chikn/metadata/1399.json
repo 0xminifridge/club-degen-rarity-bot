@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1399",
+    "description": "chikn #1399",
+    "image": "https://cdn1.chikn.farm/images/e8fbf9b51710c21088a447e3f1617f3e9a4a0fec.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

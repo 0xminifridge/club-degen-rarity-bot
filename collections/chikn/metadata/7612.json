@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7612",
+    "description": "chikn #7612",
+    "image": "https://cdn1.chikn.farm/images/7a1404bbb57098d9d6bed8504420949d9d432efd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

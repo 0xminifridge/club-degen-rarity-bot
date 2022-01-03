@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2629",
+    "description": "chikn #2629",
+    "image": "https://cdn1.chikn.farm/images/02ea2e5ba404ebe3351dcbe529b32f7df9349f78.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

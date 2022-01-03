@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #3344",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/3344.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Happy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Army Helmet"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red BGK"
+        }
+    ]
+}

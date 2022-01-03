@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9978",
+    "description": "chikn #9978",
+    "image": "https://cdn1.chikn.farm/images/9c6105aa2b96e3f3812595f21a37b1bb6c1e363d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

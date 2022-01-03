@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8634",
+    "description": "chikn #8634",
+    "image": "https://cdn1.chikn.farm/images/d5c6ff2262a1bce49b2761e0cafd01175eb748c5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

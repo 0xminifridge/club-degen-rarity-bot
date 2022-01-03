@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3813",
+    "description": "chikn #3813",
+    "image": "https://cdn1.chikn.farm/images/c46c3af967bfcd68dd5a8357c20f3da912ff01ed.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

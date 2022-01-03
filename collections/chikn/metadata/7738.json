@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7738",
+    "description": "chikn #7738",
+    "image": "https://cdn1.chikn.farm/images/b02c3c7609e9bfd75de6037711489548b7d4e5cd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

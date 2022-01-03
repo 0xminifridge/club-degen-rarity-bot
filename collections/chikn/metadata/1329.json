@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1329",
+    "description": "chikn #1329",
+    "image": "https://cdn1.chikn.farm/images/7967f0129f6360e001083baccebdfa47b3f8665f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3117",
+    "description": "chikn #3117",
+    "image": "https://cdn1.chikn.farm/images/2cc80510742aa559ba3c48acf895f8098cf9f3e1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

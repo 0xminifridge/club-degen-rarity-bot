@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2042",
+    "description": "chikn #2042",
+    "image": "https://cdn1.chikn.farm/images/45b6d7e97969f5b27a531592ae1af3e89b2bfa87.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

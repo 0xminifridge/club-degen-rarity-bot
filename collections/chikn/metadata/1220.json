@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1220",
+    "description": "chikn #1220",
+    "image": "https://cdn1.chikn.farm/images/0764e5243fe5186d1732a97bc9379d170ee947d5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

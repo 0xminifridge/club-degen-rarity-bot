@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7611",
+    "description": "chikn #7611",
+    "image": "https://cdn1.chikn.farm/images/ff6cd87c77eba0675ddf562cf483ccb1a3e010dc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

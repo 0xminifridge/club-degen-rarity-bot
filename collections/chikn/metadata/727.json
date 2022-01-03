@@ -1,0 +1,27 @@
+{
+    "name": "chikn #727",
+    "description": "chikn #727",
+    "image": "https://cdn1.chikn.farm/images/c2fd37782c16fad95784961eb06b25caa6d653a1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

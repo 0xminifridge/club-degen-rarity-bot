@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8141",
+    "description": "chikn #8141",
+    "image": "https://cdn1.chikn.farm/images/4b7387e014bf504b5042d72501806894e9e876e8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

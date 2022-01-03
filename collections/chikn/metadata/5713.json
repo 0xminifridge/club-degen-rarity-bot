@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5713",
+    "description": "chikn #5713",
+    "image": "https://cdn1.chikn.farm/images/5d1fc6d989942a2e78f610db7178f83dd61b6f57.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1912",
+    "description": "chikn #1912",
+    "image": "https://cdn1.chikn.farm/images/6195225ca9d9622e18728174299c2128c4577ee0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

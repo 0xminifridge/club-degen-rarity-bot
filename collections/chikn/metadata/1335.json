@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1335",
+    "description": "chikn #1335",
+    "image": "https://cdn1.chikn.farm/images/0c39bacaf96ae547fc1d927367774a88b8e7d1f3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

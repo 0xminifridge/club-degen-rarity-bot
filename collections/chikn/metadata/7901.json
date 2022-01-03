@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7901",
+    "description": "chikn #7901",
+    "image": "https://cdn1.chikn.farm/images/3ce2b8711a8bcda3cf64094df2a63d3363bdc258.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

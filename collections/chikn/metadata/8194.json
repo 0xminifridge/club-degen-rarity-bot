@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8194",
+    "description": "chikn #8194",
+    "image": "https://cdn1.chikn.farm/images/e4fd8eb98ab39fb7a154a56a20125095df43897c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

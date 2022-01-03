@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3720",
+    "description": "chikn #3720",
+    "image": "https://cdn1.chikn.farm/images/5c43775dd4f4856ec7427835c488e744cf54251d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

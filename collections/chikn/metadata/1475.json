@@ -1,0 +1,19 @@
+{
+    "name": "chikn #1475",
+    "description": "chikn #1475",
+    "image": "https://cdn1.chikn.farm/images/38ffc2df68879e3cbc72c53d85436a20a6d816ee.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

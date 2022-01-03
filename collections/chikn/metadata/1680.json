@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1680",
+    "description": "chikn #1680",
+    "image": "https://cdn1.chikn.farm/images/a50ec3c7bcd2c7ab2392b806b447ed405337c334.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

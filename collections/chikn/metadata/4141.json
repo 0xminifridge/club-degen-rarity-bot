@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4141",
+    "description": "chikn #4141",
+    "image": "https://cdn1.chikn.farm/images/baaffbda414fa3b5b308210e711e49fbf7034bd8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

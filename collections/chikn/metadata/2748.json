@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2748",
+    "description": "chikn #2748",
+    "image": "https://cdn1.chikn.farm/images/faa73a7ac74eb9dfe4363f942226a10e858fff42.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

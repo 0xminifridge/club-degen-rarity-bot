@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1815",
+    "description": "chikn #1815",
+    "image": "https://cdn1.chikn.farm/images/5da554b4f50aa501f1e926b6776bb3a09434df5a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

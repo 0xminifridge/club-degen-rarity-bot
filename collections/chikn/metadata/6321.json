@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6321",
+    "description": "chikn #6321",
+    "image": "https://cdn1.chikn.farm/images/edccd80ddeafd6481f8b531cabc7bc0d3d715569.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8293",
+    "description": "chikn #8293",
+    "image": "https://cdn1.chikn.farm/images/27ade0378461e37239fc1ce5656be66f839e36f2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

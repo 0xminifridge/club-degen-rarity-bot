@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5228",
+    "description": "chikn #5228",
+    "image": "https://cdn1.chikn.farm/images/50236385f7bd3478dc265a63152bc5649ae24973.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

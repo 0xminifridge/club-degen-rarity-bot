@@ -1,0 +1,27 @@
+{
+    "name": "chikn #327",
+    "description": "chikn #327",
+    "image": "https://cdn1.chikn.farm/images/deec5b45a2151fad8d60f16ce3fbe16c036df6ab.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "inherited royalty"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5344",
+    "description": "chikn #5344",
+    "image": "https://cdn1.chikn.farm/images/fc515ebba22385560c2458f8f999610726364502.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

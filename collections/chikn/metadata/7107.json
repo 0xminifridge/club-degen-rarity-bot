@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7107",
+    "description": "chikn #7107",
+    "image": "https://cdn1.chikn.farm/images/40f47cb6b28d35164940d7462520b88689b090b6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

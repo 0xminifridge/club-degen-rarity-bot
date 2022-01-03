@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6687",
+    "description": "chikn #6687",
+    "image": "https://cdn1.chikn.farm/images/a5d80824d0b13adff84550b515f8a7023b3cccda.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

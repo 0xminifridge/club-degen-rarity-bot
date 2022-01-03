@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5007",
+    "description": "chikn #5007",
+    "image": "https://cdn1.chikn.farm/images/fbd989a8aa140461df826ca41c5def7088e93dcb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9265",
+    "description": "chikn #9265",
+    "image": "https://cdn1.chikn.farm/images/13553054b87c73fa1e08ab6d7f3e7e653db8ec88.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

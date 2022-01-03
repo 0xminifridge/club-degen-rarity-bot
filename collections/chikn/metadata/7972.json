@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7972",
+    "description": "chikn #7972",
+    "image": "https://cdn1.chikn.farm/images/42a2939d819b9407b75780153ac67fb25857027b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

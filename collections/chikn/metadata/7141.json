@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7141",
+    "description": "chikn #7141",
+    "image": "https://cdn1.chikn.farm/images/cd2ef27bc87db2426d94cbd009a2c7fa53dd5772.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "inherited royalty"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

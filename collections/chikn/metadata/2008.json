@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2008",
+    "description": "chikn #2008",
+    "image": "https://cdn1.chikn.farm/images/6c1cdbda46328cac1cd2525c8248c02c2aebfcba.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

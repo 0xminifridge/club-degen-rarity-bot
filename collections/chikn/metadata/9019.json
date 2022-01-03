@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9019",
+    "description": "chikn #9019",
+    "image": "https://cdn1.chikn.farm/images/a8a2be058f8380bfd52fc45a79a8fb579d9b6682.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8413",
+    "description": "chikn #8413",
+    "image": "https://cdn1.chikn.farm/images/b443ee4d483903ab70b363e5b680e8db2ed79b58.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

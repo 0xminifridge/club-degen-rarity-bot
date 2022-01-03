@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3567",
+    "description": "chikn #3567",
+    "image": "https://cdn1.chikn.farm/images/ec516881d4774ed553e3fed6a22502cfe36cbcc5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

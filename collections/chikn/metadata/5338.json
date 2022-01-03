@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5338",
+    "description": "chikn #5338",
+    "image": "https://cdn1.chikn.farm/images/2c1710c3ed932f09b2d09e5182762b90ce58558e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

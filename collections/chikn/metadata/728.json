@@ -1,0 +1,27 @@
+{
+    "name": "chikn #728",
+    "description": "chikn #728",
+    "image": "https://cdn1.chikn.farm/images/7485622e15ac7d4da7e46f8b1b8462f6ecc799be.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

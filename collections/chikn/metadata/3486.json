@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3486",
+    "description": "chikn #3486",
+    "image": "https://cdn1.chikn.farm/images/b896dc05a2cdcf760bc0a5b0855a5f3a60ae2277.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

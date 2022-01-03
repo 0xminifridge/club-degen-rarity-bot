@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7653",
+    "description": "chikn #7653",
+    "image": "https://cdn1.chikn.farm/images/b8ad5b4b66e5dfaf9a51853ba77cee15c95cd991.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

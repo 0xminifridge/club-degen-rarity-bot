@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5538",
+    "description": "chikn #5538",
+    "image": "https://cdn1.chikn.farm/images/247efb62096fb45ee3d50cb5f87f012bd6f3bc16.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

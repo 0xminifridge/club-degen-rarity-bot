@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9250",
+    "description": "chikn #9250",
+    "image": "https://cdn1.chikn.farm/images/fe34d0a7b0a7bac1dd365027cf79d3e9e1cf3876.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

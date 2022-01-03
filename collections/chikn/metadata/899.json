@@ -1,0 +1,27 @@
+{
+    "name": "chikn #899",
+    "description": "chikn #899",
+    "image": "https://cdn1.chikn.farm/images/7c032ca52d1cccef8be1b9fa185245841a44c878.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

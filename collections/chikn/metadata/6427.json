@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6427",
+    "description": "chikn #6427",
+    "image": "https://cdn1.chikn.farm/images/cdfaac8a8e0771b176177bcfd9795f1a9764e68b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

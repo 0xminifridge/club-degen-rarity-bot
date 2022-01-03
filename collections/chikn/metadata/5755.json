@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5755",
+    "description": "chikn #5755",
+    "image": "https://cdn1.chikn.farm/images/6c7da27a3018f8dd13e4f8506422993d35b91af9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

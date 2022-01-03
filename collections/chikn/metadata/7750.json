@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7750",
+    "description": "chikn #7750",
+    "image": "https://cdn1.chikn.farm/images/2491b0453835d88c212dcafa6dd2fcac39940311.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

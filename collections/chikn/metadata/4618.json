@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4618",
+    "description": "chikn #4618",
+    "image": "https://cdn1.chikn.farm/images/6663e7231580b8a0954ac872b03e7d483145a168.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1474",
+    "description": "chikn #1474",
+    "image": "https://cdn1.chikn.farm/images/3f9a44a0e285e69a1a745f90ef118060ac9374aa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1282",
+    "description": "chikn #1282",
+    "image": "https://cdn1.chikn.farm/images/ac1f5ac11ed7461eb4f2954f9a04c97d4682e691.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

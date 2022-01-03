@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8450",
+    "description": "chikn #8450",
+    "image": "https://cdn1.chikn.farm/images/6ffc471d9e422312664e1cab49353aed05353455.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

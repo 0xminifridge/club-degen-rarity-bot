@@ -1,0 +1,19 @@
+{
+    "name": "chikn #3507",
+    "description": "chikn #3507",
+    "image": "https://cdn1.chikn.farm/images/67a7a5e467b258284753993a2457c52b57982485.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

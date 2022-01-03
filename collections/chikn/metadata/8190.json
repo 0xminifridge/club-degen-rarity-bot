@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8190",
+    "description": "chikn #8190",
+    "image": "https://cdn1.chikn.farm/images/4ed3246e86f8e14f122e6b68b32b210b5f25510d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

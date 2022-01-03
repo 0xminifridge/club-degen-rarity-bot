@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3351",
+    "description": "chikn #3351",
+    "image": "https://cdn1.chikn.farm/images/54b05d5a30a630ca31bb0ccec6ea9d051b4fc624.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

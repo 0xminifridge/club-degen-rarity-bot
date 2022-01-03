@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8609",
+    "description": "chikn #8609",
+    "image": "https://cdn1.chikn.farm/images/c9f07f8e1f5863e004f9c116126168d27c77bf65.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9720",
+    "description": "chikn #9720",
+    "image": "https://cdn1.chikn.farm/images/c999f28cc6325de9963572ba9e52bc26dc3539aa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

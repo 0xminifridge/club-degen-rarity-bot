@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7753",
+    "description": "chikn #7753",
+    "image": "https://cdn1.chikn.farm/images/bfbb2b078da770bfc3b04e00a669bab64eb880aa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

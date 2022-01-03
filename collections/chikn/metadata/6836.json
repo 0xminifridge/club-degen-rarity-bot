@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6836",
+    "description": "chikn #6836",
+    "image": "https://cdn1.chikn.farm/images/fe2305f75c486b9ce0ac03426c71580341013d94.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5071",
+    "description": "chikn #5071",
+    "image": "https://cdn1.chikn.farm/images/e66c5dd5d104dd79c2bd12a6f926e03652763828.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

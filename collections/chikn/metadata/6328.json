@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6328",
+    "description": "chikn #6328",
+    "image": "https://cdn1.chikn.farm/images/41e448396eb020f8bc99b38902694cb38a8d41f4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

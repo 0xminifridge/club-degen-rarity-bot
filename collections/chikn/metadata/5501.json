@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5501",
+    "description": "chikn #5501",
+    "image": "https://cdn1.chikn.farm/images/3c965d9f4b4c0e08a6a16b894b1645a061fe9751.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

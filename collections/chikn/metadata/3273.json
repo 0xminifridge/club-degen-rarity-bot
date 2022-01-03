@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3273",
+    "description": "chikn #3273",
+    "image": "https://cdn1.chikn.farm/images/f4a105b3d3c2a73d704e1407e1092e6a584434a2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

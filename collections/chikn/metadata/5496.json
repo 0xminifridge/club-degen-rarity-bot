@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5496",
+    "description": "chikn #5496",
+    "image": "https://cdn1.chikn.farm/images/769171a1b03ce0283c483ab0d1036fdd99e96b6a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

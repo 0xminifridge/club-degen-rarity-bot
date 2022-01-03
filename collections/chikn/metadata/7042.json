@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7042",
+    "description": "chikn #7042",
+    "image": "https://cdn1.chikn.farm/images/ebfc94b638eef566eed81c1c3aefbcbebf4ee0ef.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

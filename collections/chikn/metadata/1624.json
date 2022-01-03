@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1624",
+    "description": "chikn #1624",
+    "image": "https://cdn1.chikn.farm/images/cef7428f8f1485fe785845dbecb2d855fe0c93a7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

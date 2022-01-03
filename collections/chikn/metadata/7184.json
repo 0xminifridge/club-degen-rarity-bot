@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7184",
+    "description": "chikn #7184",
+    "image": "https://cdn1.chikn.farm/images/8651d6426a138317c0e3565bbcea7e3d45e6942e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9945",
+    "description": "chikn #9945",
+    "image": "https://cdn1.chikn.farm/images/73586210d9433ab6187894402026b84b253f6746.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

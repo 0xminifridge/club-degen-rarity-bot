@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6211",
+    "description": "chikn #6211",
+    "image": "https://cdn1.chikn.farm/images/5ef0011cd31a9e33a7147439a82f95d19dc44587.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

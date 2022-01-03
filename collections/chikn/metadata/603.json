@@ -1,0 +1,27 @@
+{
+    "name": "chikn #603",
+    "description": "chikn #603",
+    "image": "https://cdn1.chikn.farm/images/d49b321babba4178f6bdbc30e7594816a0482bf8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

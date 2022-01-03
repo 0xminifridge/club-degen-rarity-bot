@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4856",
+    "description": "chikn #4856",
+    "image": "https://cdn1.chikn.farm/images/31717aed49c1b825048a25f0362d018b59472a97.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

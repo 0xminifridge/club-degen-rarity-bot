@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7806",
+    "description": "chikn #7806",
+    "image": "https://cdn1.chikn.farm/images/1bdece860ef62a17a0ffc2082db5ae3d30f4d31d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pineapple"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6902",
+    "description": "chikn #6902",
+    "image": "https://cdn1.chikn.farm/images/832f2638fe1221db8e412a492fc78efe4b787af3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

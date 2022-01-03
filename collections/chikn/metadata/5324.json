@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5324",
+    "description": "chikn #5324",
+    "image": "https://cdn1.chikn.farm/images/5eed1b3d971527d8b67f26dd232acd21b195fa24.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

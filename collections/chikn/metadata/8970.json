@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8970",
+    "description": "chikn #8970",
+    "image": "https://cdn1.chikn.farm/images/ecef972418e5e2b39aa35adc73c18a019587c222.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

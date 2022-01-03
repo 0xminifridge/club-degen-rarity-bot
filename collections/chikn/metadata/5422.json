@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5422",
+    "description": "chikn #5422",
+    "image": "https://cdn1.chikn.farm/images/bc93519bcd8fb47ab14fa0f322f418f68e4aee2b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

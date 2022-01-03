@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2408",
+    "description": "chikn #2408",
+    "image": "https://cdn1.chikn.farm/images/291ebedc68d929e200aaad3197a2e39757472ace.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

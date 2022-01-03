@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9876",
+    "description": "chikn #9876",
+    "image": "https://cdn1.chikn.farm/images/46fbdabea143bfab8d565de2a1abd6a5d5ff47c2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

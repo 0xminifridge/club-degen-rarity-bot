@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2672",
+    "description": "chikn #2672",
+    "image": "https://cdn1.chikn.farm/images/7f36f3428e7aa8345e03e0aea65cec331b62704d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9814",
+    "description": "chikn #9814",
+    "image": "https://cdn1.chikn.farm/images/dc1a645a1ad05432ba8725c0a8bb7c1a3f821df5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

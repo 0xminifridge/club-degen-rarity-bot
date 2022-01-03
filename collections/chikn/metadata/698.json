@@ -1,0 +1,23 @@
+{
+    "name": "chikn #698",
+    "description": "chikn #698",
+    "image": "https://cdn1.chikn.farm/images/cb980a14a94162d7798fd368cc00b2c0bdeb3a47.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

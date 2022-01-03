@@ -1,0 +1,27 @@
+{
+    "name": "chikn #995",
+    "description": "chikn #995",
+    "image": "https://cdn1.chikn.farm/images/2df887dc95fcd767f28c07f98066df976be9e1fc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

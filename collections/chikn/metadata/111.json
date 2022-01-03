@@ -1,0 +1,23 @@
+{
+    "name": "chikn #111",
+    "description": "chikn #111",
+    "image": "https://cdn1.chikn.farm/images/8b4d8cbaeb89942d3234114cf658230799a23dc6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

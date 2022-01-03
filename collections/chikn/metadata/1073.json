@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1073",
+    "description": "chikn #1073",
+    "image": "https://cdn1.chikn.farm/images/5a2b4eae53e51788721901756f4fdafa2c231072.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

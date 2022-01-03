@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9333",
+    "description": "chikn #9333",
+    "image": "https://cdn1.chikn.farm/images/9ed26db315601fbcd898b3614f40bbda89c55064.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

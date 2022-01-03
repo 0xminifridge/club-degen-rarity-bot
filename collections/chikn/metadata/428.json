@@ -1,0 +1,27 @@
+{
+    "name": "chikn #428",
+    "description": "chikn #428",
+    "image": "https://cdn1.chikn.farm/images/05e155354d48f20c9422cbc709cd41512082bde9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

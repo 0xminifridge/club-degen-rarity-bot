@@ -1,0 +1,19 @@
+{
+    "name": "chikn #1707",
+    "description": "chikn #1707",
+    "image": "https://cdn1.chikn.farm/images/f774f71d3d1895edca16e57192ccb70c41276120.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

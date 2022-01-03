@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5164",
+    "description": "chikn #5164",
+    "image": "https://cdn1.chikn.farm/images/70c6e0e3ec0f3c30235cc74365e81bf747602af1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

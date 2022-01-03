@@ -1,0 +1,31 @@
+{
+    "name": "chikn #872",
+    "description": "chikn #872",
+    "image": "https://cdn1.chikn.farm/images/f1d66082619ff659dc05ea4dbc7f6ee52c61a6dd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

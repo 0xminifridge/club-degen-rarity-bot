@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3891",
+    "description": "chikn #3891",
+    "image": "https://cdn1.chikn.farm/images/755b164615c6ea413b4fdaad666882fa9595d3ff.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

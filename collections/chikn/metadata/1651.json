@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1651",
+    "description": "chikn #1651",
+    "image": "https://cdn1.chikn.farm/images/7643b36c13fa6cddb706c331b1311306628b405b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

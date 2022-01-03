@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1154",
+    "description": "chikn #1154",
+    "image": "https://cdn1.chikn.farm/images/97adb19ef0cd74047edc639457f1860837458605.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9783",
+    "description": "chikn #9783",
+    "image": "https://cdn1.chikn.farm/images/b3a13b1873500086b75d2d1d02afeade9005d229.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

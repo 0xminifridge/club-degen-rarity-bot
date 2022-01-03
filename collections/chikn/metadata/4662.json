@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4662",
+    "description": "chikn #4662",
+    "image": "https://cdn1.chikn.farm/images/1aa0f2da628cef0bdfb389dd7dec458564cc3c63.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

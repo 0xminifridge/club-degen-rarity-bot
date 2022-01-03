@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1423",
+    "description": "chikn #1423",
+    "image": "https://cdn1.chikn.farm/images/78e8047cc803e4c1519a0cc7156f34b05d680db7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

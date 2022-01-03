@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8931",
+    "description": "chikn #8931",
+    "image": "https://cdn1.chikn.farm/images/046168e680ddf4a52a72c0976a4613a212e9602e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

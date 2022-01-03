@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2361",
+    "description": "chikn #2361",
+    "image": "https://cdn1.chikn.farm/images/16954294a86566492e4db83f3129e29a26463ce7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

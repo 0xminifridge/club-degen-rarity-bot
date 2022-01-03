@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7519",
+    "description": "chikn #7519",
+    "image": "https://cdn1.chikn.farm/images/2780b5e7ab668e722213ea242797ddb05295438d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

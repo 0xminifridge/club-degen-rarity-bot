@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8757",
+    "description": "chikn #8757",
+    "image": "https://cdn1.chikn.farm/images/338b753fabe1c8b185bca50b9d312c951788218e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

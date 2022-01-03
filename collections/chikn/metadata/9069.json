@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9069",
+    "description": "chikn #9069",
+    "image": "https://cdn1.chikn.farm/images/772eb29465d31c3d5aeab1daa8ace8d01710a328.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

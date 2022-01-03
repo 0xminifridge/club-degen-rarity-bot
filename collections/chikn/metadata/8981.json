@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8981",
+    "description": "chikn #8981",
+    "image": "https://cdn1.chikn.farm/images/57c8bce976cd06d651e24a8e4b8061b466c8b7b6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

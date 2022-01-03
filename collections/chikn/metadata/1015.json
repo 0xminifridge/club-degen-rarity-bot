@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1015",
+    "description": "chikn #1015",
+    "image": "https://cdn1.chikn.farm/images/dc6a65e9a2003b87b46e17894cfa6fe3e499e144.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

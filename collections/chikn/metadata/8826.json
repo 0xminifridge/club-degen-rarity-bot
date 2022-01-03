@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8826",
+    "description": "chikn #8826",
+    "image": "https://cdn1.chikn.farm/images/c3a5b5ae0c16fa84c3e981150731460eb9422c60.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

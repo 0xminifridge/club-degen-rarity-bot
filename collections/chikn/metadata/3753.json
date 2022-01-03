@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3753",
+    "description": "chikn #3753",
+    "image": "https://cdn1.chikn.farm/images/4a9dc40f758445124d6c30127a6c81a374e0b69a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "chikn #5825",
+    "description": "chikn #5825",
+    "image": "https://cdn1.chikn.farm/images/8e546db6711fa1b33b6a81c8ca032e8710db1283.jpeg",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

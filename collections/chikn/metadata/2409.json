@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2409",
+    "description": "chikn #2409",
+    "image": "https://cdn1.chikn.farm/images/7b9a20cba827064c95db5d6b1ba7ac9c464a9296.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3024",
+    "description": "chikn #3024",
+    "image": "https://cdn1.chikn.farm/images/d9d110790403e7ae52b1cb0b8c8834843e5c47de.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden bone daddy"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

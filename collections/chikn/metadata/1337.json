@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1337",
+    "description": "chikn #1337",
+    "image": "https://cdn1.chikn.farm/images/69df07333d065a22631887e877a97569c59ccbec.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

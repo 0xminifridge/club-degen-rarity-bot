@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9206",
+    "description": "chikn #9206",
+    "image": "https://cdn1.chikn.farm/images/32541fcfe169578bfb6f7c74ea2867124ca81085.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

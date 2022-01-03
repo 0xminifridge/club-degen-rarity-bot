@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1781",
+    "description": "chikn #1781",
+    "image": "https://cdn1.chikn.farm/images/e3f18748f65718ca7e7345d81b7d21942acc5aee.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

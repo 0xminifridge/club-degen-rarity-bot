@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8108",
+    "description": "chikn #8108",
+    "image": "https://cdn1.chikn.farm/images/502d44fee3b4d6765667e14fcc4313c6972d7365.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

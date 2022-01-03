@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6234",
+    "description": "chikn #6234",
+    "image": "https://cdn1.chikn.farm/images/5cdb491797a9806a4c1850f22345780ce4db416a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8531",
+    "description": "chikn #8531",
+    "image": "https://cdn1.chikn.farm/images/072be82e5d869374764b5d53e24c79d36a22a362.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "laser eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

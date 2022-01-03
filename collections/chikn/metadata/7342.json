@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7342",
+    "description": "chikn #7342",
+    "image": "https://cdn1.chikn.farm/images/f585009bfa5062496a27545266d78b909dbb881e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "feet",
+            "value": "real feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

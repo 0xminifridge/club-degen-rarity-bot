@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1281",
+    "description": "chikn #1281",
+    "image": "https://cdn1.chikn.farm/images/89a11476aa84c5a6b4ba971fb6bea30f2c90dedf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

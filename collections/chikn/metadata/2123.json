@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2123",
+    "description": "chikn #2123",
+    "image": "https://cdn1.chikn.farm/images/034ac1c11aded3a0ba3119c2bdbfcf6e093eeaf5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

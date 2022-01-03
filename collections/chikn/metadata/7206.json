@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7206",
+    "description": "chikn #7206",
+    "image": "https://cdn1.chikn.farm/images/e96458500bd6f99f93c609377bb21789714d780c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

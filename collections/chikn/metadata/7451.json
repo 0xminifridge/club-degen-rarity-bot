@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7451",
+    "description": "chikn #7451",
+    "image": "https://cdn1.chikn.farm/images/60f7376c761407b891f6e2be0c7e99217a091290.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

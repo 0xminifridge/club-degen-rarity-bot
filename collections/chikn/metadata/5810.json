@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5810",
+    "description": "chikn #5810",
+    "image": "https://cdn1.chikn.farm/images/e7ffc8cfde5c1c57b2befa869af4705de06886c7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

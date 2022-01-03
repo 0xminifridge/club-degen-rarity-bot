@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5575",
+    "description": "chikn #5575",
+    "image": "https://cdn1.chikn.farm/images/cc234e9c574c3c25ad30dbd3c2a76b3af8e63717.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7968",
+    "description": "chikn #7968",
+    "image": "https://cdn1.chikn.farm/images/addfec38da70d98699265e4e7ebce18387b1a17a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "chikn #61",
+    "description": "chikn #61",
+    "image": "https://cdn1.chikn.farm/images/fee436c8e0c6a1542d123fbf1f7eea9762ccdcde.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7639",
+    "description": "chikn #7639",
+    "image": "https://cdn1.chikn.farm/images/cd2e7fe0dca1407033bb193c6a5e214795d77e50.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

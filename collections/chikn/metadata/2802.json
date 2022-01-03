@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2802",
+    "description": "chikn #2802",
+    "image": "https://cdn1.chikn.farm/images/1a92f3d3c23b93bfb0fa650ec2d94b81071c37a4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

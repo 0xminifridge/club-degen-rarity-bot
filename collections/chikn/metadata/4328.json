@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4328",
+    "description": "chikn #4328",
+    "image": "https://cdn1.chikn.farm/images/21f22daca62bf8554bb94de1d65a79566a353f97.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "icey stare"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

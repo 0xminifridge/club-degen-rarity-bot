@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5514",
+    "description": "chikn #5514",
+    "image": "https://cdn1.chikn.farm/images/4bc43a22a15a3da6400f2fcf60efe235727c19e2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

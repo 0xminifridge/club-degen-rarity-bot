@@ -1,0 +1,23 @@
+{
+    "name": "chikn #936",
+    "description": "chikn #936",
+    "image": "https://cdn1.chikn.farm/images/9304c16cccfd7ed68f77e35ab52a1c0c5146c133.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3607",
+    "description": "chikn #3607",
+    "image": "https://cdn1.chikn.farm/images/ca6b3c6263dfece4aacc0b81d327e4d4d292666f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

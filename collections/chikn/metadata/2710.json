@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2710",
+    "description": "chikn #2710",
+    "image": "https://cdn1.chikn.farm/images/3cd6139d3e9463938df75c65f049a5e77174ef47.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6604",
+    "description": "chikn #6604",
+    "image": "https://cdn1.chikn.farm/images/af77453c83051c41b4feb98a6fc1093cd3406680.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

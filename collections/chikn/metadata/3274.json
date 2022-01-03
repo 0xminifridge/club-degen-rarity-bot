@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3274",
+    "description": "chikn #3274",
+    "image": "https://cdn1.chikn.farm/images/a7b4e74a119a54db6d75f8cc0b40e6c2322c2b6d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

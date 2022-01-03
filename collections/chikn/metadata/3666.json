@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3666",
+    "description": "chikn #3666",
+    "image": "https://cdn1.chikn.farm/images/f3e18fa9a6eba2551a7f1f9d8cbbef1a5b38fe7f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax degen"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

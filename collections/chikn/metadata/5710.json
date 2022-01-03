@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5710",
+    "description": "chikn #5710",
+    "image": "https://cdn1.chikn.farm/images/ded3edd7fd17de44a1a0d10ea3983e3a159f18e4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

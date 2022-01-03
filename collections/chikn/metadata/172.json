@@ -1,0 +1,27 @@
+{
+    "name": "chikn #172",
+    "description": "chikn #172",
+    "image": "https://cdn1.chikn.farm/images/e67389c470a0b09fab916d8b35ca1fd3c5ffd287.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

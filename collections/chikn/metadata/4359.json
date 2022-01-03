@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4359",
+    "description": "chikn #4359",
+    "image": "https://cdn1.chikn.farm/images/11eeed027f33b3cfcf992fc2cb6670ca8c001b0e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

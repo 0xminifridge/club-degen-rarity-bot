@@ -1,0 +1,31 @@
+{
+    "name": "chikn #527",
+    "description": "chikn #527",
+    "image": "https://cdn1.chikn.farm/images/b3bedba7d5fc98e835769c83d8fbea7f33ff6ace.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

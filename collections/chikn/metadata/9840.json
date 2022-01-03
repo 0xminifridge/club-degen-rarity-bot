@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9840",
+    "description": "chikn #9840",
+    "image": "https://cdn1.chikn.farm/images/18f4b7bc3c42d986eb348fff8a8c60ddf8b5796d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

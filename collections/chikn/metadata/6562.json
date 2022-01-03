@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6562",
+    "description": "chikn #6562",
+    "image": "https://cdn1.chikn.farm/images/65676052b6004c477325611a2c054dc7e5e11f20.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

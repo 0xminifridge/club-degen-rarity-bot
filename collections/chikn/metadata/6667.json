@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6667",
+    "description": "chikn #6667",
+    "image": "https://cdn1.chikn.farm/images/76e102e32aafefa75b1e1bb838ccbe4be457bba5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden bone daddy"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

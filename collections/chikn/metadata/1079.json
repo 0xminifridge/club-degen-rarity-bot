@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1079",
+    "description": "chikn #1079",
+    "image": "https://cdn1.chikn.farm/images/973b3dddc3fedd29c4b7cc2fdb6d79ea9d6c9399.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "super saiyan"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

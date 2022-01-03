@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7728",
+    "description": "chikn #7728",
+    "image": "https://cdn1.chikn.farm/images/8ea3bbdd12c604ec05a0bc72543e502be42041ec.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cheeky redhead"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2612",
+    "description": "chikn #2612",
+    "image": "https://cdn1.chikn.farm/images/bef71365146ee75e9978411b427e38b7304a1503.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

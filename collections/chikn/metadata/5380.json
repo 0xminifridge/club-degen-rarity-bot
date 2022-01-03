@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5380",
+    "description": "chikn #5380",
+    "image": "https://cdn1.chikn.farm/images/304f4504606e354a9c6cb07b7290d1dfc0ad4be4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

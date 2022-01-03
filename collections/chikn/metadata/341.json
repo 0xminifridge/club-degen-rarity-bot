@@ -1,0 +1,27 @@
+{
+    "name": "chikn #341",
+    "description": "chikn #341",
+    "image": "https://cdn1.chikn.farm/images/3a267fe01f5623acdc5bdf985aad67f22a0ddd70.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

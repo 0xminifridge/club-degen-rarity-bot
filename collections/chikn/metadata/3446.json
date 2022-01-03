@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3446",
+    "description": "chikn #3446",
+    "image": "https://cdn1.chikn.farm/images/cdb4edb517ef0c4ee086deff496ee9443837bbf5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

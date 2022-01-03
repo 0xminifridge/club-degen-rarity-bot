@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2325",
+    "description": "chikn #2325",
+    "image": "https://cdn1.chikn.farm/images/64a1f44d6daa750870f9b7096f7da1a2149c8292.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

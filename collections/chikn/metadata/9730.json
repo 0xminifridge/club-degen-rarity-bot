@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9730",
+    "description": "chikn #9730",
+    "image": "https://cdn1.chikn.farm/images/0662df0ae4291b7b9e12c72adbcfa109a05afc1a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

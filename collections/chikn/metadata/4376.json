@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4376",
+    "description": "chikn #4376",
+    "image": "https://cdn1.chikn.farm/images/65639a0447982bed48f028723597a5d48cb34ebe.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

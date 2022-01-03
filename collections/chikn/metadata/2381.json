@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2381",
+    "description": "chikn #2381",
+    "image": "https://cdn1.chikn.farm/images/5513e15158d3abadd29520cfde93f0840fe9e905.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9126",
+    "description": "chikn #9126",
+    "image": "https://cdn1.chikn.farm/images/0b3606ba68e404d74d39bd66ae3a0ffa192de4ce.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin maxi"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

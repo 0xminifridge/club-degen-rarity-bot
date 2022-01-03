@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5260",
+    "description": "chikn #5260",
+    "image": "https://cdn1.chikn.farm/images/ec2ab492d3cdfead799e84ec7c908f401f040142.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "karate kid"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

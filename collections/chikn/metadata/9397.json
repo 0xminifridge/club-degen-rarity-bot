@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9397",
+    "description": "chikn #9397",
+    "image": "https://cdn1.chikn.farm/images/37320278ba4b7f0eb1348e244fc43b582821f3aa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

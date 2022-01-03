@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2038",
+    "description": "chikn #2038",
+    "image": "https://cdn1.chikn.farm/images/175b1cf7e0dbf2dbc625f83d483fbf07c2afb101.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1177",
+    "description": "chikn #1177",
+    "image": "https://cdn1.chikn.farm/images/3106be5db35b6c2a6e6150b4fdd6d5bc95e478bf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

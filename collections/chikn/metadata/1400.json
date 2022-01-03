@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1400",
+    "description": "chikn #1400",
+    "image": "https://cdn1.chikn.farm/images/2edefa9952067d8c6ad97351931eadff87faf1e6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7063",
+    "description": "chikn #7063",
+    "image": "https://cdn1.chikn.farm/images/e22ca7a32ef396a3cd3f55c859ca443bd506d119.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

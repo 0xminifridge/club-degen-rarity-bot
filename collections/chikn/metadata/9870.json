@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9870",
+    "description": "chikn #9870",
+    "image": "https://cdn1.chikn.farm/images/f54b3f700b2d46334b61bab6ac94f3a8c713753b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

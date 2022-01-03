@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1344",
+    "description": "chikn #1344",
+    "image": "https://cdn1.chikn.farm/images/8b3eec4b3c9b04d7ccfabf2a09014b7fd856053a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

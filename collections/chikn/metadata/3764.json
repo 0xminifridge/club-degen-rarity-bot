@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3764",
+    "description": "chikn #3764",
+    "image": "https://cdn1.chikn.farm/images/7b70b66980b91f8d46453bcd5615c35ca9557e42.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

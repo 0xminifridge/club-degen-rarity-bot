@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9572",
+    "description": "chikn #9572",
+    "image": "https://cdn1.chikn.farm/images/77ace6b06852ff18e0e22b7a7f075136a7f37fb7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

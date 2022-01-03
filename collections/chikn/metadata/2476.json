@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2476",
+    "description": "chikn #2476",
+    "image": "https://cdn1.chikn.farm/images/09586635c09f412c6642cf6ddc11406dc3add135.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

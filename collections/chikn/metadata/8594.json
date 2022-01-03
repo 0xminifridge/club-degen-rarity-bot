@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8594",
+    "description": "chikn #8594",
+    "image": "https://cdn1.chikn.farm/images/c218281edf2c967d5a2a614b8471c4ae2cb2f87e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

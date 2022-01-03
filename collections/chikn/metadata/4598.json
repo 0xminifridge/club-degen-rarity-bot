@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4598",
+    "description": "chikn #4598",
+    "image": "https://cdn1.chikn.farm/images/3039c8cd307933f490f3fd563a87c09d088abe0d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9509",
+    "description": "chikn #9509",
+    "image": "https://cdn1.chikn.farm/images/6d1076f80339a4dc5dc8303a805bf7c81efc78ff.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

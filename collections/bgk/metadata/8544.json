@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #8544",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/8544.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Beams"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BGK Crown"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Teal BGK"
+        }
+    ]
+}

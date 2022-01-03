@@ -1,0 +1,23 @@
+{
+    "name": "chikn #474",
+    "description": "chikn #474",
+    "image": "https://cdn1.chikn.farm/images/13d447231c2111f8bcffef31f1ae08042d8f61b0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6447",
+    "description": "chikn #6447",
+    "image": "https://cdn1.chikn.farm/images/5e251ddfd54832a62a733a8a12dac3306ee9668a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

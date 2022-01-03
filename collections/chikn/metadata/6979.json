@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6979",
+    "description": "chikn #6979",
+    "image": "https://cdn1.chikn.farm/images/5794dedc6c3cb2914e0e0e7fb72268c2b6f7703f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

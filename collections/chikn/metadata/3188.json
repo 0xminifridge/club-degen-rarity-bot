@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3188",
+    "description": "chikn #3188",
+    "image": "https://cdn1.chikn.farm/images/527d8246c0208b515b93d06572b7c65757cdc171.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

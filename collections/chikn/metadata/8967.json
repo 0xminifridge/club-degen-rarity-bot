@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8967",
+    "description": "chikn #8967",
+    "image": "https://cdn1.chikn.farm/images/b070eaaa119c8b3394aefa337ca9d2228b2f7ef7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

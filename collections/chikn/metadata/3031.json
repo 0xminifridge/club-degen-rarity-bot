@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3031",
+    "description": "chikn #3031",
+    "image": "https://cdn1.chikn.farm/images/9407f35e0057d105c5a1a4ba27de4a8e169e855e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

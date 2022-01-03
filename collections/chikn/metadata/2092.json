@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2092",
+    "description": "chikn #2092",
+    "image": "https://cdn1.chikn.farm/images/6aa5a169047017ab2f7a8aa3ab534571dfbb9707.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "karate kid"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

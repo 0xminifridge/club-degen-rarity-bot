@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1164",
+    "description": "chikn #1164",
+    "image": "https://cdn1.chikn.farm/images/7f7c6b00531cc97560299ece072a0dca4df30b51.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7492",
+    "description": "chikn #7492",
+    "image": "https://cdn1.chikn.farm/images/2aa4fd58f37b661a76e7b388f2a7026eb90b5759.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

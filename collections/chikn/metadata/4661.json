@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4661",
+    "description": "chikn #4661",
+    "image": "https://cdn1.chikn.farm/images/66d289fd96e61e0b9abd5eb9399aca856f85fdc7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

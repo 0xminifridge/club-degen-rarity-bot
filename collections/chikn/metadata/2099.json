@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2099",
+    "description": "chikn #2099",
+    "image": "https://cdn1.chikn.farm/images/82f69412c2f3953ce14b5b43fda89c05f297534d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

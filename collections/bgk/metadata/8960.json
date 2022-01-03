@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #8960",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/8960.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clown"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Lava"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd Glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Long Blonde"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Tank Top"
+        }
+    ]
+}

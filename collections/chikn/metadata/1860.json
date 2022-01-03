@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1860",
+    "description": "chikn #1860",
+    "image": "https://cdn1.chikn.farm/images/0a9382b45e2ad756e05aaa411d26f47ad845bf03.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

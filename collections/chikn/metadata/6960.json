@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6960",
+    "description": "chikn #6960",
+    "image": "https://cdn1.chikn.farm/images/36ea790ba6d0c6debadf28cbb2f304377313324d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

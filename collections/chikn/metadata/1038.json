@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1038",
+    "description": "chikn #1038",
+    "image": "https://cdn1.chikn.farm/images/2980d637be42fdc6fd5afb814989c7247481a9c8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

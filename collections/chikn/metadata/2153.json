@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2153",
+    "description": "chikn #2153",
+    "image": "https://cdn1.chikn.farm/images/732fbef4fc81f775e9ed1755db057cea446b4793.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "icey stare"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

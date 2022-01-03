@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7545",
+    "description": "chikn #7545",
+    "image": "https://cdn1.chikn.farm/images/38dca259db04f6c979dda3a337f728e9799e70ae.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

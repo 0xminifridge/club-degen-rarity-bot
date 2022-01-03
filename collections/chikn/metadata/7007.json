@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7007",
+    "description": "chikn #7007",
+    "image": "https://cdn1.chikn.farm/images/908b845e8f1a931956feb9197a9255d7977d4520.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

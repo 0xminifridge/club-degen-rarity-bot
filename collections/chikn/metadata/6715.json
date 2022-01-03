@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6715",
+    "description": "chikn #6715",
+    "image": "https://cdn1.chikn.farm/images/e78ff0b875732da8ce95824a5e7de524ef57de17.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

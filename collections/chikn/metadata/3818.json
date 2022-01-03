@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3818",
+    "description": "chikn #3818",
+    "image": "https://cdn1.chikn.farm/images/b3f1462e43d74c21218df0b201da12ad40abac7b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

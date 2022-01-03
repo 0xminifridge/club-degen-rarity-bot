@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4271",
+    "description": "chikn #4271",
+    "image": "https://cdn1.chikn.farm/images/1f542f1d2ffd7070e2d6fb2503fafdfa9e789518.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

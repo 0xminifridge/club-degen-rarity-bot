@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9508",
+    "description": "chikn #9508",
+    "image": "https://cdn1.chikn.farm/images/ef6e103c434d6c02e1478f4f2da2fa81522d66f9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "karate kid"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

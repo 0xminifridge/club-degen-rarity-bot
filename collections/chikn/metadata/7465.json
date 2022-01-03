@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7465",
+    "description": "chikn #7465",
+    "image": "https://cdn1.chikn.farm/images/40b26f6cdf1083c1271bf6084c35f328aeadfa81.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

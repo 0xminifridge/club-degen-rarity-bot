@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6633",
+    "description": "chikn #6633",
+    "image": "https://cdn1.chikn.farm/images/fca1b8c83cf3e5ae6e123f7fca681f67e75ed216.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

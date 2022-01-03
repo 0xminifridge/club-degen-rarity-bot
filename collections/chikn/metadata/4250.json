@@ -1,0 +1,15 @@
+{
+    "name": "chikn #4250",
+    "description": "chikn #4250",
+    "image": "https://cdn1.chikn.farm/images/fcf5c96e00db5a6d94869580df15f1986a576d9f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "chikn #823",
+    "description": "chikn #823",
+    "image": "https://cdn1.chikn.farm/images/f2f98365574208c20980dc91e3ed0bc252b4bff5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

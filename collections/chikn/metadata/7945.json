@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7945",
+    "description": "chikn #7945",
+    "image": "https://cdn1.chikn.farm/images/004496c5dde64e176cb0bdcb8aa8ac2bc42abce6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

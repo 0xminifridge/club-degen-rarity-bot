@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7285",
+    "description": "chikn #7285",
+    "image": "https://cdn1.chikn.farm/images/9e326e209c46fd217c4b9d9907ebfa6cd30d1355.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

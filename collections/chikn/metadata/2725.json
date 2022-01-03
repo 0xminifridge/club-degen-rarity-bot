@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2725",
+    "description": "chikn #2725",
+    "image": "https://cdn1.chikn.farm/images/6cf443ec66d742be99851f9f1c2b1b90341b24ee.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

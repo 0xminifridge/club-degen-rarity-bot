@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9252",
+    "description": "chikn #9252",
+    "image": "https://cdn1.chikn.farm/images/1beda0fa11b084099b404cb0e8ff27e11aafbd2c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

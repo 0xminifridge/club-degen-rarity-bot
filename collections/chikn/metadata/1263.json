@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1263",
+    "description": "chikn #1263",
+    "image": "https://cdn1.chikn.farm/images/ecefab1cfd770c38701b351edd42fea713b5b776.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

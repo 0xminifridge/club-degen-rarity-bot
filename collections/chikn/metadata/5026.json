@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5026",
+    "description": "chikn #5026",
+    "image": "https://cdn1.chikn.farm/images/66d6abb30e57cd4cff5ed6b3c8447f8cf0a225af.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

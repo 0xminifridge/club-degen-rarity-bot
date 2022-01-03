@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8172",
+    "description": "chikn #8172",
+    "image": "https://cdn1.chikn.farm/images/e3fa7176e1e2867e962a7186def9fc36fd3bc332.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "hentai"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

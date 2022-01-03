@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5951",
+    "description": "chikn #5951",
+    "image": "https://cdn1.chikn.farm/images/4132fca0dda565a93f046ba5e13c5bd819123710.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

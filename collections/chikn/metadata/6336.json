@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6336",
+    "description": "chikn #6336",
+    "image": "https://cdn1.chikn.farm/images/11eb2a0f3122ad5db0e7d362292864ee23f24c4d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

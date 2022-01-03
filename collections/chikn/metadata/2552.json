@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2552",
+    "description": "chikn #2552",
+    "image": "https://cdn1.chikn.farm/images/c6bc60b6f7ab4235df497edf8eb79e01005556dc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

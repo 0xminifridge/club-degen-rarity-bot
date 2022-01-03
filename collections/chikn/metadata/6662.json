@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6662",
+    "description": "chikn #6662",
+    "image": "https://cdn1.chikn.farm/images/1020acbd2a1e7cc069000d03fd8c5dbddae52e60.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "real feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #848",
+    "description": "chikn #848",
+    "image": "https://cdn1.chikn.farm/images/a22b9491df81feebdf308f58a3deeda2e7ac6c21.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

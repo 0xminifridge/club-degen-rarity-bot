@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1779",
+    "description": "chikn #1779",
+    "image": "https://cdn1.chikn.farm/images/7ea9999e3228985ee881999380ef9c41249d62d4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "chikn #2825",
+    "description": "chikn #2825",
+    "image": "https://cdn1.chikn.farm/images/b147f5dce5842d78beeb713b773bbbc5994253fe.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

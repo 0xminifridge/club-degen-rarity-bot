@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4542",
+    "description": "chikn #4542",
+    "image": "https://cdn1.chikn.farm/images/4bc55d8917baf18416a3c0febc7710beb5237b8f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

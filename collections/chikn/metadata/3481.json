@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3481",
+    "description": "chikn #3481",
+    "image": "https://cdn1.chikn.farm/images/b5e35f00958449561a8ce918de0d3e302a4a04bc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

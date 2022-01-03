@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4804",
+    "description": "chikn #4804",
+    "image": "https://cdn1.chikn.farm/images/89e3d09fc0d0c9f5fd9ad58d5d10fba8f073f2e1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

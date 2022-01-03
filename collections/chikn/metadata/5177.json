@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5177",
+    "description": "chikn #5177",
+    "image": "https://cdn1.chikn.farm/images/6f62d8dc33b57cd3787c1e6482e89ac8ef336ce5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

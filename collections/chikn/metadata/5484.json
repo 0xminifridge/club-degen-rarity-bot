@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5484",
+    "description": "chikn #5484",
+    "image": "https://cdn1.chikn.farm/images/4bc236636db04b3e2c12d5c4f15dd688a48dbbf7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

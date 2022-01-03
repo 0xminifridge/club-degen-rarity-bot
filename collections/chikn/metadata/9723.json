@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9723",
+    "description": "chikn #9723",
+    "image": "https://cdn1.chikn.farm/images/ec7bca4519f71ace770d3db03e8fd0eebff69542.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

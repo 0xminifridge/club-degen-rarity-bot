@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9736",
+    "description": "chikn #9736",
+    "image": "https://cdn1.chikn.farm/images/8798d0b91fdece4cef000d5389712cf5538bfbcc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

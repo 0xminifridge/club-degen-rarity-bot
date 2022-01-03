@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4114",
+    "description": "chikn #4114",
+    "image": "https://cdn1.chikn.farm/images/74e74d2bccdd9f049ff7e21c8522653d94e861a4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin maxi"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

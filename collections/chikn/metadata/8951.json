@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8951",
+    "description": "chikn #8951",
+    "image": "https://cdn1.chikn.farm/images/4acf60acd71409d60555fa92cb9ff70a507c13f5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "murica"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

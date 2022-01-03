@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3769",
+    "description": "chikn #3769",
+    "image": "https://cdn1.chikn.farm/images/206a43b85fef11cba6b38775df92086e0ddfb0b5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

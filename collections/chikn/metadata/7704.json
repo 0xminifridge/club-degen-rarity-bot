@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7704",
+    "description": "chikn #7704",
+    "image": "https://cdn1.chikn.farm/images/c6ad9496f7fcf8845f3c5b1796a8b846b711d087.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

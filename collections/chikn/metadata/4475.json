@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4475",
+    "description": "chikn #4475",
+    "image": "https://cdn1.chikn.farm/images/9e8ac0f557ce2d9a1523c0d0852c19e8e89a123b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

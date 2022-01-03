@@ -1,0 +1,31 @@
+{
+    "name": "chikn #683",
+    "description": "chikn #683",
+    "image": "https://cdn1.chikn.farm/images/b1fb41cac01c7032900868a9493ec8f9aa22336f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

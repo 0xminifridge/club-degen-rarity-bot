@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4308",
+    "description": "chikn #4308",
+    "image": "https://cdn1.chikn.farm/images/d28585bcc7ff79c1bff35b48442ee0395f0437d5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

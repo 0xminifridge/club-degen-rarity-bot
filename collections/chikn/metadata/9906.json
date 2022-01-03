@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9906",
+    "description": "chikn #9906",
+    "image": "https://cdn1.chikn.farm/images/c485101e33648a16f5964b0a4c4a6e658a426e7b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

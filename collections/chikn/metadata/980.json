@@ -1,0 +1,27 @@
+{
+    "name": "chikn #980",
+    "description": "chikn #980",
+    "image": "https://cdn1.chikn.farm/images/cf33e92ebcb186318a7627b07b9b538a3b0a002d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6536",
+    "description": "chikn #6536",
+    "image": "https://cdn1.chikn.farm/images/85e2bfde3ae8ebc12ea73c30ba940930e80a4313.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

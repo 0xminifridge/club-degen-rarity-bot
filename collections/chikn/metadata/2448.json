@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2448",
+    "description": "chikn #2448",
+    "image": "https://cdn1.chikn.farm/images/f2e29c3922d40eeb4e62c8a362de500d1dd6deed.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

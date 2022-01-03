@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5794",
+    "description": "chikn #5794",
+    "image": "https://cdn1.chikn.farm/images/65361ded818decc21d6ff338f5e8308d1bcfa2b0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

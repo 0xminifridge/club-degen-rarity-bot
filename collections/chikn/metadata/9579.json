@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9579",
+    "description": "chikn #9579",
+    "image": "https://cdn1.chikn.farm/images/386da7ab554acbe15e710ecd09a50f099c31b9de.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

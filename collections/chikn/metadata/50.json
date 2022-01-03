@@ -1,0 +1,23 @@
+{
+    "name": "chikn #50",
+    "description": "chikn #50",
+    "image": "https://cdn1.chikn.farm/images/94268b0d8d6e8fcd3f793ea94e3edfec6b99e3f9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

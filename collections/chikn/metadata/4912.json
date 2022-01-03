@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4912",
+    "description": "chikn #4912",
+    "image": "https://cdn1.chikn.farm/images/0aa1f5fb95722dd36e559d3ccda16829c2a04dd3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

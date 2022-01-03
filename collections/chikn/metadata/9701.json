@@ -1,0 +1,19 @@
+{
+    "name": "chikn #9701",
+    "description": "chikn #9701",
+    "image": "https://cdn1.chikn.farm/images/514124d8d2205f794df8a3f72b464d60a84f0505.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

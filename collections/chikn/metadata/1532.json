@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1532",
+    "description": "chikn #1532",
+    "image": "https://cdn1.chikn.farm/images/41c5f8eeb2e24d4703cc5fdbeae61a2fb06d9339.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

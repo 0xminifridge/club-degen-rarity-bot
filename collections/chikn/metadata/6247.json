@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6247",
+    "description": "chikn #6247",
+    "image": "https://cdn1.chikn.farm/images/4b99987997fe2808848bb1aff97e16e32b751550.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

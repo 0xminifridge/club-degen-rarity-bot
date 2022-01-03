@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1234",
+    "description": "chikn #1234",
+    "image": "https://cdn1.chikn.farm/images/a286dd045c8d9ff7dbd61aec75b307b240ec7e4b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

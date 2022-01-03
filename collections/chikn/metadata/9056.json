@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9056",
+    "description": "chikn #9056",
+    "image": "https://cdn1.chikn.farm/images/6ba1f8ea6ea6e6e16fa95993c2909fbd07e0f93a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

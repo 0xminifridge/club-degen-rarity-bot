@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4873",
+    "description": "chikn #4873",
+    "image": "https://cdn1.chikn.farm/images/522fefa5a9aa776b77ef487a4e325157e6025cdd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

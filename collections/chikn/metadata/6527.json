@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6527",
+    "description": "chikn #6527",
+    "image": "https://cdn1.chikn.farm/images/13020d2904de1fec3c2ebaf969f42d3df591967f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

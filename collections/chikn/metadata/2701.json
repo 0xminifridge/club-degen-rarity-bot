@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2701",
+    "description": "chikn #2701",
+    "image": "https://cdn1.chikn.farm/images/f7ede042f5f2981b8179819245f44e0ec730c68c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

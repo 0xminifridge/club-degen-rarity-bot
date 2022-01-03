@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3643",
+    "description": "chikn #3643",
+    "image": "https://cdn1.chikn.farm/images/c18b9b77c8a5d887827287a40544301995bd4f41.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

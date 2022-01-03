@@ -1,0 +1,15 @@
+{
+    "name": "chikn #7111",
+    "description": "chikn #7111",
+    "image": "https://cdn1.chikn.farm/images/3756220cde62210c933b2bcd6a2ff5a9b0e84ff4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

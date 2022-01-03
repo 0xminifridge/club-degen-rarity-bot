@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8618",
+    "description": "chikn #8618",
+    "image": "https://cdn1.chikn.farm/images/1f2b1b452346fa65b90fc4e335e338654c0aed7a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7439",
+    "description": "chikn #7439",
+    "image": "https://cdn1.chikn.farm/images/c5bc0b3f70060eb2b537d877509c6d26d8b6b9dc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

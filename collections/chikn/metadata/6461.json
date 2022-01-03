@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6461",
+    "description": "chikn #6461",
+    "image": "https://cdn1.chikn.farm/images/7cf1f7b2316d3a12f660f83d3b2fd1655cc24638.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

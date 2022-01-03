@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7147",
+    "description": "chikn #7147",
+    "image": "https://cdn1.chikn.farm/images/e0ace0f4a4f05b5768b4ac15e16b5e42f3cbd5ac.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

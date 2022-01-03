@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7749",
+    "description": "chikn #7749",
+    "image": "https://cdn1.chikn.farm/images/dd524f36d5045f90122fd4e09b0997507692f9be.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6657",
+    "description": "chikn #6657",
+    "image": "https://cdn1.chikn.farm/images/6e8b49ba819b20a11b15e332df72d47862778dd7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

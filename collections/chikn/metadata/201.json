@@ -1,0 +1,27 @@
+{
+    "name": "chikn #201",
+    "description": "chikn #201",
+    "image": "https://cdn1.chikn.farm/images/0d2de5a0c3175add75c9a4cae9a07025f0c7d7c1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin maxi"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6998",
+    "description": "chikn #6998",
+    "image": "https://cdn1.chikn.farm/images/3ce2c72900dc9874d33eecd9c5fefa1104f9268b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

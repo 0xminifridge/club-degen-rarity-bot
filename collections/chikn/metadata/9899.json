@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9899",
+    "description": "chikn #9899",
+    "image": "https://cdn1.chikn.farm/images/695ddb9abd78e2a3aef26531a26f48c4777a4243.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

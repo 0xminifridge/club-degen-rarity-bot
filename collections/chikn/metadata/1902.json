@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1902",
+    "description": "chikn #1902",
+    "image": "https://cdn1.chikn.farm/images/fc9f780c5574b303859f8d6f9c369dc2110b1056.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

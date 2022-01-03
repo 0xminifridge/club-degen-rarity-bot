@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8778",
+    "description": "chikn #8778",
+    "image": "https://cdn1.chikn.farm/images/7cf4e78b3fab1ad091021de096a78e6d2d779f73.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

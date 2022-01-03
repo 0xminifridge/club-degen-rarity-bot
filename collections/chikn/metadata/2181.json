@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2181",
+    "description": "chikn #2181",
+    "image": "https://cdn1.chikn.farm/images/26b55ab82d2880e20b416bb71dd5443e404e6688.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

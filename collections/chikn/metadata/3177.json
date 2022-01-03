@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3177",
+    "description": "chikn #3177",
+    "image": "https://cdn1.chikn.farm/images/bbafd331d712150685c66679801657b104efdab0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

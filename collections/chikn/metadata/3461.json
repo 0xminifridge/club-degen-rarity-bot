@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3461",
+    "description": "chikn #3461",
+    "image": "https://cdn1.chikn.farm/images/6298a7b302fa2bef7b6f64cc48bf580916352b4e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

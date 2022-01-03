@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7787",
+    "description": "chikn #7787",
+    "image": "https://cdn1.chikn.farm/images/0720a9ae81c7e2841ed6e4da805298282afe51b5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

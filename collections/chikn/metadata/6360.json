@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6360",
+    "description": "chikn #6360",
+    "image": "https://cdn1.chikn.farm/images/da5e720d96a44d4a1f904c9a5ab3e2ee4352618e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

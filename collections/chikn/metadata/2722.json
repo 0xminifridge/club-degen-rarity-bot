@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2722",
+    "description": "chikn #2722",
+    "image": "https://cdn1.chikn.farm/images/ea57c8d4b55c9ebf72f6ba7f403cda0f32ec98d8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

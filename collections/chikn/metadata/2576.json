@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2576",
+    "description": "chikn #2576",
+    "image": "https://cdn1.chikn.farm/images/1403d2778c32d4848e1011956ad5386f25cad17e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin maxi"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

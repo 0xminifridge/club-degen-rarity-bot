@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2303",
+    "description": "chikn #2303",
+    "image": "https://cdn1.chikn.farm/images/520d2a074348a67610dd466586495637ca82dd29.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

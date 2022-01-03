@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4990",
+    "description": "chikn #4990",
+    "image": "https://cdn1.chikn.farm/images/157a87e18a2bebb03ddd0f38c7dfb4ac3b4210f4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2460",
+    "description": "chikn #2460",
+    "image": "https://cdn1.chikn.farm/images/10f67e659144a66ee8f780f4c55042672c75e5de.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

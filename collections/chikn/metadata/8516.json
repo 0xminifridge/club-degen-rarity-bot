@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8516",
+    "description": "chikn #8516",
+    "image": "https://cdn1.chikn.farm/images/7292bbcdf7635a3ffaacf32c7baa174b0866133b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

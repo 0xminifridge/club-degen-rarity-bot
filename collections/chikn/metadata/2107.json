@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2107",
+    "description": "chikn #2107",
+    "image": "https://cdn1.chikn.farm/images/cebe9773f8bdcf765fe11624c1c7f2adb895547e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

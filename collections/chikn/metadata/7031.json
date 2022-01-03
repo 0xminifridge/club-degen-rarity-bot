@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7031",
+    "description": "chikn #7031",
+    "image": "https://cdn1.chikn.farm/images/0661f1628c963e9d6bcc81a574530ef6fae3cf79.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

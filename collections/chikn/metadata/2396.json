@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2396",
+    "description": "chikn #2396",
+    "image": "https://cdn1.chikn.farm/images/68590cc45b6c956bb3fa585520ff7340733d46d7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

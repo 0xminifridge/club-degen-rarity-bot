@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1139",
+    "description": "chikn #1139",
+    "image": "https://cdn1.chikn.farm/images/bd6307509cf2c0cd90741d21f4eafa95fb03c708.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

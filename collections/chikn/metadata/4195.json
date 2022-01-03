@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4195",
+    "description": "chikn #4195",
+    "image": "https://cdn1.chikn.farm/images/8f99272904e9daf3ca5975c95bf8066aba518746.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "hentai"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

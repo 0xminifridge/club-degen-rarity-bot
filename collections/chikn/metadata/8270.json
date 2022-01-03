@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8270",
+    "description": "chikn #8270",
+    "image": "https://cdn1.chikn.farm/images/9c956458e977c92c3ab5dfb873fca97b1b239cfd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

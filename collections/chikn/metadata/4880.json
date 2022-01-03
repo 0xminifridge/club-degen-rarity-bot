@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4880",
+    "description": "chikn #4880",
+    "image": "https://cdn1.chikn.farm/images/254af211be359d974c85156d5e7facb4f8f2c112.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

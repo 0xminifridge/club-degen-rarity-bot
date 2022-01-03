@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5839",
+    "description": "chikn #5839",
+    "image": "https://cdn1.chikn.farm/images/37f2a5abaa8b55fab9adbab80622ddb6a94aaa62.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

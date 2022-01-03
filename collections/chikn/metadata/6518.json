@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6518",
+    "description": "chikn #6518",
+    "image": "https://cdn1.chikn.farm/images/0a63c6fcba88437ad7029bb2f79a6b8ea41b0ab5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

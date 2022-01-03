@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5559",
+    "description": "chikn #5559",
+    "image": "https://cdn1.chikn.farm/images/c026b5bc8f58a2e7288e95188089e4734cd647ea.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

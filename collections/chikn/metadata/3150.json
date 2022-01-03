@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3150",
+    "description": "chikn #3150",
+    "image": "https://cdn1.chikn.farm/images/348088569f3c06250392828aba8c4a4c1d923566.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

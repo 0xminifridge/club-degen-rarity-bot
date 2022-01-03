@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7522",
+    "description": "chikn #7522",
+    "image": "https://cdn1.chikn.farm/images/4f0f19e44133c560bf1be189252e6f439a75f98e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

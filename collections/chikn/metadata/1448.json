@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1448",
+    "description": "chikn #1448",
+    "image": "https://cdn1.chikn.farm/images/be3ee52f2b6f6d784cd9dbc7e79b6b38e2eb9dd2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

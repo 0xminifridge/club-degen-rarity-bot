@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2541",
+    "description": "chikn #2541",
+    "image": "https://cdn1.chikn.farm/images/8cc2687ae659a6d91555a8b467a5f7f0df9963bb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

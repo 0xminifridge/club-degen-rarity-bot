@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2850",
+    "description": "chikn #2850",
+    "image": "https://cdn1.chikn.farm/images/5c49d1dfb1e4227ba5b57444f1bda1c3289e206a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

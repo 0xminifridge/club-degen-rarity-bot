@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5757",
+    "description": "chikn #5757",
+    "image": "https://cdn1.chikn.farm/images/76e6ad97917664bc3568b874fa608eb533046009.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

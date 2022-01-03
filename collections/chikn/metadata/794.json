@@ -1,0 +1,27 @@
+{
+    "name": "chikn #794",
+    "description": "chikn #794",
+    "image": "https://cdn1.chikn.farm/images/5ec7584ada0436ef7076cda327f3db11fdd48bc2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

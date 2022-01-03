@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7918",
+    "description": "chikn #7918",
+    "image": "https://cdn1.chikn.farm/images/003ec514860996a51268f7fc2d27ba450a32dca8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5454",
+    "description": "chikn #5454",
+    "image": "https://cdn1.chikn.farm/images/d92bb7e08a4b6c8357406707fc1bae0764dab0c0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8545",
+    "description": "chikn #8545",
+    "image": "https://cdn1.chikn.farm/images/9051eff7e7db961a4d0ff811be2f5c41d7abcaf0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

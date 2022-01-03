@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9794",
+    "description": "chikn #9794",
+    "image": "https://cdn1.chikn.farm/images/cba4d3e815424838fe46bb187d2953de93224b45.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

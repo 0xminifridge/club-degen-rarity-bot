@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8279",
+    "description": "chikn #8279",
+    "image": "https://cdn1.chikn.farm/images/a3abaa107fc5c9af2084d14faa01f643141bcd72.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cheeky redhead"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8943",
+    "description": "chikn #8943",
+    "image": "https://cdn1.chikn.farm/images/843d85b4d006c23a1eb5dd70add144be12f8e87b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "chikn #2133",
+    "description": "chikn #2133",
+    "image": "https://cdn1.chikn.farm/images/ccd9d9ac4c204658e13bfd12e81f1ce66cd809a1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

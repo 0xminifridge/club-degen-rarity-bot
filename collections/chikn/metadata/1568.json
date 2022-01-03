@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1568",
+    "description": "chikn #1568",
+    "image": "https://cdn1.chikn.farm/images/c66168b75ce57d5134f778b5e5257e4972b97a85.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

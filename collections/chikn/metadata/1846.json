@@ -1,0 +1,19 @@
+{
+    "name": "chikn #1846",
+    "description": "chikn #1846",
+    "image": "https://cdn1.chikn.farm/images/7734abccf767fb395d99d4e08e8120939511fc7b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4786",
+    "description": "chikn #4786",
+    "image": "https://cdn1.chikn.farm/images/d89d1b9e8fa6f09ebb764c9857891aa39fbd3ebf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

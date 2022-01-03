@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7397",
+    "description": "chikn #7397",
+    "image": "https://cdn1.chikn.farm/images/4b7b468c32cba0a787e28e94b317f87a0f9e0314.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

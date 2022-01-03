@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9810",
+    "description": "chikn #9810",
+    "image": "https://cdn1.chikn.farm/images/7c5a88af2ea41d15a2828b1480ba70dff02e2065.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

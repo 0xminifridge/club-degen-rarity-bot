@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3503",
+    "description": "chikn #3503",
+    "image": "https://cdn1.chikn.farm/images/35c810fe76d656178a4990a7479cda938de822e2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

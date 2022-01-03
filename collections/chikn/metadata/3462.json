@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3462",
+    "description": "chikn #3462",
+    "image": "https://cdn1.chikn.farm/images/ee586ad392370636827f3d2d3cd71dd0595347a7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

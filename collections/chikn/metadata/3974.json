@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3974",
+    "description": "chikn #3974",
+    "image": "https://cdn1.chikn.farm/images/11f1b6ad4f7bda314a75d00653ab937c26dc39c1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

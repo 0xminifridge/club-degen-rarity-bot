@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4343",
+    "description": "chikn #4343",
+    "image": "https://cdn1.chikn.farm/images/7db4d0d476935894408b1cddf909a6dd3aa9010e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

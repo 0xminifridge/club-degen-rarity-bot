@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3006",
+    "description": "chikn #3006",
+    "image": "https://cdn1.chikn.farm/images/8b6c7ce75e57a15248f8ce581a40a4214aa5a5cb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

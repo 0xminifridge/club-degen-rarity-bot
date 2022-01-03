@@ -1,0 +1,27 @@
+{
+    "name": "chikn #999",
+    "description": "chikn #999",
+    "image": "https://cdn1.chikn.farm/images/614cdcef7b4ea7d01eac629b22593c0c65a16c48.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

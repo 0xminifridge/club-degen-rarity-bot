@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4205",
+    "description": "chikn #4205",
+    "image": "https://cdn1.chikn.farm/images/89cf82705417f9fe9122782884f536f64e55d6c6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3929",
+    "description": "chikn #3929",
+    "image": "https://cdn1.chikn.farm/images/b38ac342c5d21b23975ca10b9aa574b6a73bc280.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8957",
+    "description": "chikn #8957",
+    "image": "https://cdn1.chikn.farm/images/d213bc2a44639b2375631a0fc9c38a118fe49eac.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "laser eye"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

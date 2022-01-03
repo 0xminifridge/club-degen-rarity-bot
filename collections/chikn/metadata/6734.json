@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6734",
+    "description": "chikn #6734",
+    "image": "https://cdn1.chikn.farm/images/c5ff88805e2c2467cbd2e468343d10ddb7093def.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

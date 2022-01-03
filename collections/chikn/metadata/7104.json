@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7104",
+    "description": "chikn #7104",
+    "image": "https://cdn1.chikn.farm/images/da93f044251ff94b241a4596359f2acb07028243.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

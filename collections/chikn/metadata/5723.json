@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5723",
+    "description": "chikn #5723",
+    "image": "https://cdn1.chikn.farm/images/f3c49d799e7f2fc991ff765207dde5245d7ed0e5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

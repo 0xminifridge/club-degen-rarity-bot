@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3588",
+    "description": "chikn #3588",
+    "image": "https://cdn1.chikn.farm/images/7d57e8bdb47dad3de2768947bcdc70ff782d5e18.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

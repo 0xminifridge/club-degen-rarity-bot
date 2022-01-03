@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5072",
+    "description": "chikn #5072",
+    "image": "https://cdn1.chikn.farm/images/60642d55f80df9910843096c1d0bf7cf10dab782.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

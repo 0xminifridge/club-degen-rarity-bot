@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4621",
+    "description": "chikn #4621",
+    "image": "https://cdn1.chikn.farm/images/57541885375b3facf8c56fc367a00b47dd32c52e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

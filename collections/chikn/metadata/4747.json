@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4747",
+    "description": "chikn #4747",
+    "image": "https://cdn1.chikn.farm/images/c2610b033eb889ab9911161ffbd8e078411bb824.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

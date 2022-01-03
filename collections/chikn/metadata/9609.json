@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9609",
+    "description": "chikn #9609",
+    "image": "https://cdn1.chikn.farm/images/3a27c64d1bb81aff36704e68c84aca8d9b3d052a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

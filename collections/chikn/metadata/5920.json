@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5920",
+    "description": "chikn #5920",
+    "image": "https://cdn1.chikn.farm/images/932f2a641ec1a53b52527915065fe05f3c6f99bd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

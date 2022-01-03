@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4547",
+    "description": "chikn #4547",
+    "image": "https://cdn1.chikn.farm/images/74ffaa24402eb710bc796dc412217a98d363d239.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

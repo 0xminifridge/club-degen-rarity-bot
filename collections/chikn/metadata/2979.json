@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2979",
+    "description": "chikn #2979",
+    "image": "https://cdn1.chikn.farm/images/d107954cfc379e4f8c2b8a5c0fa1af2559d2acda.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

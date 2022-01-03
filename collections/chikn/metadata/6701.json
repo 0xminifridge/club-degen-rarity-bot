@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6701",
+    "description": "chikn #6701",
+    "image": "https://cdn1.chikn.farm/images/43f3fe1d48019da7319976b03c352110065fe9c9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

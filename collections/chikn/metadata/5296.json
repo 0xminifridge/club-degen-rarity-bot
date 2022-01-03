@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5296",
+    "description": "chikn #5296",
+    "image": "https://cdn1.chikn.farm/images/1df136ec74feed01914d91841881ea92c8280f72.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

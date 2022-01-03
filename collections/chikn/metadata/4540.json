@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4540",
+    "description": "chikn #4540",
+    "image": "https://cdn1.chikn.farm/images/1a76809ff8255d727c5ca57cf2384f755ecde82d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

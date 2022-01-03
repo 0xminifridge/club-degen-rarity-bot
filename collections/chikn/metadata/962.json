@@ -1,0 +1,23 @@
+{
+    "name": "chikn #962",
+    "description": "chikn #962",
+    "image": "https://cdn1.chikn.farm/images/8391b84d0f5ef22216cae7e7a1cced6103a6f229.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

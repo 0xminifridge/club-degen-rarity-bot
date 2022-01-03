@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3557",
+    "description": "chikn #3557",
+    "image": "https://cdn1.chikn.farm/images/9020b0efda0b68e8bd2feb8e2dd122397252cec7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

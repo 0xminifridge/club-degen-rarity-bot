@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4594",
+    "description": "chikn #4594",
+    "image": "https://cdn1.chikn.farm/images/49b26a30dc2e310a09a5d41007fd9de4eb5686cc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

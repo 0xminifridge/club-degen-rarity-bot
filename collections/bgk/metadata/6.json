@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #6",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/6.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "BTC"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BGK Black"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Pink Hoodie"
+        }
+    ]
+}

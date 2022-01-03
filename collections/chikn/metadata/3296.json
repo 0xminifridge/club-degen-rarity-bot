@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3296",
+    "description": "chikn #3296",
+    "image": "https://cdn1.chikn.farm/images/0a6e49d4bbaf0b2a1ba94c3db3c106f4001af583.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "tungsten cube"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

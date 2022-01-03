@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4053",
+    "description": "chikn #4053",
+    "image": "https://cdn1.chikn.farm/images/2ebd44a4bc8a738b8baa2b5530f47d44dc45e663.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

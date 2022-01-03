@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9105",
+    "description": "chikn #9105",
+    "image": "https://cdn1.chikn.farm/images/440e70524b3a801ff2cbe190f51f2565fcdfceef.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

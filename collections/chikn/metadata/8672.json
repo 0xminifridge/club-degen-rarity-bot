@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8672",
+    "description": "chikn #8672",
+    "image": "https://cdn1.chikn.farm/images/9aa2a69cf7f83be2c31f94c3f331facf1d0ec81a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

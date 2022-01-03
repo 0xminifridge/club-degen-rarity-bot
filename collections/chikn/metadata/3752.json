@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3752",
+    "description": "chikn #3752",
+    "image": "https://cdn1.chikn.farm/images/d3093e567ff10cb8d91bf2a038364751fe025299.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8538",
+    "description": "chikn #8538",
+    "image": "https://cdn1.chikn.farm/images/1e943860cbdc034c3e93b7683331adf4643038c0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

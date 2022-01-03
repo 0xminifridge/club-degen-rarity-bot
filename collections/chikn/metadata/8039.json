@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8039",
+    "description": "chikn #8039",
+    "image": "https://cdn1.chikn.farm/images/07f14a269126c3c6e602e0d27156242e69cb6a4c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

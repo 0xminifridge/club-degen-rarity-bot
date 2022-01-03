@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1432",
+    "description": "chikn #1432",
+    "image": "https://cdn1.chikn.farm/images/6887a2be5e70f0e7139bc5e99802450c6cd21a07.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

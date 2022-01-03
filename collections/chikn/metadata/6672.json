@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6672",
+    "description": "chikn #6672",
+    "image": "https://cdn1.chikn.farm/images/9c5dec1befd80b98e06876b1f4da404e5fa0c52a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

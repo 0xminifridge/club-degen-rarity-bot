@@ -1,0 +1,27 @@
+{
+    "name": "chikn #239",
+    "description": "chikn #239",
+    "image": "https://cdn1.chikn.farm/images/9c2ab5d12bdeb9c762f208a742c5263c35e65521.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

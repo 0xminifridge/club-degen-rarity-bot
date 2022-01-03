@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4337",
+    "description": "chikn #4337",
+    "image": "https://cdn1.chikn.farm/images/35ab69674386b220dc850a7eed562c7bf1852070.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1059",
+    "description": "chikn #1059",
+    "image": "https://cdn1.chikn.farm/images/7c1fbedcdbb2ce6ce0fe839fd45639e31ca1704e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

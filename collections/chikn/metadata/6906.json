@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6906",
+    "description": "chikn #6906",
+    "image": "https://cdn1.chikn.farm/images/a1697573bd07dfbde0d2b21a0daf261a48d71f22.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9565",
+    "description": "chikn #9565",
+    "image": "https://cdn1.chikn.farm/images/b1c2781d22158edbeceacb31f986056ab52b0c2d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

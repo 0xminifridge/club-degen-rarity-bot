@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5076",
+    "description": "chikn #5076",
+    "image": "https://cdn1.chikn.farm/images/0cc0298c3366c6e10bddd93ed741678509171a87.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

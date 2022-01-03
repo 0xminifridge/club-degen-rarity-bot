@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1993",
+    "description": "chikn #1993",
+    "image": "https://cdn1.chikn.farm/images/daca0ceb63b85f2a0ccda4e461e4be48f6b2cd00.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "hentai"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #567",
+    "description": "chikn #567",
+    "image": "https://cdn1.chikn.farm/images/9041f832464ccc29fe7102fc58d61807b459e1e7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

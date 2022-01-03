@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1022",
+    "description": "chikn #1022",
+    "image": "https://cdn1.chikn.farm/images/8c2a395cf0adf3c748755c3bccb8588f2a1cebe0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

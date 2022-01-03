@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1200",
+    "description": "chikn #1200",
+    "image": "https://cdn1.chikn.farm/images/00cf4e33e2956607c2f17a6b87fb0dd3f34735d8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

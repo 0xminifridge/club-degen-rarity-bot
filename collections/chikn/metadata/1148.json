@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1148",
+    "description": "chikn #1148",
+    "image": "https://cdn1.chikn.farm/images/68feb84b3f82b021b341c1af21d273721058182e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "icey stare"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

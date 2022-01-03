@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4515",
+    "description": "chikn #4515",
+    "image": "https://cdn1.chikn.farm/images/4f8f1308f25d2e0c0c21afe4f68f1b957a247860.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

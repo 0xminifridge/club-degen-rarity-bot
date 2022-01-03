@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4296",
+    "description": "chikn #4296",
+    "image": "https://cdn1.chikn.farm/images/2e2475fa5f2fe4871d6dd207912bc30d2660f0ad.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

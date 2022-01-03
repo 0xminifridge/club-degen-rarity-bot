@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1017",
+    "description": "chikn #1017",
+    "image": "https://cdn1.chikn.farm/images/c62930becf32e333a32e85c80847f127e93ad2de.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

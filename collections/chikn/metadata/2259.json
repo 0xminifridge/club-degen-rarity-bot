@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2259",
+    "description": "chikn #2259",
+    "image": "https://cdn1.chikn.farm/images/3f5877e2129c510e794dbe4c283006435a4ac2aa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

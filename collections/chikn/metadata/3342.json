@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3342",
+    "description": "chikn #3342",
+    "image": "https://cdn1.chikn.farm/images/87e7801d6548cac0c9349bb52ae3fa0972af7c54.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

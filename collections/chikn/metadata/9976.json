@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9976",
+    "description": "chikn #9976",
+    "image": "https://cdn1.chikn.farm/images/b973dc1639a038841816f8a4c8ed7a2510bca854.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

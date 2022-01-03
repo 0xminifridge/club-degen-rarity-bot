@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8807",
+    "description": "chikn #8807",
+    "image": "https://cdn1.chikn.farm/images/2da5fd0a1eb6d4f028adb74b1bfc3a18f2a81613.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

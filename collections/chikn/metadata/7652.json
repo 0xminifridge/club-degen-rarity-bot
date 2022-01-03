@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7652",
+    "description": "chikn #7652",
+    "image": "https://cdn1.chikn.farm/images/28b765d9a4268bef88001a8dbce4e59a164a9138.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

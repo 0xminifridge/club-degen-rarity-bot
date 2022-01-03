@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5623",
+    "description": "chikn #5623",
+    "image": "https://cdn1.chikn.farm/images/cec2dd5737d32d484361b118efa79ccde2ac5786.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

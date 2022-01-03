@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9257",
+    "description": "chikn #9257",
+    "image": "https://cdn1.chikn.farm/images/5426615a43bd6576b90266a382a5a7bd01bd3a88.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

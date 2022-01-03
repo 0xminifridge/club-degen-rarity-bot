@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2647",
+    "description": "chikn #2647",
+    "image": "https://cdn1.chikn.farm/images/76856e858d826020424d25c2c70966caf24b6efb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "inherited royalty"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

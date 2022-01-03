@@ -1,0 +1,27 @@
+{
+    "name": "chikn #512",
+    "description": "chikn #512",
+    "image": "https://cdn1.chikn.farm/images/6432d2c8bb43b02a3246e8f06707554264baf8ef.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

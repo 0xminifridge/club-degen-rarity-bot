@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5917",
+    "description": "chikn #5917",
+    "image": "https://cdn1.chikn.farm/images/988b8d2ebce7d548604757cdd37e5005ce3609df.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

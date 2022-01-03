@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6442",
+    "description": "chikn #6442",
+    "image": "https://cdn1.chikn.farm/images/e580872bd07ac34a8e81ba40806ae353e5567006.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

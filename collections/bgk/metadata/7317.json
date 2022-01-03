@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #7317",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/7317.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Splattered"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Dreamy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        }
+    ]
+}

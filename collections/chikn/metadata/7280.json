@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7280",
+    "description": "chikn #7280",
+    "image": "https://cdn1.chikn.farm/images/c8c377a83e060a8a3055c85427194086ed3b642a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3711",
+    "description": "chikn #3711",
+    "image": "https://cdn1.chikn.farm/images/49d48865b7fe7ff8b31fd094c357e75aca2ada36.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "icey stare"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

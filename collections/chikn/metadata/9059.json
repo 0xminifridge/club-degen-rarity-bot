@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9059",
+    "description": "chikn #9059",
+    "image": "https://cdn1.chikn.farm/images/dda4c5172ff50fffa10e193070e66c0663e2fa80.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

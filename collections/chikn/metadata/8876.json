@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8876",
+    "description": "chikn #8876",
+    "image": "https://cdn1.chikn.farm/images/3522e32ecafe5c1cc26abbcfb08bfc928446a49d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1709",
+    "description": "chikn #1709",
+    "image": "https://cdn1.chikn.farm/images/6f6c1f7e0453a7125acfaefdb99b996762e17f9d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

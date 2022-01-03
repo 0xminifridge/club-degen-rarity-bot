@@ -1,0 +1,31 @@
+{
+    "name": "chikn #247",
+    "description": "chikn #247",
+    "image": "https://cdn1.chikn.farm/images/1f1dd0452963de534d403e41ae35731f4aa8eb50.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6986",
+    "description": "chikn #6986",
+    "image": "https://cdn1.chikn.farm/images/81375cf828bfa6abd71a1ed755fc4ef85f02ace2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

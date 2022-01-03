@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9042",
+    "description": "chikn #9042",
+    "image": "https://cdn1.chikn.farm/images/98d58b007821f0ceed304534c3de635be2ac2906.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

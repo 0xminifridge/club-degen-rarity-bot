@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2148",
+    "description": "chikn #2148",
+    "image": "https://cdn1.chikn.farm/images/acbb4d9a246fe27afe8d46a8a0611e4f0fa6b7b2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

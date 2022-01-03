@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9957",
+    "description": "chikn #9957",
+    "image": "https://cdn1.chikn.farm/images/45b7949069436d3388030a3da8de53c9d87198d6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

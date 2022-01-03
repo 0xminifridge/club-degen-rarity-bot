@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3868",
+    "description": "chikn #3868",
+    "image": "https://cdn1.chikn.farm/images/9f9380fc2a1613a02e072a7d76caf97ef9eafcc4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

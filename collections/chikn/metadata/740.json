@@ -1,0 +1,27 @@
+{
+    "name": "chikn #740",
+    "description": "chikn #740",
+    "image": "https://cdn1.chikn.farm/images/2a486a29c22b3329592860a05fb40b0aea07f02c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

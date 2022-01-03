@@ -1,0 +1,19 @@
+{
+    "name": "chikn #2263",
+    "description": "chikn #2263",
+    "image": "https://cdn1.chikn.farm/images/6c5f576bef4bdda887fb383df542d636ff24fa8e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4818",
+    "description": "chikn #4818",
+    "image": "https://cdn1.chikn.farm/images/e93a71c23f3ebfc91f14f164e0dbd26b35347cb0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

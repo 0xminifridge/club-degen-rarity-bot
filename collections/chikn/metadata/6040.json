@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6040",
+    "description": "chikn #6040",
+    "image": "https://cdn1.chikn.farm/images/62518c2e029df5ba7d7dade6c441fb46a59283e1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6195",
+    "description": "chikn #6195",
+    "image": "https://cdn1.chikn.farm/images/39f20abb95bda1cb8a34070ae4fe6d524c579e56.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

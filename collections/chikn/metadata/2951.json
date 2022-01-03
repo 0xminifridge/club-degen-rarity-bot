@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2951",
+    "description": "chikn #2951",
+    "image": "https://cdn1.chikn.farm/images/2b4f483714df1203120e7c4b33322800c356f142.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8302",
+    "description": "chikn #8302",
+    "image": "https://cdn1.chikn.farm/images/ffcb504299112ef7813c861de03c89a5b7a0d947.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

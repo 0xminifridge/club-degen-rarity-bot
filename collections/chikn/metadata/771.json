@@ -1,0 +1,27 @@
+{
+    "name": "chikn #771",
+    "description": "chikn #771",
+    "image": "https://cdn1.chikn.farm/images/eca5e5d52ca98e40f9ed5c20ffe9fd20fb66fc25.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

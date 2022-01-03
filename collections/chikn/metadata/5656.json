@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5656",
+    "description": "chikn #5656",
+    "image": "https://cdn1.chikn.farm/images/aa194f075f1bb9747b91f71237130e8a8ee4fabb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

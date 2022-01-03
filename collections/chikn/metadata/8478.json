@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8478",
+    "description": "chikn #8478",
+    "image": "https://cdn1.chikn.farm/images/d85658752efbd42f26e373efa2e1050c753584ce.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "boxhead"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9737",
+    "description": "chikn #9737",
+    "image": "https://cdn1.chikn.farm/images/bf5e48566d54dc0ce822dc399679c718ee75c6aa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

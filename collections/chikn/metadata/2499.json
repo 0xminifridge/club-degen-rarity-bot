@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2499",
+    "description": "chikn #2499",
+    "image": "https://cdn1.chikn.farm/images/3e99ffa4ab11a4887443d7bca5893052be6414af.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

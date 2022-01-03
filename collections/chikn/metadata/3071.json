@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3071",
+    "description": "chikn #3071",
+    "image": "https://cdn1.chikn.farm/images/3aa48c76bb57a413f293f253c644b5a03334f3ef.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

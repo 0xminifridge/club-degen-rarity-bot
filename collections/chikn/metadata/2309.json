@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2309",
+    "description": "chikn #2309",
+    "image": "https://cdn1.chikn.farm/images/eb7b281128611b56a61dda27bf48a4424dc774d3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

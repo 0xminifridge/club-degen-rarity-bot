@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7614",
+    "description": "chikn #7614",
+    "image": "https://cdn1.chikn.farm/images/743df551dcc4d23a9e8a34e139ed64a475b02840.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

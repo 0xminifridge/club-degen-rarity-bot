@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3759",
+    "description": "chikn #3759",
+    "image": "https://cdn1.chikn.farm/images/d2e180609f10be72f6c46ff05de07d669b62e3bc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

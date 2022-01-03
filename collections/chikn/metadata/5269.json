@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5269",
+    "description": "chikn #5269",
+    "image": "https://cdn1.chikn.farm/images/895d51c63f75819f3f3a45d35898eabc258871e8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pineapple"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

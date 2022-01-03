@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1760",
+    "description": "chikn #1760",
+    "image": "https://cdn1.chikn.farm/images/5aeea702f3cac09f7e74d7ab93abd25c750c993b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

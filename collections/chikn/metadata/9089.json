@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9089",
+    "description": "chikn #9089",
+    "image": "https://cdn1.chikn.farm/images/f9ac226e57f96e0a789ccad67503c0e734b99e8d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

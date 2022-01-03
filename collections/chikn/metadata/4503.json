@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4503",
+    "description": "chikn #4503",
+    "image": "https://cdn1.chikn.farm/images/b433136501864956593f4ffa99e9dde9d7dc0a77.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

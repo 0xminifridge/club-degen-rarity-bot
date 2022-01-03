@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4509",
+    "description": "chikn #4509",
+    "image": "https://cdn1.chikn.farm/images/aae36c7e170a4a3a4ff8a92312c1e3b4b94263b3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

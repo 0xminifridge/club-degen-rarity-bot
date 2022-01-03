@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7682",
+    "description": "chikn #7682",
+    "image": "https://cdn1.chikn.farm/images/7f9859aea280a431e896eb8001d6cb01d9215092.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

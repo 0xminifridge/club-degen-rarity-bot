@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3760",
+    "description": "chikn #3760",
+    "image": "https://cdn1.chikn.farm/images/b65d06e5d80de5d811c08439d4941d5ade49260f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

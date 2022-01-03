@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1271",
+    "description": "chikn #1271",
+    "image": "https://cdn1.chikn.farm/images/cbb51aa106373318956893246fabf28ddaa8a884.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

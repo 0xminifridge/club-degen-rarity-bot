@@ -1,0 +1,19 @@
+{
+    "name": "chikn #131",
+    "description": "chikn #131",
+    "image": "https://cdn1.chikn.farm/images/72822bd77cee5eead13158ab8a95d9182af60ac3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

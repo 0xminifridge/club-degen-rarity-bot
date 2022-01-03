@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4049",
+    "description": "chikn #4049",
+    "image": "https://cdn1.chikn.farm/images/419c95dd1a8426ec7c7ac27b91cb05db4a3a1add.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax degen"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

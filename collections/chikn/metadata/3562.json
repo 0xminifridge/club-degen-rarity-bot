@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3562",
+    "description": "chikn #3562",
+    "image": "https://cdn1.chikn.farm/images/2ad0cdbb8a4b3957b07eaf4608de91d8701e8463.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

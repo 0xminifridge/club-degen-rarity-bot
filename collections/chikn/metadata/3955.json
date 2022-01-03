@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3955",
+    "description": "chikn #3955",
+    "image": "https://cdn1.chikn.farm/images/123558bb39435916779b82f5df577283c1b5c1a8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

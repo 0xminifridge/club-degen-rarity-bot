@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2860",
+    "description": "chikn #2860",
+    "image": "https://cdn1.chikn.farm/images/e2911b490a1b7e1b2dea04c5b2d5a7cd35d52730.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

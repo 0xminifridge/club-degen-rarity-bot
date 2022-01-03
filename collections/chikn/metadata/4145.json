@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4145",
+    "description": "chikn #4145",
+    "image": "https://cdn1.chikn.farm/images/b9160b669945c74bdb47bfa2d80614478a6dd3df.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

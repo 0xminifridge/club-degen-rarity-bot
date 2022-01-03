@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8744",
+    "description": "chikn #8744",
+    "image": "https://cdn1.chikn.farm/images/7ccaf70f8a58be1d722441ce7cbf5adede5cd2e5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cheeky redhead"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

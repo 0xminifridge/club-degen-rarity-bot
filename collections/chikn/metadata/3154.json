@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3154",
+    "description": "chikn #3154",
+    "image": "https://cdn1.chikn.farm/images/2e086af92e8b1bb76471e079257a5b230709f783.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5183",
+    "description": "chikn #5183",
+    "image": "https://cdn1.chikn.farm/images/0c493a77337bed999c589d656e8192c1481948d0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

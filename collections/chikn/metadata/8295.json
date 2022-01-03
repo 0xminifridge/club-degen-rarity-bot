@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8295",
+    "description": "chikn #8295",
+    "image": "https://cdn1.chikn.farm/images/3d7ec34c4b066aee45c0aca6b71acea0000e7064.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #845",
+    "description": "chikn #845",
+    "image": "https://cdn1.chikn.farm/images/ad25289c7b21caa91fa68006bb3c29493b463e02.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

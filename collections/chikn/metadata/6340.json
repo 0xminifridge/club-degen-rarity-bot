@@ -1,0 +1,19 @@
+{
+    "name": "chikn #6340",
+    "description": "chikn #6340",
+    "image": "https://cdn1.chikn.farm/images/5cbdaefde822b436594c2ac27a4c1d5eb96cdade.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

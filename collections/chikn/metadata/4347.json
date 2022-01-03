@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4347",
+    "description": "chikn #4347",
+    "image": "https://cdn1.chikn.farm/images/cdea7207c7c9eb13680e26b6e2b399c526f640aa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

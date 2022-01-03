@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2572",
+    "description": "chikn #2572",
+    "image": "https://cdn1.chikn.farm/images/0eff4158303c630bf6ed996f103d28d105089399.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "real feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

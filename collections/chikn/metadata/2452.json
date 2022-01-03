@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2452",
+    "description": "chikn #2452",
+    "image": "https://cdn1.chikn.farm/images/f5ebe7672ea4714e645ade06f76e9c39152456ea.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #738",
+    "description": "chikn #738",
+    "image": "https://cdn1.chikn.farm/images/a0558c97e79f2850d1d768940cfcabe4762cf2f2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

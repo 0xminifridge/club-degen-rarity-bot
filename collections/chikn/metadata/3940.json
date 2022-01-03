@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3940",
+    "description": "chikn #3940",
+    "image": "https://cdn1.chikn.farm/images/7b64236f296cd2a003354ba444ad8159c3ebaa29.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

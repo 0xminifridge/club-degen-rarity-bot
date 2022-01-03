@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6977",
+    "description": "chikn #6977",
+    "image": "https://cdn1.chikn.farm/images/e7e739380012c84e8c775a1a2f141571aa6d3ef4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

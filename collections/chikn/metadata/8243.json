@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8243",
+    "description": "chikn #8243",
+    "image": "https://cdn1.chikn.farm/images/ec5bdde2abb4ce684daa3bc91efba5d2cb53ebe9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

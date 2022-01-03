@@ -1,0 +1,27 @@
+{
+    "name": "chikn #308",
+    "description": "chikn #308",
+    "image": "https://cdn1.chikn.farm/images/f4df1fc5860a288887c83447f9307dd31bf4755d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9642",
+    "description": "chikn #9642",
+    "image": "https://cdn1.chikn.farm/images/f7da4e235f0f6574468c9e5f8b0859b66d31d3d6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #25",
+    "description": "chikn #25",
+    "image": "https://cdn1.chikn.farm/images/a46ba96d988d326634136d6b4021afaf09e3effe.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

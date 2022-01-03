@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4354",
+    "description": "chikn #4354",
+    "image": "https://cdn1.chikn.farm/images/ccee91b35e915638b66e05c0491ddfd680ddb087.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

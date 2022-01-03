@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9867",
+    "description": "chikn #9867",
+    "image": "https://cdn1.chikn.farm/images/fe96a5cffe9c4d447164a7cc2105d25f04a5deff.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "daft punk"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

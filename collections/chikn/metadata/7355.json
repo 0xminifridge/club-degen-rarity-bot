@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7355",
+    "description": "chikn #7355",
+    "image": "https://cdn1.chikn.farm/images/6f78e576b610a73613f47d3b97b9899fbb23cc89.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

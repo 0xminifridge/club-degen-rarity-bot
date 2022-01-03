@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2055",
+    "description": "chikn #2055",
+    "image": "https://cdn1.chikn.farm/images/cbf3e9d874628bf3e7c7f112b0c95e5af681f547.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

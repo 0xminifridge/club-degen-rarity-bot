@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8940",
+    "description": "chikn #8940",
+    "image": "https://cdn1.chikn.farm/images/9749557c48a5758b2c3c6ce5e319402397a088fd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

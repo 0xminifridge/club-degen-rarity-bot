@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9871",
+    "description": "chikn #9871",
+    "image": "https://cdn1.chikn.farm/images/11a6046753eb4d7bef671bb3a372909015444d63.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

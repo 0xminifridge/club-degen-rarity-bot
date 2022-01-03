@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5084",
+    "description": "chikn #5084",
+    "image": "https://cdn1.chikn.farm/images/22a0425cc9271cf8e45271d08fd087c9c1d87c2c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

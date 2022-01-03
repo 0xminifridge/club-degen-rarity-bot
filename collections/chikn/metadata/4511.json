@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4511",
+    "description": "chikn #4511",
+    "image": "https://cdn1.chikn.farm/images/f5b7e8aaab0663deff9f46a9969ab7526a5319bf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

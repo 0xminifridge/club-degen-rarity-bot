@@ -1,0 +1,27 @@
+{
+    "name": "chikn #24",
+    "description": "chikn #24",
+    "image": "https://cdn1.chikn.farm/images/284508672e109e81c05abd37d653252ded82aac6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

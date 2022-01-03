@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8602",
+    "description": "chikn #8602",
+    "image": "https://cdn1.chikn.farm/images/c6c6f13f170f251a7a560eaed607ada302e88784.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

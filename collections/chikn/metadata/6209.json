@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6209",
+    "description": "chikn #6209",
+    "image": "https://cdn1.chikn.farm/images/5de3b25dcad17b999cfcfdf1a13e06c7df7b5451.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

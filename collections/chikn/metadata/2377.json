@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2377",
+    "description": "chikn #2377",
+    "image": "https://cdn1.chikn.farm/images/d1352ab90133bb512860947be95a27ef51cfafd9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

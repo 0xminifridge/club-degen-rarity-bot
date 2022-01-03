@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8130",
+    "description": "chikn #8130",
+    "image": "https://cdn1.chikn.farm/images/e9d0be7a4d473ce454274efe789ea6cf2406ed6c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

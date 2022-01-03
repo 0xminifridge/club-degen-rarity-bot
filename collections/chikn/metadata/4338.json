@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4338",
+    "description": "chikn #4338",
+    "image": "https://cdn1.chikn.farm/images/3c2164950ef746cbe4bcff59cfba2a623d9fe046.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

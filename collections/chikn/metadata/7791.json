@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7791",
+    "description": "chikn #7791",
+    "image": "https://cdn1.chikn.farm/images/0980f21230bf11a631e24089f51a5be7399e17e6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

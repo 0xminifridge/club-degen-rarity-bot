@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9223",
+    "description": "chikn #9223",
+    "image": "https://cdn1.chikn.farm/images/c5536c2f03924374ca28f8cde7a7b38fb6a86abc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

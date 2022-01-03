@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1275",
+    "description": "chikn #1275",
+    "image": "https://cdn1.chikn.farm/images/c874050521b0f14e2e61c6ea79d033eabc4152c7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

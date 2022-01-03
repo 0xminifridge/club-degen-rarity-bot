@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6028",
+    "description": "chikn #6028",
+    "image": "https://cdn1.chikn.farm/images/54a0975bd0046abb7e80fe91b25b77d55c413f87.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

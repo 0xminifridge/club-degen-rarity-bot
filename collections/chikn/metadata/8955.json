@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8955",
+    "description": "chikn #8955",
+    "image": "https://cdn1.chikn.farm/images/5cbe37031e2bc3f8e4948ec277ec89afda38a304.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

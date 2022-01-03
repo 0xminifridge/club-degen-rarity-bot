@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9902",
+    "description": "chikn #9902",
+    "image": "https://cdn1.chikn.farm/images/04bb5b232bcc740b7e6dbffb655f5048de000288.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

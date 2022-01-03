@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8825",
+    "description": "chikn #8825",
+    "image": "https://cdn1.chikn.farm/images/4461036b1438779133d768b34c4402e8bc9348b5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

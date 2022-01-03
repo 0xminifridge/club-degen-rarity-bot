@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5299",
+    "description": "chikn #5299",
+    "image": "https://cdn1.chikn.farm/images/ec78835f53c82995cfcb88e385dd7ba8a63a7c84.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6105",
+    "description": "chikn #6105",
+    "image": "https://cdn1.chikn.farm/images/234c3577de0ece3891538ee3c94ad6584cbac17e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

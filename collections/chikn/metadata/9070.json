@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9070",
+    "description": "chikn #9070",
+    "image": "https://cdn1.chikn.farm/images/857206b251012eed3e5f7b5bed95e480b4fc20ec.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

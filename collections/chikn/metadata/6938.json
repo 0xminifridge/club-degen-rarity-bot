@@ -1,0 +1,19 @@
+{
+    "name": "chikn #6938",
+    "description": "chikn #6938",
+    "image": "https://cdn1.chikn.farm/images/33cea052978442d5ed0bba1a3ac68ad19505731a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

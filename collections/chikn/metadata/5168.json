@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5168",
+    "description": "chikn #5168",
+    "image": "https://cdn1.chikn.farm/images/0e8a58d29abbc166df368dab3a8b29a591c79c47.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

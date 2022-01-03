@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2053",
+    "description": "chikn #2053",
+    "image": "https://cdn1.chikn.farm/images/00fa91d5abf8c0c9fde9a156243353e31ebc57b4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

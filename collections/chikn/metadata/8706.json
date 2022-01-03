@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8706",
+    "description": "chikn #8706",
+    "image": "https://cdn1.chikn.farm/images/cb81d23e1686d423c21afa8e65c1f4141b6d5058.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

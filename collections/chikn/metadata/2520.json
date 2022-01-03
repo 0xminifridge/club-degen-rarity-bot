@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2520",
+    "description": "chikn #2520",
+    "image": "https://cdn1.chikn.farm/images/b260597e4bc79f86af0728993dbdf06b000584af.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

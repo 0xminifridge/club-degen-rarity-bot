@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2035",
+    "description": "chikn #2035",
+    "image": "https://cdn1.chikn.farm/images/9d9afec7164cdd724e81f71a32a9e25e4aa6f4c0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

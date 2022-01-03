@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9646",
+    "description": "chikn #9646",
+    "image": "https://cdn1.chikn.farm/images/015415d29275a4e0517acacf42ddfb2305595b54.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

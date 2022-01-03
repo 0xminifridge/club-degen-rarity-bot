@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7238",
+    "description": "chikn #7238",
+    "image": "https://cdn1.chikn.farm/images/8494ced15426e4cc2dcb9675f5d29805a402c60e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "feet",
+            "value": "real feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8110",
+    "description": "chikn #8110",
+    "image": "https://cdn1.chikn.farm/images/af28d4d43158bcd9edb1820ae8fe5535ce05b54e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

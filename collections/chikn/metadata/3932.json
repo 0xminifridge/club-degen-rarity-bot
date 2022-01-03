@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3932",
+    "description": "chikn #3932",
+    "image": "https://cdn1.chikn.farm/images/542d17f9003d7d56607afba7a233a134e881bfb6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2949",
+    "description": "chikn #2949",
+    "image": "https://cdn1.chikn.farm/images/6a1b345aa13569fdd37d44835d8917d0eb7ce942.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

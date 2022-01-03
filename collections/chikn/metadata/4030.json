@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4030",
+    "description": "chikn #4030",
+    "image": "https://cdn1.chikn.farm/images/2efb2938c93227414212b3190bd988b4b24ad763.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #610",
+    "description": "chikn #610",
+    "image": "https://cdn1.chikn.farm/images/aec82d2bb24e4300c5bdd4d90a26c05005c35b0e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

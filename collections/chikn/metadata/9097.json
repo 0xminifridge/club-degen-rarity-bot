@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9097",
+    "description": "chikn #9097",
+    "image": "https://cdn1.chikn.farm/images/5cc25e9e2102902f8b460fca4009733aacd4ea4c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

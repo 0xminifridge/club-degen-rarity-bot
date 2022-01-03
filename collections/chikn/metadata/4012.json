@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4012",
+    "description": "chikn #4012",
+    "image": "https://cdn1.chikn.farm/images/02bc17b1022bb7bf30239bbc486ce7cf8d20ea6e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

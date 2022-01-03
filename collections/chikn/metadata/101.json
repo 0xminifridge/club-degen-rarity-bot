@@ -1,0 +1,27 @@
+{
+    "name": "chikn #101",
+    "description": "chikn #101",
+    "image": "https://cdn1.chikn.farm/images/356f8b853195b617837d59d64e71723e0471ad49.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4193",
+    "description": "chikn #4193",
+    "image": "https://cdn1.chikn.farm/images/52f37376d7dc698d13a24892e8b71a5b5d6338eb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

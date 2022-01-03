@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9439",
+    "description": "chikn #9439",
+    "image": "https://cdn1.chikn.farm/images/31c959f77acd488e5cceef17b28b67d1f24da1d4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

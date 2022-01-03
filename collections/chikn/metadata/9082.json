@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9082",
+    "description": "chikn #9082",
+    "image": "https://cdn1.chikn.farm/images/d455fc99cec0330c672cbf19f51d680878dd5c6d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

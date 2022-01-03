@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7783",
+    "description": "chikn #7783",
+    "image": "https://cdn1.chikn.farm/images/86c681f9b2b153ea825cd5af4dedb01980054d9b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

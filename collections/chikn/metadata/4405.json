@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4405",
+    "description": "chikn #4405",
+    "image": "https://cdn1.chikn.farm/images/14544ccab97692a9fdf8d8ed004148bd16acc35a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

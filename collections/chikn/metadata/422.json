@@ -1,0 +1,23 @@
+{
+    "name": "chikn #422",
+    "description": "chikn #422",
+    "image": "https://cdn1.chikn.farm/images/5eea27cdd7a3c93e29ba89e793b977e467c0b4f0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

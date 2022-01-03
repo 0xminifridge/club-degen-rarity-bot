@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6752",
+    "description": "chikn #6752",
+    "image": "https://cdn1.chikn.farm/images/1cb6ff54e47b024ee8b1d376fed286f0c8cd9226.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

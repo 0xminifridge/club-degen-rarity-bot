@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7443",
+    "description": "chikn #7443",
+    "image": "https://cdn1.chikn.farm/images/23bc8b513e895c798460962748280e40c7282713.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

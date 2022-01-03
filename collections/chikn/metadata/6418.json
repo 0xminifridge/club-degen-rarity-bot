@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6418",
+    "description": "chikn #6418",
+    "image": "https://cdn1.chikn.farm/images/b6c247e53f5d83abbf649845674450693693fff3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

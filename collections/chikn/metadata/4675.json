@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4675",
+    "description": "chikn #4675",
+    "image": "https://cdn1.chikn.farm/images/f72083672b3f62fafae494662cae96ddf06ac756.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

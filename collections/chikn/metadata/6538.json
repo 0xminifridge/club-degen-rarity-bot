@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6538",
+    "description": "chikn #6538",
+    "image": "https://cdn1.chikn.farm/images/29d495128cec34690df082c4e471046707dc475e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

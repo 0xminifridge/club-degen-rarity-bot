@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5354",
+    "description": "chikn #5354",
+    "image": "https://cdn1.chikn.farm/images/c604a9f3bc4b157b99bf1e91c667d45571283326.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

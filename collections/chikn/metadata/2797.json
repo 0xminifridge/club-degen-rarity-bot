@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2797",
+    "description": "chikn #2797",
+    "image": "https://cdn1.chikn.farm/images/4a128ee37e6718c721772483bd83ef761f39825d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

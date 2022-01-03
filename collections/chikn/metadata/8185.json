@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8185",
+    "description": "chikn #8185",
+    "image": "https://cdn1.chikn.farm/images/576de6b30336ffc7cf69b9999b304b433522260e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

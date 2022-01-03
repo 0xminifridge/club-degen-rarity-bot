@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9626",
+    "description": "chikn #9626",
+    "image": "https://cdn1.chikn.farm/images/ad452b29a8b8cf57eb17792af5a442a71e902dc9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1235",
+    "description": "chikn #1235",
+    "image": "https://cdn1.chikn.farm/images/509321d5eb76d6d6ee99fa53d983ba7386fee39b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7081",
+    "description": "chikn #7081",
+    "image": "https://cdn1.chikn.farm/images/d92c5ebdf04b9194e74c3f569e9bd996e424070b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin maxi"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

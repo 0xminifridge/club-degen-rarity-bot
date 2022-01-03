@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8786",
+    "description": "chikn #8786",
+    "image": "https://cdn1.chikn.farm/images/a6dae14701cb1f280af1f322fa4ab8d3e75a4703.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

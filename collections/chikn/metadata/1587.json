@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1587",
+    "description": "chikn #1587",
+    "image": "https://cdn1.chikn.farm/images/135b4f9db2820a741dde3a932acb6e80830553a0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

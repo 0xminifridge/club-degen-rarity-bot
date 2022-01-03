@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7586",
+    "description": "chikn #7586",
+    "image": "https://cdn1.chikn.farm/images/30d9dc69b797ce30b7f4b2b0e28ea981898b44a3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

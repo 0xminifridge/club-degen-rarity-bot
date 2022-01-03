@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6288",
+    "description": "chikn #6288",
+    "image": "https://cdn1.chikn.farm/images/7b211ac96b1a7d8c53496cdf9c28832126a01fa8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

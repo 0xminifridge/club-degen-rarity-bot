@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3993",
+    "description": "chikn #3993",
+    "image": "https://cdn1.chikn.farm/images/c030b1bbe8891341c9a9a795ca61591456b86dbb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

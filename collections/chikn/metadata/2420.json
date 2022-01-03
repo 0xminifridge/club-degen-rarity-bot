@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2420",
+    "description": "chikn #2420",
+    "image": "https://cdn1.chikn.farm/images/8f23b413d0fad995e1b5e183124abe96edd3861f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

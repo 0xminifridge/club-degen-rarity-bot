@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8231",
+    "description": "chikn #8231",
+    "image": "https://cdn1.chikn.farm/images/8df1e96c83c84e46ccb21321a1822d66889edb7b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

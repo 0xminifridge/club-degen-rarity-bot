@@ -1,0 +1,27 @@
+{
+    "name": "chikn #66",
+    "description": "chikn #66",
+    "image": "https://cdn1.chikn.farm/images/2590a517afc7eac33506c85afd4a5ecd9999dcd6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

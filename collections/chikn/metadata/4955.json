@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4955",
+    "description": "chikn #4955",
+    "image": "https://cdn1.chikn.farm/images/29adc019590fd3bb326ac5250a69c5b4b44ae084.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

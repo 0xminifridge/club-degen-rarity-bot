@@ -1,0 +1,19 @@
+{
+    "name": "chikn #612",
+    "description": "chikn #612",
+    "image": "https://cdn1.chikn.farm/images/1b27a9e938e0418fe9968e54d6a1e6ca9627dec8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

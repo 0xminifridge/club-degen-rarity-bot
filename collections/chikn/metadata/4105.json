@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4105",
+    "description": "chikn #4105",
+    "image": "https://cdn1.chikn.farm/images/e038824a93c0a9bf444d177f500c893aac24348a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

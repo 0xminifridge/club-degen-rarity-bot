@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7353",
+    "description": "chikn #7353",
+    "image": "https://cdn1.chikn.farm/images/ce625d8ec7c65b823004d870722e85eb20d8f8e9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

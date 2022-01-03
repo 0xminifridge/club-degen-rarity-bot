@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #1449",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/1449.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Anime"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BGK Red"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Clown"
+        }
+    ]
+}

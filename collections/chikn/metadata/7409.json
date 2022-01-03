@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7409",
+    "description": "chikn #7409",
+    "image": "https://cdn1.chikn.farm/images/50a4f822f6a1601ea776abb872e159abb8311084.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

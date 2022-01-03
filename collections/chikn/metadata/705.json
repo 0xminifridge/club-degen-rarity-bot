@@ -1,0 +1,27 @@
+{
+    "name": "chikn #705",
+    "description": "chikn #705",
+    "image": "https://cdn1.chikn.farm/images/7a3406b19ecbc66112fe058bce35f493391d37c8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

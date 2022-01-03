@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8006",
+    "description": "chikn #8006",
+    "image": "https://cdn1.chikn.farm/images/caa7850d431d3982a82c2aff7e6da1f76b77c5c4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

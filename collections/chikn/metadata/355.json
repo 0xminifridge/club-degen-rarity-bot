@@ -1,0 +1,27 @@
+{
+    "name": "chikn #355",
+    "description": "chikn #355",
+    "image": "https://cdn1.chikn.farm/images/1e3ec983da2e94b77a332e7930aa3f12f305692a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

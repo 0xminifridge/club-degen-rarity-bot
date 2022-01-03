@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9094",
+    "description": "chikn #9094",
+    "image": "https://cdn1.chikn.farm/images/426ad55693126bf705ca85ce8402f4cdb5e80d81.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

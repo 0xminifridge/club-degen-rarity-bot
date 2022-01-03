@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7868",
+    "description": "chikn #7868",
+    "image": "https://cdn1.chikn.farm/images/bf89ed8aebaf03b2be5a0c303b8248fcdf001602.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

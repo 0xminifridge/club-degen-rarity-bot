@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4084",
+    "description": "chikn #4084",
+    "image": "https://cdn1.chikn.farm/images/b5d441a2e09251bcab71d34d735f7b8b149413f6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #861",
+    "description": "chikn #861",
+    "image": "https://cdn1.chikn.farm/images/163cefbc1a17adf38998af6b3f97492e62e2815e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6609",
+    "description": "chikn #6609",
+    "image": "https://cdn1.chikn.farm/images/bb35812de4f66998a02c775b96eeadefa669c6ba.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

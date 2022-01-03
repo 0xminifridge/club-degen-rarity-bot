@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7130",
+    "description": "chikn #7130",
+    "image": "https://cdn1.chikn.farm/images/d2b29548b32855ad2a6e23025cccf1cc49461255.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

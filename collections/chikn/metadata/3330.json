@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3330",
+    "description": "chikn #3330",
+    "image": "https://cdn1.chikn.farm/images/84d389efb36d9614e61041b3adc44a57d26e9888.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

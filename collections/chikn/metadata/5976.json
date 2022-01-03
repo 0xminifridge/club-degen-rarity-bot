@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5976",
+    "description": "chikn #5976",
+    "image": "https://cdn1.chikn.farm/images/e602407b685b1947b92517902ff5e0b742854831.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

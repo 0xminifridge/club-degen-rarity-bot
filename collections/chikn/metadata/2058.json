@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2058",
+    "description": "chikn #2058",
+    "image": "https://cdn1.chikn.farm/images/5027bbeb83f9acfff68c9435291858402237b7e9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

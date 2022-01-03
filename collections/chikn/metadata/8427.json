@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8427",
+    "description": "chikn #8427",
+    "image": "https://cdn1.chikn.farm/images/0e258ac9d28a2113f3e19d48a8fa9d4829d506fc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

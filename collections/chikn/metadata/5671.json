@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5671",
+    "description": "chikn #5671",
+    "image": "https://cdn1.chikn.farm/images/3394cb52275db6cc8076bfb7f4c92407aeec88b2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

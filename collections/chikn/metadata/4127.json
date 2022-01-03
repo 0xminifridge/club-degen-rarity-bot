@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4127",
+    "description": "chikn #4127",
+    "image": "https://cdn1.chikn.farm/images/ea2977a383c1106dfac08cc4a1417097fa61ab2f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

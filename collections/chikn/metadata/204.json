@@ -1,0 +1,23 @@
+{
+    "name": "chikn #204",
+    "description": "chikn #204",
+    "image": "https://cdn1.chikn.farm/images/ac043cf1ba1d62718b1c5a366f06a281a7820bf5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

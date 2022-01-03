@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3268",
+    "description": "chikn #3268",
+    "image": "https://cdn1.chikn.farm/images/9d1662b89190d224040633300514e489c5dff98f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

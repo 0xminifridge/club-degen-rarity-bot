@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9049",
+    "description": "chikn #9049",
+    "image": "https://cdn1.chikn.farm/images/431c56514d116a90afdf81cd0a5cad0e4f307ef4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

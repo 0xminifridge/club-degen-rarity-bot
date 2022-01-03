@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4096",
+    "description": "chikn #4096",
+    "image": "https://cdn1.chikn.farm/images/226c8f47a90eac3716649a19408b7f7e9cc6afac.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

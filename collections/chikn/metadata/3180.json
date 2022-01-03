@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3180",
+    "description": "chikn #3180",
+    "image": "https://cdn1.chikn.farm/images/52fd6807638d056163ae67557422528f0072def9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

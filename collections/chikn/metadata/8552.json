@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8552",
+    "description": "chikn #8552",
+    "image": "https://cdn1.chikn.farm/images/1d2885a50804baf63e48e91138bc66e1acf6cf4b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

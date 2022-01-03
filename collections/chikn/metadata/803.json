@@ -1,0 +1,27 @@
+{
+    "name": "chikn #803",
+    "description": "chikn #803",
+    "image": "https://cdn1.chikn.farm/images/9772358f4dc2008883551d9ba75aa86bdd5dad90.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #666",
+    "description": "chikn #666",
+    "image": "https://cdn1.chikn.farm/images/0337545c53c2e244b000b31b6db194bd094e4d40.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

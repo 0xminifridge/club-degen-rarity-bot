@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8367",
+    "description": "chikn #8367",
+    "image": "https://cdn1.chikn.farm/images/6847d9c184446d355cd3103954b3af2ce69337a8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

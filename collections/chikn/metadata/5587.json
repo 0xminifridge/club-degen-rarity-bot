@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5587",
+    "description": "chikn #5587",
+    "image": "https://cdn1.chikn.farm/images/f84513b127db39846d3247793a6a4fceba1d6216.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

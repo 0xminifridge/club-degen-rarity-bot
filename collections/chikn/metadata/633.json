@@ -1,0 +1,27 @@
+{
+    "name": "chikn #633",
+    "description": "chikn #633",
+    "image": "https://cdn1.chikn.farm/images/8c322f2dae78bab883e51b44e5ebe69f0e40a75a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

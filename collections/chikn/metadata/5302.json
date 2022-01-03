@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5302",
+    "description": "chikn #5302",
+    "image": "https://cdn1.chikn.farm/images/cc74d0c68dfb68f966158cd4da9e0661ea534d98.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

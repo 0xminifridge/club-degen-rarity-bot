@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1062",
+    "description": "chikn #1062",
+    "image": "https://cdn1.chikn.farm/images/63976b6317dac709e15efe9a6057eeefdcd99283.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

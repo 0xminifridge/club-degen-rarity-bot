@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2891",
+    "description": "chikn #2891",
+    "image": "https://cdn1.chikn.farm/images/149707b18dd7e7507e6e4263cb7c6f8c3e12ebaf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

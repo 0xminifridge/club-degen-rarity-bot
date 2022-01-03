@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3798",
+    "description": "chikn #3798",
+    "image": "https://cdn1.chikn.farm/images/b80dd464ed0d79cadbfd802ed27b0fa24e77ca5d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

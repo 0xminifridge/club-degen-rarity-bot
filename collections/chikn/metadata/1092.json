@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1092",
+    "description": "chikn #1092",
+    "image": "https://cdn1.chikn.farm/images/488cb5c554d94b209fed4a1443f2cbf7b747073b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

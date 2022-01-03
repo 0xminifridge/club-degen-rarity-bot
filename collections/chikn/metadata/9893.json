@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9893",
+    "description": "chikn #9893",
+    "image": "https://cdn1.chikn.farm/images/0b82db93cc42b7684574a41dc512f9ffc7e9ebc0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

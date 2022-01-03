@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5687",
+    "description": "chikn #5687",
+    "image": "https://cdn1.chikn.farm/images/b5800c9d3ce9d02705c2ce1c400410edb771e9cd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

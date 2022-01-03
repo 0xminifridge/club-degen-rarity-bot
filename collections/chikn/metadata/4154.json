@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4154",
+    "description": "chikn #4154",
+    "image": "https://cdn1.chikn.farm/images/d4a9c37d00ec54324d85515c4cc83db12bf3bbd8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

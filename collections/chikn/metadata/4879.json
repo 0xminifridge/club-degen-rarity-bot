@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4879",
+    "description": "chikn #4879",
+    "image": "https://cdn1.chikn.farm/images/a604c1353dd9bfb48041dc0ee916c6748be128b8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9452",
+    "description": "chikn #9452",
+    "image": "https://cdn1.chikn.farm/images/2debfef60f72184fc00fc28aebe0ca6df8e04e47.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

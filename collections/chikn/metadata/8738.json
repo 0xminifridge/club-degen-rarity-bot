@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8738",
+    "description": "chikn #8738",
+    "image": "https://cdn1.chikn.farm/images/88c99a7d3189d8d0bb901b70182890ca87d33149.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

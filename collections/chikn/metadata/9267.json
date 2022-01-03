@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9267",
+    "description": "chikn #9267",
+    "image": "https://cdn1.chikn.farm/images/826c2512110f0872f9990346ae526f7cb58cef77.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

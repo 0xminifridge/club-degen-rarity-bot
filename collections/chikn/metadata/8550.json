@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8550",
+    "description": "chikn #8550",
+    "image": "https://cdn1.chikn.farm/images/6f1cccee4d6de06c03cf5a3d7ba0bc529f02ceae.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

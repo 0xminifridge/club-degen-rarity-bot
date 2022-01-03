@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6863",
+    "description": "chikn #6863",
+    "image": "https://cdn1.chikn.farm/images/833fe6f6385562dcdfadcaa498629d1d60d53919.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

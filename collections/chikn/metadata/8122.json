@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8122",
+    "description": "chikn #8122",
+    "image": "https://cdn1.chikn.farm/images/8fde8561e2f3f1ecf6361d227c3230460d2a82fc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

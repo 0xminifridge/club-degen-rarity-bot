@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2955",
+    "description": "chikn #2955",
+    "image": "https://cdn1.chikn.farm/images/e1ecc70f1f7e3158c0e0ebcff99aec307cacee0f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

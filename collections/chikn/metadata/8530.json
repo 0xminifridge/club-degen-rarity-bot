@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8530",
+    "description": "chikn #8530",
+    "image": "https://cdn1.chikn.farm/images/e06131f095239d4160aec3e79a62c444a8817699.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

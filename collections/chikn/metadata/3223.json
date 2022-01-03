@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3223",
+    "description": "chikn #3223",
+    "image": "https://cdn1.chikn.farm/images/497b8bff81042087bdbf0bfdd030c71cb952af6f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

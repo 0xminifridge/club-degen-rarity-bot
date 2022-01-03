@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9786",
+    "description": "chikn #9786",
+    "image": "https://cdn1.chikn.farm/images/73d39f5344470ce0f0666bcf89e132a60228f1f3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

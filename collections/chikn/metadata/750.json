@@ -1,0 +1,19 @@
+{
+    "name": "chikn #750",
+    "description": "chikn #750",
+    "image": "https://cdn1.chikn.farm/images/177639a7c3e49e1b5ef2cea782c9e7aa2525263d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

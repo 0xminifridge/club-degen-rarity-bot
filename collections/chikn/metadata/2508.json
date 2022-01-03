@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2508",
+    "description": "chikn #2508",
+    "image": "https://cdn1.chikn.farm/images/21ac0e6a7fb6b1f799285d6ca6c78a17f003ac25.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

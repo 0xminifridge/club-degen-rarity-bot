@@ -1,0 +1,19 @@
+{
+    "name": "chikn #755",
+    "description": "chikn #755",
+    "image": "https://cdn1.chikn.farm/images/ef37fa92b8d3be43f16f287849198f40ff5a7a05.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

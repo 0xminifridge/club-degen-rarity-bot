@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3014",
+    "description": "chikn #3014",
+    "image": "https://cdn1.chikn.farm/images/4e8313badc79593287337f98f39126bb78249542.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

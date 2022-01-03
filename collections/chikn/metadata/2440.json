@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2440",
+    "description": "chikn #2440",
+    "image": "https://cdn1.chikn.farm/images/2543bba6a56d94f5feb631e34e8e3aa6eab937f0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3359",
+    "description": "chikn #3359",
+    "image": "https://cdn1.chikn.farm/images/9fba2cfc8ab5a37b84a9304636db4733ae68344e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "tungsten cube"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

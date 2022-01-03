@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8435",
+    "description": "chikn #8435",
+    "image": "https://cdn1.chikn.farm/images/837f1982f25dc1f63d4323bfba883ce90bda75b5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

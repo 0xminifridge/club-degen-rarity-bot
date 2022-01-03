@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2031",
+    "description": "chikn #2031",
+    "image": "https://cdn1.chikn.farm/images/e4eb8c028474d9cbe888cbeb89a590b3de297dde.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

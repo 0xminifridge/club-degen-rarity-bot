@@ -1,0 +1,19 @@
+{
+    "name": "chikn #5979",
+    "description": "chikn #5979",
+    "image": "https://cdn1.chikn.farm/images/d0c34aa4641cb1c76431b2303fe62aa9c9bd0435.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

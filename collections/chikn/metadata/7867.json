@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7867",
+    "description": "chikn #7867",
+    "image": "https://cdn1.chikn.farm/images/2da8d90c1fd9cd9c2ad38f1294b488133c5b624e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

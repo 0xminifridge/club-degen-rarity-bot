@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4089",
+    "description": "chikn #4089",
+    "image": "https://cdn1.chikn.farm/images/ad0daf3cb3de01c51acbcb34d784779909b6688d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

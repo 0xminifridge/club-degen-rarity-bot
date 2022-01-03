@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3573",
+    "description": "chikn #3573",
+    "image": "https://cdn1.chikn.farm/images/b67b64773726df566282ba1854956e61dfababec.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

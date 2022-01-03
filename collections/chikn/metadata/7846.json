@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7846",
+    "description": "chikn #7846",
+    "image": "https://cdn1.chikn.farm/images/bc8a90402c5e0bfc16e87c8d2ff610911ffde611.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim og"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

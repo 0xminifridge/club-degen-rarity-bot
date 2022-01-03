@@ -1,0 +1,19 @@
+{
+    "name": "chikn #8852",
+    "description": "chikn #8852",
+    "image": "https://cdn1.chikn.farm/images/86bb29aff254d174ea895d29414e306caaa12bee.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "karate kid"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2087",
+    "description": "chikn #2087",
+    "image": "https://cdn1.chikn.farm/images/586f88d8a337e17daa65e8b013928caf96eab3ae.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

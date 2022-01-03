@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3994",
+    "description": "chikn #3994",
+    "image": "https://cdn1.chikn.farm/images/43f1cfaeaec1b78b23d548ad4d916cd8b07f1f09.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

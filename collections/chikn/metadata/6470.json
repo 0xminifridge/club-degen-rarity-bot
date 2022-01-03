@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6470",
+    "description": "chikn #6470",
+    "image": "https://cdn1.chikn.farm/images/273383bf461f0f6e11f9a2fcbf8b520f816a3ab9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "boxhead"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

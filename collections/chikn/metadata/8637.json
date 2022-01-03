@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8637",
+    "description": "chikn #8637",
+    "image": "https://cdn1.chikn.farm/images/402eea8f05032be110d1f272e3583490ea1c0b83.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "icey stare"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

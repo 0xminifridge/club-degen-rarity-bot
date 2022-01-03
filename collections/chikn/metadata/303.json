@@ -1,0 +1,27 @@
+{
+    "name": "chikn #303",
+    "description": "chikn #303",
+    "image": "https://cdn1.chikn.farm/images/1cd8a6be618231b7f8c5625d9dfd466c08e765db.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

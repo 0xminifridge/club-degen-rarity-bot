@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7694",
+    "description": "chikn #7694",
+    "image": "https://cdn1.chikn.farm/images/73dc06167a7730d93be645f8b387265c9fdd93a8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

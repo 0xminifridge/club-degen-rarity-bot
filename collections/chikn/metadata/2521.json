@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2521",
+    "description": "chikn #2521",
+    "image": "https://cdn1.chikn.farm/images/e6bd8415e9ec89f315004ab35fc2706a062cbd7c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

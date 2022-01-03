@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3424",
+    "description": "chikn #3424",
+    "image": "https://cdn1.chikn.farm/images/435d68f45184a9b0ed64496199fc6b91d36273c1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

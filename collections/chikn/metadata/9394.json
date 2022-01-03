@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9394",
+    "description": "chikn #9394",
+    "image": "https://cdn1.chikn.farm/images/cb0a84a7415457794891bcdcbfbd653e420d1b39.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

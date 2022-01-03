@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6382",
+    "description": "chikn #6382",
+    "image": "https://cdn1.chikn.farm/images/44b018d97331fb08897ce4983f6849b2dd696c03.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

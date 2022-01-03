@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7798",
+    "description": "chikn #7798",
+    "image": "https://cdn1.chikn.farm/images/2a10c7e4ad3da98adfafabd6c19a6936b1edda00.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

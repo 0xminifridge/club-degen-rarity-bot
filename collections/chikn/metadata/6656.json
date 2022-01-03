@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6656",
+    "description": "chikn #6656",
+    "image": "https://cdn1.chikn.farm/images/7988ada4eda8c6ebf9111a621dd4af640bd78c42.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

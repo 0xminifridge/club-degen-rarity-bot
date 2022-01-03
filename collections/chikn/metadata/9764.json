@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9764",
+    "description": "chikn #9764",
+    "image": "https://cdn1.chikn.farm/images/8da87ab2400276dcf7fb613a5aed92e0f264fda2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #345",
+    "description": "chikn #345",
+    "image": "https://cdn1.chikn.farm/images/7190feefc254482b7ec8093af814a76be1cc89bb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

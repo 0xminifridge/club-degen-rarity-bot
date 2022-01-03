@@ -1,0 +1,31 @@
+{
+    "name": "chikn #674",
+    "description": "chikn #674",
+    "image": "https://cdn1.chikn.farm/images/0e3f6335276aa69d9ab86e9a723c2d9eff7b0e63.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

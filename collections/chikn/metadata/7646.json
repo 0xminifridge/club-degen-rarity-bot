@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7646",
+    "description": "chikn #7646",
+    "image": "https://cdn1.chikn.farm/images/98b148dd3e74d1397629d6f7d65bc3d2da838598.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

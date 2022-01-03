@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7092",
+    "description": "chikn #7092",
+    "image": "https://cdn1.chikn.farm/images/1e7ffe5f446bbc89d8e6f4c632feab858c5ad7ba.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

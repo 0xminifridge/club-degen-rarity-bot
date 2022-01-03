@@ -1,0 +1,19 @@
+{
+    "name": "chikn #4246",
+    "description": "chikn #4246",
+    "image": "https://cdn1.chikn.farm/images/2bd160615bcc9c93fea89985900a000dd64a8783.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

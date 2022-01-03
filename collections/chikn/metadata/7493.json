@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7493",
+    "description": "chikn #7493",
+    "image": "https://cdn1.chikn.farm/images/cd019703887cb6d84593c51929d41b859a8fc6d3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

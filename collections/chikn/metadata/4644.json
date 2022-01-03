@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4644",
+    "description": "chikn #4644",
+    "image": "https://cdn1.chikn.farm/images/286362a8fa312826039eaba23d3dd88aa4be82dc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

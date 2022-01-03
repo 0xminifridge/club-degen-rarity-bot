@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3322",
+    "description": "chikn #3322",
+    "image": "https://cdn1.chikn.farm/images/19bb1b4298cc165e2c17a813bf707f34f2876b5b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

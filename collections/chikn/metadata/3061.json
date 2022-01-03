@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3061",
+    "description": "chikn #3061",
+    "image": "https://cdn1.chikn.farm/images/d8a6616dedf8e3deac5d017cb6aa493e5911cc12.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

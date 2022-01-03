@@ -1,0 +1,19 @@
+{
+    "name": "chikn #315",
+    "description": "chikn #315",
+    "image": "https://cdn1.chikn.farm/images/5e7a8dc8fcbdc6099a49cd2751a56d347235bc71.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "galactic"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7599",
+    "description": "chikn #7599",
+    "image": "https://cdn1.chikn.farm/images/e05c6a484f5e73c6f0f2438a0304ee34abbb1e96.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

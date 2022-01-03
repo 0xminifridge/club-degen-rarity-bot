@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4881",
+    "description": "chikn #4881",
+    "image": "https://cdn1.chikn.farm/images/53ed604f33440fbde142e31a400ad66af7c78daa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

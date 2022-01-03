@@ -1,0 +1,19 @@
+{
+    "name": "chikn #9700",
+    "description": "chikn #9700",
+    "image": "https://cdn1.chikn.farm/images/0e8b9e5c06ec83b56b3b966493ad791fddfdeed5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

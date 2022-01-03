@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7290",
+    "description": "chikn #7290",
+    "image": "https://cdn1.chikn.farm/images/1b74437599f6838021809a539c5fa86f2f8c60c9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

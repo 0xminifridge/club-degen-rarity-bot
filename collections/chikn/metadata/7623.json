@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7623",
+    "description": "chikn #7623",
+    "image": "https://cdn1.chikn.farm/images/ee8609101483dbc14fe6eeb25cb50824ba57cd5c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

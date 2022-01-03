@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5469",
+    "description": "chikn #5469",
+    "image": "https://cdn1.chikn.farm/images/58f2501037dfcba036e59c1b91463a03f42ae80e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

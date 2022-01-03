@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9791",
+    "description": "chikn #9791",
+    "image": "https://cdn1.chikn.farm/images/5c9a42d36f8200fc0ef834b954d02fc31ecbfa8e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

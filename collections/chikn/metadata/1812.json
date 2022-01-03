@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1812",
+    "description": "chikn #1812",
+    "image": "https://cdn1.chikn.farm/images/6a588a7c26554834c651bb91e5c0c1a3f08ce84b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

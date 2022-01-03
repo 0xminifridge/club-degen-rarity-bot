@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8595",
+    "description": "chikn #8595",
+    "image": "https://cdn1.chikn.farm/images/7023f85317577b9d78f300d0c09234663b935f8e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

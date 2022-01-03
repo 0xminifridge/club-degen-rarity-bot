@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1166",
+    "description": "chikn #1166",
+    "image": "https://cdn1.chikn.farm/images/57e612056d3bbcb6c9d48d844c8380aa24915293.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

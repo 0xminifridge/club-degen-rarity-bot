@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4754",
+    "description": "chikn #4754",
+    "image": "https://cdn1.chikn.farm/images/a587421f96050f5e1b7f74b82d8fb00c3e574698.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6981",
+    "description": "chikn #6981",
+    "image": "https://cdn1.chikn.farm/images/0c0a71439ae2e6c822715ab98f7695a6418a6612.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "murica"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

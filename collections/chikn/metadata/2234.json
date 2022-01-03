@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2234",
+    "description": "chikn #2234",
+    "image": "https://cdn1.chikn.farm/images/2a4b3d56c86fcd5c74e03b08d303dbd3cb5ddb9e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

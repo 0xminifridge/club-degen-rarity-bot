@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7587",
+    "description": "chikn #7587",
+    "image": "https://cdn1.chikn.farm/images/39e4d08b2128a0c397e33da9aca4a29cbcd0f61c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

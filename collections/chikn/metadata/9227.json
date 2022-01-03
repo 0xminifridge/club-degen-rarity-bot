@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9227",
+    "description": "chikn #9227",
+    "image": "https://cdn1.chikn.farm/images/7492dedcfbd8c4e7a03e7e52d4288118fd8df3d7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

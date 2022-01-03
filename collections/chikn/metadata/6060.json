@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6060",
+    "description": "chikn #6060",
+    "image": "https://cdn1.chikn.farm/images/c050455be2a007a44a77d8986ec045a9a73f0db7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

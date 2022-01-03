@@ -1,0 +1,19 @@
+{
+    "name": "chikn #5184",
+    "description": "chikn #5184",
+    "image": "https://cdn1.chikn.farm/images/5fb09cb0c807a0beaadafb2dbe203a55d18cccb2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

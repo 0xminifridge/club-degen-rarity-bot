@@ -1,0 +1,27 @@
+{
+    "name": "chikn #702",
+    "description": "chikn #702",
+    "image": "https://cdn1.chikn.farm/images/f18a2fc8b76317e933254297d7fb944a6025cd24.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

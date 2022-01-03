@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1013",
+    "description": "chikn #1013",
+    "image": "https://cdn1.chikn.farm/images/8b5e376bf2d6468cfd9e591f08af5658850bc25a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

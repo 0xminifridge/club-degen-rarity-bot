@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3379",
+    "description": "chikn #3379",
+    "image": "https://cdn1.chikn.farm/images/5e23c25a5690db47a592bfd12ec77b3f362e964b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

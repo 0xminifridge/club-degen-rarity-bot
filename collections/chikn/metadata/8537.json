@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8537",
+    "description": "chikn #8537",
+    "image": "https://cdn1.chikn.farm/images/a80abc3b772b3a56c97a233884ebe19d9db705c4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "laser eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

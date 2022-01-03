@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4729",
+    "description": "chikn #4729",
+    "image": "https://cdn1.chikn.farm/images/b05efb7b278b999331321a6fff61ae4479d37e8f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

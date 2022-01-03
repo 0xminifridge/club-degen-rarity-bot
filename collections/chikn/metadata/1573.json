@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1573",
+    "description": "chikn #1573",
+    "image": "https://cdn1.chikn.farm/images/984b427abd8e7313de8a26d2f4f6cd27446a5275.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

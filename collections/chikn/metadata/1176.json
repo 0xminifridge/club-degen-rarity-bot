@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1176",
+    "description": "chikn #1176",
+    "image": "https://cdn1.chikn.farm/images/e32d29102ac5770ca55c3ba90ab98414374f3215.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

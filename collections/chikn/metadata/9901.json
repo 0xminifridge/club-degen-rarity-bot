@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9901",
+    "description": "chikn #9901",
+    "image": "https://cdn1.chikn.farm/images/fc52927ea20a670204ac18a2f0bed2bd2e9ccaef.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

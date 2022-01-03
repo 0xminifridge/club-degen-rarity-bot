@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6670",
+    "description": "chikn #6670",
+    "image": "https://cdn1.chikn.farm/images/30a2c2fbece7fdac9e24e067906c1c737e6679ce.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

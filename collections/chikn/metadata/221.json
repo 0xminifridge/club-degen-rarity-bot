@@ -1,0 +1,23 @@
+{
+    "name": "chikn #221",
+    "description": "chikn #221",
+    "image": "https://cdn1.chikn.farm/images/4f973ba78ca6ac8d020377ca574a71bc02f725a2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

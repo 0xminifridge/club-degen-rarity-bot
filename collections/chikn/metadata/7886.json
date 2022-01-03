@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7886",
+    "description": "chikn #7886",
+    "image": "https://cdn1.chikn.farm/images/cb18acc8c5ffbd77eb30d63d9e04817962464c3d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "super saiyan"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

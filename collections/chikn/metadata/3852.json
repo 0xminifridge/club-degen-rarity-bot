@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3852",
+    "description": "chikn #3852",
+    "image": "https://cdn1.chikn.farm/images/eb60955e91abc116b83ff87c506171f915adef9d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

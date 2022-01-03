@@ -1,0 +1,19 @@
+{
+    "name": "chikn #8526",
+    "description": "chikn #8526",
+    "image": "https://cdn1.chikn.farm/images/eb375bc3e414ac8ff412de38c9628b2e96557aa6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

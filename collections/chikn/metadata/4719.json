@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4719",
+    "description": "chikn #4719",
+    "image": "https://cdn1.chikn.farm/images/7925e58938cdd50d879ab1eb7883868c4086ec49.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

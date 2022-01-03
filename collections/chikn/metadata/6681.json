@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6681",
+    "description": "chikn #6681",
+    "image": "https://cdn1.chikn.farm/images/ebe1f2392698b48ceb4079f254c02cdb1a64eb81.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2700",
+    "description": "chikn #2700",
+    "image": "https://cdn1.chikn.farm/images/d08baac8c0058946f9e0308cba40495c6ee3bb95.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

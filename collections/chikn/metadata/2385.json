@@ -1,0 +1,19 @@
+{
+    "name": "chikn #2385",
+    "description": "chikn #2385",
+    "image": "https://cdn1.chikn.farm/images/875b3590e0c87c50fa7c5d414ebec2dad9e5d13a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1806",
+    "description": "chikn #1806",
+    "image": "https://cdn1.chikn.farm/images/ff72cfeb2b7768df8a3056dfeb67097e518cbcb9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

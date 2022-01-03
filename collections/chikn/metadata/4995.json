@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4995",
+    "description": "chikn #4995",
+    "image": "https://cdn1.chikn.farm/images/f58be5a4d8cc1bc7ad743d4378225e87705dcb26.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

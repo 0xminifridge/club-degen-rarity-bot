@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2784",
+    "description": "chikn #2784",
+    "image": "https://cdn1.chikn.farm/images/9712168207557106c0d7b7df3f540c5818fe7e29.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

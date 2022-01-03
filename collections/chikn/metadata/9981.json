@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9981",
+    "description": "chikn #9981",
+    "image": "https://cdn1.chikn.farm/images/6caff9f3be02e220526f52b349225db56436851d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "super saiyan"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

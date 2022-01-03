@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8346",
+    "description": "chikn #8346",
+    "image": "https://cdn1.chikn.farm/images/f11122ccd08b16f15aab1eff99f28618c7536724.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

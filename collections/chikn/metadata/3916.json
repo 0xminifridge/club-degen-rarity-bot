@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3916",
+    "description": "chikn #3916",
+    "image": "https://cdn1.chikn.farm/images/f30841b15368d75c8a10729f58ad566c3d9f75f6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

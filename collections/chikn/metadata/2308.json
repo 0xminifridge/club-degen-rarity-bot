@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2308",
+    "description": "chikn #2308",
+    "image": "https://cdn1.chikn.farm/images/5b5a950e7a5752beaf48f8f4915f8e79e6d7c021.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

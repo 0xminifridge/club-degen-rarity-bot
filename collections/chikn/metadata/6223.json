@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6223",
+    "description": "chikn #6223",
+    "image": "https://cdn1.chikn.farm/images/e71bf6b2d600acb3572926a99949ae36c6cf4c96.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2695",
+    "description": "chikn #2695",
+    "image": "https://cdn1.chikn.farm/images/d5b1f0a4363476c1f885ffca163a0d044f82f03d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

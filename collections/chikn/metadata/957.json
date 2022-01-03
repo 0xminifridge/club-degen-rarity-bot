@@ -1,0 +1,27 @@
+{
+    "name": "chikn #957",
+    "description": "chikn #957",
+    "image": "https://cdn1.chikn.farm/images/33b715c4fa96d9fcf8877a52a418761fc08d384d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

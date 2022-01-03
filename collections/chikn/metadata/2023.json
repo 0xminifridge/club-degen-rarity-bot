@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2023",
+    "description": "chikn #2023",
+    "image": "https://cdn1.chikn.farm/images/8b01ca9728568a81d77d1f9dfb5a1ccc8abbcb1d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim og"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

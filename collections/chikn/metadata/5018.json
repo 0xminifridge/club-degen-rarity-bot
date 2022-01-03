@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5018",
+    "description": "chikn #5018",
+    "image": "https://cdn1.chikn.farm/images/038b99b8ee04e912c23ee20d462e2fb714be4d4f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

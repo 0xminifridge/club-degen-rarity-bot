@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3549",
+    "description": "chikn #3549",
+    "image": "https://cdn1.chikn.farm/images/a6f83361a143d5a5d351da68d485dbfcd9f0c526.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin maxi"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

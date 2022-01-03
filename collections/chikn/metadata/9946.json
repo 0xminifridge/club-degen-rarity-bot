@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9946",
+    "description": "chikn #9946",
+    "image": "https://cdn1.chikn.farm/images/04ee6f6a5ec8d2e18a86a79db7eaf46431e154cf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

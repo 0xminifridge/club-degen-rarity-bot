@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6353",
+    "description": "chikn #6353",
+    "image": "https://cdn1.chikn.farm/images/d9d6b1ac717ef2e3b8277114a108f269b38158a7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

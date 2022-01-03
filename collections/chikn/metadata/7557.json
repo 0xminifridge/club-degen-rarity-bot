@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7557",
+    "description": "chikn #7557",
+    "image": "https://cdn1.chikn.farm/images/fa5b7abfe166f4b475a4782b8bfc42fc5a7df0e5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

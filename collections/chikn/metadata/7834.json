@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7834",
+    "description": "chikn #7834",
+    "image": "https://cdn1.chikn.farm/images/0b5e61f25e5c97c5de33a438bcf03b78955e6103.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

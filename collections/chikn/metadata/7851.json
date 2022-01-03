@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7851",
+    "description": "chikn #7851",
+    "image": "https://cdn1.chikn.farm/images/6d631e35cd39ad76d20b7ea67d4a311b994e56c1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

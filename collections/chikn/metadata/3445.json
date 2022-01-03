@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3445",
+    "description": "chikn #3445",
+    "image": "https://cdn1.chikn.farm/images/7e14276653097451a920d1fa9a9f632cb67bc1b1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

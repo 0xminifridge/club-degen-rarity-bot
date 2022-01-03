@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9477",
+    "description": "chikn #9477",
+    "image": "https://cdn1.chikn.farm/images/9e5870e6f4a2f3b464b7293fa092533c00d75daa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

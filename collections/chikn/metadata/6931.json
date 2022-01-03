@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6931",
+    "description": "chikn #6931",
+    "image": "https://cdn1.chikn.farm/images/727d51a25605b7afa6882cff220a18664f2fb356.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

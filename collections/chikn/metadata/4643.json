@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4643",
+    "description": "chikn #4643",
+    "image": "https://cdn1.chikn.farm/images/2c799521708d37da4baf82587881bbcc4c999c68.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

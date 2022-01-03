@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1739",
+    "description": "chikn #1739",
+    "image": "https://cdn1.chikn.farm/images/1f7a098b52b9df40091e05acb8b9b6895ea18b09.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

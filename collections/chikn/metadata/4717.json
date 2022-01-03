@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4717",
+    "description": "chikn #4717",
+    "image": "https://cdn1.chikn.farm/images/1fd2153c98c3014f65c6ec187f6a669edec39941.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

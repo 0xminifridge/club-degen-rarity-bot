@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8246",
+    "description": "chikn #8246",
+    "image": "https://cdn1.chikn.farm/images/b00611b361da4e281b2aa84ec8962e1d0450e20d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

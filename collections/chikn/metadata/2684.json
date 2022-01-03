@@ -1,0 +1,19 @@
+{
+    "name": "chikn #2684",
+    "description": "chikn #2684",
+    "image": "https://cdn1.chikn.farm/images/f479aad0bd841bfc632d43b2f9a10be4184e4044.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

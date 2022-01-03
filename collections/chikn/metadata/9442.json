@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9442",
+    "description": "chikn #9442",
+    "image": "https://cdn1.chikn.farm/images/a8f730226ad271b0edce5f213e45d8a21b9d3227.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

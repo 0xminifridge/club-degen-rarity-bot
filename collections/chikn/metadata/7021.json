@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7021",
+    "description": "chikn #7021",
+    "image": "https://cdn1.chikn.farm/images/a7f4eb97611894cf57dc75cc43f5c95f90a952e9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

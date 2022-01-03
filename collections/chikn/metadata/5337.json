@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5337",
+    "description": "chikn #5337",
+    "image": "https://cdn1.chikn.farm/images/0e4246d78bb802adeb31e76de05e7730ac895c0f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

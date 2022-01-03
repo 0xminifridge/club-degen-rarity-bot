@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3505",
+    "description": "chikn #3505",
+    "image": "https://cdn1.chikn.farm/images/57a9b2f6bb6717f1e54d09748f0860e9dc14d4b8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

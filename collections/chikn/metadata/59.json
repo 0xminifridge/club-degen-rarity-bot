@@ -1,0 +1,23 @@
+{
+    "name": "chikn #59",
+    "description": "chikn #59",
+    "image": "https://cdn1.chikn.farm/images/77e9212771ea974925c376e411d22893d97fcb02.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

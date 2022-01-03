@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3534",
+    "description": "chikn #3534",
+    "image": "https://cdn1.chikn.farm/images/81e52c63d24b37ccab29ba798ac32b17d0609bf2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden crusader"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

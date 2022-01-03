@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2180",
+    "description": "chikn #2180",
+    "image": "https://cdn1.chikn.farm/images/60e5e2e9dad7cd8eaaf61bfd2a17d67d2972c38a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

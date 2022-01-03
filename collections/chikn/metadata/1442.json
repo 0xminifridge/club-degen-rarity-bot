@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1442",
+    "description": "chikn #1442",
+    "image": "https://cdn1.chikn.farm/images/66e990f00d0bb45dac89c6157df952db21810f2b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

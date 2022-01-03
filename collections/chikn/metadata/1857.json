@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1857",
+    "description": "chikn #1857",
+    "image": "https://cdn1.chikn.farm/images/bc9ed482611ebec6f375d9f9a54ca4287e008c9e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

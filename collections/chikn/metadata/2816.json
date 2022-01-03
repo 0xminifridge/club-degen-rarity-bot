@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2816",
+    "description": "chikn #2816",
+    "image": "https://cdn1.chikn.farm/images/61a487a8922bf8fc3cdd476e10ad46f25306397e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

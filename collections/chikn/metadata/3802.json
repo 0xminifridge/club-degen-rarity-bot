@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3802",
+    "description": "chikn #3802",
+    "image": "https://cdn1.chikn.farm/images/8ec7d45f2e01836c6655ff6b12d23daf0a3d0036.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin maxi"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

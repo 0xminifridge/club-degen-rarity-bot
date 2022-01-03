@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8647",
+    "description": "chikn #8647",
+    "image": "https://cdn1.chikn.farm/images/81e8e4b5ebf1821eabbfab273624dc142d551f2a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5653",
+    "description": "chikn #5653",
+    "image": "https://cdn1.chikn.farm/images/8e3e6cf3fc12eda353938748a5854ea931150f67.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

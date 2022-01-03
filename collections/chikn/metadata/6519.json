@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6519",
+    "description": "chikn #6519",
+    "image": "https://cdn1.chikn.farm/images/5f25414d521c27a90e2bf27b400aeb7a8d14fca8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

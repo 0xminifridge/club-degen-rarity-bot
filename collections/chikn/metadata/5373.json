@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5373",
+    "description": "chikn #5373",
+    "image": "https://cdn1.chikn.farm/images/e67cd3261b8f90019149ee8f845584dc0157dd11.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

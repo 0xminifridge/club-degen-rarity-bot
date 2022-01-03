@@ -1,0 +1,19 @@
+{
+    "name": "chikn #1840",
+    "description": "chikn #1840",
+    "image": "https://cdn1.chikn.farm/images/71f4617646ead4e2f3fa59a6859c22cc2c6e97d0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

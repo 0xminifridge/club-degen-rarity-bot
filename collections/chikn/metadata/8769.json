@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8769",
+    "description": "chikn #8769",
+    "image": "https://cdn1.chikn.farm/images/70787ea5e1d20b136a334510445554cb4337257a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

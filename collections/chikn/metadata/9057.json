@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9057",
+    "description": "chikn #9057",
+    "image": "https://cdn1.chikn.farm/images/883efde81a1fbf7aa8f125e2af676b13e966b2cb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

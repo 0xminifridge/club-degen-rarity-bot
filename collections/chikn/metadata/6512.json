@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6512",
+    "description": "chikn #6512",
+    "image": "https://cdn1.chikn.farm/images/95c90dbb01d04a9e4a282476e65b172c77bf8d93.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

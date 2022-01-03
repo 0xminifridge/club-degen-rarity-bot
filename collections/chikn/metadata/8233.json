@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8233",
+    "description": "chikn #8233",
+    "image": "https://cdn1.chikn.farm/images/c6a4b8d9d0fe2295d3fd6b7a6af5358a203e1605.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8987",
+    "description": "chikn #8987",
+    "image": "https://cdn1.chikn.farm/images/a6ed7c5f93aa1c21b9fb8116ee83df8d7e1876ff.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

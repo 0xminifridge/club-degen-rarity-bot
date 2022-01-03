@@ -1,0 +1,27 @@
+{
+    "name": "chikn #285",
+    "description": "chikn #285",
+    "image": "https://cdn1.chikn.farm/images/174fbeb8200af610189ed048ab8929d6d63a18a7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

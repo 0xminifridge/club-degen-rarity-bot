@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6482",
+    "description": "chikn #6482",
+    "image": "https://cdn1.chikn.farm/images/2c312d05ee84adbc454d12e44cf862097f2e3dde.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

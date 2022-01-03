@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3306",
+    "description": "chikn #3306",
+    "image": "https://cdn1.chikn.farm/images/edf64b33f9488e33208184058ba8badb2b439ce2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4923",
+    "description": "chikn #4923",
+    "image": "https://cdn1.chikn.farm/images/6cba82f9f846686db533fae3985770bef70f8c24.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8579",
+    "description": "chikn #8579",
+    "image": "https://cdn1.chikn.farm/images/d7a7d7b379e933a112ef0dadb07eabfd48636d75.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

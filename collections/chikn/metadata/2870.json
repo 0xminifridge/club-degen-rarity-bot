@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2870",
+    "description": "chikn #2870",
+    "image": "https://cdn1.chikn.farm/images/b2dc5caf60b82b875fc3495e0fa8ceac828a935a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

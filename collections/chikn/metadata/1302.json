@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1302",
+    "description": "chikn #1302",
+    "image": "https://cdn1.chikn.farm/images/fdabec40d39ae04e5bcc6620829b81ff47c48000.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

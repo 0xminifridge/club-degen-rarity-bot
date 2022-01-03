@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2705",
+    "description": "chikn #2705",
+    "image": "https://cdn1.chikn.farm/images/788681184f1791e8dff0f49ac8fb7f72492a17a3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

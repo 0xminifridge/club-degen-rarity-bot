@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2698",
+    "description": "chikn #2698",
+    "image": "https://cdn1.chikn.farm/images/e786f0304f8ff847449c360a9b6f3651ae921bcc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

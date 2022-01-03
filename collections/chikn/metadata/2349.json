@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2349",
+    "description": "chikn #2349",
+    "image": "https://cdn1.chikn.farm/images/385ef0a4c5bfdef808c33a8ea2a0644fd8b79582.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

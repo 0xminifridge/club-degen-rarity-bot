@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3366",
+    "description": "chikn #3366",
+    "image": "https://cdn1.chikn.farm/images/c442b233a78e47793dc4a50f7bcdb3248549be47.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

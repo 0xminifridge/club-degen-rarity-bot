@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7176",
+    "description": "chikn #7176",
+    "image": "https://cdn1.chikn.farm/images/716d07094f832c79a4a05a00c5938709b952830e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

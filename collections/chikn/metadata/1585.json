@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1585",
+    "description": "chikn #1585",
+    "image": "https://cdn1.chikn.farm/images/0d30744a7aeea013a6e9a538ae95e4ecc3028101.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4231",
+    "description": "chikn #4231",
+    "image": "https://cdn1.chikn.farm/images/65ed35cb773f88b054757d0d0f39fb1c31a678b4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8034",
+    "description": "chikn #8034",
+    "image": "https://cdn1.chikn.farm/images/feb3e17d8ac28c501accfc13b3ae5dfcfa8356b3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

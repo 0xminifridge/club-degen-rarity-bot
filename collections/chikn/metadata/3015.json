@@ -1,0 +1,19 @@
+{
+    "name": "chikn #3015",
+    "description": "chikn #3015",
+    "image": "https://cdn1.chikn.farm/images/2bd3836d28e73af69be20ca17ec64f9238b04563.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

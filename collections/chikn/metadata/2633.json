@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2633",
+    "description": "chikn #2633",
+    "image": "https://cdn1.chikn.farm/images/22625a378c5aaa8d1665bbc4a03bb4efaf6e5a71.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

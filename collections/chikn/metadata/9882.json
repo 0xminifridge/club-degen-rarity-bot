@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9882",
+    "description": "chikn #9882",
+    "image": "https://cdn1.chikn.farm/images/a902d5bb073bf9a601633415c17bbffe87fe81d4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

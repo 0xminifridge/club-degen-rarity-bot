@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4619",
+    "description": "chikn #4619",
+    "image": "https://cdn1.chikn.farm/images/1a2994e5e828acb9c875cd22cb66a858facc5ee0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

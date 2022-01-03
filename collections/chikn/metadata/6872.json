@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6872",
+    "description": "chikn #6872",
+    "image": "https://cdn1.chikn.farm/images/60057c9e3013f1dea1e9acfc5e1a03283c883343.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

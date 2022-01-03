@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4044",
+    "description": "chikn #4044",
+    "image": "https://cdn1.chikn.farm/images/cea542532caaab999aaf0e0438ba2a16556801dd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

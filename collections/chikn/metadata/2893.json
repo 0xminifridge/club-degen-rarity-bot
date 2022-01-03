@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2893",
+    "description": "chikn #2893",
+    "image": "https://cdn1.chikn.farm/images/524f55ec9432b89645836a8c3584be7e618e4b59.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

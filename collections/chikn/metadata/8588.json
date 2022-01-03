@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8588",
+    "description": "chikn #8588",
+    "image": "https://cdn1.chikn.farm/images/5ab427d14f06876d96bd0e270678d8c7574ac172.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "business boy"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

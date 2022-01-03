@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6959",
+    "description": "chikn #6959",
+    "image": "https://cdn1.chikn.farm/images/5c8a250ac6374437d78d5dcb29d36fc138cee3bc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

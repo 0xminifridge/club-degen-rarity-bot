@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7726",
+    "description": "chikn #7726",
+    "image": "https://cdn1.chikn.farm/images/a129f456ac948c3b5181388eda9a803896c9f0df.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

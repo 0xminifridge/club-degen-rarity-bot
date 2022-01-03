@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2939",
+    "description": "chikn #2939",
+    "image": "https://cdn1.chikn.farm/images/ef6520d40d748e5d5e13a63744d54ef95dbf5c8d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

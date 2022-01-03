@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8260",
+    "description": "chikn #8260",
+    "image": "https://cdn1.chikn.farm/images/088fee346199521d5321e314f0142a45807d31e7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #323",
+    "description": "chikn #323",
+    "image": "https://cdn1.chikn.farm/images/c4426d95b0c66cdfb5b28e72ded469e939428fa4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

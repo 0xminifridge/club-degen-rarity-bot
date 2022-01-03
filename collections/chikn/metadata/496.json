@@ -1,0 +1,27 @@
+{
+    "name": "chikn #496",
+    "description": "chikn #496",
+    "image": "https://cdn1.chikn.farm/images/35067756acf221c8a871e6242bbcecb1c1d1e6a5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

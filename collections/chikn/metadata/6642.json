@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6642",
+    "description": "chikn #6642",
+    "image": "https://cdn1.chikn.farm/images/49e6dc6fccbb4a4996366d17a87f2f4cf60da09c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

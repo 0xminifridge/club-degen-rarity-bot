@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5750",
+    "description": "chikn #5750",
+    "image": "https://cdn1.chikn.farm/images/cb432a97c689f6d1c97f1ea8e7d60aa51d85027a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

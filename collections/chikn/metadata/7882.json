@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7882",
+    "description": "chikn #7882",
+    "image": "https://cdn1.chikn.farm/images/7de340b94a15e13683f33b3d953ff820e4a4bdc8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

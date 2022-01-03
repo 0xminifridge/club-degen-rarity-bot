@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6455",
+    "description": "chikn #6455",
+    "image": "https://cdn1.chikn.farm/images/e8a54dc56fb14e54efc1fbb2444c0d80233350b3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

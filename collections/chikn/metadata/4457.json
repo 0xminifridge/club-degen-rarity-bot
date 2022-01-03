@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4457",
+    "description": "chikn #4457",
+    "image": "https://cdn1.chikn.farm/images/cb96360d4d5a727621b956df2dca9594c2e2c333.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

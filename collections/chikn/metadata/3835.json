@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3835",
+    "description": "chikn #3835",
+    "image": "https://cdn1.chikn.farm/images/aa52485aee762a33b90107eacfc8a6900f18d541.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

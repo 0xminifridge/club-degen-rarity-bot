@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9149",
+    "description": "chikn #9149",
+    "image": "https://cdn1.chikn.farm/images/4200bcb34057a05aae4ea6eb0cde57be2f6c36d0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

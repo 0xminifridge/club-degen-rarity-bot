@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9938",
+    "description": "chikn #9938",
+    "image": "https://cdn1.chikn.farm/images/473fa5f59bd5d07341b47bfa8cc3b555732821a2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

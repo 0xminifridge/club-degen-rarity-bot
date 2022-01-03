@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6374",
+    "description": "chikn #6374",
+    "image": "https://cdn1.chikn.farm/images/a9fef0a7e2d89a279f397cfa3ea877291fee1d94.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

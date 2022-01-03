@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7044",
+    "description": "chikn #7044",
+    "image": "https://cdn1.chikn.farm/images/ea40e6f13a70f521370c7086d96858ff25afe902.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

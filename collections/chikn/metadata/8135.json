@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8135",
+    "description": "chikn #8135",
+    "image": "https://cdn1.chikn.farm/images/262b1dda41df884be4b95e91f4ca488c9738c4ad.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "icey stare"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

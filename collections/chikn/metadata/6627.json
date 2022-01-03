@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6627",
+    "description": "chikn #6627",
+    "image": "https://cdn1.chikn.farm/images/baa6fe037e5d7adc40452da71d2e56d3d051700e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

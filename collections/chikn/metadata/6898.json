@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6898",
+    "description": "chikn #6898",
+    "image": "https://cdn1.chikn.farm/images/599150593c6d50ebffcf332ecde4b1f385c3c781.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

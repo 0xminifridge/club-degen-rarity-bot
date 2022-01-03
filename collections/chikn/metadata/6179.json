@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6179",
+    "description": "chikn #6179",
+    "image": "https://cdn1.chikn.farm/images/0d79ec3ac53cff81ec62bc51fb835b3aa75a94bf.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

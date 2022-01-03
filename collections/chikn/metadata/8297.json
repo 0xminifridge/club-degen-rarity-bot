@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8297",
+    "description": "chikn #8297",
+    "image": "https://cdn1.chikn.farm/images/ac97b6117f173320cb52fec96881bd5452224acd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

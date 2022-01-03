@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3689",
+    "description": "chikn #3689",
+    "image": "https://cdn1.chikn.farm/images/cb393266398bfeac8f2996c8b7fff5059f63ab73.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

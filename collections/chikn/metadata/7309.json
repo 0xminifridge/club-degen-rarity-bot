@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7309",
+    "description": "chikn #7309",
+    "image": "https://cdn1.chikn.farm/images/b55fdb80821443848f39c199e2e7c6dfe910097c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

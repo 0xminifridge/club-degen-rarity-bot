@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2744",
+    "description": "chikn #2744",
+    "image": "https://cdn1.chikn.farm/images/fa92c268fcb78d82fc8be1102c03559982a4edcb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6130",
+    "description": "chikn #6130",
+    "image": "https://cdn1.chikn.farm/images/5c0f51f2adf7fe532cdbb479ab89aee5425933a1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

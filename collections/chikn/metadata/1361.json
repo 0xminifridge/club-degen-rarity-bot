@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1361",
+    "description": "chikn #1361",
+    "image": "https://cdn1.chikn.farm/images/fbd57682bc95e7aa60088d4a43b05c3ca550e8a6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

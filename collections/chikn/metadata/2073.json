@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2073",
+    "description": "chikn #2073",
+    "image": "https://cdn1.chikn.farm/images/b24c02e604c680f4329a2c28286aa1d82ef90dd2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "real feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3960",
+    "description": "chikn #3960",
+    "image": "https://cdn1.chikn.farm/images/8d20796cf1cf4c960a40743578047f831bdfdea0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

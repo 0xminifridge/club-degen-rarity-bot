@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6210",
+    "description": "chikn #6210",
+    "image": "https://cdn1.chikn.farm/images/eadf7bafaf82bbaf3438f05fc2a14170ccfc6e66.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

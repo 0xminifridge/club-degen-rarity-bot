@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8042",
+    "description": "chikn #8042",
+    "image": "https://cdn1.chikn.farm/images/59ce2fc4b9b9d931f23b0283c936b1430dd18412.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

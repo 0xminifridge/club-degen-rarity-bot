@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6989",
+    "description": "chikn #6989",
+    "image": "https://cdn1.chikn.farm/images/d6ba0d664a2a70821bfd1663b12e6ca2b6e0a0f0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

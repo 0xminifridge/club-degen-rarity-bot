@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2531",
+    "description": "chikn #2531",
+    "image": "https://cdn1.chikn.farm/images/3444bafaa56e4fa93ea3f9551dda92d29dc8b215.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

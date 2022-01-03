@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9995",
+    "description": "chikn #9995",
+    "image": "https://cdn1.chikn.farm/images/bee9ae7b95f6e319a9ac3854411fca9943afee03.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

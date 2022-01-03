@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4789",
+    "description": "chikn #4789",
+    "image": "https://cdn1.chikn.farm/images/6acf0aa6dd347ad648f75193137972ffb58a9537.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

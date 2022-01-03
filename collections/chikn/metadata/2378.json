@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2378",
+    "description": "chikn #2378",
+    "image": "https://cdn1.chikn.farm/images/ab127db029d5ee58ed4b6660d9d34003aee3d99c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

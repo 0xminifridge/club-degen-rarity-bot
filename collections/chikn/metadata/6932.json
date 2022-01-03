@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6932",
+    "description": "chikn #6932",
+    "image": "https://cdn1.chikn.farm/images/114d90444f57d74c3b5e354a032336e6573d5e34.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

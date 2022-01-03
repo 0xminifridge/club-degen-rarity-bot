@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7117",
+    "description": "chikn #7117",
+    "image": "https://cdn1.chikn.farm/images/b8b0cfc5a18edaf8ed730bc3ba19706f8ecc075a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

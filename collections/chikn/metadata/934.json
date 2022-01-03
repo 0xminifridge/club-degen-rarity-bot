@@ -1,0 +1,27 @@
+{
+    "name": "chikn #934",
+    "description": "chikn #934",
+    "image": "https://cdn1.chikn.farm/images/487b5d05aeb21b7dc00f2cdce51ac9640adf9cdc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

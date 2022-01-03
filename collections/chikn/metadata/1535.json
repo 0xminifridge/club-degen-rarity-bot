@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1535",
+    "description": "chikn #1535",
+    "image": "https://cdn1.chikn.farm/images/89eac7b57731cb2493c347d938b6ee8e893965c6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

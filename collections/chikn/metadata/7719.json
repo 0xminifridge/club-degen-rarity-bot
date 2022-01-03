@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7719",
+    "description": "chikn #7719",
+    "image": "https://cdn1.chikn.farm/images/efc5018185b90b923ee15fe67b3598b078e2aa86.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

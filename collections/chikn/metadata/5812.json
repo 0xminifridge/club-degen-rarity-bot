@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5812",
+    "description": "chikn #5812",
+    "image": "https://cdn1.chikn.farm/images/50a9ebde14318ac23e2175dbb2727d86bf16e0b7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

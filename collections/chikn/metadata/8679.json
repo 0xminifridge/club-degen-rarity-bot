@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8679",
+    "description": "chikn #8679",
+    "image": "https://cdn1.chikn.farm/images/c0e064aebd21debce1408a66264e9199764a7572.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

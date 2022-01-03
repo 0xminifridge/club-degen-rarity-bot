@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2489",
+    "description": "chikn #2489",
+    "image": "https://cdn1.chikn.farm/images/0b6313102b3802cd106802f5c00f46e7e68bfae0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

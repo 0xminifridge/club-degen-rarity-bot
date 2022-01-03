@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8910",
+    "description": "chikn #8910",
+    "image": "https://cdn1.chikn.farm/images/3a5f3e1ec013683aca6b94cb04643c28364a269f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

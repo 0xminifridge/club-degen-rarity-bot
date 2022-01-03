@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5091",
+    "description": "chikn #5091",
+    "image": "https://cdn1.chikn.farm/images/3bf3b5c5587530c4af9f03ca78032ca68d7ef4c3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

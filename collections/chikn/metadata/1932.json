@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1932",
+    "description": "chikn #1932",
+    "image": "https://cdn1.chikn.farm/images/9e6227c9c875c90d03e7361bcddfd49e572b7a7d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "real feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7019",
+    "description": "chikn #7019",
+    "image": "https://cdn1.chikn.farm/images/57116d8d6178028ceba9797b2767020a7523d01a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

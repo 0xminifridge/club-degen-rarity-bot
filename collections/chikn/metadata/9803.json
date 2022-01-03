@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9803",
+    "description": "chikn #9803",
+    "image": "https://cdn1.chikn.farm/images/e491f64de80be1039e409260e0dff7027b47c3af.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

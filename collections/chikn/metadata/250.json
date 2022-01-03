@@ -1,0 +1,19 @@
+{
+    "name": "chikn #250",
+    "description": "chikn #250",
+    "image": "https://cdn1.chikn.farm/images/8585c83cbc5e8ad889136ec6398cef4abe77d80d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

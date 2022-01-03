@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7672",
+    "description": "chikn #7672",
+    "image": "https://cdn1.chikn.farm/images/c01c7f75feb37dcdfc9a06b5ae2c7edfb90b9441.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7386",
+    "description": "chikn #7386",
+    "image": "https://cdn1.chikn.farm/images/8e3bbda9d8faa30eb28d88d041d52884f83592d3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

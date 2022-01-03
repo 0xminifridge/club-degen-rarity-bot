@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4019",
+    "description": "chikn #4019",
+    "image": "https://cdn1.chikn.farm/images/9ab6c7c198fa7558ae1fcfc283af78ce4d637af7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

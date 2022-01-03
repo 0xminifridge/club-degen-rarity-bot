@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9758",
+    "description": "chikn #9758",
+    "image": "https://cdn1.chikn.farm/images/229867909fe8e55d41afc06651af4c5c3d3543ba.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

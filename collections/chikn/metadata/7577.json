@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7577",
+    "description": "chikn #7577",
+    "image": "https://cdn1.chikn.farm/images/e619b67c7d7f78bf99dfbc374563103f9b1d1106.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

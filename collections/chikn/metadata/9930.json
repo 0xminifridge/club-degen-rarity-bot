@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9930",
+    "description": "chikn #9930",
+    "image": "https://cdn1.chikn.farm/images/2118e263ad1d13d8d61178cf9cc843300ff6353d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

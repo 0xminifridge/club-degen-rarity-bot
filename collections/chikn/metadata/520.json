@@ -1,0 +1,27 @@
+{
+    "name": "chikn #520",
+    "description": "chikn #520",
+    "image": "https://cdn1.chikn.farm/images/561e09312235b17625c8b13457553a20bed21d65.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

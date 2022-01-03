@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3926",
+    "description": "chikn #3926",
+    "image": "https://cdn1.chikn.farm/images/ef9a6cbbec04cec387e992d8f85b354e29e96cd9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

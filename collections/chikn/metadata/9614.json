@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9614",
+    "description": "chikn #9614",
+    "image": "https://cdn1.chikn.farm/images/7749fbbb6d5de85a40a4abcfab7e5bc1491591cc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

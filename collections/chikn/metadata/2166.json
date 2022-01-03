@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2166",
+    "description": "chikn #2166",
+    "image": "https://cdn1.chikn.farm/images/07052b33d29ba326be0208688373cef8d452e6b5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

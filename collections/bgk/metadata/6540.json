@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #6540",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/6540.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gradient Orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clown"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dino"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        }
+    ]
+}

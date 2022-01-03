@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8536",
+    "description": "chikn #8536",
+    "image": "https://cdn1.chikn.farm/images/33d94b9ff7dfc357ee3f1d655edf6673b3e87170.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

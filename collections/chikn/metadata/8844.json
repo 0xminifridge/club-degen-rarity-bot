@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8844",
+    "description": "chikn #8844",
+    "image": "https://cdn1.chikn.farm/images/d3f78eb94b6b70916d17f0cad586ba2bb72c92a4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

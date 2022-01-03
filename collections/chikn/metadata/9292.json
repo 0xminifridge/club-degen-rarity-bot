@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9292",
+    "description": "chikn #9292",
+    "image": "https://cdn1.chikn.farm/images/27afbc70085850ec5b1cfde88288e792ed8939c6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

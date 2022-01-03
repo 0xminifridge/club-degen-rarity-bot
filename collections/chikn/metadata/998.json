@@ -1,0 +1,23 @@
+{
+    "name": "chikn #998",
+    "description": "chikn #998",
+    "image": "https://cdn1.chikn.farm/images/cabef529aa9db6e03e11c3027772e69b4635d247.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

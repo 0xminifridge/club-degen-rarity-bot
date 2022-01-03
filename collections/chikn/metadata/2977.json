@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2977",
+    "description": "chikn #2977",
+    "image": "https://cdn1.chikn.farm/images/caea303045796a033042a561d14f7fd232d934c8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "luckiest red cap"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

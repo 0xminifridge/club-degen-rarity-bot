@@ -1,0 +1,27 @@
+{
+    "name": "chikn #194",
+    "description": "chikn #194",
+    "image": "https://cdn1.chikn.farm/images/81db4dea9ee26877764c5354cf8c34ae3779b3cc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

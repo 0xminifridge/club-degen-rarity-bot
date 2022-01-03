@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5858",
+    "description": "chikn #5858",
+    "image": "https://cdn1.chikn.farm/images/d3a21b490a7006b3af8b350422981fa7a675b892.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

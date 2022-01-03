@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7427",
+    "description": "chikn #7427",
+    "image": "https://cdn1.chikn.farm/images/f7d7ce0fab61afdad3347719d3d8d43eae47f4e4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

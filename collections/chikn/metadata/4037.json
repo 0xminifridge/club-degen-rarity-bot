@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4037",
+    "description": "chikn #4037",
+    "image": "https://cdn1.chikn.farm/images/820a7faa563d4c0e7a18d2a0240f56cd3d5aa021.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

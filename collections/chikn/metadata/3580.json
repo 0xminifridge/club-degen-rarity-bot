@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3580",
+    "description": "chikn #3580",
+    "image": "https://cdn1.chikn.farm/images/a7980e0e3d856393b4b462e274a0c8f6c67144ec.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

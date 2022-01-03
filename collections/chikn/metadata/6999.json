@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6999",
+    "description": "chikn #6999",
+    "image": "https://cdn1.chikn.farm/images/5c240f7b989974f735f37d9db7ff89ff18e790f8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

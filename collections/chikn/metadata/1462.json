@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1462",
+    "description": "chikn #1462",
+    "image": "https://cdn1.chikn.farm/images/4487fd73c08468a9d51ec6aeea9ccf82fea5077e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

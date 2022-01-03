@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3069",
+    "description": "chikn #3069",
+    "image": "https://cdn1.chikn.farm/images/75f14003f19ec0e0058ba62af1aac250b7482e9e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

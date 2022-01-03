@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7804",
+    "description": "chikn #7804",
+    "image": "https://cdn1.chikn.farm/images/88836c3cd77c867ea97d259f47cb92f197b27f0f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

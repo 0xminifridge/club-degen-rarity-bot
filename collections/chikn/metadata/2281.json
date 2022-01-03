@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2281",
+    "description": "chikn #2281",
+    "image": "https://cdn1.chikn.farm/images/9e4ec974ee614a28acdcfa602aa2e1927b5dc7dd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

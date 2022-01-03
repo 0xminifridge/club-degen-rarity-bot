@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8692",
+    "description": "chikn #8692",
+    "image": "https://cdn1.chikn.farm/images/c9d1223727b58d088709c12dc7b3f100b03c35c1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

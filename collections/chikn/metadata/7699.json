@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7699",
+    "description": "chikn #7699",
+    "image": "https://cdn1.chikn.farm/images/1dad797b8424e422f9ecb5a8bdc830a43aea976e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "super saiyan"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

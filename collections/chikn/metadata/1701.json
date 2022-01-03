@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1701",
+    "description": "chikn #1701",
+    "image": "https://cdn1.chikn.farm/images/8748364ecc4afabcaef9c46619da00da79045ba5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

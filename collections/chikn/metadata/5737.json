@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5737",
+    "description": "chikn #5737",
+    "image": "https://cdn1.chikn.farm/images/8b99602c0486459f127bffd0214d425add37e2ae.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #282",
+    "description": "chikn #282",
+    "image": "https://cdn1.chikn.farm/images/7772eee0cf7a895a347fcd56a39be6a2f9856f9f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5252",
+    "description": "chikn #5252",
+    "image": "https://cdn1.chikn.farm/images/9bd2d9c6fac13d93f4746e085a5c19b54fbe3149.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

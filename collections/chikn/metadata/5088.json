@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5088",
+    "description": "chikn #5088",
+    "image": "https://cdn1.chikn.farm/images/65add6fcd16687222ae8a69d6340c015425a2351.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

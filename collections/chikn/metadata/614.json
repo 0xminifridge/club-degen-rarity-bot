@@ -1,0 +1,27 @@
+{
+    "name": "chikn #614",
+    "description": "chikn #614",
+    "image": "https://cdn1.chikn.farm/images/c0f8c45757dcb5b6f1f2c6bb6fcc468a43b0c17c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

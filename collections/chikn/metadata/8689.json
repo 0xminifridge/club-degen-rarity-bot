@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8689",
+    "description": "chikn #8689",
+    "image": "https://cdn1.chikn.farm/images/7925f32215c8a55fa115f9cadca97034965bef95.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "murica"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

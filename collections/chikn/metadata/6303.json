@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6303",
+    "description": "chikn #6303",
+    "image": "https://cdn1.chikn.farm/images/9f69258cd731eb52ade547a8ab3eee8c5800eec1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8023",
+    "description": "chikn #8023",
+    "image": "https://cdn1.chikn.farm/images/da25ebd348af726ba50e5a0a40d8ef2e7d96a259.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "karate kid"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5940",
+    "description": "chikn #5940",
+    "image": "https://cdn1.chikn.farm/images/fd1297af95c63f889f8362c51d241094a9a2caef.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2978",
+    "description": "chikn #2978",
+    "image": "https://cdn1.chikn.farm/images/94b30905bc2d11542a61d9de30eff495b07a8ab9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

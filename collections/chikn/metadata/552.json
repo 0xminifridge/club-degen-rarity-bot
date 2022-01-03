@@ -1,0 +1,27 @@
+{
+    "name": "chikn #552",
+    "description": "chikn #552",
+    "image": "https://cdn1.chikn.farm/images/ad14b0ff2ac860f678130224e6c6927f1831b505.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "real feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

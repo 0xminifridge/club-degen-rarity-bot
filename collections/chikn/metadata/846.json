@@ -1,0 +1,31 @@
+{
+    "name": "chikn #846",
+    "description": "chikn #846",
+    "image": "https://cdn1.chikn.farm/images/1d78c24500e4c37b60f838b2e6a7f1237379bf0c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

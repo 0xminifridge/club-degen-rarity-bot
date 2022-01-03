@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2583",
+    "description": "chikn #2583",
+    "image": "https://cdn1.chikn.farm/images/9bf379f652cc44bda4a5e224ac3c0df614225aac.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

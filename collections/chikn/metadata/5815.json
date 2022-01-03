@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5815",
+    "description": "chikn #5815",
+    "image": "https://cdn1.chikn.farm/images/aeda1057beef65264bfbf3a75f3d7f8aedb0814f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

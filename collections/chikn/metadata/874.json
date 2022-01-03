@@ -1,0 +1,27 @@
+{
+    "name": "chikn #874",
+    "description": "chikn #874",
+    "image": "https://cdn1.chikn.farm/images/81a254fd6582995661b014f0cc0d40d72dd27b4a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

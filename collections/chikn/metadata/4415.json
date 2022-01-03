@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4415",
+    "description": "chikn #4415",
+    "image": "https://cdn1.chikn.farm/images/f42a6d986fbce803cfaf22db703c1bb8e627a536.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8391",
+    "description": "chikn #8391",
+    "image": "https://cdn1.chikn.farm/images/3034d7081854bca4e178d53c460a72b1b29baa7c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

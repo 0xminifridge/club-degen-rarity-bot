@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #5228",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/5228.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gradient Orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Twinkle"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BGK Red"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Tank Top"
+        }
+    ]
+}

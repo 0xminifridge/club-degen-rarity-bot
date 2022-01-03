@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2756",
+    "description": "chikn #2756",
+    "image": "https://cdn1.chikn.farm/images/101ba53b712ff156db232448c84323e2bcc58f2d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

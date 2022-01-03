@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7087",
+    "description": "chikn #7087",
+    "image": "https://cdn1.chikn.farm/images/8b28f076abaff13de7a8029805fa01ae75ee3091.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

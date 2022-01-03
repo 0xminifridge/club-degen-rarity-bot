@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1988",
+    "description": "chikn #1988",
+    "image": "https://cdn1.chikn.farm/images/c204034805e9aa9312263e8039f630e5e52b7a88.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #547",
+    "description": "chikn #547",
+    "image": "https://cdn1.chikn.farm/images/5ec411aa5b747cae8c2463bccf1952efd5cc0190.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "daft punk"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

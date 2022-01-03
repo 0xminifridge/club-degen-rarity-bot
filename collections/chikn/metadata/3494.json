@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3494",
+    "description": "chikn #3494",
+    "image": "https://cdn1.chikn.farm/images/c267ee781fcb33e3c47d75c6346b10c9e65ff66f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9332",
+    "description": "chikn #9332",
+    "image": "https://cdn1.chikn.farm/images/8bb3d531dda014ef5dbc73c680b813a48fcad11a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden bone daddy"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

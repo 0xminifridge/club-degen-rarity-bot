@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4435",
+    "description": "chikn #4435",
+    "image": "https://cdn1.chikn.farm/images/9c5a49f3dbd5064802c5bb2b146c635105c0a2f0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

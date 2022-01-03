@@ -1,0 +1,27 @@
+{
+    "name": "chikn #710",
+    "description": "chikn #710",
+    "image": "https://cdn1.chikn.farm/images/b569591550d43e534fa20c80eee11bda635db9f3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

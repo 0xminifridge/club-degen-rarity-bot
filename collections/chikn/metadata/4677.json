@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4677",
+    "description": "chikn #4677",
+    "image": "https://cdn1.chikn.farm/images/8944fa775da4481ce73dc9c9f3dc6124be2c4654.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

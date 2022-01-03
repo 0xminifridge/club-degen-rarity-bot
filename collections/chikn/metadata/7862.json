@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7862",
+    "description": "chikn #7862",
+    "image": "https://cdn1.chikn.farm/images/675d1fcb48edb505d9e1bc390462c3493ef99586.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

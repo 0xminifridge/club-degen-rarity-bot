@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4904",
+    "description": "chikn #4904",
+    "image": "https://cdn1.chikn.farm/images/970bb441f429e25df4e7ee9a0ce764e233ec55ce.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

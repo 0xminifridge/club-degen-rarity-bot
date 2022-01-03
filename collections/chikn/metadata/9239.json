@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9239",
+    "description": "chikn #9239",
+    "image": "https://cdn1.chikn.farm/images/04b77b05b91dcc08e7246560290dc9494bb7b4ad.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

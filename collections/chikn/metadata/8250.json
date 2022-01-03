@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8250",
+    "description": "chikn #8250",
+    "image": "https://cdn1.chikn.farm/images/e832ce27ae5d0cafbf7abdd60258f91c5263867e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

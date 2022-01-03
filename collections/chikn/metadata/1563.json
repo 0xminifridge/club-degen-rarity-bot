@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1563",
+    "description": "chikn #1563",
+    "image": "https://cdn1.chikn.farm/images/ccbebf895934f7808e6a325943387fa6785fca4c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

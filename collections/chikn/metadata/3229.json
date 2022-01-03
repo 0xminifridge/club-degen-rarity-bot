@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3229",
+    "description": "chikn #3229",
+    "image": "https://cdn1.chikn.farm/images/0734891ed727a60dd83856a86e28d828946f6a64.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

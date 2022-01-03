@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9085",
+    "description": "chikn #9085",
+    "image": "https://cdn1.chikn.farm/images/882a6d0e8cf4696104ccaae59e60f65b3225944c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

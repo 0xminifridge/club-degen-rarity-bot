@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7514",
+    "description": "chikn #7514",
+    "image": "https://cdn1.chikn.farm/images/a27608f24d2e26b775862bcd4f18ab8aff5fc71e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

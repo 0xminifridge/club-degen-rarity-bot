@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #5049",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/5049.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gradient Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clown"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Punk"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hawaiian"
+        }
+    ]
+}

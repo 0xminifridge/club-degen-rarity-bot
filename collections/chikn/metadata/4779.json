@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4779",
+    "description": "chikn #4779",
+    "image": "https://cdn1.chikn.farm/images/0fe131c10e2588ccaa53fc3b5344aef4f4fb06d1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

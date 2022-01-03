@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2505",
+    "description": "chikn #2505",
+    "image": "https://cdn1.chikn.farm/images/cc76486ed106deadc9d5c466868e7e4323c5af8f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6613",
+    "description": "chikn #6613",
+    "image": "https://cdn1.chikn.farm/images/68c5e49559245c4cf9e52572ed16520adbd5edcb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

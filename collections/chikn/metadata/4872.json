@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4872",
+    "description": "chikn #4872",
+    "image": "https://cdn1.chikn.farm/images/0090b49de91f4cc556df13534ae312b5575be6d9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

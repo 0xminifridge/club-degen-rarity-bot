@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2302",
+    "description": "chikn #2302",
+    "image": "https://cdn1.chikn.farm/images/e8d8a7638529db353a5bbc2ad8ee2dfd5ca43b43.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "galactic"
+        }
+    ]
+}

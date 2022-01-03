@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3906",
+    "description": "chikn #3906",
+    "image": "https://cdn1.chikn.farm/images/f2249c0c373df6e8ea9fa7b5567733831c892ecd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

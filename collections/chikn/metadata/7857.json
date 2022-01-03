@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7857",
+    "description": "chikn #7857",
+    "image": "https://cdn1.chikn.farm/images/8fd092fcaa5aef7487dac9ff19547f09904eed2e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

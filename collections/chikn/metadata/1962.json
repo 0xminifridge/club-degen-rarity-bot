@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1962",
+    "description": "chikn #1962",
+    "image": "https://cdn1.chikn.farm/images/af3e37172ca89bd5d029fe3ff90ff607b1e4ea0c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

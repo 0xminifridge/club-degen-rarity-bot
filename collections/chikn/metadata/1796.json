@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1796",
+    "description": "chikn #1796",
+    "image": "https://cdn1.chikn.farm/images/d36a7b9e6fe1e3f604fe83cf890d0722baab8128.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

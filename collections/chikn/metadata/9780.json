@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9780",
+    "description": "chikn #9780",
+    "image": "https://cdn1.chikn.farm/images/ec28bd7b52c315bb41d1802a5c0c815ad2542a64.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #656",
+    "description": "chikn #656",
+    "image": "https://cdn1.chikn.farm/images/fb1d78245818f90c3eee251bfc7815f68fc5c4ca.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

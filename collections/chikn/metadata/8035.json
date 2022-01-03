@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8035",
+    "description": "chikn #8035",
+    "image": "https://cdn1.chikn.farm/images/c11bebfb08119009081e3d802d7db9b0e670cf89.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin maxi"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

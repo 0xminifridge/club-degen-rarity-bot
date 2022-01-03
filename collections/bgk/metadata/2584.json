@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #2584",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/2584.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gradient Green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Parted White"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "PJs"
+        }
+    ]
+}

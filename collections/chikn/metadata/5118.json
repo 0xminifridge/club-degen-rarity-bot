@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5118",
+    "description": "chikn #5118",
+    "image": "https://cdn1.chikn.farm/images/5a8367635ed8ee9efa53cb7a81f0a94e20b3a8b8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

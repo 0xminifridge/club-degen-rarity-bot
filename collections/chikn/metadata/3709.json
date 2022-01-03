@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3709",
+    "description": "chikn #3709",
+    "image": "https://cdn1.chikn.farm/images/ed740424086544abe64b04abd23f8d2a71dcfd8e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

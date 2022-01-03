@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5244",
+    "description": "chikn #5244",
+    "image": "https://cdn1.chikn.farm/images/246dd1f77f58f74144cec1801271ea12da9cada8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

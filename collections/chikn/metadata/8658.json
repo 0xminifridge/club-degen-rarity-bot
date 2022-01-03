@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8658",
+    "description": "chikn #8658",
+    "image": "https://cdn1.chikn.farm/images/678386fd2e74416aaeacb816352f204ca402db4a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

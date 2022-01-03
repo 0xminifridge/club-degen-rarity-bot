@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7486",
+    "description": "chikn #7486",
+    "image": "https://cdn1.chikn.farm/images/4fd2d30801c65a2171e4f3a5e56d6137dc08c022.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

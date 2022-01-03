@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2306",
+    "description": "chikn #2306",
+    "image": "https://cdn1.chikn.farm/images/964e07aa0baee892063549ae4eecf756a44b74a3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

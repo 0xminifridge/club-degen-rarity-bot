@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2937",
+    "description": "chikn #2937",
+    "image": "https://cdn1.chikn.farm/images/01e88680ba37f5b99c89da71ff7526625ac1682e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin maxi"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

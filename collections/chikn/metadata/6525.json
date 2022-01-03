@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6525",
+    "description": "chikn #6525",
+    "image": "https://cdn1.chikn.farm/images/3a847c0cd1a569360f887cb2d4478597ca77c004.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

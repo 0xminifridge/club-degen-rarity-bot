@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2282",
+    "description": "chikn #2282",
+    "image": "https://cdn1.chikn.farm/images/5840f80dca4bbfabff115cb90ec20a94b7ec0ff9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

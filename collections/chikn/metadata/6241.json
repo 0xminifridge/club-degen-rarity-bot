@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6241",
+    "description": "chikn #6241",
+    "image": "https://cdn1.chikn.farm/images/e122a542384e96980858290379143750b5526f2b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

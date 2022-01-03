@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4366",
+    "description": "chikn #4366",
+    "image": "https://cdn1.chikn.farm/images/4d275757f151042ffa5a3229b6f1da1c66701540.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

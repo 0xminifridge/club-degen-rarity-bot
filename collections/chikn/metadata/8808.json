@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8808",
+    "description": "chikn #8808",
+    "image": "https://cdn1.chikn.farm/images/ee7e80a09502f14aa77e237a1b89d6ff5262cfaa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pineapple"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

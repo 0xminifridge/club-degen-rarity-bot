@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2232",
+    "description": "chikn #2232",
+    "image": "https://cdn1.chikn.farm/images/2b7b8b64f9f11ce4e4238c057c28d2b002526ff5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

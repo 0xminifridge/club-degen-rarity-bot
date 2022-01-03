@@ -1,0 +1,27 @@
+{
+    "name": "chikn #499",
+    "description": "chikn #499",
+    "image": "https://cdn1.chikn.farm/images/9a62a8f0232851d2923b3218afda9925fd53adbc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

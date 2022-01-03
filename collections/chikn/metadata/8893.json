@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8893",
+    "description": "chikn #8893",
+    "image": "https://cdn1.chikn.farm/images/e94a3079789946b4c207f08f4b2d2ea5d5849407.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

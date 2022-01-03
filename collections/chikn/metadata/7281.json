@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7281",
+    "description": "chikn #7281",
+    "image": "https://cdn1.chikn.farm/images/372d58be7fd0829eba7ed14a8ba5225be7adc9c5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "galactic"
+        }
+    ]
+}

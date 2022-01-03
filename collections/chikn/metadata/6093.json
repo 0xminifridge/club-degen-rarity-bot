@@ -1,0 +1,23 @@
+{
+    "name": "chikn #6093",
+    "description": "chikn #6093",
+    "image": "https://cdn1.chikn.farm/images/71268a51cc8d07d339413d7416ead9b5fe69d167.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

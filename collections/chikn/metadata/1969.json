@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1969",
+    "description": "chikn #1969",
+    "image": "https://cdn1.chikn.farm/images/0a0e261eaa0bcf14e9dc601af95565d4d8bb1fcb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

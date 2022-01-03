@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4373",
+    "description": "chikn #4373",
+    "image": "https://cdn1.chikn.farm/images/e5336a6403716882158f9f6f22edc33990d1a508.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

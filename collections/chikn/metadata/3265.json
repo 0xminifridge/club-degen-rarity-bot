@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3265",
+    "description": "chikn #3265",
+    "image": "https://cdn1.chikn.farm/images/abb88214012a99d4c6c9980f11d998dcc6bb01e8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "karate kid"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "galactic"
+        }
+    ]
+}

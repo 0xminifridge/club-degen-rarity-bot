@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3013",
+    "description": "chikn #3013",
+    "image": "https://cdn1.chikn.farm/images/fae32c1a5b34a0593fc2a253ed0475d030b85473.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "boxhead"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

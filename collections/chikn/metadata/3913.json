@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3913",
+    "description": "chikn #3913",
+    "image": "https://cdn1.chikn.farm/images/45691db96b892f69eb4bfc3a4f71071ce7f2c936.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

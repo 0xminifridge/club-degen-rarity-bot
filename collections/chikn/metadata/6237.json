@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6237",
+    "description": "chikn #6237",
+    "image": "https://cdn1.chikn.farm/images/df8c956f6f266723e07e57330b6cb0ad69699f0b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

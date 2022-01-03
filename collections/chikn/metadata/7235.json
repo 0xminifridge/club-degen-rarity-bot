@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7235",
+    "description": "chikn #7235",
+    "image": "https://cdn1.chikn.farm/images/9ac5faa221ab7ece5e22e9c7cb3bd21ed008d307.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

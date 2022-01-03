@@ -1,0 +1,19 @@
+{
+    "name": "chikn #6291",
+    "description": "chikn #6291",
+    "image": "https://cdn1.chikn.farm/images/21ea6d6f354aa00a0e30cca4fbebc092054aca31.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

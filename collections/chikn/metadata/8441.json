@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8441",
+    "description": "chikn #8441",
+    "image": "https://cdn1.chikn.farm/images/072f9a39d49f69e06194a56b695ccd31d4a4e14c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

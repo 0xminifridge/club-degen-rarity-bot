@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9790",
+    "description": "chikn #9790",
+    "image": "https://cdn1.chikn.farm/images/9bdc4ac25766f937118bef3f2bb2612c9e534185.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8917",
+    "description": "chikn #8917",
+    "image": "https://cdn1.chikn.farm/images/092133a882f996b04ebd68a413b8ee39079f5c5b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

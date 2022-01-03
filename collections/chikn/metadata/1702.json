@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1702",
+    "description": "chikn #1702",
+    "image": "https://cdn1.chikn.farm/images/d5dc74e01af4bd45976d5dce0a7a8809ed21e911.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pineapple"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

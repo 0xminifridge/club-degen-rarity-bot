@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3016",
+    "description": "chikn #3016",
+    "image": "https://cdn1.chikn.farm/images/5cbf4f15af0270466a60d769be1e2570ea1064fc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "tail",
+            "value": "big mama fat pipes"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #286",
+    "description": "chikn #286",
+    "image": "https://cdn1.chikn.farm/images/7307d9662c358fdee148fbdcab68918738e2db68.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

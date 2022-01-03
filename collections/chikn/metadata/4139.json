@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4139",
+    "description": "chikn #4139",
+    "image": "https://cdn1.chikn.farm/images/d43f8f57bb7dc80bb58e11002cfa896a34170cc6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

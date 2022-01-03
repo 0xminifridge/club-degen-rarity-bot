@@ -1,0 +1,27 @@
+{
+    "name": "chikn #801",
+    "description": "chikn #801",
+    "image": "https://cdn1.chikn.farm/images/b43e26e36ec4a4c2076b17ee3c54047ba7d27186.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

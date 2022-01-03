@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7994",
+    "description": "chikn #7994",
+    "image": "https://cdn1.chikn.farm/images/4b925e3c2de306726b3d8f60fffccdf6cf7578b3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

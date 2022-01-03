@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2587",
+    "description": "chikn #2587",
+    "image": "https://cdn1.chikn.farm/images/1ab67363e6dd051b85dfe48c8eed1a0745af9665.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

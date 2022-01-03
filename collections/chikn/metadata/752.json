@@ -1,0 +1,27 @@
+{
+    "name": "chikn #752",
+    "description": "chikn #752",
+    "image": "https://cdn1.chikn.farm/images/676a4e10bc65a14489f965a7319f4cb2f7016133.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

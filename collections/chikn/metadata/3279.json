@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3279",
+    "description": "chikn #3279",
+    "image": "https://cdn1.chikn.farm/images/d7912a4c758e0c9b9f4162effeec4620682c8597.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

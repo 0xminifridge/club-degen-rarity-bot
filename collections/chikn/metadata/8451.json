@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8451",
+    "description": "chikn #8451",
+    "image": "https://cdn1.chikn.farm/images/952c8dbba4ae58e7112082b9e95cd0fa51f2ac83.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4346",
+    "description": "chikn #4346",
+    "image": "https://cdn1.chikn.farm/images/f135343aff841825e19f9cb6154d3fc5d4cda72c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

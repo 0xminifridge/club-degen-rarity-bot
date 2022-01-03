@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4725",
+    "description": "chikn #4725",
+    "image": "https://cdn1.chikn.farm/images/b6d44f8f4a76579e8029d98ec337288d4a859933.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

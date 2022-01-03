@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3048",
+    "description": "chikn #3048",
+    "image": "https://cdn1.chikn.farm/images/1b44a2d5d13194965bb1328218e1f561b999ff78.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

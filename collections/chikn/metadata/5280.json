@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5280",
+    "description": "chikn #5280",
+    "image": "https://cdn1.chikn.farm/images/4475be3e2bd1aa90440f19590c56f1e45685e088.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

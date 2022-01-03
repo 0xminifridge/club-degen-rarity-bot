@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5853",
+    "description": "chikn #5853",
+    "image": "https://cdn1.chikn.farm/images/f99f160b8c027104acaee29e6af2f7c4780ca21a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4890",
+    "description": "chikn #4890",
+    "image": "https://cdn1.chikn.farm/images/aa9e820ea4bce2171302900f9bf337ce8879c7e2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

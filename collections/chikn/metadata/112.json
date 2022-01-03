@@ -1,0 +1,23 @@
+{
+    "name": "chikn #112",
+    "description": "chikn #112",
+    "image": "https://cdn1.chikn.farm/images/694b7f3d6a7f498cca7c26bc2639bd134838c6b6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

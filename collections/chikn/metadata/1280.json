@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1280",
+    "description": "chikn #1280",
+    "image": "https://cdn1.chikn.farm/images/fa0caf687e05ba90dba98bd4280000ed75796ba9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

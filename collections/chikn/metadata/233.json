@@ -1,0 +1,27 @@
+{
+    "name": "chikn #233",
+    "description": "chikn #233",
+    "image": "https://cdn1.chikn.farm/images/eedd286326791ab688afe7f81912be00e1698c91.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

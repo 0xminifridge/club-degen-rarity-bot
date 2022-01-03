@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3704",
+    "description": "chikn #3704",
+    "image": "https://cdn1.chikn.farm/images/e11b6a5723d13a6822daaa0ce94904e4dc789e81.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1674",
+    "description": "chikn #1674",
+    "image": "https://cdn1.chikn.farm/images/e2472d4ced1f1484f5bc5e6825c312d586dda779.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

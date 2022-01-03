@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8914",
+    "description": "chikn #8914",
+    "image": "https://cdn1.chikn.farm/images/241f9c6c9b99ced70b1eb890a6ae3e392538d71a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1644",
+    "description": "chikn #1644",
+    "image": "https://cdn1.chikn.farm/images/13666a684c8ca842ee047cda7adffb32d78bc17e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

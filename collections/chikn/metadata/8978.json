@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8978",
+    "description": "chikn #8978",
+    "image": "https://cdn1.chikn.farm/images/9a3e597836ea453d52ac0daff06ff12d140c95bb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8756",
+    "description": "chikn #8756",
+    "image": "https://cdn1.chikn.farm/images/17a8fe82c8023311d4873f19d9bd30abc1f35867.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

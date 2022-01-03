@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5624",
+    "description": "chikn #5624",
+    "image": "https://cdn1.chikn.farm/images/89e116b7815bdb83bdcac6c325ce25a32f15e393.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

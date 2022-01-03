@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2020",
+    "description": "chikn #2020",
+    "image": "https://cdn1.chikn.farm/images/7dbe9b64074f08126a3b5f00e7ddb672d1ea6171.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

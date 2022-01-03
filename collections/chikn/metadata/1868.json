@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1868",
+    "description": "chikn #1868",
+    "image": "https://cdn1.chikn.farm/images/ad3888c26770b1f56cf0a1265745d34730ae8711.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

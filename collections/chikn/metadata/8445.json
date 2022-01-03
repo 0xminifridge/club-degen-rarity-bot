@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8445",
+    "description": "chikn #8445",
+    "image": "https://cdn1.chikn.farm/images/7ed80c4b0acab36c2fb41597a93e6694535851c5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

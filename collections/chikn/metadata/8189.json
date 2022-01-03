@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8189",
+    "description": "chikn #8189",
+    "image": "https://cdn1.chikn.farm/images/7f8ed7b5c8e2d200b3b6fb71bdcb01823467494e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "smoking lounge"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

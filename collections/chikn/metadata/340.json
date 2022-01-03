@@ -1,0 +1,19 @@
+{
+    "name": "chikn #340",
+    "description": "chikn #340",
+    "image": "https://cdn1.chikn.farm/images/561f2b755ed6459c101fbcc6b301765a32c1fc40.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

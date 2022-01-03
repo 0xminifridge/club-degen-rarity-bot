@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2322",
+    "description": "chikn #2322",
+    "image": "https://cdn1.chikn.farm/images/4c9324a7cb2fe9099c12d81026c557c83dfe8f7d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

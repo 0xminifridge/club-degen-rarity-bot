@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4580",
+    "description": "chikn #4580",
+    "image": "https://cdn1.chikn.farm/images/2635cb8bbf19c68d6a198045fcc0237de3564bd1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin maxi"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

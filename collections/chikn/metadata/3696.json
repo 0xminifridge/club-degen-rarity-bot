@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3696",
+    "description": "chikn #3696",
+    "image": "https://cdn1.chikn.farm/images/60da489e12945aa020b8582f7e692fe742ec4b91.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "lucky blue cap"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim og"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

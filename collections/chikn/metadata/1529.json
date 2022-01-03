@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1529",
+    "description": "chikn #1529",
+    "image": "https://cdn1.chikn.farm/images/30c54f141fba88322dc195c7d572dc1742e648d4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

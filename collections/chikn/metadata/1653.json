@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1653",
+    "description": "chikn #1653",
+    "image": "https://cdn1.chikn.farm/images/ede2d7219f0b3ffb13f0a567d8c43acd2a5bd752.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

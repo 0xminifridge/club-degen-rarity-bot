@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2163",
+    "description": "chikn #2163",
+    "image": "https://cdn1.chikn.farm/images/81c845c4b2e99d940ffcb003afd3d0eb82e23571.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

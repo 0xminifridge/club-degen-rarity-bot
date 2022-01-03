@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4853",
+    "description": "chikn #4853",
+    "image": "https://cdn1.chikn.farm/images/26deb4e6cfdf7477b37bb068c49bd3911d1ddf75.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

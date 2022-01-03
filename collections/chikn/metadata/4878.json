@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4878",
+    "description": "chikn #4878",
+    "image": "https://cdn1.chikn.farm/images/cefda57871c2348dd49a068c324ba560adbe582e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden bone daddy"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

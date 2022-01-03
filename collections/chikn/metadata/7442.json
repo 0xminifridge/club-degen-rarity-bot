@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7442",
+    "description": "chikn #7442",
+    "image": "https://cdn1.chikn.farm/images/e8180eb7c012ff167374507d9e588031b1b0c0d1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

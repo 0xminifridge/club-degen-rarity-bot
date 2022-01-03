@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2445",
+    "description": "chikn #2445",
+    "image": "https://cdn1.chikn.farm/images/2c434b2f795d062379c9d59f39a0d26a5ad8dfc3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

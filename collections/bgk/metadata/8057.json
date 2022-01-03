@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #8057",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/8057.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clown"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Candy Cane"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Dreamy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Backwards Hat"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Turtleneck"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9173",
+    "description": "chikn #9173",
+    "image": "https://cdn1.chikn.farm/images/ff3630e0589d8e75048a635d7cf016fd26f0447e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

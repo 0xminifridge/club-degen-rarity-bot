@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9270",
+    "description": "chikn #9270",
+    "image": "https://cdn1.chikn.farm/images/49add3c29dafbc4c16097830a8fa1512e9a0ae9e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

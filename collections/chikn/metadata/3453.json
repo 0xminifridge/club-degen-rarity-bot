@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3453",
+    "description": "chikn #3453",
+    "image": "https://cdn1.chikn.farm/images/09c75bc8301292641bb32c7b9abc3c43752beb9b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9260",
+    "description": "chikn #9260",
+    "image": "https://cdn1.chikn.farm/images/f38e4c824608b95558034a69bbe78f77059d49fe.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9589",
+    "description": "chikn #9589",
+    "image": "https://cdn1.chikn.farm/images/623d2edde5da50e4e1e35dc1a5a6b221dcc81156.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

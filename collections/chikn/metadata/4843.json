@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4843",
+    "description": "chikn #4843",
+    "image": "https://cdn1.chikn.farm/images/0c8a0da8c9e85be96fbf04aa0cb1f13cf88b7c87.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

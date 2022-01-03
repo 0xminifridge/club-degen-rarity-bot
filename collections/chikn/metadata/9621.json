@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9621",
+    "description": "chikn #9621",
+    "image": "https://cdn1.chikn.farm/images/0ef93cb039eafb452cd8bda5fdea771754ad2680.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden bone daddy"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #69",
+    "description": "chikn #69",
+    "image": "https://cdn1.chikn.farm/images/9b2be27577c66c46f696715cab21873212b0634e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #94",
+    "description": "chikn #94",
+    "image": "https://cdn1.chikn.farm/images/809de993d7e45c79156bdf9ee53e3fbbfc79328f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "laser eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

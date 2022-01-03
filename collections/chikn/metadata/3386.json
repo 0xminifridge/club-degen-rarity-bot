@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3386",
+    "description": "chikn #3386",
+    "image": "https://cdn1.chikn.farm/images/b08ccc48e9098e219582d86b913ef67859ddafb6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

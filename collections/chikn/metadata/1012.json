@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1012",
+    "description": "chikn #1012",
+    "image": "https://cdn1.chikn.farm/images/03a8ebb5c373f8e838ea1795f6b4acb46cdeda0d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "inherited royalty"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

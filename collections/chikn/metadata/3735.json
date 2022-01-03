@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3735",
+    "description": "chikn #3735",
+    "image": "https://cdn1.chikn.farm/images/55d2aef32bc06d4d822a28ba4912d5b6eadaa644.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "farm"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7091",
+    "description": "chikn #7091",
+    "image": "https://cdn1.chikn.farm/images/3c5aa4b4bff8b0a817e6fbbaa69d73e710b029bb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

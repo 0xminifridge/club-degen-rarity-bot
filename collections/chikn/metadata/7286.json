@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7286",
+    "description": "chikn #7286",
+    "image": "https://cdn1.chikn.farm/images/bd303f31f6f9e15376beb37f7e61a45495fa0e7a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "sucker"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

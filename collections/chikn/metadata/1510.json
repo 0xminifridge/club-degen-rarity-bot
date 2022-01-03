@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1510",
+    "description": "chikn #1510",
+    "image": "https://cdn1.chikn.farm/images/17b45e7b0b36e638bcf464c04e74623a9f69a171.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

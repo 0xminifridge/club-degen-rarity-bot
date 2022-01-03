@@ -1,0 +1,27 @@
+{
+    "name": "chikn #911",
+    "description": "chikn #911",
+    "image": "https://cdn1.chikn.farm/images/78a8ca04beef4f9cb6e773e52cd0931cd77d61d5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

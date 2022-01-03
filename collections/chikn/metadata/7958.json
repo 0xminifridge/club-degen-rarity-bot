@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7958",
+    "description": "chikn #7958",
+    "image": "https://cdn1.chikn.farm/images/61e12c2b758301908c9dec10007df4d0e8963273.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

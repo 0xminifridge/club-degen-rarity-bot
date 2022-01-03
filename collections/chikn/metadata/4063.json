@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4063",
+    "description": "chikn #4063",
+    "image": "https://cdn1.chikn.farm/images/6dc30527c92b774a87e4ccd37c446a8e1d0eacd7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

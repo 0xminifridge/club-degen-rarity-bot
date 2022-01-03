@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1930",
+    "description": "chikn #1930",
+    "image": "https://cdn1.chikn.farm/images/d3fe113db0314f1392127fd7c56160c4e07ccf69.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hamlet"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

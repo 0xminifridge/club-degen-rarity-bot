@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2001",
+    "description": "chikn #2001",
+    "image": "https://cdn1.chikn.farm/images/d8eb7e79ddb3d109e10b7f13ec324801d1f9ad23.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

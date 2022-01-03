@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9277",
+    "description": "chikn #9277",
+    "image": "https://cdn1.chikn.farm/images/f085488c984992ba94939b4eeb1788ca32d3812e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

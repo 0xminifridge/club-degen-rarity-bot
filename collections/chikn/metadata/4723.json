@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4723",
+    "description": "chikn #4723",
+    "image": "https://cdn1.chikn.farm/images/2caa7003511e571a33fa2f752b757f111f6a5ef7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #107",
+    "description": "chikn #107",
+    "image": "https://cdn1.chikn.farm/images/8b1dbde91b3e601d0c1386518fbe1cb0186b3611.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

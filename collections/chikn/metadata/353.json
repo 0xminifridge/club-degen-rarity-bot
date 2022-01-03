@@ -1,0 +1,27 @@
+{
+    "name": "chikn #353",
+    "description": "chikn #353",
+    "image": "https://cdn1.chikn.farm/images/28e8df763ca813711e3834ed51655dd8944f24f9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

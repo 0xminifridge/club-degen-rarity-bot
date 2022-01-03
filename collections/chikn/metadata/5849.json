@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5849",
+    "description": "chikn #5849",
+    "image": "https://cdn1.chikn.farm/images/64f99d7fe8db435ab25b00364a019ae06d2e1d22.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

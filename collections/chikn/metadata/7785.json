@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7785",
+    "description": "chikn #7785",
+    "image": "https://cdn1.chikn.farm/images/fcc929f28679c64bb537c702f70725fb18df14a2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

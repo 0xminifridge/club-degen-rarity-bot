@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3066",
+    "description": "chikn #3066",
+    "image": "https://cdn1.chikn.farm/images/896e2778373567f35afaf002a0355714927bb8c0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

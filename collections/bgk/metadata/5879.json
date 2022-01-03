@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #5879",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/5879.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wink"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dino"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        }
+    ]
+}

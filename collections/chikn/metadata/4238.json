@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4238",
+    "description": "chikn #4238",
+    "image": "https://cdn1.chikn.farm/images/8af5ef33991243d51fde43bc862886d6be23592b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

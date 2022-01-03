@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8494",
+    "description": "chikn #8494",
+    "image": "https://cdn1.chikn.farm/images/a9a4134b40b6eabab47cfb47ffeb74c9cec200b5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

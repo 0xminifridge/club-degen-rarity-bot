@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7083",
+    "description": "chikn #7083",
+    "image": "https://cdn1.chikn.farm/images/af0bf67b1aa20c3b0a86b7169e43c2545bd0cb55.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

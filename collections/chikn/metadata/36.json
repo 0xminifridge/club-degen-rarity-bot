@@ -1,0 +1,27 @@
+{
+    "name": "chikn #36",
+    "description": "chikn #36",
+    "image": "https://cdn1.chikn.farm/images/1cfe1030ad9ce146b4e72f198e944bf0f62e044b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

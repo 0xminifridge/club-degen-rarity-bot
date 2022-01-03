@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2209",
+    "description": "chikn #2209",
+    "image": "https://cdn1.chikn.farm/images/a80c6fdeb4c531718f52b0252a966962653072c6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

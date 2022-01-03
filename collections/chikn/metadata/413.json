@@ -1,0 +1,27 @@
+{
+    "name": "chikn #413",
+    "description": "chikn #413",
+    "image": "https://cdn1.chikn.farm/images/79a68a6fe3b8d278e6c79c90c486f45d7affa80f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "real feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4932",
+    "description": "chikn #4932",
+    "image": "https://cdn1.chikn.farm/images/04d58593d5f22563b56bce2a2e5f5e4be5b0fb20.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

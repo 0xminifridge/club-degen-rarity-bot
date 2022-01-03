@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7625",
+    "description": "chikn #7625",
+    "image": "https://cdn1.chikn.farm/images/602ab98fa737437355ff8bd7e52da308a30de7aa.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "avax safety officer"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

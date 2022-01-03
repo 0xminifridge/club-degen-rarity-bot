@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5102",
+    "description": "chikn #5102",
+    "image": "https://cdn1.chikn.farm/images/e7bea08cd4680df8e9518b42e09403bac395ba85.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

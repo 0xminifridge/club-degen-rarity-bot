@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6924",
+    "description": "chikn #6924",
+    "image": "https://cdn1.chikn.farm/images/b20a603b28edd8449aa5abd0ebca6c4d4eeff2e2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

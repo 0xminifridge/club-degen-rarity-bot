@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7603",
+    "description": "chikn #7603",
+    "image": "https://cdn1.chikn.farm/images/56e16f468eee19f060b3782e4bbab10084bf2bf9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

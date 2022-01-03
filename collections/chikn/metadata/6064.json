@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6064",
+    "description": "chikn #6064",
+    "image": "https://cdn1.chikn.farm/images/ee95b038d4167ad1b1024b2311bbbf64b9d426dc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

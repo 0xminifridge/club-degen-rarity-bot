@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3137",
+    "description": "chikn #3137",
+    "image": "https://cdn1.chikn.farm/images/4e668bacc47c2e9857e96e3bd145dcde58108ee8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "purple sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

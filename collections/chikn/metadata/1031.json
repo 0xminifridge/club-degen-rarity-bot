@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1031",
+    "description": "chikn #1031",
+    "image": "https://cdn1.chikn.farm/images/d55f052150d3a5d7bbf813a6101556a7e4b22e7c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin maxi"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2602",
+    "description": "chikn #2602",
+    "image": "https://cdn1.chikn.farm/images/bdc58b3824c8723ff4ce65f2964b992ced4b562e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

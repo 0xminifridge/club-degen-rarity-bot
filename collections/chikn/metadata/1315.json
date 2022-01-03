@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1315",
+    "description": "chikn #1315",
+    "image": "https://cdn1.chikn.farm/images/415cff46f249312de2c0125630ced8c81ba668bc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

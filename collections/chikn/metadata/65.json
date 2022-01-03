@@ -1,0 +1,27 @@
+{
+    "name": "chikn #65",
+    "description": "chikn #65",
+    "image": "https://cdn1.chikn.farm/images/37bf2c7e0f29867141ffc203c77567ef428faf4b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

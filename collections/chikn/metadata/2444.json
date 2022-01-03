@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2444",
+    "description": "chikn #2444",
+    "image": "https://cdn1.chikn.farm/images/64c662a10603052a029153b389d4c13e98dad2c9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

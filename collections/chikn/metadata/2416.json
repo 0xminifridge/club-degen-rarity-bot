@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2416",
+    "description": "chikn #2416",
+    "image": "https://cdn1.chikn.farm/images/80659d5b757ffe0bed17caac66aaf4c661bea3d0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

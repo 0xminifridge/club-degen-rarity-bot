@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2853",
+    "description": "chikn #2853",
+    "image": "https://cdn1.chikn.farm/images/3770bec61250107a0811120e4eee885d8e8cee07.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

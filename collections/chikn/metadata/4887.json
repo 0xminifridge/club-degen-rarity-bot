@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4887",
+    "description": "chikn #4887",
+    "image": "https://cdn1.chikn.farm/images/3db65d8128d477fa035b2c086b5353e9443862c9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

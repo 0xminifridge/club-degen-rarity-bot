@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5954",
+    "description": "chikn #5954",
+    "image": "https://cdn1.chikn.farm/images/c119a52a9ca2476d2fa89aef94a21d8507ffb694.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

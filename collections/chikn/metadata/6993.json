@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6993",
+    "description": "chikn #6993",
+    "image": "https://cdn1.chikn.farm/images/6c9a8141ccbd9074749d69ed866d2fa6155c26c9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

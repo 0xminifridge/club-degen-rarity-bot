@@ -1,0 +1,19 @@
+{
+    "name": "chikn #7956",
+    "description": "chikn #7956",
+    "image": "https://cdn1.chikn.farm/images/58b7e58e330d1d1f1118b8f6d3ac73919c516e03.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

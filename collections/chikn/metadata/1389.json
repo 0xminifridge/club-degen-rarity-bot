@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1389",
+    "description": "chikn #1389",
+    "image": "https://cdn1.chikn.farm/images/04d8a4b931a3ed44a1672a5e35111aa8a22cbefd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5761",
+    "description": "chikn #5761",
+    "image": "https://cdn1.chikn.farm/images/5c1189760618276f81396433f2ee3591d0ac4ae1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

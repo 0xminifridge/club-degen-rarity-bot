@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8787",
+    "description": "chikn #8787",
+    "image": "https://cdn1.chikn.farm/images/e0fe6ed4ae60bcfebe5d0b098f9ab568a2183a46.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

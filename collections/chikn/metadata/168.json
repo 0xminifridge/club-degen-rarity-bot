@@ -1,0 +1,27 @@
+{
+    "name": "chikn #168",
+    "description": "chikn #168",
+    "image": "https://cdn1.chikn.farm/images/17c8e407fdff10dff15781abb6135e5dccdcff62.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

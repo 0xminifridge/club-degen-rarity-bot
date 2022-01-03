@@ -1,0 +1,27 @@
+{
+    "name": "chikn #450",
+    "description": "chikn #450",
+    "image": "https://cdn1.chikn.farm/images/5de9318485239a7b1c1c0cce1a74ac89df60badb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

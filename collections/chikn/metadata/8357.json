@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8357",
+    "description": "chikn #8357",
+    "image": "https://cdn1.chikn.farm/images/ffbc7c01f23c013a4a6ab2591fc293e667d7db94.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

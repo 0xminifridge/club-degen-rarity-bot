@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9474",
+    "description": "chikn #9474",
+    "image": "https://cdn1.chikn.farm/images/da97f4e69084b1bb2f4918f6bc5c6528b12b3eb9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

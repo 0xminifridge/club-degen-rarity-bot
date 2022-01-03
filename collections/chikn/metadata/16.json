@@ -1,0 +1,27 @@
+{
+    "name": "chikn #16",
+    "description": "chikn #16",
+    "image": "https://cdn1.chikn.farm/images/47607ba55827ea1d046c2f050b8cf333ca390817.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3754",
+    "description": "chikn #3754",
+    "image": "https://cdn1.chikn.farm/images/4665b88aa1ffcafaf0e3c0b785d0665d7dd25867.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

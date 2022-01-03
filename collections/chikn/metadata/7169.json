@@ -1,0 +1,23 @@
+{
+    "name": "chikn #7169",
+    "description": "chikn #7169",
+    "image": "https://cdn1.chikn.farm/images/cb75950ef548e17fe106f4608e2d9eec2a485c36.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

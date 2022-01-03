@@ -1,0 +1,27 @@
+{
+    "name": "chikn #890",
+    "description": "chikn #890",
+    "image": "https://cdn1.chikn.farm/images/9c1a58f82a23d03946c8ac78adde5c1c80d3a613.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

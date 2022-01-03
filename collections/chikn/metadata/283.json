@@ -1,0 +1,15 @@
+{
+    "name": "chikn #283",
+    "description": "chikn #283",
+    "image": "https://cdn1.chikn.farm/images/91a2e48276d2a97d3c4deab02b93f75f7ae05ebb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9225",
+    "description": "chikn #9225",
+    "image": "https://cdn1.chikn.farm/images/4c73b8c61491070e7194952184900bac8b6ea206.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

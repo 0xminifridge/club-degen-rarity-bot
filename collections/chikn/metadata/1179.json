@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1179",
+    "description": "chikn #1179",
+    "image": "https://cdn1.chikn.farm/images/3d610dcd685b76210aaf766906d3f9ec8bef00b8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "deal with it"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

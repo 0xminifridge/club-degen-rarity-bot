@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #4736",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/4736.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Happy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        }
+    ]
+}

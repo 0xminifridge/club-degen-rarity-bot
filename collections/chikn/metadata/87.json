@@ -1,0 +1,27 @@
+{
+    "name": "chikn #87",
+    "description": "chikn #87",
+    "image": "https://cdn1.chikn.farm/images/3c2f40b6140fcb0ca00eb3b19e89cd1841498551.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

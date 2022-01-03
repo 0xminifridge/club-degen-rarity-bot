@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8803",
+    "description": "chikn #8803",
+    "image": "https://cdn1.chikn.farm/images/d91cdff84a9dda8710e66a82776540a05494bd21.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

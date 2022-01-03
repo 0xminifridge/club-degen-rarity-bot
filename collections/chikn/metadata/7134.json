@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7134",
+    "description": "chikn #7134",
+    "image": "https://cdn1.chikn.farm/images/11e9dbf424c4887212a731efa23867e4a2fa6d3c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "tungsten cube"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

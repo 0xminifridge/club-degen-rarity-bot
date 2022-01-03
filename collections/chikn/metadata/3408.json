@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3408",
+    "description": "chikn #3408",
+    "image": "https://cdn1.chikn.farm/images/fda9074f0436849d5de0365860117cd699a4b6b0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentlechikn"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

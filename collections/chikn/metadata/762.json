@@ -1,0 +1,23 @@
+{
+    "name": "chikn #762",
+    "description": "chikn #762",
+    "image": "https://cdn1.chikn.farm/images/7d21058b47c0f41337c45e8c9db27bf520b6c25c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

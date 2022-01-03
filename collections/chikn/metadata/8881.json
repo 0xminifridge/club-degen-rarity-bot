@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8881",
+    "description": "chikn #8881",
+    "image": "https://cdn1.chikn.farm/images/a32beeb8756cb6119f0ceec17dcd2979d8301849.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #7666",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/7666.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gradient Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Confused"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wooden"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dress Shirt"
+        }
+    ]
+}

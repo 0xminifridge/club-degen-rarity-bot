@@ -1,0 +1,27 @@
+{
+    "name": "chikn #306",
+    "description": "chikn #306",
+    "image": "https://cdn1.chikn.farm/images/d4be22b77c50aa07498f604dccebb17f72527d02.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "crusader"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

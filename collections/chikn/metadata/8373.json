@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8373",
+    "description": "chikn #8373",
+    "image": "https://cdn1.chikn.farm/images/4010fef496932442d867f6cb06725b9c724699ef.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4463",
+    "description": "chikn #4463",
+    "image": "https://cdn1.chikn.farm/images/d0d803ae99dfb6a02f0f8bebcfdb24c288cccd6a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

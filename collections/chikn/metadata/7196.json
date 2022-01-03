@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7196",
+    "description": "chikn #7196",
+    "image": "https://cdn1.chikn.farm/images/85cd3daccd8d49e9122cafadd8ac1f46e4a8a573.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

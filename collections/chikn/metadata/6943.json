@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6943",
+    "description": "chikn #6943",
+    "image": "https://cdn1.chikn.farm/images/6e6189a448736000c7a6a519351713ba81bfb440.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

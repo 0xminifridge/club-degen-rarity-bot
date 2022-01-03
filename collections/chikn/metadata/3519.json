@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3519",
+    "description": "chikn #3519",
+    "image": "https://cdn1.chikn.farm/images/060e2b4b61cd6192cd47a0622d928380fd8a738a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

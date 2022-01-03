@@ -1,0 +1,23 @@
+{
+    "name": "chikn #225",
+    "description": "chikn #225",
+    "image": "https://cdn1.chikn.farm/images/caf3b6735bac33f2a69861e89e9dfae78715e795.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

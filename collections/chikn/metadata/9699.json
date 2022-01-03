@@ -1,0 +1,19 @@
+{
+    "name": "chikn #9699",
+    "description": "chikn #9699",
+    "image": "https://cdn1.chikn.farm/images/86065ee94483bc98c355fc4407d5114ed908d37b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "goose"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

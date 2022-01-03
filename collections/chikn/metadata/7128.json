@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7128",
+    "description": "chikn #7128",
+    "image": "https://cdn1.chikn.farm/images/1983ff3eb8104f3bb9ff1edbf5ee3c13f437a53c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2767",
+    "description": "chikn #2767",
+    "image": "https://cdn1.chikn.farm/images/12318878ea9421db8bd1c268d97f355c29f73443.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "luckiest red cap"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

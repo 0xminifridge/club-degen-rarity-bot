@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4672",
+    "description": "chikn #4672",
+    "image": "https://cdn1.chikn.farm/images/ee080005f689ca1a0b1a11eaca7bcdc97c266900.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

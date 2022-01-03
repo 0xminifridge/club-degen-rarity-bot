@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2241",
+    "description": "chikn #2241",
+    "image": "https://cdn1.chikn.farm/images/d1196c149e03cd6f77597b4b863d169bb30dfe1b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

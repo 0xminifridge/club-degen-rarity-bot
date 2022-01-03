@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5479",
+    "description": "chikn #5479",
+    "image": "https://cdn1.chikn.farm/images/1eab811d9d8d8ff314c3a4f033922b7261d8dd1e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

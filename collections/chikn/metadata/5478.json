@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5478",
+    "description": "chikn #5478",
+    "image": "https://cdn1.chikn.farm/images/8d6f35f21ae15357eacb23d0e9b2b942a19a9e78.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

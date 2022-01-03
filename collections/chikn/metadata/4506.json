@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4506",
+    "description": "chikn #4506",
+    "image": "https://cdn1.chikn.farm/images/9aebc04d8f981156cd5f6ee8e11fd03919fe09e6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

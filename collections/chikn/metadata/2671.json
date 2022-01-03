@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2671",
+    "description": "chikn #2671",
+    "image": "https://cdn1.chikn.farm/images/7ae33ef8e21ac44517d53416c1f7c558a1442e07.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "frothy crown"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

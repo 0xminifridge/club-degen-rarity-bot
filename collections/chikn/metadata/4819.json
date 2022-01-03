@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4819",
+    "description": "chikn #4819",
+    "image": "https://cdn1.chikn.farm/images/b72830e787eeefe78ef67a5b18b60de6096cfd3d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "construction helmet"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

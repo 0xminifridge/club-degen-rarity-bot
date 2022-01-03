@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4189",
+    "description": "chikn #4189",
+    "image": "https://cdn1.chikn.farm/images/a28b0fc8d41553df51bfc1d01349820675f20357.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

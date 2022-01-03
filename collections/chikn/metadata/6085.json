@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6085",
+    "description": "chikn #6085",
+    "image": "https://cdn1.chikn.farm/images/885c42ec2ba14c23e24c9a32981af17e2c9f210c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

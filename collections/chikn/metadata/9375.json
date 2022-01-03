@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9375",
+    "description": "chikn #9375",
+    "image": "https://cdn1.chikn.farm/images/22dc37175f8cafb21b39ffb133e46f805906bd01.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

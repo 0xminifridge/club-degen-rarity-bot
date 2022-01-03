@@ -1,0 +1,19 @@
+{
+    "name": "chikn #7660",
+    "description": "chikn #7660",
+    "image": "https://cdn1.chikn.farm/images/c260a44f6284e5c6b3eeb698be4b79133a693a85.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

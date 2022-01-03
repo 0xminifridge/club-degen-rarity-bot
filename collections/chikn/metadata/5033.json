@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5033",
+    "description": "chikn #5033",
+    "image": "https://cdn1.chikn.farm/images/9b524de2e29ed90fe25b5b5ab18d95756c1fead7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

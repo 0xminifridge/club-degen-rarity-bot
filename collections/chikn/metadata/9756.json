@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9756",
+    "description": "chikn #9756",
+    "image": "https://cdn1.chikn.farm/images/dd3c6f7c4654bf920a863bca0dd11b4e5d3eca41.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "spell wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

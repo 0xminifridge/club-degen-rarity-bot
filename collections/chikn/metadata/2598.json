@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2598",
+    "description": "chikn #2598",
+    "image": "https://cdn1.chikn.farm/images/bb076741b4bebc9e948850bf7a40f22d81b75bbd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

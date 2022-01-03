@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1935",
+    "description": "chikn #1935",
+    "image": "https://cdn1.chikn.farm/images/4fcc337c70d11826359453a41a8b8e150ebc67a1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

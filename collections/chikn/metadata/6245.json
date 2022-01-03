@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6245",
+    "description": "chikn #6245",
+    "image": "https://cdn1.chikn.farm/images/064f37a9dcf897c9e6c2c32abf1a68dfc87503d0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "laser eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bandana"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

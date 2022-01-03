@@ -1,0 +1,31 @@
+{
+    "name": "chikn #5309",
+    "description": "chikn #5309",
+    "image": "https://cdn1.chikn.farm/images/ee645e61ffbccc93ecc17650e5859b8c9bb37a48.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "low vision admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

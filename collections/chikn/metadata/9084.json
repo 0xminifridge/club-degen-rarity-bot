@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9084",
+    "description": "chikn #9084",
+    "image": "https://cdn1.chikn.farm/images/d72a7018d8dbbf747d5cbb8d20e0f6b2f263833e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cool dude 69"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

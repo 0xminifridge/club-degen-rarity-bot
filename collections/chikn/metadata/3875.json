@@ -1,0 +1,23 @@
+{
+    "name": "chikn #3875",
+    "description": "chikn #3875",
+    "image": "https://cdn1.chikn.farm/images/003479988e7aa2c9383d4f89249ebae9d57ee967.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

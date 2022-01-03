@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4648",
+    "description": "chikn #4648",
+    "image": "https://cdn1.chikn.farm/images/1fc9ff5a20a99cf0b4c476061aef715c4a3a1e5f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big bag of cash"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

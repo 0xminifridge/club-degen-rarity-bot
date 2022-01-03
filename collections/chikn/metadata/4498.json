@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4498",
+    "description": "chikn #4498",
+    "image": "https://cdn1.chikn.farm/images/80e4ccb9733e5e3ea1f0c078bb4da866c40073e1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mfd"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue kicks"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

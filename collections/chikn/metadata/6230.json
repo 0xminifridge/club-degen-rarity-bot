@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6230",
+    "description": "chikn #6230",
+    "image": "https://cdn1.chikn.farm/images/a2858ddc1de8d35f0ea9eaf472aa185673ff4af1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

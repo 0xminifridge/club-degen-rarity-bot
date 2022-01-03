@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1589",
+    "description": "chikn #1589",
+    "image": "https://cdn1.chikn.farm/images/f116153b1442e6f8ab6adb5b0d30a6eed11f190a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

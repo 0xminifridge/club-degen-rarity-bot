@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2982",
+    "description": "chikn #2982",
+    "image": "https://cdn1.chikn.farm/images/e44e0376045ec5dd32243eacfbdde7e96c5b50b5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

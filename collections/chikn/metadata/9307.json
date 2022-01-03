@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9307",
+    "description": "chikn #9307",
+    "image": "https://cdn1.chikn.farm/images/febdf7058eb6a0f7d90b4eb216530c6bc09afa36.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "torso",
+            "value": "human growth hormones"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green kicks"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

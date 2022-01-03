@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4474",
+    "description": "chikn #4474",
+    "image": "https://cdn1.chikn.farm/images/0553428f2deb14aef9c3167df1f22217995c8994.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hothead"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

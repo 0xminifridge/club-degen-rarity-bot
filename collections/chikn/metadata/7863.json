@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7863",
+    "description": "chikn #7863",
+    "image": "https://cdn1.chikn.farm/images/d5089d52645cdb041b7d7067db1587ce2e7656bd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

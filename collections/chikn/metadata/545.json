@@ -1,0 +1,27 @@
+{
+    "name": "chikn #545",
+    "description": "chikn #545",
+    "image": "https://cdn1.chikn.farm/images/2e3ec5905c08dba14474408f04a53b23ff6c20c0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

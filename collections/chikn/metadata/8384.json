@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8384",
+    "description": "chikn #8384",
+    "image": "https://cdn1.chikn.farm/images/68345f2d42aa431ad05458a99e635dc5bfc7ed3f.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "daft punk"
+        },
+        {
+            "trait_type": "torso",
+            "value": "action shorts"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

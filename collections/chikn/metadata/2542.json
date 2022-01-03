@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2542",
+    "description": "chikn #2542",
+    "image": "https://cdn1.chikn.farm/images/1ad0d3e6e577d207d7083a1de40b60acbc116fc8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

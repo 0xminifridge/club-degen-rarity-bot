@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5552",
+    "description": "chikn #5552",
+    "image": "https://cdn1.chikn.farm/images/4ccb14aa8f61e597c47bb1cad7a4f6d8a033611c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "moustache"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

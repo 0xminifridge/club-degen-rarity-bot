@@ -1,0 +1,23 @@
+{
+    "name": "chikn #440",
+    "description": "chikn #440",
+    "image": "https://cdn1.chikn.farm/images/3fcb1c9bde1dc2a890806d8d0317fb87bbd7b16d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

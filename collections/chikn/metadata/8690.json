@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8690",
+    "description": "chikn #8690",
+    "image": "https://cdn1.chikn.farm/images/4cc9b0504d09e9e7644b3fb3fa51ed6ec9b53348.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "hubba bubba"
+        },
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

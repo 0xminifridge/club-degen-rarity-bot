@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7732",
+    "description": "chikn #7732",
+    "image": "https://cdn1.chikn.farm/images/47077762845035312044a2c54b9ba3f9c1807e31.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "blue mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum gwei guzzler"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

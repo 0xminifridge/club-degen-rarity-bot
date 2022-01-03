@@ -1,0 +1,19 @@
+{
+    "name": "chikn #1122",
+    "description": "chikn #1122",
+    "image": "https://cdn1.chikn.farm/images/ab575fe9b202d8712790dac02412b46b20c85550.jpeg",
+    "attributes": [
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

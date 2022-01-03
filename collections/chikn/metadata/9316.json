@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9316",
+    "description": "chikn #9316",
+    "image": "https://cdn1.chikn.farm/images/123a33ca75b5cff40a6b0d348af4d8338a44946d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

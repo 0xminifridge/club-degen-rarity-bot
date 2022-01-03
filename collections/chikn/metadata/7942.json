@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7942",
+    "description": "chikn #7942",
+    "image": "https://cdn1.chikn.farm/images/bc595a5c9682a6fd26a7b1413f2d3d5e9cabd907.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4649",
+    "description": "chikn #4649",
+    "image": "https://cdn1.chikn.farm/images/5d4bf29e28bee1a9413140434888377e29772996.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

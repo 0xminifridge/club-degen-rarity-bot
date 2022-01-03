@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5234",
+    "description": "chikn #5234",
+    "image": "https://cdn1.chikn.farm/images/4870f34ded417753c4e5c9b2b1b7de6d5c9aa65d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "bitcoin bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

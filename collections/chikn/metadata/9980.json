@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9980",
+    "description": "chikn #9980",
+    "image": "https://cdn1.chikn.farm/images/8a4bdc82d3dd19beabe5ea97c4c7db7e5e56c170.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "tungsten cube"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "celestial"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

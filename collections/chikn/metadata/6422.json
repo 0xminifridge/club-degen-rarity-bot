@@ -1,0 +1,31 @@
+{
+    "name": "chikn #6422",
+    "description": "chikn #6422",
+    "image": "https://cdn1.chikn.farm/images/67f9feb4a6ca9a6e1ead6a160ee3d5a2990217c4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden blonde"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

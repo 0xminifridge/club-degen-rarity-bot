@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7741",
+    "description": "chikn #7741",
+    "image": "https://cdn1.chikn.farm/images/2efba8dcdb90840cb1a000460cf384bb0899e591.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "cheeky redhead"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

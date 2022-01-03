@@ -1,0 +1,31 @@
+{
+    "name": "chikn #7164",
+    "description": "chikn #7164",
+    "image": "https://cdn1.chikn.farm/images/535a5bc762c87f3fa9faa3136d9bfd2179467e74.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

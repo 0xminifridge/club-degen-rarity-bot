@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9662",
+    "description": "chikn #9662",
+    "image": "https://cdn1.chikn.farm/images/976619807ff3e5d13a02a4600bea03332e731753.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

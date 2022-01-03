@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3324",
+    "description": "chikn #3324",
+    "image": "https://cdn1.chikn.farm/images/a7e1668849c30ccd414e9722ab37ad4beb4c6151.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "golden egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "vibe"
+        }
+    ]
+}

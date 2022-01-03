@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2596",
+    "description": "chikn #2596",
+    "image": "https://cdn1.chikn.farm/images/2156cf73039b29c69fd20b8318e0283ea5405dbc.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

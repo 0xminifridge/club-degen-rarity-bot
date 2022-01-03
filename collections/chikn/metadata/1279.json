@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1279",
+    "description": "chikn #1279",
+    "image": "https://cdn1.chikn.farm/images/0fda9282c0053a4b6607926f683bc05cc0b86d77.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "feet",
+            "value": "blue feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

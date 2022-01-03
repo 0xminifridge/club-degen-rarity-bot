@@ -1,0 +1,23 @@
+{
+    "name": "chikn #5170",
+    "description": "chikn #5170",
+    "image": "https://cdn1.chikn.farm/images/613f411f394b94db6d22978ff5ec50ef0f355b86.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "uniquehorn"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

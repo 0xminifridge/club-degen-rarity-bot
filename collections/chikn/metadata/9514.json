@@ -1,0 +1,23 @@
+{
+    "name": "chikn #9514",
+    "description": "chikn #9514",
+    "image": "https://cdn1.chikn.farm/images/8842ec2507cb2a5fe39c3e7be9523b312fbd94ce.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "neck",
+            "value": "mim bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

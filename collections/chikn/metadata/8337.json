@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8337",
+    "description": "chikn #8337",
+    "image": "https://cdn1.chikn.farm/images/90c50a64f0f4aa552b6c00c3f4e1b9392f8e7a9d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "savage beast"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "galactic"
+        }
+    ]
+}

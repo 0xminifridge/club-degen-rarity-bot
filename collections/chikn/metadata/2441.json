@@ -1,0 +1,31 @@
+{
+    "name": "chikn #2441",
+    "description": "chikn #2441",
+    "image": "https://cdn1.chikn.farm/images/d9b16bef04db2a10c2d2c5c3923804edeca02b5a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "red mage"
+        },
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "midas muscles"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

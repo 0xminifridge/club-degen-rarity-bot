@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7953",
+    "description": "chikn #7953",
+    "image": "https://cdn1.chikn.farm/images/8c55a9a9a1965ff510d5e0b6e33972e7a3281969.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

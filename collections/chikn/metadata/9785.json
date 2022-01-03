@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9785",
+    "description": "chikn #9785",
+    "image": "https://cdn1.chikn.farm/images/455563b240c0566226067a5c446c62d8f29d09f6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

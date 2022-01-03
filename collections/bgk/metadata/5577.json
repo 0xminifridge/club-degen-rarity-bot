@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #5577",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/5577.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Toxic Waste"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd Glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Tennis"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Tie Dye"
+        }
+    ]
+}

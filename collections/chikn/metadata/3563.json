@@ -1,0 +1,31 @@
+{
+    "name": "chikn #3563",
+    "description": "chikn #3563",
+    "image": "https://cdn1.chikn.farm/images/73c5d54b25f5a74afd93437b3df2bf084ac22685.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

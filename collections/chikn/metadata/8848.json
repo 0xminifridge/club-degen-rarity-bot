@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8848",
+    "description": "chikn #8848",
+    "image": "https://cdn1.chikn.farm/images/b45053fef5ff953ea87a090d71f76bc5dc39a834.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "covid safe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "feet",
+            "value": "comfortable uggs"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "chikn #3959",
+    "description": "chikn #3959",
+    "image": "https://cdn1.chikn.farm/images/2b3f53eb614e7d904428da5869e11889a9ae6a9c.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

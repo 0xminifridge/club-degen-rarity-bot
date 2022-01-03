@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1202",
+    "description": "chikn #1202",
+    "image": "https://cdn1.chikn.farm/images/9a45977f1a7569569a5a1ba70c3d370355a3abc1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "captain chimerica"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

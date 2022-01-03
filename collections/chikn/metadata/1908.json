@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1908",
+    "description": "chikn #1908",
+    "image": "https://cdn1.chikn.farm/images/79b96826462048b39478a424424e00285bf344ee.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "icey stare"
+        },
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "popsicle"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cloud"
+        }
+    ]
+}

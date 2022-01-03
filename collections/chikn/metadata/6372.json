@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6372",
+    "description": "chikn #6372",
+    "image": "https://cdn1.chikn.farm/images/d99099b37938400a593a4ec11b6b6dd18947d71b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

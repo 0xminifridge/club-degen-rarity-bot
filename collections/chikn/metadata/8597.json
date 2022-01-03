@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8597",
+    "description": "chikn #8597",
+    "image": "https://cdn1.chikn.farm/images/c2dc4ab45139ad91ae08a533c04e6cb4dd4f82a0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "swashbucklers"
+        },
+        {
+            "trait_type": "tail",
+            "value": "led"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

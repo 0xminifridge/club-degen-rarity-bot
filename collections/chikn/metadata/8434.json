@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8434",
+    "description": "chikn #8434",
+    "image": "https://cdn1.chikn.farm/images/e098c0f4cc3fe16290be0680e9fc046b4edc5cd7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

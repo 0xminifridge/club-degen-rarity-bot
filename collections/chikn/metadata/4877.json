@@ -1,0 +1,27 @@
+{
+    "name": "chikn #4877",
+    "description": "chikn #4877",
+    "image": "https://cdn1.chikn.farm/images/e98a8f8f1895336ef00d747f1ddd3c53de066824.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "laser eye"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

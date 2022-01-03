@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4792",
+    "description": "chikn #4792",
+    "image": "https://cdn1.chikn.farm/images/dc69c179bfff589d2db0b78e47236dfa763fa2b5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "feet",
+            "value": "purple leather boots"
+        },
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

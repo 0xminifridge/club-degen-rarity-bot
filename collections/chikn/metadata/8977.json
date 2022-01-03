@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8977",
+    "description": "chikn #8977",
+    "image": "https://cdn1.chikn.farm/images/bb9ecefaf3f0360761321175e7aff068c07d60ef.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

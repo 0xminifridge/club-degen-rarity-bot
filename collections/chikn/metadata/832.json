@@ -1,0 +1,27 @@
+{
+    "name": "chikn #832",
+    "description": "chikn #832",
+    "image": "https://cdn1.chikn.farm/images/bfdbd9935c85b8380ec9eaba6d468c87047df730.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "all seeing eye"
+        },
+        {
+            "trait_type": "neck",
+            "value": "dollar chain"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

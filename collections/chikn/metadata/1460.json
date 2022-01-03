@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1460",
+    "description": "chikn #1460",
+    "image": "https://cdn1.chikn.farm/images/cbfddd797e2aa7a315c03bdbb4b9e1291bb457ad.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

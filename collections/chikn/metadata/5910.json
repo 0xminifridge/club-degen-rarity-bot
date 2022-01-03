@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5910",
+    "description": "chikn #5910",
+    "image": "https://cdn1.chikn.farm/images/b3b62b96bd9715d8678a601f35c4cc0478c5f18a.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "top of the morning"
+        },
+        {
+            "trait_type": "neck",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "miami"
+        }
+    ]
+}

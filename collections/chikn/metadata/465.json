@@ -1,0 +1,27 @@
+{
+    "name": "chikn #465",
+    "description": "chikn #465",
+    "image": "https://cdn1.chikn.farm/images/2f7e829447f4371d2913530351ec1879cfde5c0e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pillager"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

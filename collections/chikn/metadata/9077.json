@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9077",
+    "description": "chikn #9077",
+    "image": "https://cdn1.chikn.farm/images/c34164a7c41006bed95a221e343bba14fea87e31.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

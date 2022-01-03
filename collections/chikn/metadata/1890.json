@@ -1,0 +1,31 @@
+{
+    "name": "chikn #1890",
+    "description": "chikn #1890",
+    "image": "https://cdn1.chikn.farm/images/bb8640c9dff9a836a18e8fc23d5d15b6d7b21eda.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "nerdlinger"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "torso",
+            "value": "blue bag"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "mutant purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #7319",
+    "description": "chikn #7319",
+    "image": "https://cdn1.chikn.farm/images/5dc29c040430698bac71148a622285a7e74bf20b.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "red plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

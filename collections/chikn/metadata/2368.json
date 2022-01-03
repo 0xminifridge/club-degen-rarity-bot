@@ -1,0 +1,19 @@
+{
+    "name": "chikn #2368",
+    "description": "chikn #2368",
+    "image": "https://cdn1.chikn.farm/images/bdbff6459fa5f7545808ab518fcf95c3ef93d31d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "a fresh baguette"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

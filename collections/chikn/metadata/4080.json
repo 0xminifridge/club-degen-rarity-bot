@@ -1,0 +1,31 @@
+{
+    "name": "chikn #4080",
+    "description": "chikn #4080",
+    "image": "https://cdn1.chikn.farm/images/5e417eb22f25a07aecc3b6fd31cd5b34dc6d0eba.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "murica"
+        },
+        {
+            "trait_type": "neck",
+            "value": "wage slave"
+        },
+        {
+            "trait_type": "torso",
+            "value": "mighty broadsword"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

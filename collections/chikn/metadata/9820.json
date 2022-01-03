@@ -1,0 +1,27 @@
+{
+    "name": "chikn #9820",
+    "description": "chikn #9820",
+    "image": "https://cdn1.chikn.farm/images/8daa362369e861e1c31235b29121050a118d7df8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "gentleman's pipe"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chicken choker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "black vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

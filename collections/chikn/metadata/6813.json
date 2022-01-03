@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6813",
+    "description": "chikn #6813",
+    "image": "https://cdn1.chikn.farm/images/784e0ac82ec43037269368e6140cae65d4591c80.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red leather boots"
+        },
+        {
+            "trait_type": "tail",
+            "value": "orange plumage"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

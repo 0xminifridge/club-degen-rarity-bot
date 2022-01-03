@@ -1,0 +1,23 @@
+{
+    "name": "chikn #1111",
+    "description": "chikn #1111",
+    "image": "https://cdn1.chikn.farm/images/d3a26e7dca116b31031cc28c0ac345ec94a2f820.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "luckiest red cap"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

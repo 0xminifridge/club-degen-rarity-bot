@@ -1,0 +1,27 @@
+{
+    "name": "chikn #2841",
+    "description": "chikn #2841",
+    "image": "https://cdn1.chikn.farm/images/f95bd86885ac62b9a0b8452b91a29b7daa8a6822.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "luckiest red cap"
+        },
+        {
+            "trait_type": "neck",
+            "value": "avax bling"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "blue trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

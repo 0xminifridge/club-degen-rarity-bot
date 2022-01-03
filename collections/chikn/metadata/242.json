@@ -1,0 +1,27 @@
+{
+    "name": "chikn #242",
+    "description": "chikn #242",
+    "image": "https://cdn1.chikn.farm/images/7051f7c26ae132c7851a8ea1bbed01c18073ffa6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "saint"
+        },
+        {
+            "trait_type": "torso",
+            "value": "hentai"
+        },
+        {
+            "trait_type": "tail",
+            "value": "very fresh egg"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "moon"
+        }
+    ]
+}

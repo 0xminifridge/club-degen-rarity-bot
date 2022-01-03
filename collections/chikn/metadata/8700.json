@@ -1,0 +1,27 @@
+{
+    "name": "chikn #8700",
+    "description": "chikn #8700",
+    "image": "https://cdn1.chikn.farm/images/c53ce715460b6ed4c3b50bfe1011b573a6b72784.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "golden bone daddy"
+        },
+        {
+            "trait_type": "neck",
+            "value": "second head"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #6995",
+    "description": "chikn #6995",
+    "image": "https://cdn1.chikn.farm/images/27ee7ed522eed9f9299f0e2c23fd0cd67e8f76ea.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "maverick"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

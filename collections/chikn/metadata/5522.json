@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5522",
+    "description": "chikn #5522",
+    "image": "https://cdn1.chikn.farm/images/f82effd2168fe61fefc07744737adab0e4344a69.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "old fashioned romance"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "space trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "vermillion"
+        }
+    ]
+}

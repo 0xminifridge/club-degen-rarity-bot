@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #101",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/101.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wooden"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Leather Jacket"
+        }
+    ]
+}

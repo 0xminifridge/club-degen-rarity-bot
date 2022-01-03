@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #6024",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/6024.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clown"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Laser"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BGK Yellow"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Hoodie"
+        }
+    ]
+}

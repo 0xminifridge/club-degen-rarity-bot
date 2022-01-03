@@ -1,0 +1,31 @@
+{
+    "name": "chikn #9925",
+    "description": "chikn #9925",
+    "image": "https://cdn1.chikn.farm/images/dd626cc82f0d72a6de3011af37a4d002a3c90338.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

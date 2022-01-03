@@ -1,0 +1,30 @@
+{
+    "name": "Bubblegum Kid #6363",
+    "image": "ipfs://QmQSVJxbdFD7z9CxxKYicJsy8NfA7WvseZD4foR89LGdcj/6363.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Bubblegum",
+            "value": "Candy Cane"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Twinkle"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BGK Blue"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red BGK"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #5335",
+    "description": "chikn #5335",
+    "image": "https://cdn1.chikn.farm/images/db122b22a5bc0ecdf6e9270ed44895b696b2a771.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "red bowtie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "peacemaker"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "bullion"
+        },
+        {
+            "trait_type": "background",
+            "value": "tangerine"
+        }
+    ]
+}

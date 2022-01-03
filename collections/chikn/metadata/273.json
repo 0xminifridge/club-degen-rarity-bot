@@ -1,0 +1,27 @@
+{
+    "name": "chikn #273",
+    "description": "chikn #273",
+    "image": "https://cdn1.chikn.farm/images/ddd07cd214ea79e3e7abce21a1c121e0c0b0fb4e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "pixel cigarette"
+        },
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "feet",
+            "value": "red vans"
+        },
+        {
+            "trait_type": "body",
+            "value": "pixel-chan"
+        },
+        {
+            "trait_type": "background",
+            "value": "turquoisey"
+        }
+    ]
+}

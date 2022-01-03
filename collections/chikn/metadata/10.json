@@ -1,0 +1,19 @@
+{
+    "name": "chikn #10",
+    "description": "chikn #10",
+    "image": "https://cdn1.chikn.farm/images/d741291f1bfb4517ef5481aa10db65addb9e435d.jpeg",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "gameboy"
+        },
+        {
+            "trait_type": "trim",
+            "value": "cloud trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "solana"
+        }
+    ]
+}

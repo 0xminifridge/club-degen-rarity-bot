@@ -1,0 +1,23 @@
+{
+    "name": "chikn #2358",
+    "description": "chikn #2358",
+    "image": "https://cdn1.chikn.farm/images/42e654cf4061264d50b661c8e7219b8019c2d940.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "black sweatband"
+        },
+        {
+            "trait_type": "neck",
+            "value": "hairy old man"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

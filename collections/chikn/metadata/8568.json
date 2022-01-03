@@ -1,0 +1,23 @@
+{
+    "name": "chikn #8568",
+    "description": "chikn #8568",
+    "image": "https://cdn1.chikn.farm/images/e8b8971a029cea0ba3c489f9bf002a20d5d9d314.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "admiral"
+        },
+        {
+            "trait_type": "torso",
+            "value": "cutlass"
+        },
+        {
+            "trait_type": "body",
+            "value": "frognation green"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "chikn #3269",
+    "description": "chikn #3269",
+    "image": "https://cdn1.chikn.farm/images/fbb3fa963ac334d25a7f4dfbd60363d332efae94.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "purple bowtie"
+        },
+        {
+            "trait_type": "tail",
+            "value": "nyan"
+        },
+        {
+            "trait_type": "body",
+            "value": "passion red"
+        },
+        {
+            "trait_type": "trim",
+            "value": "avax trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "venus"
+        }
+    ]
+}

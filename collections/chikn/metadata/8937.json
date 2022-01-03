@@ -1,0 +1,31 @@
+{
+    "name": "chikn #8937",
+    "description": "chikn #8937",
+    "image": "https://cdn1.chikn.farm/images/37e214964a8199cbaa1fbae42c7795d5bc7d4f05.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "charcoal brunette"
+        },
+        {
+            "trait_type": "torso",
+            "value": "summer days"
+        },
+        {
+            "trait_type": "feet",
+            "value": "purple feet"
+        },
+        {
+            "trait_type": "body",
+            "value": "crystalé"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "periwinkle"
+        }
+    ]
+}

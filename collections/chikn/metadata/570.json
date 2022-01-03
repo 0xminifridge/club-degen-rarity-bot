@@ -1,0 +1,31 @@
+{
+    "name": "chikn #570",
+    "description": "chikn #570",
+    "image": "https://cdn1.chikn.farm/images/ef078a147e3f78d2cdd438475fe7fcea5ca67e3e.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "ethereum bling"
+        },
+        {
+            "trait_type": "torso",
+            "value": "big ol corn cob"
+        },
+        {
+            "trait_type": "feet",
+            "value": "green feet"
+        },
+        {
+            "trait_type": "tail",
+            "value": "liarliar"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "royale"
+        }
+    ]
+}

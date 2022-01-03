@@ -1,0 +1,23 @@
+{
+    "name": "chikn #4245",
+    "description": "chikn #4245",
+    "image": "https://cdn1.chikn.farm/images/02b35aa888023fb054ed259dc5f645474a2553b5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "neck",
+            "value": "chains for days"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "cornhusk"
+        }
+    ]
+}

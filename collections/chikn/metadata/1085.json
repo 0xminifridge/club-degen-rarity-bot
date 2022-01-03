@@ -1,0 +1,27 @@
+{
+    "name": "chikn #1085",
+    "description": "chikn #1085",
+    "image": "https://cdn1.chikn.farm/images/377d4a04b3fa9eefe3dd8e464b588e4b8951cdf6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "head",
+            "value": "mysterious fez"
+        },
+        {
+            "trait_type": "torso",
+            "value": "fresh fish"
+        },
+        {
+            "trait_type": "tail",
+            "value": "gas guzzler"
+        },
+        {
+            "trait_type": "body",
+            "value": "nightstalker blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "plum"
+        }
+    ]
+}

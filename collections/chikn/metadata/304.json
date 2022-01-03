@@ -1,0 +1,27 @@
+{
+    "name": "chikn #304",
+    "description": "chikn #304",
+    "image": "https://cdn1.chikn.farm/images/85522a0db54047e357199b803fb3dd17acacfc19.jpeg",
+    "attributes": [
+        {
+            "trait_type": "torso",
+            "value": "nugget wand"
+        },
+        {
+            "trait_type": "feet",
+            "value": "rollerderby"
+        },
+        {
+            "trait_type": "body",
+            "value": "rustic brown"
+        },
+        {
+            "trait_type": "trim",
+            "value": "black trim"
+        },
+        {
+            "trait_type": "background",
+            "value": "nugget"
+        }
+    ]
+}
