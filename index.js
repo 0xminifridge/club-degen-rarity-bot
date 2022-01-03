@@ -96,7 +96,7 @@ function getImagePath(collectionName, tokenId){
   try{
     let rawData = fs.readFileSync(`./collections/${collectionName}/metadata/full-collection.json`);
     let parsedData = JSON.parse(rawData);
-    let imageUrl = parsedData[tokenId]["image"].replaceAll(" ", "%20");
+    let imageUrl = parsedData[tokenId]["image"].replace(/ /g, "%20");
     if(imageUrl.includes("ipfs")){
       let imageList = imageUrl.split("/");
       return "https://gateway.pinata.cloud/ipfs/" + imageList.at(-2) + "/" + imageList.at(-1);
