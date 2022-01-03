@@ -205,8 +205,9 @@ client.on("message", function (message) {
                 sendEmbededMessagePriceInfo(message.channel, args[0], args[1]);
             }
           }
-          
           break;
+      case "supported":
+        message.reply("Current supported collections:\n\n" + validCollections);
     }
   }
 })
