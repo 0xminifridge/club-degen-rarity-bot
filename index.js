@@ -4,6 +4,8 @@ const querystring = require('querystring');
 
 const keepAlive = require('./keep_alive.js')
 
+keepAlive();
+
 var port = keepAlive.getPort()
 
 const client = new Discord.Client({
