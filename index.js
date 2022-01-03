@@ -6,8 +6,6 @@ const keepAlive = require('./keep_alive.js')
 
 var port = keepAlive.getPort()
 
-//const collectionName = "avax-apes";
-
 const client = new Discord.Client({
     autorun: true
 });
@@ -66,10 +64,6 @@ function getTraitChance(collectionName, jsonMap){
 
   let count = getTraitCounts(collectionName)[type][value];
   let chance = count/getTraitTotals(collectionName, type);
-
-  console.log(`${value}: ${chance} - ${jsonMap["points"]}`)
-
-  console.log(`Rarity: ${1/(chance)}`)
 
   return (chance*100).toFixed(2);
 }
@@ -183,6 +177,10 @@ let validCollections = [
   "apa",
   "chikn",
 ]
+
+client.on("ready", () => {
+  console.log("Starting bot...");
+})
 
 
 
