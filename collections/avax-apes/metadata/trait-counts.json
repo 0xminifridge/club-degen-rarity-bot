@@ -71,7 +71,8 @@
         "Demom": 1,
         "Alien": 1,
         "Saiyan God": 1,
-        "total": 8774
+        "total": 8774,
+        "None": 1226
     },
     "Ape": {
         "Avax Ape": 9476,
@@ -81,7 +82,8 @@
         "Skeleton Ape": 1,
         "Demon Ape": 1,
         "Alien": 1,
-        "total": 10000
+        "total": 10000,
+        "None": 0
     },
     "Eyes": {
         "Wink": 862,
@@ -108,7 +110,8 @@
         "Demon": 1,
         "Alien": 1,
         "Saiyan God": 1,
-        "total": 10000
+        "total": 10000,
+        "None": 0
     },
     "Mouth": {
         "Smile": 1230,
@@ -122,7 +125,8 @@
         "Surprised": 805,
         "Skeleton": 1,
         "Alien": 1,
-        "total": 10000
+        "total": 10000,
+        "None": 0
     },
     "Head": {
         "Trump": 138,
@@ -177,7 +181,8 @@
         "Skeleton": 1,
         "Alien": 1,
         "Saiyan God": 1,
-        "total": 8006
+        "total": 8006,
+        "None": 1994
     },
     "Tier": {
         "Uncommon": 5781,
@@ -185,6 +190,7 @@
         "Mystic": 363,
         "Common": 1248,
         "Legendary": 25,
-        "total": 10000
+        "total": 10000,
+        "None": 0
     }
 }

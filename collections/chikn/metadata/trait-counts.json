@@ -49,8 +49,9 @@
         "hamlet": 51,
         "cheeky redhead": 104,
         "golden crusader": 59,
-        "?": 8,
-        "total": 7268
+        "?": 9,
+        "total": 7269,
+        "None": 2731
     },
     "neck": {
         "black bandana": 276,
@@ -72,8 +73,9 @@
         "avax degen": 77,
         "bitcoin maxi": 84,
         "ethereum gwei guzzler": 91,
-        "?": 8,
-        "total": 6128
+        "?": 9,
+        "total": 6129,
+        "None": 3871
     },
     "feet": {
         "red vans": 203,
@@ -90,8 +92,9 @@
         "comfortable uggs": 134,
         "rollerderby": 142,
         "real feet": 98,
-        "?": 8,
-        "total": 5726
+        "?": 9,
+        "total": 5727,
+        "None": 4273
     },
     "body": {
         "mutant purple": 1616,
@@ -104,8 +107,9 @@
         "pixel-chan": 516,
         "crystalé": 201,
         "celestial": 110,
-        "?": 8,
-        "total": 9999
+        "?": 9,
+        "total": 10000,
+        "None": 0
     },
     "background": {
         "vermillion": 1836,
@@ -124,8 +128,9 @@
         "cloud": 241,
         "moon": 128,
         "galactic": 53,
-        "?": 8,
-        "total": 9999
+        "?": 9,
+        "total": 10000,
+        "None": 0
     },
     "torso": {
         "peacemaker": 492,
@@ -148,8 +153,9 @@
         "nugget wand": 132,
         "karate kid": 75,
         "business boy": 49,
-        "?": 8,
-        "total": 6023
+        "?": 9,
+        "total": 6024,
+        "None": 3976
     },
     "tail": {
         "red plumage": 612,
@@ -162,8 +168,9 @@
         "nyan": 747,
         "liarliar": 825,
         "golden plumage": 211,
-        "?": 8,
-        "total": 5256
+        "?": 9,
+        "total": 5257,
+        "None": 4743
     },
     "trim": {
         "space trim": 181,
@@ -171,7 +178,8 @@
         "cloud trim": 180,
         "avax trim": 423,
         "blue trim": 393,
-        "?": 8,
-        "total": 1470
+        "?": 9,
+        "total": 1471,
+        "None": 8529
     }
 }

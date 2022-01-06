@@ -7,7 +7,8 @@
         "black": 432,
         "white": 412,
         "Legendary": 20,
-        "total": 10000
+        "total": 10000,
+        "None": 0
     },
     "fur": {
         "fox": 2453,
@@ -15,7 +16,8 @@
         "chinchilla": 2481,
         "coyote": 2512,
         "Legendary": 20,
-        "total": 10000
+        "total": 10000,
+        "None": 0
     },
     "cloth": {
         "white_btc_sweatshirt": 107,
@@ -109,7 +111,8 @@
         "red_sadpepe_sweatshirt": 99,
         "blue_shirt_sleeve_rolled": 99,
         "Legendary": 20,
-        "total": 10000
+        "total": 10000,
+        "None": 0
     },
     "earring": {
         "thorn": 513,
@@ -122,7 +125,8 @@
         "null": 5769,
         "rectangle": 549,
         "Legendary": 20,
-        "total": 10000
+        "total": 10000,
+        "None": 0
     },
     "glass": {
         "green": 1520,
@@ -159,7 +163,8 @@
         "diamond": 355,
         "black_cat": 135,
         "Legendary": 20,
-        "total": 10000
+        "total": 10000,
+        "None": 0
     },
     "hat": {
         "poo": 189,
@@ -199,7 +204,8 @@
         "cocktail": 105,
         "avalanche": 484,
         "Legendary": 20,
-        "total": 10000
+        "total": 10000,
+        "None": 0
     },
     "necklace": {
         "dogtag": 1,
@@ -214,7 +220,8 @@
         "chain_big_silver": 759,
         "chain_pink": 367,
         "Legendary": 20,
-        "total": 10000
+        "total": 10000,
+        "None": 0
     },
     "mouth": {
         "unhappy": 769,
@@ -237,7 +244,8 @@
         "mustache": 497,
         "pipe": 410,
         "Legendary": 20,
-        "total": 10000
+        "total": 10000,
+        "None": 0
     },
     "rarity_point": {
         "0": 20,
@@ -492,7 +500,8 @@
         "306": 2,
         "315": 1,
         "317": 1,
-        "total": 10000
+        "total": 10000,
+        "None": 0
     },
     "rarity": {
         "Exceptional": 1500,
@@ -500,6 +509,7 @@
         "Common": 5000,
         "Rare": 3000,
         "Legendary": 20,
-        "total": 10000
+        "total": 10000,
+        "None": 0
     }
 }

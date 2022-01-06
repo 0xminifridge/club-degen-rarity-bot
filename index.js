@@ -32,8 +32,14 @@ function readFullCollection(collectionName){
 function getAttributes(collectionName, tokenId){
     let rawData = fs.readFileSync(`./collections/${collectionName}/metadata/full-collection.json`);
     let parsedData = JSON.parse(rawData);
-    let attributeMap = parsedData[tokenId]["attributes"];
-    return attributeMap;
+    let attributes = parsedData[tokenId]["attributes"];
+    return attributes;
+}
+
+function getCategories(collectionName){
+    let rawData = fs.readFileSync(`./collections/${collectionName}/metadata/trait-counts.json`);
+    let parsedData = JSON.parse(rawData);
+    return Object.keys(parsedData);
 }
 
 function getTokenName(collectionName, tokenId){
@@ -48,6 +54,15 @@ function getTraitType(jsonMap){
 
 function getTraitValue(jsonMap){
   return jsonMap["value"];
+}
+
+function findTraitByType(attributeList, type){
+  for(var i = 0; i < attributeList.length; i++){
+    if(getTraitType(attributeList[i]).toUpperCase() === type.toUpperCase()){
+      return attributeList[i];
+    }
+  }
+  return null;
 }
 
 function getTraitPoints(jsonMap){
@@ -65,18 +80,16 @@ function getTraitChance(collectionName, jsonMap){
   let value = getTraitValue(jsonMap);
 
   let count = getTraitCounts(collectionName)[type][value];
-  let chance = count/getTraitTotals(collectionName, type);
+  let chance = count/(getCollectionSize(collectionName));
+  return chance;
+}
 
-  return (chance*100).toFixed(2);
+function getFormattedTraitChance(collectionName, jsonMap){
+  return (getTraitChance(collectionName, jsonMap) *100).toFixed(2);
 }
 
 function getTraitRarity(collectionName, jsonMap){
-  let type = getTraitType(jsonMap);
-  let value = getTraitValue(jsonMap);
-
-  let count = getTraitCounts(collectionName)[type][value];
-  let chance = count/getTraitTotals(collectionName, type);
-
+  let chance = getTraitChance(collectionName, jsonMap);
   return 1/(chance);
 }
 
@@ -90,6 +103,12 @@ function getTraitTotals(collectionName, category){
   let rawData = fs.readFileSync(`./collections/${collectionName}/metadata/trait-counts.json`);
   let parsedData = JSON.parse(rawData);
   return parsedData[category]["total"];
+}
+
+function getNumberOfTraits(collectionName, numberOfTraits){
+  let rawData = fs.readFileSync(`./collections/${collectionName}/metadata/token-traits.json`);
+  let parsedData = JSON.parse(rawData);
+  return parsedData[numberOfTraits]/getCollectionSize(collectionName);
 }
 
 function getImagePath(collectionName, tokenId){
@@ -128,12 +147,27 @@ function getStartingIndex(collectionName){
   return Object.keys(parsedData)[0];
 }
 
+function findNullCategoryValue(collectionName, category){
+  let rawData = fs.readFileSync(`./collections/${collectionName}/metadata/trait-counts.json`);
+  let parsedData = JSON.parse(rawData);
+
+  let totals = parsedData[category]["total"];
+  let totalSize = getCollectionSize(collectionName);
+
+  return totalSize - totals;
+}
+
 
 async function sendEmbededMessagePriceInfo(channel, collectionName, tokenId){
 
   let attributes = getAttributes(collectionName, tokenId);
+  console.log("Attributes");
+  console.log(attributes)
 
-  var rarityScore = 0;
+  let categories = getCategories(collectionName);
+
+  var rarityScore = getNumberOfTraits(collectionName, attributes.length);
+  console.log(rarityScore);
 
   const exampleEmbed = new Discord.MessageEmbed()
 	.setColor('#fc2c03') // red
@@ -141,22 +175,35 @@ async function sendEmbededMessagePriceInfo(channel, collectionName, tokenId){
   .setImage(getImagePath(collectionName, tokenId))
 	.setTimestamp()
 
-  for(var i = 0; i < attributes.length; i++){
-    rarityScore += getTraitRarity(collectionName, attributes[i]);
+  for(var i = 0; i < categories.length; i++){
+    //console.log(`Category: ${categories[i]}`)
+    var currentTrait = findTraitByType(attributes, categories[i]);
+    //console.log("processing " + currentTrait)
+    if(currentTrait == null){
+      // handle finding null percentage of trait
+      //console.log(`Cannot find category (${categories[i]}. Using nulls)`)
+      //console.log(findNullCategoryValue(collectionName, categories[i]))
+      currentTrait = {"trait_type":categories[i], "value":"None"};
+    }
+    let traitRarity = getTraitRarity(collectionName, currentTrait);
+    rarityScore += traitRarity;
+    console.log(`${currentTrait["trait_type"]}: ${currentTrait["value"]} - ` + getTraitRarity(collectionName, currentTrait))
     if(i < 6){
       if(i == 0){
-        exampleEmbed.fields.push({ name: `${capitalizeFirstLetter(getTraitType(attributes[i]))}`, value: `${getTraitValue(attributes[i])}`, inline: true},
-          { name: 'Chance', value: `${getTraitChance(collectionName, attributes[i])}%`, inline: true},
-          { name: 'Points', value: `${getTraitPoints(attributes[i])}`, inline: true},
+        exampleEmbed.fields.push({ name: `${capitalizeFirstLetter(categories[i])}`, value: `${getTraitValue(currentTrait)}`, inline: true},
+          { name: 'Chance', value: `${getFormattedTraitChance(collectionName, currentTrait)}%`, inline: true},
+          { name: 'Points', value: `+${traitRarity.toFixed(2)}`, inline: true},
         );
       } else {
-        exampleEmbed.fields.push({ name: `${capitalizeFirstLetter(getTraitType(attributes[i]))}`, value: `${getTraitValue(attributes[i])}`, inline: true},
-            { name: '\u200b', value: `${getTraitChance(collectionName, attributes[i])}%`, inline: true},
-            { name: '\u200b', value: `${getTraitPoints(attributes[i])}`, inline: true},
+        exampleEmbed.fields.push({ name: `${capitalizeFirstLetter(categories[i])}`, value: `${getTraitValue(currentTrait)}`, inline: true},
+            { name: '\u200b', value: `${getFormattedTraitChance(collectionName, currentTrait)}%`, inline: true},
+            { name: '\u200b', value: `+${traitRarity.toFixed(2)}`, inline: true},
         );
       }
     }
   }
+
+  console.log(`Total Rarity: ${rarityScore}`)
 
   exampleEmbed.fields.push(
     { name: '-------------------', value: '\u200b', inline: true},

@@ -1,9 +1,9 @@
 const fs = require('fs');
 const request = require('request');
 
-const collectionName = "chikn";
-let startingIndex = 1;
-let endingIndex = 10000;
+const collectionName = "apa";
+let startingIndex = 0;
+let endingIndex = 9999;
 
 /**
  * Order of tasks
@@ -38,7 +38,7 @@ async function doRequest(base, tokenId){
 async function getMetaData(){
     let collectionData = {}
 
-    for (let i = startingIndex; i < endingIndex; i++) {
+    for (let i = startingIndex; i < endingIndex + 1; i++) {
         let filePath = `./collections/${collectionName}/metadata/${i}.json`;
         let res = await doRequest(baseUrl, i)
 
@@ -48,7 +48,7 @@ async function getMetaData(){
         collectionData[i] = res;
     }
 
-    fs.writeFileSync(`./collections/${collectionName}/metadata/full-collection.json`, JSON.stringify(collectionData, null, 4));
+    //fs.writeFileSync(`./collections/${collectionName}/metadata/full-collection.json`, JSON.stringify(collectionData, null, 4));
     
 }
 
@@ -61,20 +61,19 @@ function getTraitTotals(collectionName, category){
 async function calculateTotalNumberOfTraits(){
     let traits = {}
 
+    let filePath = `./collections/${collectionName}/metadata/full-collection.json`;
+
+    let raw = fs.readFileSync(filePath);
+    let parsed = JSON.parse(raw);
+
     
-    for (let i = startingIndex; i < endingIndex; i++) {
-        let filePath = `./collections/${collectionName}/metadata/${i}.json`;
+    for (let i = startingIndex; i < endingIndex + 1; i++) {
+        let tokenMap = parsed[i];
 
-        let raw = fs.readFileSync(filePath);
-        let parsed = JSON.parse(raw);
-
-        let attributes = parsed["attributes"];
-
-        //console.log(attributes)
+        let attributes = tokenMap["attributes"];
 
         for(var j = 0; j < attributes.length; j++){
             let traitMap = attributes[j];
-            //console.log(traitMap)
 
             var keys = Object.keys(traitMap);
             let category = traitMap[keys[0]];
@@ -93,34 +92,49 @@ async function calculateTotalNumberOfTraits(){
         }
     }
 
-    console.log(traits)
-
     fs.writeFileSync(`./collections/${collectionName}/metadata/trait-counts.json`, JSON.stringify(traits, null, 4));
 
+}
+
+function findTraitByType(attributeList, type){
+    for(var i = 0; i < attributeList.length; i++){
+        if(attributeList[i]["trait_type"].toUpperCase() === type.toUpperCase()){
+          return attributeList[i];
+        }
+      }
+      return null;
 }
 
 async function calculateRarity(){
     let rarityList = []
 
-    let filePath = `./collections/${collectionName}/metadata/full-collection.json`;
-    let raw = fs.readFileSync(filePath);
-    let parsed = JSON.parse(raw);
+    let fullCollectionPath = `./collections/${collectionName}/metadata/full-collection.json`;
+    let rawCollectionData = fs.readFileSync(fullCollectionPath);
+    let parsedCollectionData = JSON.parse(rawCollectionData);
+
+    let rawTraitCountData = fs.readFileSync(`./collections/${collectionName}/metadata/trait-counts.json`);
+    let parsedTraitCountData = JSON.parse(rawTraitCountData);
+
+    let categories = Object.keys(parsedTraitCountData);
 
     for (let i = startingIndex; i < endingIndex; i++) {
-        let tokenMap = parsed[i];
+        let tokenMap = parsedCollectionData[i];
         let attributes = tokenMap["attributes"];
 
-        var tokenRarity = 0;
+        var tokenRarity = calculateRarityNumberOfTraits(attributes.length);
 
-        for(let j = 0; j < attributes.length; j++){
-            let type = attributes[j]["trait_type"];
-            let value = attributes[j]["value"];
+        for(let j = 0; j < categories.length; j++){
+            var currentTrait = findTraitByType(attributes, categories[j]);
+            if(currentTrait == null){
+                currentTrait = {"trait_type":categories[j], "value":"None"};
+            }
+            
+            let type = currentTrait["trait_type"];
+            let value = currentTrait["value"];
 
-            let rawData = fs.readFileSync(`./collections/${collectionName}/metadata/trait-counts.json`);
-            let parsedData = JSON.parse(rawData);
 
-            let count = parsedData[type][value];
-            let chance = count/getTraitTotals(collectionName, type);
+            let count = parsedTraitCountData[type][value];
+            let chance = count/10000;
 
             tokenRarity += 1/chance;
             
@@ -153,10 +167,6 @@ async function calculateRarity(){
         rankings.push(json["id"]);
     }
 
-    //console.log(rarityJson);
-     
-    //console.log(rarityList);
-
     rarityJson["rankings"] = rankings;
 
     fs.writeFileSync(`./collections/${collectionName}/metadata/rarity-counts.json`, JSON.stringify(rarityJson, null, 4));
@@ -172,28 +182,72 @@ function updateTraitTotals(){
     let keys = Object.keys(parsed);
 
     for(var i = 0; i < keys.length; i++){
-        console.log(keys[i])
 
         let category = keys[i];
         let categoryMap = parsed[category];
 
         let categoryKeys = Object.keys(categoryMap);
 
-        var total = 0;
+        let total = 0;
 
         for(var j = 0; j < categoryKeys.length; j++){
+            if(categoryKeys[j] === "total" || categoryKeys[j] === "None"){
+                continue;
+            }
             total += categoryMap[categoryKeys[j]];
         }
-
         categoryMap["total"] = total;
-
-
-
+        categoryMap["None"] = 10000 - total;
     }
-
-    console.log(parsed)
 
     fs.writeFileSync(filePath, JSON.stringify(parsed, null, 4));
 }
 
-calculateRarity()
+function calculateNumberOfTraitsPerToken(){
+    let filePath = `./collections/${collectionName}/metadata/full-collection.json`;
+
+    let raw = fs.readFileSync(filePath);
+    let parsed = JSON.parse(raw);
+
+    let countMap = {}
+
+    for(var i = startingIndex; i < endingIndex; i++){
+        let tokenMap = parsed[i];
+        let traitCount = tokenMap["attributes"].length;
+        if(countMap[traitCount] == null || countMap[traitCount] == undefined){
+            countMap[traitCount] = 1;
+        } else {
+            countMap[traitCount] += 1;
+        }
+    }
+
+
+    fs.writeFileSync(`./collections/${collectionName}/metadata/token-traits.json`, JSON.stringify(countMap, null, 4));
+
+}
+
+function calculateRarityNumberOfTraits(numberOfTraits){
+    let filePath = `./collections/${collectionName}/metadata/token-traits.json`;
+
+    let raw = fs.readFileSync(filePath);
+    let parsed = JSON.parse(raw);
+
+    return 1/(parsed[numberOfTraits] / endingIndex);
+
+
+
+}
+
+async function main(){
+    console.log(`--Calculating traits for ${collectionName}--`);
+    calculateTotalNumberOfTraits();
+    console.log(`--Updating trait totals for ${collectionName}--`);
+    updateTraitTotals();
+    console.log(`--Calculating number of traits per token for ${collectionName}--`);
+    calculateNumberOfTraitsPerToken();
+    console.log(`--Calculating rarity for ${collectionName}--`);
+    calculateRarity();
+    
+}
+
+main()
